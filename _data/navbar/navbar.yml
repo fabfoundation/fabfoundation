@@ -1,0 +1,78 @@
+categories:
+  - title: "About"
+    link: 'about'
+    sublinks:
+      - title: 'About the Foundation' 
+        link: 'about#about-intro'  
+      - title: 'Programs & Services' 
+        link: 'about#programs-services'
+      - title: 'Become a Partner' 
+        link: 'about#become-a-partner' 
+      - title: 'Donations & Grants' 
+        link: 'about#donations-grants' 
+      - title: 'Board & Team' 
+        link: 'about#board-team'
+      - title: 'Financial Reporting' 
+        link: 'about#financial-reports'
+      - title: 'News' 
+        link: 'about#posts-full'  
+    hasbuttons: true
+    buttons:
+      - title: "Donate"
+        url: 'about#donations'
+        color: clear
+  - title: "Global Community"
+    link: 'global-community'
+    sublinks:
+      - title: 'What is a Fablab' 
+        link: 'global-community#fablabs-full'
+      - title: 'The Fab Lab Network' 
+        link: 'global-community#fablabs-full'  
+      - title: 'Fablabs.io' 
+        link: 'global-community#fablab-map'
+      - title: 'How to start a Fab Lab' 
+        link: 'global-community#fab-lab-questions'
+      - title: 'Mobile Fab Lab' 
+        link: 'global-community#mobile-fablab'     
+    hasbuttons: false
+  - title: "Projects & Initiatives"
+    link: 'projects-initiatives'
+    sublinks:
+      - title: 'Project Gallery' 
+        link: 'projects-initiatives#projects-initiatives' 
+    hasbuttons: false 
+  - title: "Resources"
+    link: 'resources'
+    sublinks:
+      - title: 'Research' 
+        link: 'resources#resources-research'
+      - title: 'Data' 
+        link: 'resources#resources-data'
+      - title: 'Fab Lab Resources' 
+        link: 'resources#resources-fablabs'   
+    hasbuttons: false
+    buttons:
+      - title: "Subscribe"
+        url: ''
+        color: clear
+  - title: "Education"
+    link: 'education' 
+    sublinks:
+      - title: 'Academany' 
+        link: 'education#academany-full'  
+      - title: 'Scopes-DF' 
+        link: 'education#scopes-full'
+      - title: 'Other Educational Projects' 
+        link: 'education#other-projects'  
+    hasbuttons: false
+  - title: "Contact us"
+    link: 'contact' 
+    sublinks:
+      - title: 'E-mail' 
+        link: 'contact' 
+      - title: 'Facebook' 
+        link: 'https://www.facebook.com/fabfndn'  
+      - title: 'Twitter' 
+        link: 'https://twitter.com/fabfndn' 
+      - title: 'Youtube' 
+        link: 'https://www.youtube.com/user/fabfndn' 

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+{% include fixed/head.html %}
+
+ <body id="page-top" class="index" onload="loaded()" style="background-color: #f2f0fa;">
+
+{% include fixed/navbar.html %}
+
+    
+<div class="post-banner" style="background-image: url('{{ site.baseurl }}/img/posts/{{ page.featured-img }}');">
+  <div class="post-banner-overlay">
+  </div>
+  <div class="post-banner-wrap">
+    <h1 class="post-title" data-aos="fade-up" >{{ page.title }}</h1>
+    <p class="post__meta" data-aos="fade-up">
+        <span>
+          <time>{{ page.date | date_to_string }}</time>&nbsp;
+        </span>
+      <span>
+          {% assign words = content | number_of_words %}
+            {% if words < 360 %}
+              1 min
+            {% else %}
+              {{ words | divided_by:180 }} mins
+          {% endif %} read
+          &nbsp;
+      </span>
+    </p>
+  </div>
+</div>
+
+<div class="container standard blog">
+  <div class="sub-container" data-aos="fade-right">
+
+    {{ content }}
+
+  </div>
+  <div class="sub-container">
+
+    <div class="post-content controls__inner">
+      <div class="controls__item prev" data-aos="fade-right">
+        {% if page.previous.url %}
+        <span style="display: block;">Previous</span>
+        <a href="{{page.previous.url | relative_url }}">
+              <span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
+                  <path fill="fillColor" d="M5.647 1.718c.37-.434.323-1.09-.106-1.465A1.016 1.016 0 0 0 4.095.36L.25 4.875a1.05 1.05 0 0 0 .017 1.378l3.95 4.407c.38.424 1.03.456 1.448.07a1.05 1.05 0 0 0 .07-1.468l-3.34-3.725 3.253-3.819z"/>
+                </svg>
+            </span>
+          {{page.previous.title | strip_html | truncate: 30}}
+        </a>
+        {% endif %}
+      </div>
+      <div class="controls next" data-aos="fade-left">
+        {% if page.next.url %}
+        <span style="display: block;">Next</span>
+        <a href="{{page.next.url | relative_url }}">
+          {{page.next.title | strip_html | truncate: 30}}
+          <span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
+                <path fill="#fillColor" d="M.353 9.282c-.37.434-.323 1.09.106 1.465a1.016 1.016 0 0 0 1.446-.107L5.75 6.125a1.05 1.05 0 0 0-.017-1.378L1.784.34A1.015 1.015 0 0 0 .336.27a1.05 1.05 0 0 0-.07 1.468l3.34 3.725L.353 9.282z"/>
+              </svg>
+            </span>
+        </a>
+        {% endif %}
+      </div>
+    </div>
+
+  </div> <!-- Close sub-container-->
+</div> <!-- close container -->
+
+  {% include fixed/posts-gallery.html texts=site.data.about.latest-news %}
+  {% include fixed/subscribe.html %}
+  {% include fixed/mailchimp-modal.html %}
+  {% include fixed/footer.html %}
+  {% include fixed/js.html %}
+
+</body>
+
+</html>

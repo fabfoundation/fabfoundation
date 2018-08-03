@@ -1,0 +1,234 @@
+id: "fab-lab-questions"
+hastitle: true
+title: "How to start a Fab Lab"
+hassubtitle: true
+subtitle: "Check out all the resources we have on setting up a Fab Lab and becoming part of this global community:"
+accordionID: everything-fablabs
+tabs:
+  - title: "What is a Fab Lab?"
+    body: |
+      <p>Fab Lab is the educational outreach component of MIT’s Center for Bits and Atoms (CBA), an extension of its research into digital fabrication and computation. A Fab Lab is a technical prototyping platform for innovation and invention, providing stimulus for local entrepreneurship. A Fab Lab is also a platform for learning and innovation: a place to play, to create, to learn, to mentor, to invent. To be a Fab Lab means connecting to a global community of learners, educators, technologists, researchers, makers and innovators- -a knowledge sharing network that spans 30 countries and 24 time zones. Because all Fab Labs share common tools and processes, the program is building a global network, a distributed laboratory for research and invention.</p>
+      <p>A Fab Lab is comprised of off-the-shelf, industrial-grade fabrication and electronics tools, wrapped in open source software and programs written by researchers at MIT’s Center for Bits & Atoms. Currently Fab Labs include a laser cutter that makes 2D and 3D structures, a sign cutter that plots in copper to make antennas and flex circuits, a high-resolution NC milling machine that makes circuit boards and precision parts, a large wood router for building furniture and housing, and a suite of electronic components and programming tools for low-cost, high-speed microcontrollers for on-site rapid circuit prototyping. Originally designed for communities as prototyping platforms for local entrepreneurship, Fab Labs are increasingly being adopted by schools as platforms for project-based, hands-on STEM education. Users learn by designing and creating objects of personal interest or import. Empowered by the experience of making something themselves, they both learn and mentor each other, gaining deep knowledge about the machines, the materials, the design process, and the engineering that goes into invention and innovation. In educational settings, rather than relying on a fixed curriculum, learning happens in an authentic, engaging, personal context, one in which students go through a cycle of imagination, design, prototyping, reflection, and iteration as they find solutions to challenges or bring their ideas to life.</p>
+      <p>As support for advanced technical education and to provide a training path for new fab lab managers, Fab Academy , an internationally distributed campus for technical education, has emerged from the Fab Lab program. The Fab Academy provides instruction and supervises investigation of mechanisms, applications, and implications of digital fabrication.</p>
+      <p>In addition to Fab Academy, SCOPES-DF, fueled by collaboration and community, has the power to transform STEM learning in diverse educational settings through digital fabrication technologies and practices found in a Fab Lab or makerspace. We are building curricular frameworks, professional development resources, and evaluation tools around digital fabrication that can catalyze STEM learning in the classroom. This new platform will enable fabbers, makers and educators to collaborate and interact in a Community of Practice and promises to expand STEM learning and teaching in fresh new ways. Each partner in this collaboration comes with an essential, yet distinct, perspective. Together, they can ignite student learning!</p>
+      <p>Fab Labs are closely aligned with MIT’s Center for Bits & Atoms where research into next generation tools and software, as well as fabrication work flows and processes is pushing up against digital-analog boundaries. CBA is charting a research road map that traverses the frontier of digital fabrication: from machines in a Fab Lab that make things, to machines that make parts of machines, to machines that self-reproduce, to building with digital materials, to materials that are programmable and can turn themselves into parts. As we progress along that research path, knowledge and best practices are disseminated throughout the Fab Lab network, making it a cutting edge laboratory for R&D.</p>
+    id: 1
+    click: collapse1
+  - title: "What qualifies as a Fab Lab?"
+    body: |
+      <p>The four qualities and requirements listed below altogether create an enabling environment that we call a Fab Lab. If your lab effort meets all these criteria,  “Welcome!”  If you feel you are in synchrony with the Fab Lab form and spirit, please use our logo in your fundraising efforts, and keep us informed of your progress. Please register your lab effort or new fab lab on the world map here.   Here are the criteria we currently use for defining a Fab Lab:</p>
+      <p>1. First and foremost, public access to the Fab Lab is essential. A Fab Lab is about democratizing access to the tools for personal expression and invention.  So a Fab Lab must be open to the public for free or in-kind service/barter at least part of the time each week, that’s essential.</p>
+      <p>2. Fab Labs support and subscribe to the Fab Lab charter: http://fab.cba.mit.edu/about/charter/</p>
+      <p>3. Fab Labs have to share a common set of  tools and processes. A prototyping facility is not the equivalent of a Fab Lab. A 3D printer is not a Fab Lab. The idea is that all the labs can  share knowledge, designs, and collaborate across international borders. If I make something here in Boston and send you the files and documentation, you should be able to reproduce it there, fairly painlessly.  If I walk into a Fab Lab in Russia, I should be able to do the same things that I can do in Nairobi, Cape Town, Delhi, Amsterdam or Boston Fab Labs. The critical machines and materials are identified in this list: http://fab.cba.mit.edu/about/fab/inv.html and there’s a list of open source software and freeware that we use online as well (embedded in Fab Academy modules here: http://academy.cba.mit.edu/classes/ ) But essentially it’s the processes and the codes and the capabilities that are important. So you want a laser cutter for 2D/3D design and fabrication, a high precision milling machine for making circuits and molds for casting, a vinyl cutter for making flexible circuits and crafts, a fairly sophisticated electronics workbench for prototyping circuits and programming microcontrollers, and if you can possibly find the funds, you’ll want the large wood routing machine for furniture and housing applications.  We are also testing fairly inexpensive, but robust and with fair resolution 3D printers—the most current favorite is listed in the inventory.</p>
+      <p>4. Fab Labs must  participate in the larger, global Fab Lab  network, that is, you can’t isolate yourself.  This is about being part of a global, knowledge-sharing community.  The public videoconference is one way to do connect. Attending the annual Fab Lab meeting is another.   Collaborating and partnering with other labs in the network on workshops, challenges or projects is another way.  Participating in Fab Academy is yet another way.</p>
+      <p>Good luck and welcome!!!</p>
+    id: 2
+    click: collapse2
+  - title: "The Fab Charter"
+    body: |
+      <h3>What is a fab lab?</h3>
+      <p>Fab labs are a global network of local labs, enabling invention by providing access to tools for digital fabrication</p>
+      <h3>What’s in a fab lab?</h3>
+      <p>Fab labs share an evolving inventory of core capabilities to make (almost) anything, allowing people and projects to be shared</p>
+      <h3>What does the fab lab network provide?</h3>
+      <p>Operational, educational, technical, financial, and logistical assistance beyond what’s available within one lab </p>
+      <h3>Who can use a fab lab?</h3>
+      <p>Fab labs are available as a community resource, offering open access for individuals as well as scheduled access for programs </p>
+      <h3>What are your responsibilities?</h3>
+      <p><i>Safety:</i> Not hurting people or machines. / <i>Operations:</i> Assisting with cleaning, maintaining, and improving the lab / <i>Knowledge:</i> Contributing to documentation and instruction </p>
+      <h3>Who owns fab lab inventions? </h3>
+      <p>Designs and processes developed in fab labs can be protected and sold however an inventor chooses, but should remain available for individuals to use and learn from </p>
+      <h3>How can businesses use a fab lab? </h3>
+      <p>Commercial activities can be prototyped and incubated in a fab lab, but they must not conflict with other uses, they should grow beyond rather than within the lab, and they are expected to benefit the inventors, labs, and networks that contribute to their success </p>
+    id: 3
+    click: collapse3
+  - title: "Setting up a Fab Lab"
+    body: |
+      <p>You are on the front wave of a new, international movement in personal fabrication—and therefore you would be considered an “early adopter. The cheapest and fastest method to get a fab lab is to buy  and assemble it yourself. This approach does require that you have some good expertise on hand to help you set up,  install, debug and train. There are a few other ways to get a lab, but they are more expensive and require some contractual transactions.<p>
+      <p>Here’s the road map <p>
+      <ul>
+      <li><p>The inventory of hardware and materials that we deploy in a full Fab Lab can be found at: http://fab.cba.mit.edu/about/fab/inv.html . This is the entire list of equipment, tools and consumables for a research grade fab lab.  A fab lab currently comprises from $25-$65k in capital equipment and about $15-40k in consumables. The open source software or freeware we typically use can be found at our Fab Academy class site:  http://academy.cba.mit.edu/classes </p></li>
+      <li><p>The Fab Foundation can be your one stop shop when setting up a fab lab, and we have partners all over the world who can help. While we can’t do an over the phone consultation to get you started, we have plenty of resources here online. The Fab Foundation here in the US is designed to be a resource for purchasing and installing fab labs, training managers, sourcing difficult to access fab supplies, general fab lab network support, a portal to advanced technical education, and eventually  an umbrella for matching funders to communities who want a fab lab and meet the network criteria. Let us know your of your interest, your application and your location and we can connect you. <info@fabfoundation.org> </p></li>
+      <li><p>MIT’s Center for Bits and Atoms is selectively entering into institutional partnerships for fab lab installation, training, and research. These agreements fund the development and deployment of enabling processes and projects. CBA will also continue to informally collaborate on establishing exceptional individual fab lab sites. Its address is <info@cba.mit.edu>. </p></li>
+      </ul>
+      <p>Outside of formal contractual programs or the network’s Fab Academy program for training there is a growing online body of information which addresses many questions, and a growing archive of tutorials online.  (http://fab.cba.mit.edu— look under “tools”, “classes”, fab lab wiki at http://www.fablab.is/wiki, or the Fab  Academy repository at http://academy.cba.mit.edu/labs/index.html)  Live help and support from volunteers in the network can be accessed through videoconference and our MCU online videoconferencing unit, where members hang out during the day and can help one another.   It’s free and you can visit once you are set up to do so: http://fab.cba.mit.edu/about/video. There are also some good experts in the network now that you could contact directly to see if they would be interested (for a fee) in coming and helping you set up and train.  I can connect you to those people if and when the time comes. </p>
+      <p>The best background on fab labs  and the digital fabrication movement is Professor Neil Gershenfeld’s book:  FAB: The Coming  Revolution on Your Desktop–from Personal Computers to Personal Fabrication.  (available on http://www.amazon.com).  It contains a wealth of information for you and is a good read.</p>
+      <p>Please also see: http://fab.cba.mit.edu/about/faq/ </p>
+      <p>And the fab charter at: http://fab.cba.mit.edu/about/charter</p>
+      <p>Another good resource for you that will give some background is Neil’s talk at the Library of Congress, as seen on CSPAN. See this link: rtsp://video.c-span.org/project/digital/digitalfuture032805.rm or try http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=3725 </p>
+      <p>As well as a few links to other information: </p>
+      <p><a href="http://cba.mit.edu/events/05.07.Norway/">http://cba.mit.edu/events/05.07.Norway/</a></p>
+      <p><a href="http://www.economist.com/science/displayStory.cfm?story_id=3786368">http://www.economist.com/science/displayStory.cfm?story_id=3786368</a></p>
+      <p><a href="http://www.businessweek.com/magazine/content/05_18/b3931027_mz005.htm">http://www.businessweek.com/magazine/content/05_18/b3931027_mz005.htm</a></p>
+      <p>If you are trying to jump start a fab lab there are few more things we’ve found that are helpful when trying to start a lab: </p>
+    id: 4
+    click: collapse4
+  - title: "Key strategies when setting up a Fab Lab"
+    body: |
+      <ul>
+      <li><h3>1. Identify a host agency to host and take ownership of the Fab Lab.</h3>
+      <p>The host agency could be any organization ranging from Govt. agency, community organization, educational institution etc. The Fab Lab needs to be hosted, housed and owned by the right agency to ensure success.</p>
+      </li>
+      <li><h3>2. Identify the right champion to lead this Fab Lab.</h3>
+      <p>Very important. The successful Fab Labs are driven by the right champions. The champion needs to have passion for community development through technology deployment and should be respected by the community.</p>
+      </li>
+      <li><h3>3. Finalize partnership/ contractual agreements Contracts and agreements</h3>
+      <p>Including if appropriate Fab Foundation/ MIT, local partners, funders, service providers need to be put in place.</p>
+      </li>
+      <li><h3>4. Secure funding for this Fab Lab.</h3>
+      <p>Secure appropriate partnership for this Fab Lab. If you are interested in developing a network of fab labs–in South Africa there is a good model evolving around Public -Private- Partnership. Government funds equipment, host agency funds space, running and management expenses and firms pay for projects. Having said that this is a cumbersome process. The best would be to find the funder for a first Fab Lab and later pursue the SA model. If you get to this point the Fab Foundation/ MIT team can assist in budgeting, proposal writing etc.</p>
+      </li>
+      <li><h3>5. Identify and prepare site.</h3>
+      <p>Site selection is critical- in that it should be accessible to the community and should not deter potential users.</p>
+      </li>
+      <li><h3>6. Procure, install and commission the Fab Lab.</h3>
+      </li>
+      <li><h3>7. Train the trainers (technical and management)</h3>
+      <p>Proper training and handing over of the Lab is crucial for the success of the Lab. Trainers will be trained to train users and with our help you can put together a crash course of ‘How To Make (Almost) Anything’ with the early users.</p>
+      </li>
+      <li><h3>8. Identify projects.</h3>
+      <p>Starting with local problem solving, the Fab Lab will be integrated into the bigger Fab community and will have access to and participate in projects worked on globally and in a distributed manner.</p>
+      </li>
+      <li><h3>9. Launch the Fab Lab.</h3>
+      <p>Key community, govt and private stakeholders can attend the launch to not only understand the Fab Lab concept but also witness the demos of project outputs.</p>
+      </li>
+      </ul>
+    id: 5
+    click: collapse5
+  - title: "Fab Lab Form"
+    body: |
+      <p>The lab we’ve been using as an example of the perfect space is the Chicago Fab Lab at the Museum of Science and Industry (MSI)—here is the pdf of the blueprint  for you to refer to.  The Chicago lab has two of each of the machines in it and is about 1900 square feet (approximately 177 square meters). For a laboratory with one of each machine, 1500 square feet, or 140 square meters should be sufficient.</p>
+      <p>This lab is designed to accommodate larger groups (about 20-30 users at a time), so it includes double the number of machines and tools—therefore more expensive that the usual Fab Lab . Depending on the focus and community of your Fab Lab you might want to design your lab similarly.  We can talk through the design together, but even if you  want to maintain the standard Fab Lab (one of each machine and tool) it would be good to use this layout as a model.</p>
+      <p>Looking at the blueprint, you will see a large circular shape entitled Business Enterprise—this is a museum exhibit just outside of the Fab Lab so ignore it.  Adjacent to the circle is a semi-circle entitled  “design center”.  As 90% of a student or user’s time is spent designing on the computer, MSI invested in  a design space for 12 users, plus a teacher/guru who can demonstrate using a projector  and a  powerful laptop computer on the screen at the front of the design center. This is also where  videoconferencing  for Fab Academy or meetings happens as well.</p>
+      <p>Behind the design center/screen wall is a computer room for IT purposes.</p>
+      <p>To the left of the design center there is another semicircular space. This is display space for the best or most interesting projects in the Fab Lab at the time.  </p>
+      <p>To the left and behind the design center is the electronics workbench. That includes one set of bench test equipment, but two soldering stations and two programming stations (2 computers) and of course, electronic components and tools for two labs.</p>
+      <p>Along the back wall are two Modelas for making circuits and molds for casting. There is a  computer designated for each Modela.  (2 computers total here). Also along the back wall are two laser cutters, attached to 1 computer, and attached to an outside, roof ventilation system.</p>
+      <p>Toward the  end of the back wall is a counter and sink with running water to handle casting projects and other projects that require water for processing or clean up.   There are two long, empty counters along the back wall as well for work space and for use with some of the other kinds of tools, like a drill press and a scroll saw.</p>
+      <p>The right end of the lab, in the center of the lab there is  a large open space for the ShopBot (large wood router) and the associated computer and filter/blower.  This is the one item that has special electrical power needs.   </p>
+      <p>And finally you will see 2 or 3 large rectangles spanning the center of the room. These are purely workspace, places where students and users can spread out their projects as they work on them.  Incredibly useful.  </p>
+      <p>The one aspect of the space that all Fab Labs underestimate is the need for material and project storage.  You need some significant space devoted to storing large pieces of wood and other materials, as well as cubby holes or shelving for student/user individual projects.</p>
+    id: 6
+    click: collapse6
+  - title: "Chicago layout"
+    body: |
+      <img src="/web_sandbox/img/general/chicago_layout.png" width="100%" style="margin-bottom: 40px;">
+      <a href="/web_sandbox/pdfs/chicagolayout.pdf" target="_blank" class="btn btn-clear">Download PDF</a>
+    id: 7
+    click: collapse7
+  - title: "Ideal Lab Layout"
+    body: |
+      <img src="/web_sandbox/img/general/3dPrintingSpace.png" width="100%" style="margin-bottom: 10px;">
+      <img src="/web_sandbox/img/general/Molding.png" width="100%" style="margin-bottom: 10px;">
+      <img src="/web_sandbox/img/general/TotalSpace.png" width="100%" style="margin-bottom: 10px;">
+      <img src="/web_sandbox/img/general/ShopBotRoom.png" width="100%" style="margin-bottom: 10px;">
+      <img src="/web_sandbox/img/general/Laser.png" width="100%" style="margin-bottom: 10px;">
+      <img src="/web_sandbox/img/general/Electronics.png" width="100%" style="margin-bottom: 10px;">
+      <img src="/web_sandbox/img/general/ConferenceDesign.png" width="100%" style="margin-bottom: 40px;">
+      <a href="/web_sandbox/pdfs/IdealLab.zip" class="btn btn-clear">Download .zip with all Pdfs</a>
+    id: 8
+    click: collapse8
+  - title: "The Hardware"
+    body: |
+      <p>The following will get you fully fab lab ready, in other words, you can participate in Fab Academy, research collaborations and all the things a full fab lab is capable of doing.   Please note that our computing environment is set up as primarily dual boot Windows/Ubuntu with most all the workflows in the Linux partition.  We’ve listed here Windows-based, propriety software along with the open source and freeware that we typically use in fab labs, in case your institution or applications require Windows-based applications.  But we believe in the open source approach, which aligns with our mission of democratizing access to the tools and knowledge for education and invention. </p>
+      <iframe frameborder='0' height='400' marginheight='0px' marginwidth='0px' src='https://docs.google.com/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html' style='border: 0px #FFFFFF none;' width='100%'></iframe>
+      <a href="http://www.fabfoundation.org/index.php/the-hardware-and-software/index.html" target="_blank" class="btn btn-clear" style="margin-top: 20px;">Go to Fab Lab Inventory</a>
+    id: 9
+    click: collapse9
+  - title: "The Software"
+    body: |
+      <h3>2D design, raster picture, scan</h3>
+      <span><a href="https://www.gimp.org/" target="_blank">Gimp</a></span>
+      <span><a href="https://www.adobe.com/products/photoshopfamily.html" target="_blank">Photoshop</a></span>
+      <span><a href="http://mypaint.org/" target="_blank">MyPaint</a><span>
+      <h3>Vector</h3>
+      <span><a href="https://www.libreoffice.org/discover/draw/" target="_blank">LibreOffice Draw</a></span>
+      <span><a href="https://inkscape.org/en/" target="_blank">Inkscape</a></span>
+      <span><a href="https://www.adobe.com/products/illustrator.html" target="_blank">Illustrator</a></span>
+      <span><a href="https://www.scribus.net/scribus-1-4-6-released/" target="_blank">Scribus</a></span>
+      <span><a href="https://librecad.org/" target="_blank">LibreCAD</a></span>
+      <span><a href="https://www.ribbonsoft.com/en/qcad" target="_blank">QCAD</a></span>
+      <span><a href="https://www.freecadweb.org/" target="_blank">FreeCAD</a></span>
+      <span><a href="https://www.omax.com/software/layout" target="_blank">OMAX Layout</a></span>
+      <span><a href="https://www.coreldraw.com/la/" target="_blank">Corel Draw</a></span>
+      <h3>3D Design</h3>
+      <span><a href="http://kokompe.cba.mit.edu/" target="_blank">Fab Modules</a></span>
+      <span><a href="https://www.autodesk.com/solutions/3d-modeling-software" target="_blank">Autodesk 123D/a></span>
+      <span><a href="https://www.sketchup.com/" target="_blank">Sketchup</a></span>
+      <span><a href="http://www.artofillusion.org/" target="_blank">Art of Illusion</a></span>
+      <span><a href="https://www.freecadweb.org/" target="_blank">FreeCAD</a></span>
+      <span><a href="http://www.openscad.org/" target="_blank">OpenSCAD</a></span>
+      <span><a href="https://www.rhino3d.com/" target="_blank">Rhino 3d</a></span>
+      <span><a href="https://www.grasshopper3d.com/" target="_blank">Grasshopper 3D</a></span>
+      <span><a href="https://www.solidworks.com/" target="_blank">SolidWorks</a></span>
+      <span><a href="https://www.autodesk.com/products/inventor/overview" target="_blank">Autodesk Inventor</a></span>
+      <span><a href="https://www.autodesk.com/products/autocad/overview" target="_blank">Autodesk Autocad</a></span>
+      <span><a href="https://www.autodesk.com/products/maya/overview" target="_blank">Autodesk Maya</a></span>
+      <span><a href="https://www.autodesk.com/products/alias-products/overview" target="_blank">Autodesk Alias</a></span>
+      <span><a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank">Autodesk 3ds MAX</a></span>
+      <span><a href="https://www.3ds.com/products-services/catia/" target="_blank">Catia</a></span>
+      <span><a href="https://www.ptc.com/en/products/cad/creo/parametric" target="_blank">Pro/Engineer</a></span>
+      <span><a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank">I-DEAS NX</a></span>
+      <span><a href="http://www.inivis.com/" target="_blank">AC3D</a></span>
+      <h3>Audio / Video</h3>
+      <span><a href="https://sourceforge.net/projects/audacity/" target="_blank">Audacity</a></span>
+      <span><a href="https://kdenlive.org/en/" target="_blank">KDENLIVE</a></span>
+      <span><a href="http://ffmpeg.org/" target="_blank">FFMpeg</a></span>
+      <span><a href="http://www.mplayerhq.hu/DOCS/HTML/en/mencoder.html" target="_blank">MEncoder</a></span>
+      <span><a href="http://www.videolan.org/vlc/" target="_blank">VLC</a></span>
+      <h3>Simulation</h3>
+      <span><a href="http://www.cambridge.org/gb/academic/subjects/physics/mathematical-methods/nature-mathematical-modeling?format=PB&isbn=9780521210508#667lUBCCmDZ5Jc7k.97" target="_blank">Nature of Mathematical Modeling</a></span>
+      <span><a href="https://www.csc.fi/web/elmer" target="_blank">Elmer</a></span>
+      <span><a href="https://www.comsol.com/" target="_blank">COMSOL</a></span>
+      <span><a href="https://www.cosmosm.com/" target="_blank">COSMOS</a></span>
+      <span><a href="https://www.ansys.com/" target="_blank">Ansys</a></span>
+      <span><a href="http://www.mscsoftware.com/" target="_blank">Nastran</a></span>
+    id: 10
+    click: collapse10
+  - title: "The Community Function"
+    body: |
+      <p>“Function” is the community application and content of the fab lab. We’ve found that the fab lab needs to reflect the interests and needs of the community that hosts it. So each fab lab is different, based on the community where it resides Below are descriptions of 4 very different fab labs and how they function. These labs all try to balance financial sustainability with community needs and challenges.</p>
+      <h4>1. Soshanguve Fab Lab.</h4>
+      <p>This fab lab is in a township in South Africa, just outside of Pretoria and is entirely about the community,and the social engineering around the community. During a visit several years ago to the township, we accidentally ran across a small community health center with a printing/resume service attached to it. It was run by a group of local youth called the Bright Youth Council, a team of young adults from the community who invested the time and fundraising capacity to build the Health Center. This amazing team provides both champions and gurus for the fab lab there. The print shop next door continues to provide printing and resume services (small commercial enterprise), but has now dedicated most of its computers to teaching children, teens, and adults to use computers and to design on computers. This is in essence the design center. Once users have designed something that they want to fabricate, they walk next door to the fab lab, where a small team of technical gurus helps them learn the machines, the electronics and the fabrication processes and workflows. This lab has recently expanded their services to assist users in prototyping for small business startup ideas. The startup prototyping is organized as fee-for-service, as yet unproved, but the demand for this kind of help, service and education is large in the township. This fab lab also plans to use the digital fabrication distributed education program Fab Academy, as an income stream to help sustain the fab lab operations. Fab Sosh currently get its funding from the CSIR/DST (government) and from large manufacturing companies with facilities nearby that are interested in workforce development and in corporate social responsibility.</p>
+      <h4>2. Utrect Fab Lab: Protospace</h4>
+      <p>This fab lab, located in Utrecht, the Netherlands, is based around small businesses and entrepreneurial activities. It is a prototyping facility with a social mission as well. Protospace has 2 full time designer/fabricators on staff, one full time IT person, a full time administrator, plus a part time business manager/fundrasier. 4 days a week Protospace provides professional design and fabrication services for small businesses for a fee, A few days a week Protospace is open to the community for free access to the fab lab. Protospace is about 50% self sustaining.</p>
+      <h4>3. University of Nairobi Science and Technology Park Fab Lab</h4>
+      <p>This lab is about 3 years old and is the first fab lab to be integrated into a business incubator environment. It is situated on the University campus, but not associated with any one department, rather with the new Science and Technology Park initiative coming out of the government. The users are local inventors and entrepreneurs as well as recent University graduates from engineering. The fab lab is a terrific resource for the inventors and students to work on prototypes and ideas, and as importantly, to improve upon ideas already in process. This lab has about 8-10 small business ideas incubating. While only a few ideas originated in the fab lab, all of the inventors are improving their designs in the fab lab. The fab lab is also being used to train non-university people in advanced technical skills through Fab Academy. This lab is successful enough that the government wants to invest in a network of fab labs in this same context throughout Kenya. An interesting aspect of this lab is the relationship with the government, which backs the lab so far as to consider policy changes and supports to help it succeed, including import tariffs to protect businesses incubating out of the fab lab there. This lab is so far, entirely government funded, with plans to have the incubator take over financial support in the future. </p>
+      <h4>4. MC2STEM High School Fab Lab</h4>
+      <p>This is a formal education fab lab for high school students. Educators have put a full fab lab in the center of the specially designed STEM school and trained faculty in the skills to run the machines and design tools. In turn faculty and the principal have designed curriculum that incorporates the fab lab tools and processes in every discipline taught at the school (math, science, literature, English, history, technology, engineering, foreign languages). They have designed 10 capstone modules (each module is 10 weeks in duration) that address different overall concepts, and each subject takes both the content and fabrication skills into consideration in teaching the module. For example Electric Light is one capstone. Students design projects around the history of light, the use of light, the speed of light, the cultural uses of light, the technology and science of light, etc. This fab lab is co-located on a corporate campus (GE Lighting Company) such that GE engineers can come and work in the lab and help mentor students through projects, and through design, engineering and fabrication processes. In turn the students can apprentice and/or experience a real engineering environment and work with great professional role models for careers in science, engineering and technology. This is a public-private partnership between the GE Electric Company, the Cleveland public school system, with support from private investors. </p>
+    id: 11
+    click: collapse11
+  - title: "Sample Program"
+    body: |
+      <p><h4>Large Fab Lab</h4></p>
+      <p><b>Communities a  FabLab might serve:</b></p>
+      <ul>
+      <li><b>Public school children</b></li>
+      <li><b>Private school children</b> </li>
+      <li><b>General public:</b>This group will consist of people who just want to make things or learn new skills or make products in the lab. This group could include college or university students who will want to work in the lab. </li>
+      <li><b>Artists/Crafters:</b>The traditional artisans and crafters should be encouraged to come and experiment with the tools and processes of the fab lab. The lab doesn’t replace their traditional work, but it augments and broadens the palette of what they can do in their work.  It would be great to have artists experiment with the tools in the fab lab.   Again, an artist in residency program might be really interesting—offer several active artists one or two month program in which they have access to the entire lab with the technical gurus to help support them. If they produce some high level art or crafts for exhibit in the lab, and outside in public spaces, this will help you show off the capabilities of the lab, get the artists’ endorsements, and build the fab lab reputation in the public.  You might want to sweeten this deal by offering a stipend for the month, or to fund the materials they will need for their art work for the month, or something along those lines. </li>
+      <li><b>University Students:</b>Always great to have classes and students working in the lab.  They can bring great creativity and new approaches to making things to the environment. They can also be hugely useful as technical resources and as teachers! </li>
+      <li><b>Artists/Crafters:</b> </li>
+      <li><b>Entrepreneurs:</b>This group includes the college or university students, and young entrepreneurs who are inventive and creative and need a space and a place and a community to support their invention. It might be interesting to have an entrepreneur in residency program—offer several active entrepreneurs a one or two month program in which they have access to the entire lab with the technical gurus to help support them. They can produce some interesting inventions for exhibit in the lab, and outside in public spaces, this will help you show off the capabilities of the lab, get the entrepreneurs’ endorsements, and build the fab lab reputation in the public.  You might want to sweeten this deal by offering a stipend for the month, or to fund the materials they will need for their invention work for the month, or something along those lines.  Another approach would be to offer a special Inventor his/her own group time in the lab over a one year period.  He/she could invite peers, or clients to work in the fab lab on special programs for the year. </li>
+      <li><b>Government or Corporate Employees:</b>This might be a group who will find new uses for the lab, and new experts to volunteer and work in the lab for you, and they will spread the word about the lab to the larger community.  Their endorsement  and adoption of the lab can be important to the success of the fab lab. </li>
+      </ul>
+      <p>You could encourage experimentation and usage of the fab lab in the employee community by putting up a contest/challenge for them to use the fab lab. Something like– we’ll give a prize of money to the team that comes up with the best community project made in the fab lab and we (whichever organization is hosting) will help you implement it.  For example, making benches for a community park, or desks for a low income school, etc. </p>
+      <p><b>Personnel for a Super Fab Lab:</b></p>
+      <p>If you want to accommodate school groups of approximately 15 to 20 children per group, you should have two technical/guru support people working in the lab.  If you have the extended hours I have outlined below, I think you need two shifts each day.   So your staff would include: </p>
+      <ul>
+      <li>One logistics, planning, outreach and communications manager </li>
+      <li>Three to four technical gurus/ support staff for mentoring, teaching, maintaining and supervising the use of the equipment. They would work two to a shift, with two shifts per day:  8:30- 16:30 and 13:30 – 21:30. The three hour overlap in time would be used for lab maintenance,  professional development and project/group visit preparation.</li>
+      <li>One technical manager–  to maintain computers, equipment, network, and technical problem solving.</li>
+      </ul>
+    id: 12
+    click: collapse12
+  - title: "The Funds"
+    body: |
+      <iframe id="pageswitcher-content" frameborder="0" marginheight="0" marginwidth="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOldh7H1KLJWCjBx--nzrBqBWyBcVFyB7XCxGFBqbNCqNMvejxdFD9zg_tmlog6HKBmmhql3dRTp5K/pubhtml/sheet?headers=false&amp;gid=341525378" style="display: block; width: 100%; height: 100%;"></iframe>
+      <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOldh7H1KLJWCjBx--nzrBqBWyBcVFyB7XCxGFBqbNCqNMvejxdFD9zg_tmlog6HKBmmhql3dRTp5K/pubhtml/sheet?headers=false&gid=341525378" target="_blank" class="btn btn-clear" style="margin-top: 20px;">Go to Budget Sample</a>
+    id: 13
+    click: collapse13
+  - title: "Fab People"
+    body: |
+    id: 14
+    click: collapse14

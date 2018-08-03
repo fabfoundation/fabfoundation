@@ -1,0 +1,8 @@
+id: contact-form
+hastitle: true
+title: "Contact us" 
+hassubtitle: false
+subtitle: ""
+mailto: "info@fabfoundation.org"
+hasbuttons: true
+button: "Send Mail"

@@ -1,0 +1,29 @@
+id: scopes-full
+background: transparent
+hastopbanner: false
+topbanner: 
+hascarousel: false
+carouselbackground: 
+carousel:
+  - img: ''
+    url: ''
+haslogo: true
+logo: scopes.svg
+height: 25px
+hastitle: true
+title: "Digital fabrication has the potential to transform k-12 education." 
+hassubtitle: false
+subtitle: 
+haslongtext: true
+longtext: "SCOPES-DF brings digital fabrication tools and processes to people of all ages, teaching the skills and knowledge of digital fabrication, developing curriculum for formal and informal educational settings, as well as designing and offering professional development training programs for teachers, fab lab managers and other professionals. With the SCOPES-DF project, the Fab Foundation is bringing together fabbers, makers, and educators to deepen our understanding of the “what”, ”how” and “why” of STEM disciplines."
+haslargeimg: true
+largeimg: kidglasses-low-res.jpg
+hasbuttons: true
+buttons:
+  - title: "Check out the Scopes Website"
+    url: 'https://www.scopesdf.org/'
+    color: clear
+hasprojectgallery: false 
+projects:
+  - title: ""
+    img: 

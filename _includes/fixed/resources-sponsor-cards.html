@@ -1,0 +1,36 @@
+<!--Sponsored-resources Module Template -->
+<section id="{{ include.texts.id }}" class="section-home">
+    <div class="container standard">
+        <div class="sub-container">
+            <div id="{{ include.texts.id }}" class="services-module">
+                {% if include.texts.hastitle == true %}
+                <div class="row">
+                    <div class="col-md-8">
+                        <h3 class="section-heading" data-aos="fade-up">{{ include.texts.title }}</h3>
+                    </div>            
+                </div>
+                {% endif %}
+
+                {% for resource in include.texts.resources %}
+                <div class="row no-side-margin sponsored-resources-box" data-aos="fade-up" id="{{ resource.id }}">
+                    <div class="col-sm-4 col-md-4 sponsored-resource-img" style="background-image: url('{{ site.baseurl }}/img/general/{{ resource.img }}');">      
+                    </div> 
+                    <div class="col-sm-8 col-md-8 service-text"> 
+                        <h4 >{{ resource.title }}</h4>                      
+                        {% for paragraph in resource.paragraphs %}
+                        <p>{{ paragraph.p }}</p>
+                        {% endfor %}
+                        {% for button in resource.buttons %}
+                            {% if button.color == 'clear' %}
+                                <a href="{{ button.url }}" target="_blank" class="page-scroll btn btn-clear">{{ button.title }}</a>
+                            {% else button.color == 'red' %}
+                                <a href="{{ button.url }}" target="_blank"  class="page-scroll btn btn-red">{{ button.title }}</a>
+                            {% endif %}
+                        {% endfor %}
+                    </div>  
+                </div> <!-- close sponsor-resource-box -->
+                {% endfor %}
+            </div> <!-- close services-module-->
+        </div> <!-- close sub-container-->
+    </div> <!-- close container -->
+</section>

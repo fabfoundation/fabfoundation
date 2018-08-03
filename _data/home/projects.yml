@@ -1,0 +1,37 @@
+id: projects
+background: transparent
+hastopbanner: false
+topbanner: 
+hascarousel: false
+carouselbackground: 
+carousel:
+  - img: ''
+    url: ''
+haslogo: false
+logo: 
+height:
+hastitle: true
+title: "We support the development of local and international projects and initiatives around digital fabrication, education, and open source technologies." 
+hassubtitle: true
+subtitle: "Check out our gallery of projects creating impact all over the globe."
+haslargeimg: false
+largeimg: 
+hasbuttons: false
+buttons:
+  - title: ""
+    url: ''
+    color: clear
+  - title: ""
+    url: ''
+    color: red
+hasprojectgallery: true 
+projects:
+  - title: "Fab Research"
+    id: projects-initiatives-intro
+    img: research.png 
+  - title: "Fab Economy"
+    id: fabeconomy
+    img: woodstructure_lowres.jpg
+  - title: "Fab City Global Initiative"
+    id: fabevents
+    img: fabcity.png 

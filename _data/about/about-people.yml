@@ -1,0 +1,171 @@
+id: board-team
+title: "Fab Foundation Board"
+cards: 
+  - name: "Sherry Lassiter"
+    img: Sherry_Lassiter.jpg
+    position: "President & CEO"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/sherry-lassiter-29b34110"
+    bio:
+      - p: "Sherry Lassiter is one of the architects of the MIT global initiative for field on-site technology development, the Fab Lab program. A Fab Lab, or as users like to call it, fabulous laboratory, is a rapid prototyping platform for technical education, innovation and personal expression. The Fab Lab network includes over 1200 digital fabrication facilities in 100 countries. Lassiter is Director of the Fab Foundation, a non-profit organization committed to building technical capacity in a locality, improving individuals’ abilities to develop themselves and their communities and bringing access to tools and knowledge that cultivate and support innovating practices."
+      - p: "After a two-decade career in science journalism as producer, writer and director for television series such as Scientific American Frontiers, Discover the World of Science, and The Science Times, she became a protagonist in science and technology, becoming part of the story, rather than just telling the story. As Program Manager for the NSF-funded Center for Bits & Atoms at MIT she has seen and enabled the personal fabrication movement as it has grown and evolved. Today she serves as Director of the global Fab Lab Program at MIT as well as leading the The Fab Foundation, the non-profit spinoff from MIT."
+  - name: "Neil Gershenfeld"
+    img: Neil_Gershenfeld.jpg
+    position: "Chairman of the Board"
+    social: 
+      - title: 
+        url: 
+    bio:
+      - p: "Prof. Neil Gershenfeld is the Director of MIT’s Center for Bits and Atoms. His unique laboratory is breaking down boundaries between the digital and physical worlds, from creating molecular quantum computers to virtuosic musical instruments. Technology from his lab has been seen and used in settings including New York’s Museum of Modern Art and rural Indian villages, the White House and the World Economic Forum, inner-city community centers and automobile safety systems, Las Vegas shows and Sami herds."
+      - p: "He is the author of numerous technical publications, patents, and books including Fab, When Things Start To Think, The Nature of Mathematical Modeling, and The Physics of Information Technology, and has been featured in media such as The New York Times, The Economist, and the McNeil/Lehrer News Hour. He is the originator of the growing global network of field fab labs that provide widespread access to prototype tools for personal fabrication, and directs the Fab Academy, the associated program for distributed research and education in the principles and practices of digital fabrication."
+  - name: "Blair Evans"
+    img: 'Blair_Evans.png'
+    position: "Board Member"
+    social: 
+      - title: 
+        url: ""
+    social: 
+    bio:
+      - p: "Blair Evans is Founder and Director of Incite Focus, a production and training lab focused on relationships between: Digital Fabrication, Permaculture, Experiential Learning, and Appropriate Technology. Blair is committed to engaging people in understanding their own ability to live a well-lived life. Issues of self-determination, self-sufficiency, and self-sustainability reflect in his work at Incite Focus."
+      - p: "Blair believes in the philosophy, “Work and spend less; create and connect more.” Blair promotes a greater sense of individual autonomy by developing community member capacity to make the things that they and their communities need; instead of depending upon external resources. Blair empowers community members to create the conditions of change and to make system-level changes which will prepare individuals to operate within a system of individual and group agency."
+      - p: "Blair's experience includes curriculum development in direct and advisory roles for K-12, college and professional development. Blair worked as a principal agent in designing, starting and training for over half a dozen Fab Labs and with many more collaborations. Since 2012, Blair is an instructor in Fab Academy. He also instructs a registered apprenticeship program based on Digital Fabrication."
+      - p: "His early career evolved from product designer, team leader, and group leader at Hewlett Packard and technology-based SMEs, to technical co-founder and VP of Engineering of MicroTouch Systems from start-up through public offering on NASDAQ. He has early inventions in touchscreen technologies."
+  - name: "Marie Planchard"
+    img: 'Marie_Planchard.png'
+    position: "Board Member"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/marieplanchard"
+    bio:
+      - p: "Marie Planchard is Director of Education & Early Engagement, at SOLIDWORKS, DASSAULT SYSTEMES. She is responsible for global development of content and social outreach for the SOLIDWORKS platform across all levels of learning including educational institutions, Fab Labs, and start-up companies." 
+      - p: "Marie is responsible for the SOLIDWORKS Certification Academic program, providing highly qualified graduates to commercial engineering and design companies.  She also manages the SOLIDWORKS Entrepreneur Program that helps young start-up companies design innovative products.  As creator/author of the STEM Teacher Blog, Marie shares stories about students, teachers, entrepreneurs, and fabbers that design and make great things happen."
+  - name: "Luciano Betoldi"
+    img: 'Luciano_Betoldi.png'
+    position: "International Operations Director"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/betoldi"
+    bio:
+      - p: "Luciano Betoldi has been involved in the Fab Lab Network since 2009, initially through his work at Fab Lab Barcelona and the Fab Academy program and most recently, by joining the Fab Foundation in 2016 as International Operations Director."
+      - p: "Initially trained as a Product Designer at IED Barcelona and as an Interaction Designer at Elisava Design School, Luciano’s early work focused on the intersection of manufacturing and craft and the ongoing dialogue between them. Exploration of this theme inevitably led him discover digital fabrication and to the creation of projects such as the Made@EU platform, a collaborative educational platform focusing on the introduction of digital fabrication tools to craftspeople and artists across Europe and supported by the European Commission."
+      - p: "Since joining the Fab Foundation, Luciano has worked towards democratizing access to digital fabrication tools and education through the development and implementation of programs such as FabAcademy X and facilitating communication between regional networks through the Fab Foundation Forums initiative."
+  - name: "Alethea Campbell"
+    img: 'Alethea_Campbell.png'
+    position: "Program Manager, GE Brilliant Career Lab"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/aletheacampbell"
+    bio:
+      - p: "The Program Manager of the GE Brilliant Career Lab, Alethea Campbell discovered the power and joy of making for herself, and others, has become a driving force in her life to make a transformation in the world of education."
+      - p: "Her passion for art, design, science, and technology led her to the maker world. She saw the power of sharing how to use an Arduino or create a 3D Model using CAD software, can change a young person’s world. An alumni of Smith College, she graduated from Harvard Graduate School of Education and earned a Master’s of Education degree in Technology, Innovation, and Education. Alethea is a maker, creator, innovator, an educator, and a learner."
+  - name: "David Cavallo"
+    img: 'David_cavallo.png' 
+    position: "Learning Architect, SCOPES-DF"
+    social: 
+      - title: 
+        url:
+    bio:
+      - p: "David Cavallo is a consultant with the Fab Foundation and serving as the Learning Architect for the SCOPES-DF project. David is a Research Scientist and former Director of the Future of Learning Group at the MIT Media Laboratory. He completed his Ph.D. under the direction of Professor Seymour Papert. His thesis work describes an educational intervention in Thailand, named Project Lighthouse, and points towards the importance of emergent design in the reform of large-scale, complex, dynamic environments. His work focuses on the design and implementation of reforms of learning environments and educational systems, and the role technology can play in this change process. He also works on the design of new technologies for learning through design, expression, and construction. His other work includes projects for large-scale educational reform in Brasil, including a project where children design their city of the future. Prior to MIT, Cavallo led the design and implementation of medical informatics as part of a reform of health care delivery and management at the Harvard University Health Services."
+      - p: "Prior to that he was a principal and consulting software engineer at Digital Equipment Corporation's Artificial Intelligence Technology Center. He led enterprise architecture and implementation efforts for using technology to produce change in the processes and operations of major companies by focusing on learning. He designed and built numerous knowledge-based systems for industry. He also holds a Master of Science degree from the MIT Media Laboratory and a Bachelor's of Science degree in Computer Science from Rutgers University. He has advised numerous heads of state and ministries of education on the adoption of advanced technologies for learning and the reform of educational institutions"
+  - name: "Norella Coronell"
+    img: 'Norella_Coronell.png'
+    position: "Fab Forum International Coordinator, Special Projects Consultant"
+    social: 
+      - title: linkedin
+        url: "https://es.linkedin.com/in/norella-coronell-1831973a"
+    bio:
+      - p: "As a Product Designer from Universidad del Norte, Barranquilla (Colombia) and with a Master’s Degree in Project Management from IEP Madrid, Norella’s early approach in the Fab Lab World came when she discovered through a tweet what a fab lab was, she became an intern at Fab Lab Barcelona (Spain) in 2012. Later in 2015, she became part of the Fab Lat Network (Latinoamerica), becoming the Regional Coordinator and finally, in 2017 she held the Fab Academy Diploma at Fab Lab Santiago (Chile), where she also co-organize the International Fab Lab Conference FAB13."
+      - p: "Norella joined the Fab Foundation team in 2017 as Special Projects Consultant where she aims to develop new tools and programs on how to work in a collaborative way among the network an facilitate communications between regional networks through the Fab Foundation Forums which she will coordinate based on her skills on Networking Strategies."
+      - p: "She currently lives in Barranquilla, Colombia and teaches the undergraduate course Technological Design on her former University."
+  - name: "Dr. Nettrice Gaskins"
+    img: 'Nettrice_Gaskins.png'
+    position: "Program Manager, SCOPES-DF"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/nettrice"
+    bio:
+      - p: "Dr. Nettrice Gaskins has worked for several years in K-12 and post-secondary education, community media and technology before receiving a doctorate in Digital Media from Georgia Institute of Technology in 2014. Nettrice has focused on the application of cultural art and technologies in STEAM learning for underrepresented ethnic groups in public schools in the United States and around the world."
+      - p: "She has worked as a teaching artist for the Boston 100K Artscience Innovation Prize; and was a youth media/technology trainer for Adobe Youth Voices. She served as Board President of the National Alliance for Media Arts and Culture and was on the board of the Community Technology Centers Network (CTCNet). Dr. Gaskins has also received funding from the National Science Foundation for Advancing STEM Through Culturally Situated Arts-Based Learning. Nettrice provides expert advice on how to include people from underrepresented communities."
+  - name: "Becky Gaylord"
+    img: 
+    position: "Interim Communications Manager"
+    social: 
+      - title:
+        url:
+    bio:
+      - p: "Bio coming soon..."
+  - name: "Pamela King"
+    img: 'Pamela_King.png' 
+    position: "General Manager"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/pamelajking"
+    bio:
+      - p: "Pamela is The General Manager and has the great distinction of being The Fab Foundation's Employee #1(or first employee). She initially joined FF as a temporary part-time program assistant while still looking for full-time work. She decided to stay on and her status changed to full-time as Operations Manager to the current status. Her role includes administration management, assisting in the growth and development of the organization. She is also affiliated with the first fab lab."
+      - p: "Pamela is a native of Boston, Massachusetts with Bajan(Barbados) and Southern(Maryland/North Carolina) US roots. She is a seamstress, baker, an aunt, big sister, first daughter, mentor, friend, likes to travel and ventures into genealogy. She holds Bachelor's and Master's Degrees in Education and has worked in various industries: State, National government, legal aid, public health, youth and social services, private and non-profit."
+  - name: "Melvin LaPrade"
+    img: 'Melvin_LaPrade.png' 
+    position: "Consultant, SCOPES-DF"
+    social: 
+      - title: 
+        url:
+    bio:
+      - p: "Melvin LaPrade is a consultant with the Fab Foundation for the SCOPES-DF project. Melvin’s areas of expertise and research address both traditional issues, such as narrowing racial and gender achievement gaps as well as new challenges, such as the implementation of Common Core State Learning Standards with fidelity. Melvin was the Founding Director of Development for the Benjamin Banneker Academy for Community Development in Central Brooklyn, NY, a college-preparatory community development-themed middle/high school created by the Gates Foundation small school initiative. As Managing Partner of the New York based National Urban Research group, his thought leadership consultant practice works to shape the broader P-16 educational policy landscape by conducting analysis, research and idea generation on approaches objectively demonstrated to reach traditionally underserved neighborhoods, first-generation college students, low-income students and their families. In the fall of 2015, Melvin implemented the Clement School Analytics Leadership Team (C-SALT) model at CMSD Investment School Kenneth W. Clement Boys Leadership Academy (KCBLA). This model resulted in over 94 percent of KCBLA students meeting the 3rd grade Ohio Reading Guarantee promotion benchmark, and 80 percent of 7th grade student’s recorded MAP RIT scores above the 50th percentile."
+      - p: "Melvin is a graduate of CMSD schools, East High. He did his undergraduate work at Howard University, Master’s at Cleveland State University, and Post-graduate studies, Department of Urban Studies and Planning, Ph.D. Program at M.I.T."
+  - name: "Jean-Michel Molenaar"
+    img: 'Jean_Michel_Molenaar.jpg'
+    position: "Sr. Consultant, International Projects"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jean-michel-molenaar-7283243a"
+    bio:
+      - p: "As a senior consultant on international projects Jean-Michel works on creating ecosystems around labs and linking it to existing programs, organizations and systems. He has helped create labs in multiple countries on multiple continents, and is most excited about projects that use technology to help improve people’s daily lives. Next to his work on consultancy projects, he also manages the Bio Academy, a globally distributed course on the implications and applications of synthetic biology, and works as a professor of the practice in the department of biomedical engineering at Tufts University. He lives in Medford, MA, with his wife and their two sons."
+  - name: "Aidan Mullaney"
+    img: 'Aidan_Mullaney.png'
+    position: "Manager of Instruction, GE/Celtics BCP"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/aidan-mullaney-61b1286b"
+    bio:
+      - p: "Aidan Mullaney is the Instructional Manager for the GE/Celtics Brilliant Play Lab. His primary role with the Fab Foundation is developing and delivering curriculum for the middle school mobile lab. Aidan facilitates career-related activities with a focus on STEM in sports and supports course work for partnering schools, working with teachers to integrate the BPL lessons into school curriculum."
+      - p: "Prior to joining the Fab Foundation, Aidan spent three years working within innovative informal education spaces. He was a Learning Specialist at Shedd Aquarium in Chicago where he created, instructed, and curated content for kindergarten to adult learners. His work with the aquarium included the creation of a middle school STEM program centered on designing prototype enrichment items for Shedd's animals. He also previously supervised the Great Science Academy program at the Great Lakes Science Center in Cleveland; a grant-funded, middle and high school program for underserved youth with an emphasis on STEM literacy."
+      - p: "Aidan received a B.A. in Neuroscience from Oberlin College, with a concentration in Education. He has co-authored a paper detailing his research at Oberlin on multi-sensory integration within virtual environments."
+  - name: "Jean-Luc Pierite"
+    img: 'Jean_Luc_Pierite.png'
+    position: "International Procurement and Logistics Manager"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jeanlucpierite"
+    bio:
+      - p: "Jean-Luc currently is the International Procurement and Logistics Manager for The Fab Foundation. He is also a complementary Community Manager for fablabs.io. Outside of The Fab Foundation, Jean-Luc currently serves as President of the Board of Directors for the North American Indian Center of Boston. He also serves as a Community Linguist on the Advisory Circle for CoLang for the period 2016-20. The Institute on Collaborative Language Research or 'CoLang' is designed to provide an opportunity for community language activists and linguists to receive training in community-based language documentation and revitalization. Jean-Luc also contributes to the Tunica Language Project which is a collaboration with Tulane University in New Orleans and the Tunica-Biloxi Tribe of Louisiana. For Tunica-Biloxi, Jean-Luc serves on the tribal Constitution Committee."
+      - p: "Jean-Luc has a B.A. in Humanities with a co-major in Mass Communication and Japanese from Dillard University in New Orleans. He also earned an A.S. in Video Game Design from Full Sail University in Orlando, Florida. Jean-Luc's previous positions include: Internet Marketing Specialist for Mohegan Sun, and Graphic Artist for Paragon Casino Resort. Originally from New Orleans, Louisiana, Jean-Luc now resides in Jamaica Plain, Masachusetts."
+  - name: "Sonya Pryor-Jones"
+    img: 'Sonya_Pryor_Jones.png'
+    position: "Chief Implementation Officer"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/sonya-pryor-jones"
+    bio:
+      - p: "Sonya Pryor-Jones is the Chief Implementation Officer for the Fab Foundation. In partnership with Sherry Lassiter, Sonya is charged with supporting the next iteration of Dr. Neil Gershenfeld’s work, and the strategic endeavors of the organization."
+      - p: "Sonya manages signature projects for the Fab Foundation including the Brilliant Career Labs, SCOPES-DF, and partnerships with Chevron, The GE Foundation, Adam Savage and Tested.com, The Boston Celtics, and DARPA."
+      - p: "Prior to joining the Fab Foundation, Sonya was the founding Director for a national placed-based education and community development strategy at the Sisters of Charity Foundation. She also managed a $3.5 million STEM (Science, Technology, Engineering, and Math) effort as the Executive Director for Northeast Ohio’s STEM initiative at Case Western Reserve University. Her work with several public-private partnerships has included collaboration with a wide range of partners including Policy Link, Battelle, GE, Rockwell Automation, NASA, and The White House Office of Science and Technology Policy."
+      - p: "Sonya received a B.A. in International Studies and History from Kenyon College, and a M.Ed. in Education from Cleveland State University. She also holds Certificates in Executive Education and Appreciative Inquiry from The Weatherhead School of Management at Case Western Reserve University."
+  - name: "Brian Purvis"
+    img: 'Brian_Purvis.png' 
+    position: "Manager of Instruction, GE Brilliant Career Lab"
+    social: 
+      - title: 
+        url:
+    bio:
+      - p: "The Manager of Instruction for the GE Brilliant Career Lab in Boston, Massachusetts, Brian Purvis, holds a masters degree in Science Education from the University of North Carolina at Chapel Hill and a bachelor’s degree in history from the University of North Carolina at Pembroke. Brian is the 2008 recipient of the North Carolina Science Teachers Association Excellence in Science Teaching Award, as well as a 2015 Public Education Foundation Teacherpreneur. He has spent time in elementary, middle and high schools, as well as university classrooms teaching primarily inquiry based hands-on science. He aspires to continue pushing the boundaries of what makes amazing learning experiences for students and teachers."
+  - name: "Dr. Dan Smithwick"
+    img: 'Dan_Smithwick.png'
+    position: "Master Fabricator, SCOPES-DF"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/danielsmithwick"
+    bio:
+      - p: "Daniel serves as Master Fabricator for the SCOPES-DF project. He works collaboratively with STEM experts to build foundational and scalable digital fabrication knowledge for K-12 education."
+      - p: "He is a scholar in design, computation, and cognitive sciences whose dissertation research explored human cognition and robotic interaction for creative applications. He has published on this topic and more in academic and popular press. He has taught classes on digital design and fabrication at MIT, RISD, and the Boston Architectural College."
+      - p: "Daniel was trained as an architect at the University of Minnesota (BS, Architecture) and completed research degrees at MIT (MS and PhD, Design Computation). Dan and his family live in Somerville, Massachusetts and for fun he plays drums in an 80's cover band."

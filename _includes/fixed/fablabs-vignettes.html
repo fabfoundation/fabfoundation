@@ -1,0 +1,70 @@
+<!--Vignette template -->
+    <div id="{{ include.texts.id }}" class="container standard no-margin dark-gray" style="padding-bottom: 0px;">
+        <div class="sub-container">
+            {% for vignette in include.texts.vignettes %}
+                {% if vignette.orientation == 'normal' %}
+                <div class="vignette">  
+                    <div class="col-md-6 texts">
+                        {% if vignette.hastitle == true %}
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h3 class="vignette-heading">{{ vignette.title }}</h3>
+                            </div>
+                        </div>
+                        {% endif %}
+
+                        {% if vignette.haslead == true %}
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="vignette-lead">{{ vignette.lead }}</p>
+                            </div>
+                        </div>
+                        {% endif %}
+
+                        {% if vignette.hasbody == true %}
+                        <div class="row text-center">
+                            <div class="col-md-12">
+                                <p class="vignette-body"> {{ vignette.body }} </p>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div> 
+                    <div class="col-md-6 vignette-img" style="background-image: url('{{ site.baseurl }}/img/icons/community-green.svg');">      
+                    </div> 
+                </div>
+                {% else %}
+                <div class="vignette" data-aos="fade-left">
+                    <div class="col-md-6 vignette-img" style="background-image: url('{{ site.baseurl }}/img/icons/3dprinting-green.svg');">      
+                    </div> 
+              
+                    <div class="col-md-6 no-padding texts">
+                        {% if vignette.hastitle == true %}
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h3 class="vignette-heading">{{ vignette.title }}</h3>
+                            </div>
+                        </div>
+                        {% endif %}
+
+                        {% if vignette.haslead == true %}
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="vignette-lead">{{ vignette.lead }}</p>
+                            </div>
+                        </div>
+                        {% endif %}
+
+                        {% if vignette.hasbody == true %}
+                        <div class="row text-center">
+                            <div class="col-md-12">
+                                <p class="vignette-body"> {{ vignette.body }} </p>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div> 
+                </div>
+                {% endif %}
+           {% endfor %}
+        </div><!--close subconainer -->
+    </div><!--close container -->
+

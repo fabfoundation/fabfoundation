@@ -1,0 +1,8 @@
+id: resources-data
+hastitle: true
+title: "Data"
+resources:
+  - title: "Fablabs.io Survey"
+    type: ppt
+    img: "fablabsio-survey.png"
+    filename: "Fablabsio-survey-2018.pdf"

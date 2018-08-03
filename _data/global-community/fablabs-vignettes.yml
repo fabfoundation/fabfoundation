@@ -1,0 +1,16 @@
+id: fablabs-full
+vignettes:
+  - hastitle: true
+    title: "What is a Fab Lab?"
+    orientation: normal
+    haslead: true
+    lead: "A Fab Lab, or digital fabrication laboratory, is a place to play, to to create, to learn, to mentor, to invent: a place for learning and innovation."
+    hasbody: true
+    body: "Fab Labs provide access to the environment, the skills, the materials and the advanced technology to allow anyone anywhere to make (almost) anything."
+  - hastitle: true
+    title: "What is the Fab Lab Network?"
+    orientation: inverted
+    haslead: true
+    lead: "The Fab Lab Network is an open creative community of fabricators, artists, scientists, engineers, educators, students, amateurs and professionals located in more than 78 countries and 1000 Fab Labs across the globe."
+    hasbody: true
+    body: "From community based labs to advanced research centers, Fab Labs share the goal of democratizing access to the tools for technical invention. This community is simultaneously a manufacturing network, a distributed technical education campus, and a distributed research laboratory working to digitize fabrication, inventing the next generation of manufacturing and personal fabrication."

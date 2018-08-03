@@ -1,0 +1,57 @@
+<!--Programs-Services Cards Template -->
+<section id="{{ include.texts.id }}" class="section-home">
+    <div class="container standard">
+        <div class="sub-container">
+            <div id="{{ include.texts.id }}-programs-services" class="services-module">
+                {% if include.texts.hastitle == true %}
+                <div class="row">
+                    <div class="col-md-8">
+                        <h3 class="section-heading" data-aos="fade-up">{{ include.texts.title }}</h3>
+                    </div>            
+                </div>
+                {% endif %}
+
+                {% for service in include.texts.services %}
+                {% if service.orientation == 'normal' %}
+                <div class="row no-side-margin service-box" data-aos="fade-up" id="{{ service.id }}">
+                    <div class="col-sm-4 col-md-4 service-img" style="background-image: url('{{ site.baseurl }}/img/general/{{ service.img }}');">      
+                    </div> 
+                    <div class="col-sm-8 col-md-8 service-text"> 
+                        <h4 >{{ service.title }}</h4>                      
+                        {% for paragraph in service.paragraphs %}
+                        <p>{{ paragraph.p }}</p>
+                        {% endfor %}
+                        {% for button in service.buttons %}
+                            {% if button.color == 'clear' %}
+                                <a href="{{ button.url }}" target="_blank" class="page-scroll btn btn-clear">{{ button.title }}</a>
+                            {% else button.color == 'red' %}
+                                <a href="{{ button.url }}" target="_blank"  class="page-scroll btn btn-red">{{ button.title }}</a>
+                            {% endif %}
+                        {% endfor %}
+                    </div>  
+                </div> <!-- close service-box -->
+
+                {% else %}
+                <div class="row no-side-margin service-box" data-aos="fade-up" id="{{ service.id }}">
+                    <div class="col-sm-8 col-md-8 service-text"> 
+                        <h4>{{ service.title }}</h4>                      
+                        {% for paragraph in service.paragraphs %}
+                        <p>{{ paragraph.p }}</p>
+                        {% endfor %}
+                        {% for button in service.buttons %}
+                            {% if button.color == 'clear' %}
+                                <a href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
+                            {% else button.color == 'red' %}
+                                <a href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
+                            {% endif %}
+                        {% endfor %}
+                    </div> 
+                    <div class="col-sm-4 col-md-4 service-img" style="background-image: url('{{ site.baseurl }}/img/general/{{ service.img }}');">   
+                    </div>  
+                </div> <!-- close service-box -->
+                {% endif %}
+                {% endfor %}
+            </div> <!-- close services-module-->
+        </div> <!-- close sub-container-->
+    </div> <!-- close container -->
+</section>

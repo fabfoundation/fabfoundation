@@ -1,0 +1,34 @@
+---
+layout: page
+id: about
+hastitle: true
+title: "404: Page Not Found"
+hasdescription: true 
+description:
+  - paragraph: "The page you were looking for doesn't seem to exist here. Check our menu down below to look for all the routes to our site's existing content:"
+background-img: kidglasses.jpg
+---
+
+<div class="section">
+  <div class="container standard overlay-container" style="background-color: #023fb8; padding-top: 60px;">
+    <div class="sub-container">
+      {% for category in site.data.navbar.navbar.categories %}
+          <div class="col-xs-12 col-sm-3 col-md-4 link-box">
+              <a class="main-link" href="{{ site.baseurl }}/{{ category.link }}" target="_blank">{{ category.title }}</a>
+              {% for sublink in category.sublinks %}
+                  <a class="sub-link" href="{{ site.baseurl }}/{{ sublink.link }}" target="_blank">{{ sublink.title }}</a>
+              {% endfor %}
+              {% if category.hasbuttons == true %}
+              {% for button in category.buttons %}
+                  {% if button.color == 'clear' %}
+                      <a href="{{ button.url }}" class="page-scroll btn btn-clear clear-inverted btn-xs">{{ button.title }}</a>
+                  {% else button.color == 'red' %}
+                      <a href="{{ button.url }}" class="page-scroll btn btn-red btn-xs">{{ button.title }}</a>
+                  {% endif %}
+              {% endfor %}
+          {% endif %}
+          </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

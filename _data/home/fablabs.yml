@@ -1,0 +1,32 @@
+id: fablabs
+hastopbanner: false
+topbanner: 
+hascarousel: false
+carouselbackground:
+carousel:
+  - img: ''
+    url: ''
+haslogo: false
+logo: fablabs_icon.svg
+height: 45px
+hastitle: true
+title: "We support the growth of the international fab lab network." 
+hassubtitle: true
+subtitle: "We are a global community of learning and innovation with over 1,000 digital fabrication labs in over 40 countries."
+haslargeimg: true
+largeimg: fablabsmap.png
+hasbuttons: true
+buttons:
+  - title: "What is a  Lab?"
+    url: 'global-community#fablabs-full'
+    color: red
+  - title: "How to start a Fab Lab?"
+    url: 'global-community#fab-lab-questions'
+    color: clear
+  - title: "Add a Lab to the Map"
+    url: 'global-community#adding-labs'
+    color: clear
+hasprojectgallery: false 
+projects:
+  - title: ""
+    img: 

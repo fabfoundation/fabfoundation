@@ -1,0 +1,32 @@
+<!--Standard section template -->
+<section id="{{ include.texts.id }}" class="bluemodule section-home">    
+    <div class="container standard">
+        <div class="sub-container" data-aos="fade-up">
+
+            {% for statement in include.texts.statements %}
+        	<div class="col-md-6 bluebox">
+                <div class= "title">
+        		  <h4 class= "h4-inverted"> {{ statement.title }} </h4>
+                </div>
+                <div class= "description">
+        		  <p class="p-inverted small"> {{ statement.description }} </p>
+                </div>
+                <a href="{{ button.url }}" class="page-scroll btn btn-gray">{{ statement.button }}</a>
+        	</div>
+            {% endfor %}
+
+        </div><!-- close sub-container --> 
+    </div> <!-- close container -->
+
+
+    <div class="container standard blue-action">
+        <div class="sub-container" data-aos="fade-down">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <a data-aos="fade-up" href="/about" class="page-scroll btn btn-red">Learn more about the Fab Foundation</a> 
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

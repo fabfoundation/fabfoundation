@@ -1,0 +1,55 @@
+<!--Standard section template -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">  
+    <div class="container standard">
+        <div class="sub-container">
+
+            {% if include.texts.hastitle == true %}
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">{{ include.texts.title }}</h3>
+                </div>
+            </div>
+            {% endif %}
+            
+            {% if include.texts.haslongtext == true %}
+            <div class="row text-center" data-aos="fade-right">
+                <div class="col-md-12 body-text">
+                    <p> {{ include.texts.longtext }} </p>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="row text-center" data-aos="fade-right">
+            {% for category in include.texts.categories %}
+                <div class="col-md-6 body-text">
+                    <h4 style="margin-bottom: 20px;"> {{ category.title }} </h4>
+                    {% for bullet in category.bullets %}
+                        <ul>
+                            <a href="{{ site.baseurl}}/resource-folder/financial-reports/{{ bullet.url }}" target="_blank">
+                            <li>{{ bullet.name }} </li>
+                            </a>
+                        </ul>
+                    {% endfor %}
+                </div>   
+            {% endfor %}
+             </div> 
+
+            {% if include.texts.hasbuttons == true %}
+            <div class="row">
+                <div class="col-md-12">
+                    {% for button in include.texts.buttons %}
+                        {% if button.color == 'clear' %}
+                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
+                        {% else button.color == 'red' %}
+                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}  
+
+        </div><!-- close sub-container --> 
+    </div> <!-- close container -->
+
+</section>
+

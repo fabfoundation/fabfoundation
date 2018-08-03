@@ -1,0 +1,51 @@
+<!--Standard section template -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">  
+    <div class="container standard">
+        <div class="sub-container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">{{ include.texts.title }}</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="section-subheading">{{ include.texts.subtitle }}</p>
+                </div>
+            </div>
+
+            <div class="row" style="margin-bottom: 40px;" id="adding-labs">
+                <div class="col-md-12">
+                    <iframe frameborder='0' height='400' marginheight='0px' marginwidth='0px' name='labsMap' scrolling='no' src='https://www.fablabs.io/labs/embed' style='border: 0px #FFFFFF none;' width='100%'></iframe>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">{{ include.texts.title2 }}</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="section-subheading">{{ include.texts.subtitle2 }}</p>
+                </div>
+            </div>
+            {% if include.texts.hasbuttons == true %}
+            <div class="row">
+                <div class="col-md-12">
+                    {% for button in include.texts.buttons %}
+                        {% if button.color == 'clear' %}
+                            <a href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
+                        {% else button.color == 'red' %}
+                            <a href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+
+        </div><!-- close sub-container --> 
+    </div> <!-- close container -->
+
+</section>
+

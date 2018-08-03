@@ -1,0 +1,48 @@
+url: http://localhost:4000/
+baseurl: /fabfoundation
+
+# Site settings
+title: The Fab Foundation
+logo: /img/logos/fabfoundation.svg
+email: your-email@domain.com
+description: "Bridging the Digital Divide. Design / Fabricate / Share. We work to provide access to the tools, the knowledge and the financial means to educate, innovate and invent using technology and digital fabrication to allow anyone to make (almost) anything."
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/fabfndn
+  - title: facebook
+    url: https://www.facebook.com/fabfndn
+  - title: youtube
+    url: https://www.youtube.com/user/fabfndn
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: "50 Milk St., 16th Floor"
+  - line: "Boston, MA 02109"
+
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# applies pretty for all
+permalink: pretty
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

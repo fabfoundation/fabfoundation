@@ -1,0 +1,14 @@
+id: donations-grants
+hastopbanner: true
+topbanner: "SCOPES.jpg"
+haslogo: true
+logo: donations.svg 
+height: 100px 
+hastitle: true
+title: "Donations and grants" 
+hassubtitle: true
+subtitle: "The Fab Foundation is working globally to democratize access to the tools and knowledge for technological invention."
+haslongtext: true
+longtext: 'For youth, lifelong learners, and communities in need, this access gives them the ability to solve local technical challenges and to build economic opportunity through grassroots invention. This donation will be used to support the ongoing operations and growth of The Fab Foundation and the global network we support. For more information on how to support the many educational and economic outreach projects in the network, or to support the establishment of new fab labs or infrastructure, please <a href="/contact"> contact us.</a> Thank you for your interest and your support!'
+haslargeimg: false
+largeimg: 

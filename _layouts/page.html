@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+  {% include fixed/head.html %}
+
+
+    <body id="page-top" class="index" onload="loaded()" style="background-color: transparent;">
+    <img src="{{ site.baseurl }}/img/backgrounds/{{ page.background-img }}" class="page-bg">
+        
+    {% include fixed/navbar.html %}
+
+    <div class="page-content">
+    	<div id="{{ page.id }}-intro page-intro" data-aos="fade-up">  
+    		<div class="container standard">
+        		<div class="sub-container">
+                    <!--Section-Intro Template -->
+                    <div>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <h2 class="page-heading">{{ page.title }}</h2>
+                            </div>
+                        </div>
+                    </div> <!--close section-intro-->
+                </div><!-- close sub-container --> 
+            </div> <!-- close container -->
+
+            {% if page.hasdescription == true %}
+            <div class="container standard" style="background-color: #e5e3ea;">
+                <div class="sub-container">             
+                        <div class="row">
+                            <div class="col-md-12 body-text">
+                                {% for p in page.description %}
+                                <p class="page-text"> {{ p.paragraph }} </p>
+                                {% endfor %}
+                            </div>
+                        </div>
+                        <div class="row text-center">
+                            <div class="col-md-12 down-arrow-space">
+                                <a href="#page-body" class="page-scroll">
+                                    <img class="arrow" src="{{ site.baseurl }}/img/icons/down_icon.svg"/>
+                                </a>
+                            </div>
+                        </div>
+                </div><!-- close sub-container --> 
+            </div> <!-- close container -->
+             {% endif %}
+		</div>
+        <div id="page-body">
+        {{ content }}
+        <div>
+    </div><!--close page-content-->
+    
+    {% include fixed/subscribe.html %}
+    {% include fixed/mailchimp-modal.html %}
+    {% include fixed/footer.html %}
+    {% include modals.html %}
+    {% include fixed/js.html %}
+
+
+    </body>
+</html>

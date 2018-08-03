@@ -1,0 +1,14 @@
+id: other-projects
+hastitle: true
+title: "Other educational projects" 
+services:
+  - title: "Brilliant Career Lab"
+    id: 'bcl'
+    orientation: normal
+    img: bcl.jpg
+    paragraphs:
+      - p: "GE Brilliant Career Lab was developed in partnership with the Fab Foundation to enable students to investigate STEM careers through hands on experiences with digital fabrication tools in a mobile lab.  Lessons can be deployed in partnership with teachers in middle and high school classrooms with the resources of a mobile lab, which visits each classroom and includes equipment, materials, and an instructor that partners with the classroom teacher. Brilliant Career Play is an extension of the Boston Celtics and GE partnership that creates access for middle school students in a mobile lab environment to engage in hands-on, interactive educational experiences."
+    buttons:
+      - title: "Learn More"
+        url: 'https://www.scopesdf.org/ge-brilliant-career-lab-collection/'
+        color: clear

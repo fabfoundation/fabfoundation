@@ -1,0 +1,65 @@
+id: resources-fablabs
+hastitle: true
+title: "Fab Lab resources" 
+resources:
+  - title: "SOLIDWORKS xDesign"
+    id: 'solidworks-xdesign'
+    img: solidworks.png
+    paragraphs:
+      - p: "Dear Fab Lab Managers and Fabbers, Dassault Systèmes SOLIDWORKS has been a great Founding Partner for Fab Foundation, both in starting new Fab Labs, such as Rwanda and Bhutan labs, and facilitating all Fab Labs with its state-of-the-art 3D CAD tools."
+      - p: "SolidWorks xDesign is a cloud-based 3D CAD Application that runs in a browser, is device-agnostic, and can be used anytime, anywhere with no install required. Combined with its innovative design, cloud data management, and collaboration capabilities, SOLIDWORKS xDesign is all set to help fabbers in their creative journeys from art to part. Dassault Systèmes is excited to invite fabbers to the SOLIDWORKS xDesign Lighthouse Program, starting from August 1, 2018. SOLIDWORKS Team will make a formal announcement during the Fab 14 mega event, host hands-on workshops in Toulouse and announce a ‘Make in xDesign’ Challenge with some cool prizes. Of course, to take part in the challenge, you need to be part of the Lighthouse program"
+      - p: "How to access SOLIDWORKS xDesign (two ways):"
+      - p: "1. You can become part of the Lighthouse Program by way of recommendation from your Fab Lab Manager via the attached form. This completed form must be sent to abi9@3ds.com by each Fab Lab Manager by September 1, 2018. This will enable the SOLIDWORKS team to invite the Fab Lab Manager, and her/ his recommended fabbers (up to 10 per Fab Lab), to the program."
+      - p: "2. If you, as a fabber, are interested in using SOLIDWORKS xDesign, you can write to abi9@3ds.com with a CC to your Fab Lab Manager. The team at SOLIDWORKS will evaluate your request and send you an invite after verification with your Fab Lab. It is recommended that you make your Fab Lab Manager aware of your willingness to be part of SOLIDWORKS xDesign Lighthouse Program beforehand."
+    buttons:
+      - title: "Become part of the Lighthouse Program"
+        url: 'resource-folder/forms/xdesign-form.pdf'
+        color: clear
+  - title: "SOLIDWORKS Software Licenses"
+    id: 'solidworks-license'
+    img: solidworks.png
+    paragraphs:
+      - p: "Dear Fab Labs,"
+      - p: "Dassault Systemes SolidWorks Corporation is a partner of Fab Labs and Fab Academy, providing SolidWorks software through sponsorship of labs in MIT’s global Fab Lab network. Only fab labs registered and listed on the official fab lab list (https://www.fablabs.io/labs) will be able to take advantage of this offer."
+      - p: "By applying for sponsorship, you agree to support SolidWorks community efforts for Fab Labs around the world by working with us as we develop case studies, social media stories, images, press releases, and user group presentations."
+      - p: "· Fab Labs will receive 1 commercial license of SolidWorks Premium Software"
+      - p: "· Fab Academy sites will receive 1 – 10 seat network license of SolidWorks Education Edition software for teaching/training. Please apply for sponsorship. Once you have applied for sponsorship, instructions for downloading software will be sent by email. Please allow two weeks for delivery."
+    buttons:
+      - title: "APPLY"
+        url: 'https://www.surveymonkey.com/s/LW7Z7VL'
+        color: clear
+  - title: "Discount on new eco-friendly 3D Printing PLA and ABS filament"
+    id: 'dprintlife'
+    img: 3dprintlife.png
+    paragraphs:
+      - p: "Fab Lab Hub has secured a discount on new eco-friendly 3D Printing PLA and ABS filament from 3D PrintLife for any Fab Lab in the Network. Fabbers from the network have tested the new filament and given it a performance thumbs-up after testing. Click on the button to go to the 3D PrintLife Fab Lab Hub page for details on the material and ordering instructions:"
+    buttons:
+      - title: "GO TO ORDERING INSTRUCTIONS"
+        url: 'http://fablabhub.org/eco-friendly-3d-printer-filament/'
+        color: clear
+    buttons:
+      - title: "APPLY"
+        url: 'https://www.surveymonkey.com/s/LW7Z7VL'
+        color: clear
+  - title: "Kanbanchi for G Suite Software Licenses"
+    id: 'kanbanchi'
+    img: Kanbanchi.png
+    paragraphs:
+      - p: "Kanbanchi for G Suite is the only online project management / task management / collaboration software with Kanban Board, Gantt Chart and Time Tracker, built specifically for G Suite. Project boards with lists and cards visualise a workflow of all your tasks and activities. Collaborate with your team in real time and manage your projects visually! Intuitive, simple familiar interface and no learning curve can get people engaged easily."
+      - p: "Participating Fab Labs are eligible to use the core version of the software free, and get a 50% discount on paid plans. Please, apply by writing us a message in free form from an official lab email, registered on fablabs.io."
+    buttons:
+      - title: "E-mail address"
+        url: 'mailto:support@kanbanchi.desk-mail.com'
+        color: clear
+  - title: "Access to Autodesk Product Design Collection"
+    id: 'fab-autodesk'
+    img: fab+autodesk.jpg
+    paragraphs:
+      - p: "At Fab12 in Shenzhen, Sherry Lassiter announced that Autodesk is now granting access to its full Autodesk Product Design Collection to 1000+ registered Fab Labs globally. Intuitive, simple familiar interface and no learning curve can get people engaged easily."
+      - p: "Last summer, Autodesk granted access to Autodesk Tinkercad, Autodesk 123D Circuits, and Autodesk Fusion 360 to Fab Labs, and earlier this year Autodesk made its full portfolio of product design software available to Fab Academy attendees. Now Fab Labs registered with the Fab Foundation can receive free access to software by applying for a grant here: www.autodesk.com/fablabs"
+      - p: "Participating Fab Labs will receive a grant that includes 10 subscriptions to the Autodesk Product Design Collection for the Fab Lab which can be used on or off-site by its members. The subscription includes the professional-grade 3D design tools needed to succeed in the changing landscape for product makers, hobbyists and manufacturers including Fusion 360, Inventor Professional, AutoCAD, ReCap 360 Pro, 3ds Max, 25 gigabytes of cloud storage and more."
+      - p: "A FAQ with grant details is available upon request on the following application page:"
+    buttons:
+      - title: "Go to application page"
+        url: 'https://www.autodesk.com/campaigns/tech-impact-fablabs'
+        color: clear

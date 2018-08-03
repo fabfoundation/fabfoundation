@@ -1,0 +1,69 @@
+<!--Standard section template -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">  
+    <div class="container standard">
+        {% if include.texts.hastopbanner == true %}
+        <div class="row text-center banner">
+            <div class="img-large banner-img" style="background-image: url('{{ site.baseurl }}/img/general/{{ include.texts.topbanner }}');"></div>
+        </div>
+        {% endif %}
+
+        <div class="sub-container">
+            {% if include.texts.haslogo == true %}
+            <div class="row">
+                <div class="col-md-12 section-logo" style="height: {{ include.texts.height }}; background-image: url('{{ site.baseurl }}/img/logos/{{ include.texts.logo }}');">
+                </div>
+            </div>
+            {% endif %}
+
+            {% if include.texts.hastitle == true %}
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">{{ include.texts.title }}</h3>
+                </div>
+            </div>
+            {% endif %}
+
+            {% if include.texts.haslargeimg == true %}
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <div class="img-large" style="background-image: url('{{ site.baseurl }}/img/general/{{ include.texts.largeimg }}');"></div>
+                </div>
+            </div>
+            {% endif %}
+
+            {% if include.texts.hassubtitle == true %}
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="section-subheading">{{ include.texts.subtitle }}</p>
+                </div>
+            </div>
+            {% endif %}
+            
+            {% if include.texts.haslongtext == true %}
+            <div class="row text-center" data-aos="fade-right">
+                <div class="col-md-12 body-text">
+                    <p> {{ include.texts.longtext }} </p>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="row">
+                <div class="col-md-12">
+                    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EYDLTF9MPXF2C">
+                        <img data-aos="fade-right" target="_blank" class="paypal-btn" src="{{ site.baseurl }}/img/general/donate.png">
+                    </a>
+                    {% for button in include.texts.buttons %}
+                        {% if button.color == 'clear' %}
+                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
+                        {% else button.color == 'red' %}
+                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+
+        </div><!-- close sub-container --> 
+    </div> <!-- close container -->
+
+</section>
+

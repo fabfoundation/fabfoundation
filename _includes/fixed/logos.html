@@ -1,0 +1,25 @@
+<!-- Sponsor Logos  -->
+
+<section id="sponsors">  
+    <div class="container">
+        <div class="sub-container">
+            <div class="row text-center sponsor-row">
+                <div class="col-md-12 sponsors-title">
+                   <h3 class="">Our contributors</h3>
+                </div>
+                {% for sponsor in site.data.sponsors %}
+            
+                       <a href="{{ sponsor.url }}" target="_blank">
+                           <div class="col-xs-4 col-sm-4 col-md-4 indicator-box link-grow">
+                            <span class="sponsor">
+                                <div class="icon"><img class="sponsor-img" src="{{ site.baseurl }}/img/sponsors/{{ sponsor.img }}"> </div>
+                            </span>
+                            </div>
+                        </a>
+                    
+                {% endfor %}
+            </div><!--row-->
+
+        </div>
+    </div><!--container-->  
+</section> 

@@ -1,0 +1,15 @@
+---
+layout: page
+id: resources
+hastitle: true
+title: "Resources"
+hasdescription: true 
+description:
+  - paragraph: "The Fab Foundation offers the community a list of resources to learn, to research and to build. Here you can find a list of documents to browse and to download!"
+background-img: global-bg.jpg
+---
+
+{% include fixed/resources-cards.html texts=site.data.resources.resources-pdfs %}
+{% include fixed/resources-cards.html texts=site.data.resources.resources-data %}
+{% include fixed/resources-sponsor-cards.html texts=site.data.resources.resources-fablabs %}
+{% include fixed/posts-gallery.html %}

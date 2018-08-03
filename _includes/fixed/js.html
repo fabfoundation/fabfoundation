@@ -1,0 +1,114 @@
+<!-- jQuery Version 1.11.0 -->
+<script src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+
+<!-- Plugin JavaScript -->
+<script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/classie.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
+
+<!-- Contact Form JavaScript 
+<script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script>-->
+
+<!-- Custom Theme JavaScript -->
+<script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+<!--Iscroll for horizontal slide menus
+<script src="{{ "/js/iscroll.js" | prepend: site.baseurl }}"></script>-->
+
+<!--Twitter call for last tweet home mosaic-->
+<script src="{{ "/js/twitter-call.js" | prepend: site.baseurl }}"></script>
+
+<!--Twitter call for last tweet home mosaic-->
+<script src="{{ "/js/twitter-call-academany.js" | prepend: site.baseurl }}"></script>
+
+<!-- Slow Appear -->
+<script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+
+<script src="{{ "/js/demoUtils.js" | prepend: site.baseurl }}" ></script>
+
+
+<script type="text/javascript">
+    $('.carousel').carousel({
+    interval: 3000 //changes the speed
+    })
+</script>
+
+
+<script type="text/javascript">
+    AOS.init({
+        duration: 1200,
+    })
+</script>
+
+
+<script>
+    function openNav() {
+        document.getElementById("myNav").style.height = "100%";
+    }
+
+    function closeNav() {
+        document.getElementById("myNav").style.height = "0%";
+    }
+</script>
+
+
+<!--
+<script type="text/javascript">
+    var myScroll;
+    function loaded() {
+        myScroll = new IScroll('#slideshow1');
+    }
+</script>
+
+<script type="text/javascript">
+  ;(function(ns){
+    var _iscroll = null;
+    ns.init = function(){
+        _iscroll = new IScroll('#slideshow1',{
+            scrollX: true,
+            freeScroll: true
+        });
+    }
+  })(this.slideshow1 = {});
+  (function(){
+    if(window.addEventListener){
+        window.addEventListener('load',slideshow1.init,false);
+    } else{
+        window.attachEvent('onload',slideshow1.init); //IE
+    }
+  })();
+</script>
+-->
+
+<script>
+    (function() {
+    /**
+    * Video element
+    * @type {HTMLElement}
+    */
+    var video = document.getElementById("background-video");
+    /**
+    * Check if video can play, and play it
+    */
+    video.addEventListener( "canplay", function() {
+    video.play();
+    });
+    })();
+</script>
+
+<script>
+ $(document).scroll(function() {
+       if($(window).scrollTop() > 800){
+        $("#background-video").hide();
+
+       }else if($(window).scrollTop() < 800){
+        $("#background-video").show();
+       }
+});
+</script>
+
+

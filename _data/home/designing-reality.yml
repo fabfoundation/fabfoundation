@@ -1,0 +1,16 @@
+id: designing-realities
+background: transparent
+isbanner: true
+banner: designing-reality.png
+link:
+iscarousel: false
+carouselbackground: 
+carousel:
+  - img: ''
+    url: ''
+  - img: ''
+    url: ''
+  - img: ''
+    url: ''
+button: "Check out more resources"
+buttonurl: 'resources'

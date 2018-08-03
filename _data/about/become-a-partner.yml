@@ -1,0 +1,29 @@
+id: "become-a-partner"
+background: transparent
+title: "Become a partner" 
+hassubtitle: true
+subtitle: "Being a partner or contributor of the Fab Foundation is contributing to our relentless mission to bridge the digital divide, bringing digital fabrication technologies and resources closer to the future generations of entrepreneurs, community leaders, scientists, and citizens that need the spaces, the learning communities and the resources to bring their ideas closer to life. Get in touch with us to see the multiple possibilities to become part of this global effort for a better future."
+sponsors: 
+  - organization: Chevron
+    url: 'https://www.chevron.com/'
+    img: chevron.jpg
+  - organization: GE Foundation
+    url: 'http://www.gesustainability.com/enabling-progress/ge-foundation/'
+    img: ge.jpg
+  - organization: Solidworks
+    url: 'http://www.solidworks.com/'
+    img: solidworks.png
+  - organization: Cisco 
+    url: 'https://www.cisco.com/'
+    img: cisco.png
+  - organization: Autodesk
+    url: 'https://www.autodesk.eu/'
+    img: autodesk.png 
+  - organization: MIT Center for Bits and Atoms
+    url: 'http://cba.mit.edu/'
+    img: cba.jpg
+hasbuttons: true
+buttons:
+  - title: "Contact the team"
+    url: 'mailto:'
+    color: clear

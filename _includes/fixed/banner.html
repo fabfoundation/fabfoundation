@@ -1,0 +1,52 @@
+<!--Standard standalone Banner or standalone carousel template -->
+<section id="{{ include.texts.id }}" style="background-color: #{{ include.texts.background }};" data-aos="fade-up" class="section-home">  
+    <div class="container">
+        {% if include.texts.isbanner == true %}
+        <a href="{{ site.baseurl }}/{{ include.texts.link }}" target="_blank">
+        <div class="row text-center banner standalone">
+            <div class="img-large banner-img banner-standalone" style="background-image: url('{{ site.baseurl }}/img/general/{{ include.texts.banner }}');"></div>
+        </div>
+        </a>
+        {% endif %}
+
+        {% if include.texts.iscarousel ==true %}
+        <div class="row text-center banner standalone">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+                <div class="carousel-inner">
+                    <div class="item active">
+                      <img src="{{ site.baseurl }}/img/general/{{ include.texts.carouselbackground }}" alt="">
+                    </div>
+
+                    {% for image in include.texts.carousel %}
+                    <div class="item">
+                      <img src="{{ site.baseurl }}/img/general/{{ image.img }}" alt="">
+                    </div>
+                    {% endfor %}
+                </div>
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" style="font-size: 22px;"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" style="font-size: 22px;"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div> 
+        </div>
+        {% endif %}
+
+        <div class="row">
+            <div class="col-md-12">
+                <a data-aos="fade-right" href="{{ site.baseurl }}/{{ include.texts.buttonurl }}" class="page-scroll btn btn-gray" style="float: right; margin-top: -40px;" target="_blank">{{ include.texts.button }} ></a> 
+            </div>
+         </div>
+
+    </div> <!-- close container -->
+
+
+                 
+
+</section>
+

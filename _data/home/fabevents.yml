@@ -1,0 +1,28 @@
+id: fabevents
+background: transparent
+hastopbanner: false
+topbanner: fab14.svg
+hascarousel: true
+carouselbackground: banner_events1.png
+carousel:
+  - img: banner_events2.png
+  - img: banner_events3.png
+haslogo: false
+logo: 
+height:
+hastitle: true
+title: "We organize the largest event on digital fabrication where you can learn, share and connect." 
+hassubtitle: true
+subtitle: "Each year we offer members of the more than 1,000 worldwide Fab Labs a space to gather, share, collaborate, explore and, of course, fabricate. Join us this year in France!"
+hasbuttons: true
+buttons:
+  - title: "Check out all Fabx Events"
+    url: 'http://fabevent.org/'
+    color: clear
+  - title: "Check out this year's conference"
+    url: 'http://fab14.fabevent.org/'
+    color: red
+hasprojectgallery: false 
+projects:
+  - title: ""
+    img: 
