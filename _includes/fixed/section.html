@@ -49,7 +49,7 @@
             {% if include.texts.hastitle == true %}
             <div class="row">
                 <div class="col-md-8">
-                    <h3 class="section-heading">{{ include.texts.title }}</h3>
+                    <h3 class="section-heading editable">{{ include.texts.title }}</h3>
                 </div>
             </div>
             {% endif %}
@@ -57,7 +57,7 @@
             {% if include.texts.haslargeimg == true %}
             <div class="row text-center">
                 <div class="col-md-12">
-                    <div class="img-large editable" style="background-image: url('{{ site.baseurl }}/img/general/{{ include.texts.largeimg }}');"></div>
+                    <div class="img-large" style="background-image: url('{{ site.baseurl }}/img/general/{{ include.texts.largeimg }}');"></div>
                 </div>
             </div>
             {% endif %}
@@ -65,7 +65,7 @@
             {% if include.texts.hassubtitle == true %}
             <div class="row">
                 <div class="col-md-8">
-                    <p class="section-subheading">{{ include.texts.subtitle }}</p>
+                    <p class="section-subheading editable">{{ include.texts.subtitle }}</p>
                 </div>
             </div>
             {% endif %}
@@ -73,7 +73,7 @@
             {% if include.texts.haslongtext == true %}
             <div class="row text-center" data-aos="fade-right">
                 <div class="col-md-12 body-text">
-                    <p> {{ include.texts.longtext }} </p>
+                    <p class="editable"> {{ include.texts.longtext }} </p>
                 </div>
             </div>
             {% endif %}
