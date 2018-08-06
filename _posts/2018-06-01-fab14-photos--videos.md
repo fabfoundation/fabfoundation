@@ -9,4 +9,4 @@ featured-img: fab14-banner.jpg
 permalink: /fab14-photos-videos
 ---
 
-This is a comment on Fab14...
+This is a comment on Fab14…
