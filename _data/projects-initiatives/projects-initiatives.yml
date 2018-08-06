@@ -4,7 +4,7 @@ cards:
     title: Fab Research
     id: fabresearch
     img: research.png
-    url:
+    url: 'resources#resources-research'
     description:
       - p: "The Fab Lab project is the educational outreach program for MIT’s Center for Bits & Atoms (link). As such the network is closely linked to MIT’s research into the merging of physical science and computer science and the development of digital materials. The international Fab Lab network also contributes to new research and applications in digital fabrication."
     bgcolor: "lightblue"
@@ -12,7 +12,7 @@ cards:
     title: FabX Events
     id: fabevents
     img: fab13symposium_low_res.jpg
-    url:
+    url: 'www.fabevent.org'
     description:
       - p: "Each year we offer members of the more than 1,000 worldwide Fab Labs a space to gather, to share, to collaborate, to explore and, of course, to fabricate. Join us this year in France!"
     bgcolor: "darkblue"
@@ -20,7 +20,7 @@ cards:
     title: Fab City Global Initiative 
     id: fabcity
     img: fabcity.png
-    url:
+    url: 'https://fab.city/'
     description:
       - p: "Fab City is a global initiative to develop locally productive and globally connected self-sufficient cities. It comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste."
     bgcolor: "lightblue"
@@ -28,7 +28,7 @@ cards:
     title: Fab Economy
     id: fabeconomy
     img: woodstructure_lowres.jpg
-    url:
+    url: 'http://www.fabeconomy.com/'
     description:
       - p: "Fab Economy is the start of a community business platform, Fab Economy is about creating a new economy for everybody, where local fulfillment and customization take the place of mass production and global distribution. Fab Labs, along companies and organizations can all work together towards reaching this goal. This is an exchange space where companies, fab labs and individuals can potentially resources, funding, collaborations and expertise."
     bgcolor: "darkblue"
