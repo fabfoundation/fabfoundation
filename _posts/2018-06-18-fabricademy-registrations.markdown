@@ -19,11 +19,11 @@ permalink: /fabricademy-registrations-now-open
 
 The possibilities to conduct experimental research in an open laboratory give students the physical and mental space for innovative re-thinking and reframing of today's realities, offering the resources for visions to be materialized, tested, developed and fabricated, no as a linear process, but as a spiral iteration and implementation into reality. Through the program, we are developing and implementing a new approach on to how to create, produce and distribute textile and fashion elements, by using distributed manufacturing infrastructures and knowledge networks.
 
-![Fabricademy]({{ "/img/posts/fabrics-sample.png" | absolute_url }})
+![Fabricademy]({{ "/uploads/fabrics-sample.png" | absolute_url }})
 
 Along with experts from the field, the participants will investigate how the textile and fashion industry can benefit from new technologies, processes and business models. We are experimenting with the human body, culture and mindset by recycling, hacking and sensing it, creating feedback loops with project development, where materials, aesthetics, sustainability and customization play equal and important roles. The Fabricademy offers a cross-disciplinary education and research platform, where production and culture through advanced technologies are making impact in the way we think and act towards the textile industry and all of its application fields. Working locally, while creating connected communities globally. We are not waiting for things to change, we are changing them from the ground up.
 
 
 [Learn More about the program and register here!](http://textile-academy.org/)
 
-![Fabricademy]({{ "/img/posts/fabricademy_program.jpg" | absolute_url }})
+![Fabricademy]({{ "/uploads/fabricademy_program.jpg" | absolute_url }})
