@@ -1,6 +1,9 @@
 id: academany-courses
 hastitle: false
-title: "Academany courses 2018/2019" 
+title: "" 
+hasmorebutton: true
+morebuttontitle: "Academany's website"
+morebuttonurl: 'http://academany.org/'
 services:
   - title: "FABACADEMY"
     id: 'fabacademy-course'

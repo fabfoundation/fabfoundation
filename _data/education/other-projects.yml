@@ -1,6 +1,9 @@
 id: other-projects
 hastitle: true
 title: "Other educational projects" 
+hasmorebutton: false
+morebuttontitle: ""
+morebuttonurl: ''
 services:
   - title: "Brilliant Career Lab"
     id: 'bcl'

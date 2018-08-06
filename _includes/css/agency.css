@@ -587,18 +587,26 @@ fieldset[disabled] .btn-clear.active {
 .btn-gray:hover,
 .btn-gray:focus,
 .btn-gray:active,
-.btn-grayactive,
+.btn-gray.active,
 .open .dropdown-toggle.btn-gray {
     color: #{{ site.data.template.color.light }};
     background-color: #{{ site.data.template.color.reds }};
 }
 
 /*OTHER*/
-.more-button {
+h6.more-button {
     float: right;
     text-decoration: none;
     color: #{{ site.data.template.color.blacks }};
 }
+
+.more-button:hover,
+.more-button:focus,
+.more-button:active, {
+    color: #{{ site.data.template.color.reds }};
+    text-decoration: none;
+}
+
 
 .btn-xs {
     margin-top: 20px;
