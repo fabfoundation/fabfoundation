@@ -31,7 +31,7 @@
                     </div>
                     <div id="{{ tab.click }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{ tab.id }}">
                         <div class="panel-body" id="panel-text">
-                            {% for paragraph in tab.body %}
+                            {% for paragraph in tab.paragraphs %}
                             <p>{{ paragraph.p }}</p>
                             {% endfor %}
                         </div>
