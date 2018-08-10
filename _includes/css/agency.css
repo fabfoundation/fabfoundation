@@ -414,8 +414,9 @@ body .sub-body {
     }
 }
 
-.banner-img.banner-standalone {
-    margin-top: 60px;
+.banner-standalone {
+    /*margin-top: 60px;*/
+    width: 100%;
 }
 
 .bg-light-gray {

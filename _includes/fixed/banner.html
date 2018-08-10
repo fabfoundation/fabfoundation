@@ -4,7 +4,11 @@
         {% if include.texts.isbanner == true %}
         <a href="{{ site.baseurl }}/{{ include.texts.link }}" target="_blank">
         <div class="row text-center banner standalone">
-            <div class="img-large banner-img banner-standalone" style="background-image: url('{{ site.baseurl }}/img/general/{{ include.texts.banner }}');"></div>
+            <!--<div class="img-large banner-img banner-standalone" style="background-image: url('{{ site.baseurl }}/img/uploads/{{ include.texts.banner }}');"></div>-->
+
+            <div>
+                <img class="banner-standalone" src="{{ site.baseurl }}/uploads/{{ include.texts.banner }}">
+            </div>
         </div>
         </a>
         {% endif %}
@@ -15,12 +19,12 @@
 
                 <div class="carousel-inner">
                     <div class="item active">
-                      <img src="{{ site.baseurl }}/img/general/{{ include.texts.carouselbackground }}" alt="">
+                      <img src="{{ site.baseurl }}/uploads/{{ include.texts.carouselbackground }}" alt="">
                     </div>
 
                     {% for image in include.texts.carousel %}
                     <div class="item">
-                      <img src="{{ site.baseurl }}/img/general/{{ image.img }}" alt="">
+                      <img src="{{ site.baseurl }}/uploads/{{ image.img }}" alt="">
                     </div>
                     {% endfor %}
                 </div>
@@ -39,7 +43,7 @@
 
         <div class="row">
             <div class="col-md-12">
-                <a data-aos="fade-right" href="{{ site.baseurl }}/{{ include.texts.buttonurl }}" class="page-scroll btn btn-gray" style="float: right; margin-top: -40px;" target="_blank">{{ include.texts.button }} ></a> 
+                <a data-aos="fade-right" href="{{ site.baseurl }}/{{ include.texts.buttonurl }}" class="page-scroll btn btn-gray" style="float: right;" target="_blank">{{ include.texts.button }} ></a> 
             </div>
          </div>
 
