@@ -268,6 +268,35 @@ section h2.page-heading {
     font-weight: 600;
 }
 
+.jumplinks {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 0px;
+    line-height: 2.5em;
+}
+
+.page-jumplinks{
+    color: #{{ site.data.template.color.blacks }}; 
+    text-decoration: none;
+}
+
+.jumplinks li {
+    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.6px;
+    list-style: none;
+    display: inline;
+}
+
+.separator {
+    margin: 0 25px;
+    font-weight: 600;
+    color: #dbd8e0;
+}
+
 .section-logo {
     height:45px;
     background-repeat: no-repeat;

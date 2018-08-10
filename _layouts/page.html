@@ -43,7 +43,26 @@
                         </div>
                 </div><!-- close sub-container --> 
             </div> <!-- close container -->
-             {% endif %}
+            {% endif %}
+
+            {% if page.hasjumplinks == true %}
+            <div class="container standard">
+                <div class="sub-container">
+                    <div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <ul class="jumplinks">
+                                {% for jumplink in page.jumplinks %}
+                                    <a class="page-scroll page-jumplinks" href="#{{ jumplink.url }}"><li >{{ jumplink.link }}</li></a> <span class="separator"> &#47; </span>
+                                {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
+                    </div> 
+                </div><!-- close sub-container --> 
+            </div> <!-- close container -->
+            {% endif %}
+
 		</div>
         <div id="page-body">
         {{ content }}
