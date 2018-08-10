@@ -19,8 +19,11 @@ buttons:
   - title: "Check out all Fabx Events"
     url: 'http://fabevent.org/'
     color: clear
-  - title: "Check out this year's conference"
+  - title: "This year's conference"
     url: 'http://fab14.fabevent.org/'
+    color: clear
+  - title: "Fab14 Photos and Videos!"
+    url: 'https://www.flickr.com/photos/fabfoundation/'
     color: red
 hasprojectgallery: false 
 projects:
