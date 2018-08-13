@@ -6,7 +6,7 @@
   <div class="overlay-content">
     <div class="container overlay-container">
 
-        {% for category in site.data.navbar.navbar.categories %}
+        {% for category in site.data.navbar.navbar.sections %}
             <div class="col-xs-12 col-sm-3 col-md-4 link-box">
                 <a class="main-link" href="{{ site.baseurl }}/{{ category.link }}" target="_blank">{{ category.title }}</a>
                 {% for sublink in category.sublinks %}
