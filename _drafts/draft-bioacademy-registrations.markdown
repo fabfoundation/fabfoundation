@@ -5,8 +5,7 @@ highlight: true
 thumbnail: bioacademy-thumb.png
 layout: posts
 date: 2018-06-1
-img: 
-featured-img: bioacademy-banner.png
+img: bioacademy-banner.png 
 permalink: /bioacademy-registrations-now-open
 
 ---

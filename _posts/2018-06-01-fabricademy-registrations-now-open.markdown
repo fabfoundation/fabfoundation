@@ -8,7 +8,6 @@ thumbnail: /uploads/fabricademy-thumb.png
 layout: posts
 date: 2018-06-01 00:00:00
 img: fabricademy-banner.jpg
-featured-img: fabricademy-banner.jpg
 permalink: /fabricademy-registrations-now-open
 ---
 

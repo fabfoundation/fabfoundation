@@ -5,9 +5,8 @@ highlight: true
 thumbnail: fab14-2.png
 layout: posts
 date: 2018-06-1
-img: 
+img: fab14-2.png
 permalink: /fab14-tickets-available-now
-featured-img: fab14-2.png
 
 ---
 
