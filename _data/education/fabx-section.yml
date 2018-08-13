@@ -1,6 +1,6 @@
 id: example-id
 hastopbanner: true
-topbanner: kidsplaying-low-res.jpg 
+topbanner: kidsplaying-low-res.jpg
 hascarousel: false
 carouselbackground: banner_events1.png
 carousel:
@@ -10,49 +10,51 @@ haslogo: true
 logo: academany-short.svg
 height: 45px
 hastitle: true
-title: "This is an example title" 
+title: This is an example title
 haslargeimg: false
 largeimg: fablabsmap.png
 hassubtitle: true
-subtitle: "This is an example subtitle where we explain something about the sections in two or three lines"
+subtitle: >-
+  This is an example subtitle where we explain something about the sections in
+  two or three lines
 haslongtext: true
-longtext: "This is a space to put more texts if needed, it will display longer text better than the subtitle because it takes all the width of the"
+longtext: >-
+  This is a space to put more texts if needed, it will display longer text
+  better than the subtitle because it takes all the width of the
 hasvignettes: true
-id: example-id-vignette
 vignettes:
   - hastitle: true
-    title: "This is a title"
+    title: This is a title
     orientation: normal
     haslead: true
-    lead: "This is an example lead"
+    lead: This is an example lead
     hasbody: true
-    body: "This is an example body"
-    img: 'mobile_fablab5.png'
+    body: This is an example body
+    img: mobile_fablab5.png
   - hastitle: true
-    title: "This is a title"
+    title: This is a title
     orientation: inverted
     haslead: true
-    lead: "This is another example lead"
+    lead: This is another example lead
     hasbody: true
-    body: "This is another example body"
-    img: 'mobile_fablab6.png'
+    body: This is another example body
+    img: mobile_fablab6.png
 hasbuttons: true
 buttons:
-  - title: "Example Red"
+  - title: Example Red
     url: 'education#scopes-full'
     type: red
-  - title: "Example Clear"
+  - title: Example Clear
     url: 'https://www.scopesdf.org/contact/'
     type: clear
 hasprojectgallery: true
 projects:
-  - title: "Example Project"
+  - title: Example Project
     id: projects-initiatives-intro
-    img: research.png 
-  - title: "Example Project 2"
+    img: research.png
+  - title: Example Project 2
     id: fabeconomy
     img: woodstructure_lowres.jpg
-  - title: "Example Project 3"
+  - title: Example Project 3
     id: fabevents
-    img: fabcity.png 
-
+    img: fabcity.png
