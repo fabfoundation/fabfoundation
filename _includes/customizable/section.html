@@ -1,4 +1,4 @@
-<!--Standard section template -->
+<!--Standard customizable section template -->
 <section id="{{ include.texts.id }}" data-aos="fade-up">  
     <div class="container standard">
         {% if include.texts.hastopbanner == true %}
@@ -7,8 +7,7 @@
         </div>
         {% endif %}
 
-        {% if include.texts.hascarousel ==true %}
-        
+        {% if include.texts.hascarousel == true %}
         <div class="bs-example">
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <!-- Carousel indicators -->
@@ -152,7 +151,6 @@
             <div class="row slidewrapper">
                 <div id="slideshow1" class="slideshow">
                     <div class="list">
-
                         {% for slide in include.texts.slides %}
                         <a href="{{ slide.url }}" target="_blank">
                             <div class="element" data-aos="fade-right">
@@ -162,7 +160,6 @@
                             </div>
                         </a>
                         {% endfor %}
-
                     </div> <!-- close list -->
                 </div> <!-- close slideshow1 -->
             </div>  <!-- close slidewrapper -->  
