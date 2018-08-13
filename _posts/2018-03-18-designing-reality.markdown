@@ -5,6 +5,7 @@ highlight: false
 thumbnail: designing-reality-thumb.png
 layout: posts
 date: 2018-06-1
+img: 
 permalink: /designing-reality-book-out-now
 featured-img: designing-reality.png
 

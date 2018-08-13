@@ -5,6 +5,7 @@ highlight: true
 thumbnail: fab14-thumb.png
 layout: posts
 date: 2018-06-01 00:00:00
+img: 
 featured-img: fab14-banner.jpg
 permalink: /fab14-photos-videos
 ---

@@ -3,9 +3,9 @@ title: "Fab 14 tickets available now"
 caption: "Join us for the biggest conference on digital fabrication!"
 highlight: true
 thumbnail: fab14-2.png
-img: 
 layout: posts
 date: 2018-06-1
+img: 
 permalink: /fab14-tickets-available-now
 featured-img: fab14-2.png
 

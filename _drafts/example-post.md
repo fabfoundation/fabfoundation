@@ -7,6 +7,7 @@ highlight: true
 thumbnail: fabricademy-thumb.png
 layout: posts
 date: 2018-06-1
+img: 
 featured-img: fabricademy-banner.jpg
 permalink: /fabricademy-registrations-now-open
 ---
