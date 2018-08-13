@@ -6,4 +6,3 @@ hasbuttons: true
 buttons:
   - title: "Learn more"
     url: 'about/donations-grants'
-    color: clear

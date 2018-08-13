@@ -1,6 +1,5 @@
 title: "Our Contributors" 
-haslongtext: true
-longtext: "Being a partner or contributor of the Fab Foundation is contributing to our relentless mission to bridge the digital divide, bringing digital fabrication technologies and resources closer to the future generations of entrepreneurs, community leaders, scientists, and citizens that need the spaces, the learning communities and the resources to bring their ideas closer to life."
+text: "Being a partner or contributor of the Fab Foundation is contributing to our relentless mission to bridge the digital divide, bringing digital fabrication technologies and resources closer to the future generations of entrepreneurs, community leaders, scientists, and citizens that need the spaces, the learning communities and the resources to bring their ideas closer to life."
 sponsors: 
   - organization: Chevron
     url: 'https://www.chevron.com/'
@@ -24,4 +23,4 @@ hasbuttons: true
 buttons:
   - title: "Become a partner"
     url: 'mailto:info@fabfoundation.org'
-    color: red
+    type: red

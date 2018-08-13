@@ -1,9 +1,6 @@
 id: academany-courses
 hastitle: false
 title: "" 
-hasmorebutton: true
-morebuttontitle: "Academany's website"
-morebuttonurl: 'http://academany.org/'
 services:
   - title: "FABACADEMY"
     id: 'fabacademy-course'
@@ -14,10 +11,10 @@ services:
     buttons:
       - title: "Learn More"
         url: 'http://fabacademy.org/'
-        color: clear
+        type: clear
       - title: "Apply"
         url: "http://fabacademy.org/application-form/"
-        color: red
+        type: red
   - title: "BIOACADEMY"
     id: 'bioacademy-course'
     orientation: inverted
@@ -27,10 +24,10 @@ services:
     buttons:
       - title: "Learn More"
         url: 'http://bio.academany.org/'
-        color: clear
+        type: clear
       - title: "Apply"
         url: "http://bio.academany.org/signup.html"
-        color: red
+        type: red
   - title: "FABRICADEMY"
     id: 'fabricademy-course'
     orientation: normal
@@ -41,7 +38,10 @@ services:
     buttons:
       - title: "Learn More"
         url: 'http://textile-academy.org/'
-        color: clear
+        type: clear
       - title: "Apply"
         url: "http://textile-academy.org/join/"
-        color: red
+        type: red
+hasmorebutton: true
+morebuttontitle: "Academany's website"
+morebuttonurl: 'http://academany.org/'

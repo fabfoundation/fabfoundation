@@ -1,15 +1,7 @@
 id: scopes
-background: transparent
 haslogo: true
 hastopbanner: true
 topbanner: kidsplaying-low-res.jpg 
-hascarousel: false
-carouselbackground: ''
-carousel:
-  - img: ''
-    url: ''
-  - img: ''
-    url: ''
 haslogo: true
 logo: scopes.svg
 height: 25px
@@ -17,17 +9,13 @@ hastitle: true
 title: "We have co-created a transformative digital fabrication framework for K-12 STEM education" 
 hassubtitle: true
 subtitle: "We build curricular frameworks, professional development resources, and evaluation tools around digital fabrication that catalyze STEM learning in the classroom."
-haslargeimg: false
-largeimg: 
+haslongtext: false
+longtext:
 hasbuttons: true
 buttons:
   - title: "Learn more about SCOPES-DF"
     url: 'education#scopes-full'
-    color: red
+    type: red
   - title: "Contact the SCOPES-DF Team"
     url: 'https://www.scopesdf.org/contact/'
-    color: clear
-hasprojectgallery: false 
-projects:
-  - title: ""
-    img: 
+    type: clear

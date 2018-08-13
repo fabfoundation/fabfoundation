@@ -1,16 +1,6 @@
 id: designing-realities
 background: transparent
-isbanner: true
 banner: designing-reality-320.png
-link:
-iscarousel: false
-carouselbackground: 
-carousel:
-  - img: ''
-    url: ''
-  - img: ''
-    url: ''
-  - img: ''
-    url: ''
+link: 'designing-reality-book-out-now'
 button: "Check out more resources"
 buttonurl: 'resources'

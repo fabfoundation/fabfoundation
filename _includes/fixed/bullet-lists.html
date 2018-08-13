@@ -38,9 +38,9 @@
             <div class="row">
                 <div class="col-md-12">
                     {% for button in include.texts.buttons %}
-                        {% if button.color == 'clear' %}
+                        {% if button.type == 'clear' %}
                             <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
-                        {% else button.color == 'red' %}
+                        {% else button.type == 'red' %}
                             <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
                         {% endif %}
                     {% endfor %}

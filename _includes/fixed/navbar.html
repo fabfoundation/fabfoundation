@@ -14,9 +14,9 @@
                 {% endfor %}
                 {% if category.hasbuttons == true %}
                 {% for button in category.buttons %}
-                    {% if button.color == 'clear' %}
+                    {% if button.type == 'clear' %}
                         <a href="{{ button.url }}" class="page-scroll btn btn-clear clear-inverted btn-navbar">{{ button.title }}</a>
-                    {% else button.color == 'red' %}
+                    {% else button.type == 'red' %}
                         <a href="{{ button.url }}" class="page-scroll btn btn-red btn-navbar">{{ button.title }}</a>
                     {% endif %}
                 {% endfor %}

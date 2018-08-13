@@ -34,9 +34,9 @@
             <div class="row text-center">
                 <div class="col-md-12">
                     {% for button in include.texts.buttons %}
-                        {% if button.color == 'clear' %}
+                        {% if button.type == 'clear' %}
                             <a href="{{ button.url }}" class="page-scroll btn btn-clear">{{ button.title }}</a>
-                        {% else button.color == 'red' %}
+                        {% else button.type == 'red' %}
                             <a href="{{ button.url }}" class="page-scroll btn btn-red">{{ button.title }}</a>
                         {% endif %}
                     {% endfor %}

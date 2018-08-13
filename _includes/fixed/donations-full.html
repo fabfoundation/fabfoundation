@@ -1,4 +1,4 @@
-<!--Standard section template -->
+<!--Donations & grants about page template -->
 <section id="{{ include.texts.id }}" data-aos="fade-up">  
     <div class="container standard">
         {% if include.texts.hastopbanner == true %}
@@ -52,13 +52,6 @@
                     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EYDLTF9MPXF2C">
                         <img data-aos="fade-right" target="_blank" class="paypal-btn" src="{{ site.baseurl }}/uploads/donate.png">
                     </a>
-                    {% for button in include.texts.buttons %}
-                        {% if button.color == 'clear' %}
-                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
-                        {% else button.color == 'red' %}
-                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
-                        {% endif %}
-                    {% endfor %}
                 </div>
             </div>
 

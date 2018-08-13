@@ -1,15 +1,4 @@
 id: congress
-background: transparent
-haslogo: true
-hastopbanner: false
-topbanner: ''
-hascarousel: false
-carouselbackground: ''
-carousel:
-  - img: ''
-    url: ''
-  - img: ''
-    url: ''
 haslogo: true
 logo: 'congresslogo.png'
 height: 120px
@@ -17,7 +6,7 @@ hastitle: true
 title: "We support the efforts to have a fab lab in every U.S. congressional district" 
 hassubtitle: false
 subtitle: 
-haslongtext: yes
+haslongtext: true
 longtext: "The National Fab Lab Network Act of 2018 has been introduced to the House of Representatives, mandating a fab lab for every congressional district, empowering individuals and communities through digital fabrication tools that promote education, science, technology, engineering and math skills, increase invention and innovation, create businesses and jobs, and fulfill personal, professional, and community needs. <p><small> *Alaska and Hawaii not shown due to sizing constraints but also have fab labs. This map shows a rough estimate of fab labs that already exist in the US, taken from fablabs.io. There are more maker spaces throughout the US that do not appear on this map.</small></p>"
 haslargeimg: true
 largeimg: fablabs-usa.png
@@ -25,11 +14,7 @@ hasbuttons: true
 buttons:
   - title: "Read the Bill"
     url: 'https://www.congress.gov/bill/115th-congress/house-bill/4948/text'
-    color: clear
+    type: red
   - title: "Check out the fab lab directory for the us"
     url: 'https://www.fablabs.io/labs?country=us'
-    color: clear
-hasprojectgallery: false
-projects:
-  - title: ""
-    img: 
+    type: clear

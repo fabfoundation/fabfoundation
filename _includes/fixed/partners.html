@@ -4,13 +4,13 @@
         <div class="sub-container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-heading">Our contributors</h3>
+                    <h3 class="section-heading">{{ include.texts.title }}</h3>
                 </div>
             </div>
             
             <div class="row">
                 <div class="col-md-12">
-                    <p class="section-subheading">Being a partner or contributor of the Fab Foundation is contributing to our relentless mission to bridge the digital divide, bringing digital fabrication technologies and resources closer to the future generations of entrepreneurs, community leaders, scientists, and citizens that need the spaces, the learning communities and the resources to bring their ideas closer to life.
+                    <p class="section-subheading">{{ include.texts.text }}
                 </div>
             </div>
             
@@ -30,9 +30,9 @@
             <div class="row text-center">
                 <div class="col-md-12">
                     {% for button in include.texts.buttons %}
-                        {% if button.color == 'clear' %}
+                        {% if button.type == 'clear' %}
                             <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
-                        {% else button.color == 'red' %}
+                        {% else button.type == 'red' %}
                             <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
                         {% endif %}
                     {% endfor %}

@@ -1,12 +1,4 @@
 id: academany-full
-background: transparent
-hastopbanner: false
-topbanner: 
-hascarousel: false
-carouselbackground:
-carousel:
-  - img: ''
-    url: ''
 haslogo: true
 logo: academany-short.svg
 height: 45px
@@ -22,11 +14,7 @@ hasbuttons: false
 buttons:
   - title: ""
     url: ''
-    color: red
+    type: red
   - title: ""
     url: ''
-    color: clear
-hasprojectgallery: false 
-projects:
-  - title: ""
-    img: 
+    type: clear

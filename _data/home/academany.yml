@@ -1,12 +1,4 @@
 id: academany
-background: transparent
-hastopbanner: false
-topbanner: 
-hascarousel: false
-carouselbackground:
-carousel:
-  - img: ''
-    url: ''
 haslogo: true
 logo: academany-short.svg
 height: 45px
@@ -14,16 +6,18 @@ hastitle: true
 title: "We run a global distributed academy for everyone who wants to learn how to make (almost) anything." 
 hassubtitle: true
 subtitle: "Academany is the first global distributed global campus for learning how to make, and grow almost anything. Learn more about our courses:"
+haslongtext: false
+longtext:
 haslargeimg: false
 largeimg: 
 hasbuttons: true
 buttons:
   - title: "See all the courses"
     url: 'education#academany-full'
-    color: red
+    type: red
   - title: "Apply now!"
     url: 'http://academany.org/students/'
-    color: clear
+    type: clear
 hasslidermenu: true
 slides:
   - title: "Fabacademy"
@@ -41,7 +35,3 @@ slides:
     img: fabricademy.jpg
     logo: fabricademy.svg
     color: 9b6dbb
-hasprojectgallery: false 
-projects:
-  - title: ""
-    img: 

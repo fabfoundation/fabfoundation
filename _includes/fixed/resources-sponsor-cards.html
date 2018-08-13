@@ -21,9 +21,9 @@
                         <p>{{ paragraph.p }}</p>
                         {% endfor %}
                         {% for button in resource.buttons %}
-                            {% if button.color == 'clear' %}
+                            {% if button.type == 'clear' %}
                                 <a href="{{ button.url }}" target="_blank" class="page-scroll btn btn-clear">{{ button.title }}</a>
-                            {% else button.color == 'red' %}
+                            {% else button.type == 'red' %}
                                 <a href="{{ button.url }}" target="_blank"  class="page-scroll btn btn-red">{{ button.title }}</a>
                             {% endif %}
                         {% endfor %}

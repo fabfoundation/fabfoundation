@@ -14,7 +14,7 @@ resources:
     buttons:
       - title: "Become part of the Lighthouse Program"
         url: 'resource-folder/forms/xdesign-form.pdf'
-        color: clear
+        type: clear
   - title: "SOLIDWORKS Software Licenses"
     id: 'solidworks-license'
     img: solidworks.png
@@ -27,7 +27,7 @@ resources:
     buttons:
       - title: "APPLY"
         url: 'https://www.surveymonkey.com/s/LW7Z7VL'
-        color: clear
+        type: clear
   - title: "Discount on new eco-friendly 3D Printing PLA and ABS filament"
     id: 'dprintlife'
     img: 3dprintlife.png
@@ -36,11 +36,11 @@ resources:
     buttons:
       - title: "GO TO ORDERING INSTRUCTIONS"
         url: 'http://fablabhub.org/eco-friendly-3d-printer-filament/'
-        color: clear
+        type: clear
     buttons:
       - title: "APPLY"
         url: 'https://www.surveymonkey.com/s/LW7Z7VL'
-        color: clear
+        type: clear
   - title: "Kanbanchi for G Suite Software Licenses"
     id: 'kanbanchi'
     img: Kanbanchi.png
@@ -50,7 +50,7 @@ resources:
     buttons:
       - title: "E-mail address"
         url: 'mailto:support@kanbanchi.desk-mail.com'
-        color: clear
+        type: clear
   - title: "Access to Autodesk Product Design Collection"
     id: 'fab-autodesk'
     img: fab+autodesk.jpg
@@ -62,4 +62,4 @@ resources:
     buttons:
       - title: "Go to application page"
         url: 'https://www.autodesk.com/campaigns/tech-impact-fablabs'
-        color: clear
+        type: clear

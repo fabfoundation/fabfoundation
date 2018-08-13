@@ -20,7 +20,7 @@ categories:
     buttons:
       - title: "Donate"
         url: 'about#donations'
-        color: clear
+        type: clear
   - title: "Global Community"
     link: 'global-community'
     sublinks:

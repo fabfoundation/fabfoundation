@@ -1,12 +1,4 @@
 id: scopes-full
-background: transparent
-hastopbanner: false
-topbanner: 
-hascarousel: false
-carouselbackground: 
-carousel:
-  - img: ''
-    url: ''
 haslogo: true
 logo: scopes.svg
 height: 25px
@@ -22,8 +14,4 @@ hasbuttons: true
 buttons:
   - title: "Check out the Scopes Website"
     url: 'https://www.scopesdf.org/'
-    color: clear
-hasprojectgallery: false 
-projects:
-  - title: ""
-    img: 
+    type: clear

@@ -1,7 +1,4 @@
 id: mobile-fablab
-background: transparent
-hastopbanner: false
-topbanner: 
 hascarousel: true
 carouselbackground: mobile_fablab1.png 
 carousel:
@@ -11,19 +8,10 @@ carousel:
     url: ''
   - img: 'mobile_fablab4.png'
     url: ''
-haslogo: false
-logo: 
-height:
 hastitle: true
 title: "Mobile Fab Lab" 
 hassubtitle: true
 subtitle: "A mobile Fab Lab extends the hands on learning and capacities of a stationary Fab Lab to a larger audience of users!"
-haslargeimg: false
-largeimg: 
-hasprojectgallery: false 
-projects:
-  - title: ""
-    img: 
 hasvignettes: true
 id: mobile-fablab
 vignettes:
@@ -89,4 +77,4 @@ hasbuttons: true
 buttons:
   - title: "Download the Interior Layout Sample"
     url: '/web_sandbox/resource-folder/mobile-fablab-sample.png'
-    color: clear
+    type: clear

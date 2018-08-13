@@ -7,7 +7,7 @@ hasbuttons: true
 buttons:
   - title: "Guidelines for adding a lab to the map"
     url: 'https://www.fablabs.io/labs/new'
-    color: clear
+    type: clear
   - title: "Check out the global directory of fab labs"
     url: 'https://www.fablabs.io/labs'
-    color: clear
+    type: clear

@@ -22,9 +22,9 @@
                         <p>{{ paragraph.p }}</p>
                         {% endfor %}
                         {% for button in service.buttons %}
-                            {% if button.color == 'clear' %}
+                            {% if button.type == 'clear' %}
                                 <a href="{{ button.url }}" target="_blank" class="page-scroll btn btn-clear">{{ button.title }}</a>
-                            {% else button.color == 'red' %}
+                            {% else button.type == 'red' %}
                                 <a href="{{ button.url }}" target="_blank"  class="page-scroll btn btn-red">{{ button.title }}</a>
                             {% endif %}
                         {% endfor %}
@@ -39,9 +39,9 @@
                         <p>{{ paragraph.p }}</p>
                         {% endfor %}
                         {% for button in service.buttons %}
-                            {% if button.color == 'clear' %}
+                            {% if button.type == 'clear' %}
                                 <a href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
-                            {% else button.color == 'red' %}
+                            {% else button.type == 'red' %}
                                 <a href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
                             {% endif %}
                         {% endfor %}

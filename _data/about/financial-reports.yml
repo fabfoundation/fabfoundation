@@ -72,4 +72,4 @@ hasbuttons: false
 buttons:
   - title: ""
     url: ''
-    color: red
+    type: red
