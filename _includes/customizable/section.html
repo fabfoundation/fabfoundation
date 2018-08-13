@@ -165,21 +165,6 @@
             </div>  <!-- close slidewrapper -->  
             {% endif %}
 
-
-            {% if include.texts.hasbuttons == true %}
-            <div class="row">
-                <div class="col-md-12">
-                    {% for button in include.texts.buttons %}
-                        {% if button.type == 'clear' %}
-                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
-                        {% else button.type == 'red' %}
-                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
-                        {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-            {% endif %}
-
             <!--Project gallery option -->
              {% if include.texts.hasprojectgallery == true %}
             <div class="row">
@@ -204,6 +189,21 @@
                     {% endfor %}
                     <a href="{{ site.baseurl }}/projects-initiatives" target="_blank"><h6 class="more-button" style="margin-top:30px;"> See all projects and initiatives ></h6></a>
             </div> <!-- close row -->
+            {% endif %}
+
+            
+            {% if include.texts.hasbuttons == true %}
+            <div class="row">
+                <div class="col-md-12">
+                    {% for button in include.texts.buttons %}
+                        {% if button.type == 'clear' %}
+                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-clear" target="_blank">{{ button.title }}</a>
+                        {% else button.type == 'red' %}
+                            <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-red" target="_blank">{{ button.title }}</a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
             {% endif %}
 
         </div><!-- close sub-container --> 
