@@ -1,8 +1,10 @@
 id: donations-alert
-title: "Donate"
+title: Donate
 icon: donate
-description: "Support the democratization and access of tools and knowledge for technological invention for youth, lifelong learners, and communities in need."
+description: >-
+  Support the democratization and access of tools and knowledge for
+  technological invention for youth, lifelong learners, and communities in need.
 hasbuttons: true
 buttons:
-  - title: "Learn more"
-    url: 'about/donations-grants'
+  - title: Learn more
+    url: 'about#donations-grants'
