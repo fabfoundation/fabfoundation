@@ -105,13 +105,13 @@ tabs:
     click: collapse7
   - title: "Ideal Lab Layout"
     paragraphs: 
-      - p: '<img src="/fabfoundation/img/general/3dPrintingSpace.png" width="100%" style="margin-bottom: 10px;">'
-      - p: '<img src="/fabfoundation/img/general/Molding.png" width="100%" style="margin-bottom: 10px;">'
-      - p: '<img src="/fabfoundation/img/general/TotalSpace.png" width="100%" style="margin-bottom: 10px;">'
-      - p: '<img src="/fabfoundation/img/general/ShopBotRoom.png" width="100%" style="margin-bottom: 10px;">'
-      - p: '<img src="/fabfoundation/img/general/Laser.png" width="100%" style="margin-bottom: 10px;">'
-      - p: '<img src="/fabfoundation/img/general/Electronics.png" width="100%" style="margin-bottom: 10px;">'
-      - p: '<img src="/fabfoundation/img/general/ConferenceDesign.png" width="100%" style="margin-bottom: 40px;">'
+      - p: '<img src="/fabfoundation/uploads/3dPrintingSpace.png" width="100%" style="margin-bottom: 10px;">'
+      - p: '<img src="/fabfoundation/uploads/Molding.png" width="100%" style="margin-bottom: 10px;">'
+      - p: '<img src="/fabfoundation/uploads/TotalSpace.png" width="100%" style="margin-bottom: 10px;">'
+      - p: '<img src="/fabfoundation/uploads/ShopBotRoom.png" width="100%" style="margin-bottom: 10px;">'
+      - p: '<img src="/fabfoundation/uploads/Laser.png" width="100%" style="margin-bottom: 10px;">'
+      - p: '<img src="/fabfoundation/uploads/Electronics.png" width="100%" style="margin-bottom: 10px;">'
+      - p: '<img src="/fabfoundation/uploads/ConferenceDesign.png" width="100%" style="margin-bottom: 40px;">'
       - p: '<a href="/fabfoundation/resource-folder/pdfs/IdealLab.zip" class="btn btn-clear">Download .zip with all Pdfs</a>'
     id: 8
     click: collapse8

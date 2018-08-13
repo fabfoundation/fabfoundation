@@ -1121,7 +1121,7 @@ header .container {
     width: 30px;
     height: 30px;
     background-repeat: no-repeat;
-    background-image: url('{{ site.baseurl }}/img/icons/dialog-item.svg');
+    background-image: url('{{ site.baseurl }}/uploads/dialog-item.svg');
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: contain;

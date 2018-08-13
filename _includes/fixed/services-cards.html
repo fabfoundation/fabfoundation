@@ -14,7 +14,7 @@
                 {% for service in include.texts.services %}
                 {% if service.orientation == 'normal' %}
                 <div class="row no-side-margin service-box" data-aos="fade-up" id="{{ service.id }}">
-                    <div class="col-sm-4 col-md-4 service-img" style="background-image: url('{{ site.baseurl }}/img/general/{{ service.img }}');">      
+                    <div class="col-sm-4 col-md-4 service-img" style="background-image: url('{{ site.baseurl }}/uploads/{{ service.img }}');">      
                     </div> 
                     <div class="col-sm-8 col-md-8 service-text"> 
                         <h4 >{{ service.title }}</h4>                      
@@ -46,7 +46,7 @@
                             {% endif %}
                         {% endfor %}
                     </div> 
-                    <div class="col-sm-4 col-md-4 service-img" style="background-image: url('{{ site.baseurl }}/img/general/{{ service.img }}');">   
+                    <div class="col-sm-4 col-md-4 service-img" style="background-image: url('{{ site.baseurl }}/uploads/{{ service.img }}');">   
                     </div>  
                 </div> <!-- close service-box -->
                 {% endif %}
