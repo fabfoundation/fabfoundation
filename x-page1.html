@@ -1,0 +1,21 @@
+---
+layout: page
+id: example-id
+hastitle: true
+title: "Example Titlw"
+hasdescription: true 
+description:
+  - paragraph: "This is an example page intrduction paragraph."
+hasjumplinks: true
+jumplinks:
+  - link: "Jumplink 1"
+    url: "example-id"
+  - link: "Jumplink 2"
+    url: "example-id"
+  - link: "Jumplink 3"
+    url: "example-id"
+background-img: making.jpg
+---
+
+{% include customizable/section.html texts=site.data.education.academany-intro %}
+{% include customizable/services-cards.html texts=site.data.education.academany-courses %}
