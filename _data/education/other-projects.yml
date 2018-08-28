@@ -11,7 +11,7 @@ services:
     buttons:
       - title: "Learn More"
         url: 'https://www.scopesdf.org/ge-brilliant-career-lab-collection/'
-        tyoe: clear
+        type: clear
 hasmorebutton: false
 morebuttontitle: ""
 morebuttonurl: ''

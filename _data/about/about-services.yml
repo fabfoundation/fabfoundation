@@ -11,10 +11,10 @@ services:
     buttons:
       - title: "SCOPES-DF"
         url: 'https://www.scopesdf.org/'
-        color: "clear"
+        type: "clear"
       - title: "Academany"
         url: "/education"
-        color: "clear"
+        type: "clear"
   - title: ".ORG"
     orientation: inverted
     img: fablabsmap.png
@@ -24,7 +24,7 @@ services:
     buttons:
       - title: "The Fab Lab Network"
         url: ''
-        color: "clear"
+        type: "clear"
   - title: ".COM"
     orientation: normal
     img: machine.png
@@ -35,7 +35,7 @@ services:
     buttons:
       - title: "See more projects"
         url: ''
-        color: "clear"
+        type: "clear"
 hasmorebutton: false
 morebuttontitle: ""
 morebuttonurl: ''
