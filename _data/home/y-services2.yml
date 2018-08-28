@@ -1,0 +1,30 @@
+id: example-id
+hastitle: true
+title: "This is an example title"
+services:
+  - title: "This is an example service"
+    orientation: normal
+    img: scopes.png
+    paragraphs:
+      - p: "This is an example paragraph 1." 
+      - p: "This is an example paragraph 2."
+    buttons:
+      - title: "Example button 1"
+        url: 'https://www.scopesdf.org/'
+        color: "clear"
+      - title: "Example button 2"
+        url: "/education"
+        color: "clear"
+  - title: "This is an example second service"
+    orientation: inverted
+    img: fablabsmap.png
+    paragraphs:
+      - p: "In this one we use an inverted orientation to give more flow to the list! Choose orientation 'normal' or 'inverted' to change the direction with which is it displayed"
+      - p: "This is an example second paragraph"
+    buttons:
+      - title: "Example button 1"
+        url: ''
+        color: "clear"
+hasmorebutton: true
+morebuttontitle: "This is an extra button"
+morebuttonurl: ''
