@@ -11,10 +11,10 @@ services:
     buttons:
       - title: "Example button 1"
         url: 'https://www.scopesdf.org/'
-        color: "clear"
+        type: "clear"
       - title: "Example button 2"
         url: "/education"
-        color: "clear"
+        type: "clear"
   - title: "This is an example second service"
     orientation: inverted
     img: fablabsmap.png
@@ -24,7 +24,7 @@ services:
     buttons:
       - title: "Example button 1"
         url: ''
-        color: "clear"
+        type: "clear"
 hasmorebutton: true
 morebuttontitle: "This is an extra button"
 morebuttonurl: ''
