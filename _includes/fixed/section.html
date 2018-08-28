@@ -78,13 +78,12 @@
             </div>
             {% endif %}
 
-
             <!-- Vignettes -->
             {% if include.texts.hasvignettes == true %}
                 {% for vignette in include.texts.vignettes %}
                     {% if vignette.orientation == 'normal' %}
-                    <div class="vignette" data-aos="fade-right">  
-                        <div class="col-md-6 texts">
+                    <div class="row vignette" data-aos="fade-right">  
+                        <div class="col-xs-12 col-sm-6 col-md-6 texts">
                             {% if vignette.hastitle == true %}
                             <div class="row">
                                 <div class="col-md-12">
@@ -109,15 +108,15 @@
                             </div>
                             {% endif %}
                         </div> 
-                        <div class="col-md-6 vignette-img" style="background-image: url('{{ site.baseurl }}/uploads/{{ vignette.img }}');">      
+                        <div class="col-xs-12 col-sm-6 col-md-6 vignette-img" style="background-image: url('{{ site.baseurl }}/uploads/{{ vignette.img }}');">      
                         </div> 
                     </div>
                     {% else %}
-                    <div class="vignette" data-aos="fade-left">
-                        <div class="col-md-6 vignette-img" style="background-image: url('{{ site.baseurl }}/uploads/{{ vignette.img }}');">      
+                    <div class="row vignette" data-aos="fade-left">
+                        <div class="col-xs-12 col-sm-6 col-md-6 vignette-img" style="background-image: url('{{ site.baseurl }}/uploads/{{ vignette.img }}');">      
                         </div> 
                   
-                        <div class="col-md-6 no-padding texts">
+                        <div class="col-xs-12 col-sm-6 col-md-6 no-padding texts">
                             {% if vignette.hastitle == true %}
                             <div class="row">
                                 <div class="col-md-12">
@@ -147,7 +146,6 @@
                {% endfor %}
             {% endif %}
 
-
             {% if include.texts.hasslidermenu == true %}
             <div class="row slidewrapper">
                 <div id="slideshow1" class="slideshow">
@@ -167,7 +165,6 @@
                 </div> <!-- close slideshow1 -->
             </div>  <!-- close slidewrapper -->  
             {% endif %}
-
 
             {% if include.texts.hasbuttons == true %}
             <div class="row">
@@ -189,15 +186,7 @@
                     {% for project in include.texts.projects %}
                         <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
                             <a href="{{ site.baseurl }}/projects-initiatives#{{ project.id }}" class="portfolio-link" target="_blank" style="text-decoration: none;">
-                                <!--
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content">
-                                        <i class="fa fa-plus fa-2x"></i>
-                                    </div>
-                                </div>
-                                -->
                                 <img src="{{ site.baseurl }}/uploads/{{ project.img }} " class="img-responsive img-centered project-gallery-img" alt="">
-                            
                             <div class="portfolio-caption">
                                 <h4>{{ project.title }}</h4>
                                 <p class="text-muted"></p>
