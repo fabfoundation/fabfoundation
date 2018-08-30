@@ -1,47 +1,10 @@
 id: search-module
-background: transparent
-hastopbanner: false
-topbanner:
-hascarousel: false
-carouselbackground:
-carousel:
-  - img:
-    url:
-haslogo: false
-logo:
-height:
 hastitle: true
-title: This is a test title
+title: Search Results
 hassubtitle: false
 subtitle:
-haslargeimg: false
-largeimg:
 hasbuttons: false
 buttons:
   - title:
     url:
-    color:
-  - title:
-    url:
-    color:
-hasslidermenu: false
-slides:
-  - title:
-    url:
-    img:
-    logo:
-    color:
-  - title:
-    url:
-    img:
-    logo:
-    color:
-  - title:
-    url:
-    img:
-    logo:
-    color:
-hasprojectgallery: false
-projects:
-  - title:
-    img:
+    type: 

@@ -715,19 +715,27 @@ h6.more-button {
     border: solid 1px white;*/
 }
 
-.navbar-default .navbar-toggle {
+.navbar-default .right-group {
     position: relative;
-    /*float: right;*/
+    float: right;
     margin-right: 15px;
-    padding: 9px 10px;
     margin-top: 13px;
     margin-bottom: 13px;
+    
+}
+
+.navbar-default .navbar-toggle {
+    position: relative;
+    margin: 0px;
+    padding: 9px 10px;
+    /*float: right;*/
     background-image: none;
     border: 1px solid transparent;
     border-radius: 0px;
     border-color: transparent;
     background-color: transparent;
 }
+
 @media (min-width: 768px){
     .navbar-toggle {
         display: inline;
@@ -740,6 +748,18 @@ h6.more-button {
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
 }
+
+
+.navbar-default .navbar-search-icon {
+    font-size: 14px;
+    padding: 9px 15px;
+    color: #{{ site.data.template.color.whites }};
+}
+
+.navbar-default .navbar-search-icon:hover, .navbar-default .navbar-search-icon:focus {
+    color: #{{ site.data.template.color.lightblues }};
+}
+
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
@@ -765,6 +785,7 @@ h6.more-button {
     color: #fff;
     background-color: #{{ site.data.template.color.blues }};
 }
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 0px 0px;

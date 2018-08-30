@@ -32,12 +32,32 @@
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header page-scroll">
             <a class="navbar-brand page-scroll" href="{{ site.baseurl }}/#page-top"><img class="logo" src="{{ site.baseurl }}/uploads/fabfoundation.svg"></a>
-            <button type="button" class="navbar-toggle"  onclick="openNav()">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-        </div><!--close .container -->
+            <div class="right-group">
+                <div class="" style="position: relative; float:right;">
+                    <button type="button" class="navbar-toggle"  onclick="openNav()">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                     </button>
+                </div>
+                <div class="" style="position: relative; float:right;">
+                    <a href="{{ site.baseurl }}/search"><i class="glyphicon glyphicon-search navbar-search-icon"></i></a>
+                </div>
+            </div>
+            <!--
+            <div class="col-sm-3 col-md-3" style="float:right;">
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        
+                        <input type="text" class="form-control navbar-search-bar" placeholder="Search" name="q">
+                        <div class="input-group-btn">
+                            <i class="glyphicon glyphicon-search navbar-search-icon"></i>
+                        </div>
+                    </div>
+                </form>
+             </div>-->
+
+        </div><!--close navbar-header -->
     </div> <!--close .container -->
 </nav>
