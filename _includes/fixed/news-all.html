@@ -2,17 +2,21 @@
 <section id="posts-full" data-aos="fade-up">  
     <div class="container standard">
         <div class="sub-container">
+            {% if include.texts.hastitle == true %}
             <div class="row">
                 <div class="col-md-8">
                     <h3 class="section-heading">{{ include.texts.title }}</h3>
                 </div>
             </div>
+            {% endif %}
 
+            {% if include.texts.hassubtitle == true %}
             <div class="row">
                 <div class="col-md-8">
                     <p class="section-subheading"> {{ include.texts.subtitle }}</p>
                 </div>
             </div>
+            {% endif %}
 
             <!--Post gallery -->
 

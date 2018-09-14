@@ -14,8 +14,6 @@ sections:
         link: 'about#board-team'
       - title: 'Financial Reporting' 
         link: 'about#financial-reports'
-      - title: 'News' 
-        link: 'about#posts-full'  
     hasbuttons: true
     buttons:
       - title: "Donate"
@@ -35,12 +33,6 @@ sections:
       - title: 'Mobile Fab Lab' 
         link: 'global-community#mobile-fablab'     
     hasbuttons: false
-  - title: "Projects & Initiatives"
-    link: 'projects-initiatives'
-    sublinks:
-      - title: 'Project Gallery' 
-        link: 'projects-initiatives#projects-initiatives' 
-    hasbuttons: false 
   - title: "Resources"
     link: 'resources'
     sublinks:
@@ -63,7 +55,23 @@ sections:
       - title: 'Scopes-DF' 
         link: 'education#scopes-full'
       - title: 'Other Educational Projects' 
-        link: 'education#other-projects'  
+        link: 'education#other-projects'
+    hasbuttons: false
+  - title: "Projects and Initiatives"
+    link: 'projects-initiatives'
+    sublinks:
+      - title: 'Project Gallery' 
+        link: 'projects-initiatives#projects-initiatives' 
+    hasbuttons: false 
+  - title: 'News' 
+    link: 'news'
+    sublinks:
+      - title: 'Press Releases' 
+        link: 'news#press-releases'
+      - title: 'Newsletters' 
+        link: 'news#newsletters'
+      - title: 'Blog' 
+        link: 'news#blog' 
     hasbuttons: false
   - title: "Contact us"
     link: 'contact' 
@@ -76,3 +84,4 @@ sections:
         link: 'https://twitter.com/fabfndn' 
       - title: 'Youtube' 
         link: 'https://www.youtube.com/user/fabfndn' 
+    hasbuttons: false
