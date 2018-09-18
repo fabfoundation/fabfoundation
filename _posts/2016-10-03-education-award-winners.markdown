@@ -1,5 +1,5 @@
 ---
-title: Chevron STEM Education Award Winners Announced at FAB12
+title: Inaugural Chevron STEM Education Award Winners Announced at FAB12
 caption: >-
   Inaugural Chevron STEM Education Award Winners Announced at FAB12
 highlight: false
