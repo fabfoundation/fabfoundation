@@ -19,9 +19,14 @@
             {% endif %}
 
             <!--Post gallery -->
-
-            <div class="row">
-                {% for post in site.posts %}
+            {% for post in site.posts %}
+                {% if post.category == 'pressrelease' %}
+                <div class="row">
+                    <div class="col-md-8">
+                        <p class="section-subheading"> Press Releases</p>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
                         <a class="portfolio-link" href="{{ post.url | relative_url }}" target="_blank">
                             <div class="portfolio-hover">
@@ -36,8 +41,55 @@
                             <p class="text-muted"></p>
                         </div>
                     </div>
-                {% endfor %}
-            </div>
+                 </div>
+                {% endif %}
+                {% if post.category == 'newsletter' %}
+                <div class="row">
+                    <div class="col-md-8">
+                        <p class="section-subheading"> Newsletters</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
+                        <a class="portfolio-link" href="{{ post.url | relative_url }}" target="_blank">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-2x"></i>
+                                </div>
+                            </div>
+                            <div class="portfolio-img" style="background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');"> </div>
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>{{ post.title }}</h4>
+                            <p class="text-muted"></p>
+                        </div>
+                    </div>
+                 </div>
+                {% endif %}
+                {% if post.category == 'blog' %}
+                <div class="row">
+                    <div class="col-md-8">
+                        <p class="section-subheading">Blog</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
+                        <a class="portfolio-link" href="{{ post.url | relative_url }}" target="_blank">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-2x"></i>
+                                </div>
+                            </div>
+                            <div class="portfolio-img" style="background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');"> </div>
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>{{ post.title }}</h4>
+                            <p class="text-muted"></p>
+                        </div>
+                    </div>
+                 </div>
+                {% endif %}
+            {% endfor %}
             <!-- 
             <div class="row more-news-alert">
                 <div class="col-md-12 text-right">
