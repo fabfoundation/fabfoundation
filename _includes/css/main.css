@@ -1287,7 +1287,7 @@ header .container {
     line-height: 21px;
     margin: 0 0 70px;
     font-size: 13.3px;
-    font-weight: 300;
+    font-weight: 400;
     font-style: oblique;
     letter-spacing: 1.2px;
     font-family: {{ site.data.template.font.primary }}, "Helvetica Neue", Helvetica,Arial,sans-serif;
