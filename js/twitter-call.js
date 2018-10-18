@@ -1,8 +1,8 @@
-/* Edit the twitter id on display 
+/* Edit the twitter id on display*/
 tweet(1049253387483729920);
-*/
 
-/* Do not edit 
+
+/* Do not edit */
 
 function tweet(id) {
   $.getJSON("https://twitter.madeat.eu/1.1/statuses/show/" + id, function(data) {
@@ -10,15 +10,14 @@ function tweet(id) {
     $('.tweet').html(tweet);
   });
 }
-*/
 
-/* Last tweet */
 
+/* Get the last tweet 
 $.getJSON("https://twitter.madeat.eu/1.1/statuses/user_timeline.json?screen_name=FabFndn&count=1", function(data) {
   var tweet = linkify(data[0].text);
   $('.tweet').html(tweet);
 });
-
+*/
 
 function linkify(inputText) {
   var replacedText, replacePattern1, replacePattern2, replacePattern3;
