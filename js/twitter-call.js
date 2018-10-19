@@ -1,23 +1,22 @@
-/* Edit the twitter id on display*/
-tweet(1049253387483729920);
+
+/*Display a tweet by id*/
+$.getJSON("https://twitter.madeat.eu/1.1/statuses/show/1051427614605205505", function(data) {
+  var tweet = linkify(data.text);
+  $(".tweet").html(tweet);
+});
 
 
-/* Do not edit */
-
+/* Edit the twitter id on display
+tweet(1051790099682340864);
+*/
+/* Do not edit
 function tweet(id) {
   $.getJSON("https://twitter.madeat.eu/1.1/statuses/show/" + id, function(data) {
     var tweet = linkify(data.text);
     $('.tweet').html(tweet);
   });
 }
-
-
-/* Get the last tweet 
-$.getJSON("https://twitter.madeat.eu/1.1/statuses/user_timeline.json?screen_name=FabFndn&count=1", function(data) {
-  var tweet = linkify(data[0].text);
-  $('.tweet').html(tweet);
-});
-*/
+*/ 
 
 function linkify(inputText) {
   var replacedText, replacePattern1, replacePattern2, replacePattern3;
