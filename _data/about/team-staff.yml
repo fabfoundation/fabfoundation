@@ -1,45 +1,6 @@
-id: board-team
-title: "Fab Foundation Board"
+id: staff-team
+title: "Fab Foundation Staff"
 cards: 
-  - name: "Sherry Lassiter"
-    img: Sherry_Lassiter.jpg
-    position: "President & CEO"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/sherry-lassiter-29b34110"
-    bio:
-      - p: "Sherry Lassiter is one of the architects of the MIT global initiative for field on-site technology development, the Fab Lab program. A Fab Lab, or as users like to call it, fabulous laboratory, is a rapid prototyping platform for technical education, innovation and personal expression. The Fab Lab network includes over 1200 digital fabrication facilities in 100 countries. Lassiter is Director of the Fab Foundation, a non-profit organization committed to building technical capacity in a locality, improving individuals’ abilities to develop themselves and their communities and bringing access to tools and knowledge that cultivate and support innovating practices."
-      - p: "After a two-decade career in science journalism as producer, writer and director for television series such as Scientific American Frontiers, Discover the World of Science, and The Science Times, she became a protagonist in science and technology, becoming part of the story, rather than just telling the story. As Program Manager for the NSF-funded Center for Bits & Atoms at MIT she has seen and enabled the personal fabrication movement as it has grown and evolved. Today she serves as Director of the global Fab Lab Program at MIT as well as leading the The Fab Foundation, the non-profit spinoff from MIT."
-  - name: "Neil Gershenfeld"
-    img: Neil_Gershenfeld.jpg
-    position: "Chairman of the Board"
-    social: 
-      - title: 
-        url: 
-    bio:
-      - p: "Prof. Neil Gershenfeld is the Director of MIT’s Center for Bits and Atoms. His unique laboratory is breaking down boundaries between the digital and physical worlds, from creating molecular quantum computers to virtuosic musical instruments. Technology from his lab has been seen and used in settings including New York’s Museum of Modern Art and rural Indian villages, the White House and the World Economic Forum, inner-city community centers and automobile safety systems, Las Vegas shows and Sami herds."
-      - p: "He is the author of numerous technical publications, patents, and books including Fab, When Things Start To Think, The Nature of Mathematical Modeling, and The Physics of Information Technology, and has been featured in media such as The New York Times, The Economist, and the McNeil/Lehrer News Hour. He is the originator of the growing global network of field fab labs that provide widespread access to prototype tools for personal fabrication, and directs the Fab Academy, the associated program for distributed research and education in the principles and practices of digital fabrication."
-  - name: "Blair Evans"
-    img: 'Blair_Evans.png'
-    position: "Board Member"
-    social: 
-      - title: 
-        url: ""
-    social: 
-    bio:
-      - p: "Blair Evans is Founder and Director of Incite Focus, a production and training lab focused on relationships between: Digital Fabrication, Permaculture, Experiential Learning, and Appropriate Technology. Blair is committed to engaging people in understanding their own ability to live a well-lived life. Issues of self-determination, self-sufficiency, and self-sustainability reflect in his work at Incite Focus."
-      - p: "Blair believes in the philosophy, “Work and spend less; create and connect more.” Blair promotes a greater sense of individual autonomy by developing community member capacity to make the things that they and their communities need; instead of depending upon external resources. Blair empowers community members to create the conditions of change and to make system-level changes which will prepare individuals to operate within a system of individual and group agency."
-      - p: "Blair's experience includes curriculum development in direct and advisory roles for K-12, college and professional development. Blair worked as a principal agent in designing, starting and training for over half a dozen Fab Labs and with many more collaborations. Since 2012, Blair is an instructor in Fab Academy. He also instructs a registered apprenticeship program based on Digital Fabrication."
-      - p: "His early career evolved from product designer, team leader, and group leader at Hewlett Packard and technology-based SMEs, to technical co-founder and VP of Engineering of MicroTouch Systems from start-up through public offering on NASDAQ. He has early inventions in touchscreen technologies."
-  - name: "Marie Planchard"
-    img: 'Marie_Planchard.png'
-    position: "Board Member"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/marieplanchard"
-    bio:
-      - p: "Marie Planchard is Director of Education & Early Engagement, at SOLIDWORKS, DASSAULT SYSTEMES. She is responsible for global development of content and social outreach for the SOLIDWORKS platform across all levels of learning including educational institutions, Fab Labs, and start-up companies." 
-      - p: "Marie is responsible for the SOLIDWORKS Certification Academic program, providing highly qualified graduates to commercial engineering and design companies.  She also manages the SOLIDWORKS Entrepreneur Program that helps young start-up companies design innovative products.  As creator/author of the STEM Teacher Blog, Marie shares stories about students, teachers, entrepreneurs, and fabbers that design and make great things happen."
   - name: "Luciano Betoldi"
     img: 'Luciano_Betoldi.png'
     position: "International Operations Director"
