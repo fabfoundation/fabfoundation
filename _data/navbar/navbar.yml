@@ -57,7 +57,7 @@ sections:
       - title: 'Other Educational Projects' 
         link: 'education#other-projects'
     hasbuttons: false
-  - title: "Projects and Initiatives"
+  - title: "Projects and <br> Initiatives"
     link: 'projects-initiatives'
     sublinks:
       - title: 'Project Gallery' 
