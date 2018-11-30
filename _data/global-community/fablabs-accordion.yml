@@ -242,9 +242,6 @@ tabs:
       - p: >-
           <a
           href="http://www.businessweek.com/magazine/content/05_18/b3931027_mz005.htm">http://www.businessweek.com/magazine/content/05_18/b3931027_mz005.htm</a>
-      - p: >-
-          If you are trying to jump start a fab lab there are few more things
-          we’ve found that are helpful when trying to start a lab:
     id: 4
     click: collapse4
   - title: Key strategies when setting up a Fab Lab
