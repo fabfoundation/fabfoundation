@@ -434,9 +434,7 @@ tabs:
   - title: The Software
     paragraphs:
       - p: '<h3>2D design, raster picture, scan</h3>'
-      - p: >-
-          This is a test <a href="https://www.gimp.org/"
-          target="_blank">Gimp</a> to see
+      - p: '<a href="https://www.gimp.org/" target="_blank">Gimp</a>'
       - p: >-
           <a href="https://www.adobe.com/products/photoshopfamily.html"
           target="_blank">Photoshop</a>
