@@ -250,9 +250,10 @@ tabs:
           <h3>1. Identify a host agency to host and take ownership of the Fab
           Lab.</h3>
       - p: >-
-          The host agency could be any organization ranging from Govt. agency,
-          community organization, educational institution etc. The Fab Lab needs
-          to be hosted, housed and owned by the right agency to ensure success.
+          The host agency could be any organization ranging from government
+          agency, community organization, educational institution etc. The Fab
+          Lab needs to be hosted, housed and owned by the right agency to ensure
+          success.
       - p: <h3>2. Identify the right champion to lead this Fab Lab.</h3>
       - p: >-
           Very important. The successful Fab Labs are driven by the right
@@ -293,9 +294,9 @@ tabs:
           in projects worked on globally and in a distributed manner.
       - p: <h3>9. Launch the Fab Lab.</h3>
       - p: >-
-          <p>Key community, govt and private stakeholders can attend the launch
-          to not only understand the Fab Lab concept but also witness the demos
-          of project outputs.</p></ul>
+          <p>Key community, government and private stakeholders can attend the
+          launch to not only understand the Fab Lab concept but also witness the
+          demos of project outputs.</p></ul>
     id: 5
     click: collapse5
   - title: Fab Lab Form
