@@ -623,7 +623,7 @@ tabs:
     paragraphs:
       - p: <h4>Large Fab Lab</h4>
       - p: '<b>Communities a  FabLab might serve:</b>'
-      - p: <ul><li><b>Public school children</b></li>
+      - p: <li><b>Public school children</b></li>
       - p: <li><b>Private school children</b> </li>
       - p: >-
           <li><b>General public:</b>This group will consist of people who just
@@ -651,7 +651,6 @@ tabs:
           students working in the lab.  They can bring great creativity and new
           approaches to making things to the environment. They can also be
           hugely useful as technical resources and as teachers! </li>
-      - p: '<li><b>Artists/Crafters:</b> </li>'
       - p: >-
           <li><b>Entrepreneurs:</b>This group includes the college or university
           students, and young entrepreneurs who are inventive and creative and
