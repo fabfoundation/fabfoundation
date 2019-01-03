@@ -691,9 +691,7 @@ tabs:
           working in the lab.  If you have the extended hours I have outlined
           below, I think you need two shifts each day.   So your staff would
           include:
-      - p: >-
-          <ul><li>One logistics, planning, outreach and communications manager
-          </li>
+      - p: '<li>One logistics, planning, outreach and communications manager </li>'
       - p: >-
           <li>Three to four technical gurus/ support staff for mentoring,
           teaching, maintaining and supervising the use of the equipment. They
