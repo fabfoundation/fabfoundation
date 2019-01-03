@@ -233,9 +233,8 @@ tabs:
           target=“_blank">here</a>
       - p: >-
           Another good resource for you that will give some background is Neil’s
-          talk at the Library of Congress, as seen on CSPAN. See this link:
-          rtsp://video.c-span.org/project/digital/digitalfuture032805.rm or try
-          http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=3725
+          <a href="http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=3725"
+          target=“_blank">talk at the Library of Congress</a> as seen on CSPAN.
       - p: 'As well as a few links to other information:'
       - p: >-
           <a
