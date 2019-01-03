@@ -228,8 +228,9 @@ tabs:
           Your Desktop–from Personal Computers to Personal Fabrication. 
           (available on http://www.amazon.com).  It contains a wealth of
           information for you and is a good read.
-      - p: 'Please also see: http://fab.cba.mit.edu/about/faq/'
-      - p: 'And the fab charter at: http://fab.cba.mit.edu/about/charter'
+      - p: >-
+          You can also see some FAQ <a href="http://fab.cba.mit.edu/about/faq/"
+          target=“_blank">here</a>
       - p: >-
           Another good resource for you that will give some background is Neil’s
           talk at the Library of Congress, as seen on CSPAN. See this link:
