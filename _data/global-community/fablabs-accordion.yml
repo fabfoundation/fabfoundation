@@ -95,8 +95,9 @@ tabs:
           free or in-kind service/barter at least part of the time each week,
           that’s essential.
       - p: >-
-          2. Fab Labs support and subscribe to the Fab Lab charter:
-          http://fab.cba.mit.edu/about/charter/
+          2. Fab Labs support and subscribe to the <a
+          href="http://fab.cba.mit.edu/about/charter/" target="_blank">Fab Lab
+          charter</a>
       - p: >-
           3. Fab Labs have to share a common set of  tools and processes. A
           prototyping facility is not the equivalent of a Fab Lab. A 3D printer
