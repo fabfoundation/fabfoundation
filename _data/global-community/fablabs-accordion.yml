@@ -181,12 +181,14 @@ tabs:
       - p: Here’s the road map
       - p: >-
           The inventory of hardware and materials that we deploy in a full Fab
-          Lab can be found at: http://fab.cba.mit.edu/about/fab/inv.html . This
-          is the entire list of equipment, tools and consumables for a research
-          grade fab lab.  A fab lab currently comprises from $25-$65k in capital
-          equipment and about $15-40k in consumables. The open source software
-          or freeware we typically use can be found at our Fab Academy class
-          site:  http://academy.cba.mit.edu/classes
+          Lab can be found <a
+          href="https://docs.google.com/a/fabfoundation.org/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html"
+          target=“_blank">here</a>. This is the entire list of equipment, tools
+          and consumables for a research grade fab lab.  A fab lab currently
+          comprises from $25-$65k in capital equipment and about $15-40k in
+          consumables. The open source software or freeware we typically use can
+          be found at our <a href="http://academy.cba.mit.edu/classes"
+          target=“_blank">Fab Academy class site
       - p: >-
           The Fab Foundation can be your one stop shop when setting up a fab
           lab, and we have partners all over the world who can help. While we
