@@ -18,7 +18,7 @@ buttons:
 hasprojectgallery: true
 projects:
   - title: Fab Research
-    id: fabresearch
+    id: projects-initiatives
     img: research.png
   - title: Fab Economy
     id: fabeconomy
