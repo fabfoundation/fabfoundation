@@ -17,10 +17,10 @@ largeimg:
 hasbuttons: true
 buttons:
   - title: See all the courses
-    url: 'education#academany-full'
+    url: 'http://academany.org'
     type: red
   - title: Apply now!
-    url: 'http://academany.org/students/'
+    url: 'education#academany-full'
     type: clear
 hasslidermenu: true
 slides:
