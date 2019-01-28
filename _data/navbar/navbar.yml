@@ -33,7 +33,7 @@ sections:
       - title: 'Mobile Fab Lab' 
         link: 'global-community#mobile-fablab'
       - title: 'Fab Lab Resources' 
-        link: 'resources#resources-fablabs' 
+        link: 'global-community#resources-fablabs' 
     hasbuttons: false
   - title: "Resources"
     link: 'resources'
