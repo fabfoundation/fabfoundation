@@ -42,8 +42,6 @@ sections:
         link: 'resources#resources-research'
       - title: 'Data' 
         link: 'resources#resources-data'
-      - title: 'Fab Lab Resources' 
-        link: 'resources#resources-fablabs'   
     hasbuttons: false
     buttons:
       - title: "Subscribe"
