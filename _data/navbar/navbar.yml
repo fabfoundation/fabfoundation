@@ -31,7 +31,9 @@ sections:
       - title: 'How to start a Fab Lab' 
         link: 'global-community#fab-lab-questions'
       - title: 'Mobile Fab Lab' 
-        link: 'global-community#mobile-fablab'     
+        link: 'global-community#mobile-fablab'
+      - title: 'Fab Lab Resources' 
+        link: 'resources#resources-fablabs' 
     hasbuttons: false
   - title: "Resources"
     link: 'resources'
