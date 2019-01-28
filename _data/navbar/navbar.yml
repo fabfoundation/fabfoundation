@@ -19,7 +19,7 @@ sections:
       - title: "Donate"
         url: 'about#donations'
         type: clear
-  - title: "Global Community"
+  - title: "Fab Lab Network"
     link: 'global-community'
     sublinks:
       - title: 'What is a Fablab' 
