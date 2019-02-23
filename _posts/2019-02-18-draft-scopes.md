@@ -1,6 +1,6 @@
 ---
 title: SCOPES-DF website is LIVE
-caption: www.scopesdf.org is LIVE
+caption: www.scopesdf.org is LIVE: Equitable Learning for the 21st Century
 highlight: true
 category: press
 thumbnail: /uploads/teens.jpg
