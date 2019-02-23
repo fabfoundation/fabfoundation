@@ -7,7 +7,7 @@ thumbnail: /uploads/scopes2.png
 layout: posts
 date: 2019-02-18 00:00:00
 img: scopes-df.jpg
-permalink: /www.scopesdf.org-is-LIVE
+permalink: /draft-scopes
 ---
 
 It's National Engineers Week and we are celebrating by launching the new SCOPES-DF website!
