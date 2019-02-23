@@ -6,7 +6,7 @@ category: press
 thumbnail: /uploads/scopes2.png
 layout: posts
 date: 2019-02-18 00:00:00
-img: scopes-df.png
+img: scopes-df.jpg
 permalink: /www.scopesdf.org-is-LIVE
 ---
 
