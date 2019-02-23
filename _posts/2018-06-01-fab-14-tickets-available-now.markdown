@@ -1,7 +1,7 @@
 ---
 title: Fab 14 tickets available now
 caption: Join us for the biggest conference on digital fabrication!
-highlight: false
+highlight: true
 category: press
 thumbnail: /uploads/fab14-2.png
 layout: posts
