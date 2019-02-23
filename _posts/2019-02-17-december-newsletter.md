@@ -1,7 +1,7 @@
 ---
 title: December Newsletter
 caption: www.scopesdf.org is now LIVE. Equitable Learinng for the 21st Century!
-highlight: true
+highlight: false
 category: newsletter
 thumbnail: /uploads/ff_logo_horizontal_color.png
 layout: posts
