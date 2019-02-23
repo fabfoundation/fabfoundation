@@ -1,11 +1,11 @@
 ---
 title: Draft SCOPES
-caption: The new fab entry in the literature on digital fabrication.
+caption: www.scopesdf.org is LIVE
 highlight: false
 category: press
 thumbnail: /uploads/designing-reality-thumb.png
 layout: posts
-date: 2018-06-01 00:00:00
+date: 2019-02-18 00:00:00
 img: designing-reality.png
 permalink: /designing-reality-book-out-now
 ---
