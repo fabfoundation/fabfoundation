@@ -3,7 +3,7 @@ title: SCOPES-DF website is LIVE
 caption: www.scopesdf.org is LIVE
 highlight: false
 category: press
-thumbnail: /uploads/scopes2.png
+thumbnail: /uploads/scopes 2.png
 layout: posts
 date: 2019-02-18 00:00:00
 img: scopes-df.jpg
