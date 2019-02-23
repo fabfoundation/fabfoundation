@@ -1,5 +1,5 @@
 ---
-title: Draft SCOPES
+title: SCOPES-DF website LIVE
 caption: www.scopesdf.org is LIVE
 highlight: false
 category: press
