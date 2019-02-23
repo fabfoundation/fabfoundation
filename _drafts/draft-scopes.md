@@ -3,10 +3,10 @@ title: Draft SCOPES
 caption: www.scopesdf.org is LIVE
 highlight: false
 category: press
-thumbnail: /uploads/designing-reality-thumb.png
+thumbnail: /uploads/scopes-df.png
 layout: posts
 date: 2019-02-18 00:00:00
-img: designing-reality.png
+img: scopes-df.png
 permalink: /designing-reality-book-out-now
 ---
 
