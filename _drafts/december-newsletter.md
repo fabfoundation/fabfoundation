@@ -6,6 +6,6 @@ category: newsletter
 thumbnail: /uploads/teens.jpg
 layout: posts
 date: 2019-02-18 00:00:00
-img: scopes-df.jpg
+img: ff_logo_horizontal_color.jpg
 permalink: /december-newsletter
 ---
