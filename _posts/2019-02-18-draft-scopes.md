@@ -1,7 +1,7 @@
 ---
 title: SCOPES-DF website is LIVE
 caption: www.scopesdf.org is LIVE
-highlight: false
+highlight: true
 category: press
 thumbnail: /uploads/scopes 2.png
 layout: posts
