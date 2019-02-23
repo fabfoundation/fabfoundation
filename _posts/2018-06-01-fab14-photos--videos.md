@@ -1,7 +1,7 @@
 ---
 title: Fab14 Photos & Videos
 caption: Relive some of the best moments of this year's Fab conference!
-highlight: true
+highlight: false
 category: press
 thumbnail: /uploads/fab14-thumb.png
 layout: posts
