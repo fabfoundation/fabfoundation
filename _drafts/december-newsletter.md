@@ -7,5 +7,5 @@ thumbnail: /uploads/teens.jpg
 layout: posts
 date: 2019-02-18 00:00:00
 img: scopes-df.jpg
-permalink: /draft-scopes
+permalink: /december-newsletter
 ---
