@@ -10,9 +10,7 @@ img: designing-reality.png
 permalink: /designing-reality-book-out-now
 ---
 
-# **SCOPES-DF Launch**
-
-It's National Engineers Week and we are celebrating by launching the new SCOPES-DF website!
+t's National Engineers Week and we are celebrating by launching the new SCOPES-DF website!
 
 SCOPESDF.org is dedicated to educators working with primary and secondary school students who want to leverage digital fabrication for STEM learning.
 
@@ -26,7 +24,7 @@ Today we invite you to visit www.scopesdf.org where you can:
 
 3. Download and use lessons created by the rest of the community to ignite learning in your classroom, fab lab or makerspace.
 
-And please spread the word! Share http://www.scopesdf.org/ with others, follow us on social media @FabFndn across all platforms -- help us build and support this growing community of practice.
+And please spread the word! Share http://www.scopesdf.org/ with others, follow us on social media @FabFndn across all platforms – help us build and support this growing community of practice.
 
 Extra! Extra!
 
