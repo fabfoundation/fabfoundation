@@ -7,7 +7,7 @@ thumbnail: /uploads/scopes-df.png
 layout: posts
 date: 2019-02-18 00:00:00
 img: scopes-df.png
-permalink: /designing-reality-book-out-now
+permalink: /www.scopesdf.org-is-LIVE
 ---
 
 t's National Engineers Week and we are celebrating by launching the new SCOPES-DF website!
