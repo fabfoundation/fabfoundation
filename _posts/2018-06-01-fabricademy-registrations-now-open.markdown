@@ -3,7 +3,7 @@ title: Fabricademy Registrations now open
 caption: >-
   A new transdisciplinary course for new technologies applied in the textile
   industry!
-highlight: true
+highlight: false
 category: press
 thumbnail: /uploads/fabricademy-thumb.png
 layout: posts
