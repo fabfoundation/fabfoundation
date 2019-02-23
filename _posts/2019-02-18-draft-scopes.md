@@ -1,5 +1,5 @@
 ---
-title: SCOPES-DF website LIVE
+title: SCOPES-DF website is LIVE
 caption: www.scopesdf.org is LIVE
 highlight: false
 category: press
