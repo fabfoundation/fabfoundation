@@ -60,7 +60,7 @@ For more information on the FabAcademy program please visit www.fabacademy.org
 
 Note for international applicants: While applicants of all nationalities are welcome to participate in the US based program, neither the Fab Foundation, Fab Academy Coordination nor Dassault Systemes SolidWorks are able to provide assistance in applying for a VISA to the Unites States beyond the standard acceptance letter sent to successful applicants to the program. No official US Government forms can be provided. \*\*\* However, many other countries participate in Fab Academy, so contact coordination@fabacademy.org to find a participating lab near you!
 
-## &nbsp;
+## ![](/fabfoundation/uploads/fab city foundation.jpg)
 
 ## THE FAB CITY FOUNDATION
 
