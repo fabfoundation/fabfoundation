@@ -86,3 +86,10 @@ We'll hit the ground running in January with the 2019 FabCensus and our first re
 It's hard to believe, but The Fab Foundation's 10th year anniversary is coming up in February, 2019! Over the last 10 years + we've seen the growth of the Fab Lab network to more than 1600 labs, we've seen the growth of Fab Academy, Fab City, FabLat Kids, FabCoin, FABx and much more. This global network is changing the way we design, create, invent, produce and make impact every day. As part of our 10th year celebration we want to communicate YOUR stories to the world. We'll be celebrating of the network's growth and impact through a 10th Year Anniversary Fab Foundation Publication tentatively entitled "10 N 10", featuring ten great stories of impact and vision from the network.
 
 This is a call to the network to share the story of your fab lab building community, making impact, taking part in this global initiative and changing the world. If you would like us to consider your story as part of the 10 N 10 publication next year, please read and complete the following form [HERE](https://form.jotformz.com/82757379572675).
+
+## SCOPESDF WRAPS UP 2018
+
+The SCOPESDF team is wrapping up our leadership cohort work with MC2 STEM High School and STEM School Chattanooga this month. Our heartfelt appreciation goes out to the teachers, students, and administrators who gave their energy, expertise and time to this experience. Keep your eyes open in 2019 for our reflection and playbook that will be published on the SCOPESDF website. For more information about the cohort please visit [https://www.scopesdf.org/community/](https://www.scopesdf.org/community/)
+
+In other news, after months of feedback after Fab14 and a recent soft beta launch of the SCOPESDF website, a new and improved website will go live for the entire community in early
+2019. Thank you and look for lots of SCOPESDF action in the new year!
