@@ -16,7 +16,6 @@ permalink: /december-newsletter
 
 ## 1,600 Fab Labs Worldwide!
 
-
 The Fab Lab network continues to grow and make impact across the world! As 2018 comes to a close,
 
 our network numbers more than 1,600 Fab Labs in 100+ countries and, if Lass's Law holds true, we aniticpate that this number will double by mid2020.
@@ -33,6 +32,8 @@ the Fab Lab Barcelona Team for their great effort on the development and launch 
 
 Stay tuned…more changes are coming!
 
+## ![](/fabfoundation/uploads/TdH.jpg)
+
 ## A NEW PARTNERSHIP
 
 We are happy to announce that the Fab Foundation is partnering with Terre des hommes, a humanitarian organization based in Lausanne, Switzerland. TDH focusses on helping children and youth at risk due to migration, war, work or natural disaster, in big cities, rural communities or even gold mines, to improve education, protection, health and children's rights.
@@ -42,6 +43,8 @@ TDH and Fab Foundation are working together to develop fab labs for these at ris
 In 2017, 44,000 people were newly displaced every day. The average time people spend ‘away from home’ is a staggering 18(!) years for many of us that would be half of our lives lived elsewhere.
 
 We will be reaching out to the fab lab community this year to find labs willing to technically support and mentor the new TDH labs. If you want to help out, or have ideas about how to leverage fab labs and their tools for at risk youth, please contact jeanmichel.molenaar@tdh.ch or go to www.tdh.ch to learn more!
+
+## <br>![](/fabfoundation/uploads/Solidworks-Logo.png)
 
 ## FAB ACADEMY SCHOLARSHIPS IN BOSTON
 
@@ -57,6 +60,8 @@ For more information on the FabAcademy program please visit www.fabacademy.org
 
 Note for international applicants: While applicants of all nationalities are welcome to participate in the US based program, neither the Fab Foundation, Fab Academy Coordination nor Dassault Systemes SolidWorks are able to provide assistance in applying for a VISA to the Unites States beyond the standard acceptance letter sent to successful applicants to the program. No official US Government forms can be provided. \*\*\* However, many other countries participate in Fab Academy, so contact coordination@fabacademy.org to find a participating lab near you!
 
+## &nbsp;
+
 ## THE FAB CITY FOUNDATION
 
 Next step towards the future of Fab City
@@ -68,6 +73,8 @@ Since 2014, Fab City Global Initiative has been collaboratively building the roa
 The official launch event of the Fab City Foundation just took place in Estonia on December 12, 2018.
 
 Check more information here.
+
+## ![](/fabfoundation/uploads/FFF.jpg)
 
 ## FAB FOUNDATION FORUM
 
@@ -81,15 +88,20 @@ Develop a unified strategy for promoting and communicating about the Fab Lab Net
 
 We'll hit the ground running in January with the 2019 FabCensus and our first recurring monthly call, open to representatives from regional networks worldwide. In the meantime, reach out and connect with the FFF team through forum@fabfoundation.org.
 
+## ![](/fabfoundation/uploads/SCOPES2.jpg)
+
 ## SHARE YOUR FAB STORIES WITH THE WORLD!
 
 It's hard to believe, but The Fab Foundation's 10th year anniversary is coming up in February, 2019! Over the last 10 years + we've seen the growth of the Fab Lab network to more than 1600 labs, we've seen the growth of Fab Academy, Fab City, FabLat Kids, FabCoin, FABx and much more. This global network is changing the way we design, create, invent, produce and make impact every day. As part of our 10th year celebration we want to communicate YOUR stories to the world. We'll be celebrating of the network's growth and impact through a 10th Year Anniversary Fab Foundation Publication tentatively entitled "10 N 10", featuring ten great stories of impact and vision from the network.
 
 This is a call to the network to share the story of your fab lab building community, making impact, taking part in this global initiative and changing the world. If you would like us to consider your story as part of the 10 N 10 publication next year, please read and complete the following form [HERE](https://form.jotformz.com/82757379572675).
 
+## ![](/fabfoundation/uploads/SCOPES.jpg)
+
 ## SCOPESDF WRAPS UP 2018
 
 The SCOPESDF team is wrapping up our leadership cohort work with MC2 STEM High School and STEM School Chattanooga this month. Our heartfelt appreciation goes out to the teachers, students, and administrators who gave their energy, expertise and time to this experience. Keep your eyes open in 2019 for our reflection and playbook that will be published on the SCOPESDF website. For more information about the cohort please visit [https://www.scopesdf.org/community/](https://www.scopesdf.org/community/)
 
 In other news, after months of feedback after Fab14 and a recent soft beta launch of the SCOPESDF website, a new and improved website will go live for the entire community in early
-2019. Thank you and look for lots of SCOPESDF action in the new year!
+
+1. Thank you and look for lots of SCOPESDF action in the new year!
