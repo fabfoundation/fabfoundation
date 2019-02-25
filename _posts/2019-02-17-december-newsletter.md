@@ -16,6 +16,8 @@ permalink: /december-newsletter
 
 ## 1,600 Fab Labs Worldwide!
 
+&nbsp;
+
 The Fab Lab network continues to grow and make impact across the world! As 2018 comes to a close,
 
 our network numbers more than 1,600 Fab Labs in 100+ countries and, if Lass's Law holds true, we aniticpate that this number will double by mid2020.
@@ -44,7 +46,7 @@ We will be reaching out to the fab lab community this year to find labs willing 
 
 ## FAB ACADEMY SCHOLARSHIPS IN BOSTON
 
-The Fab Foundation would like to announce the availability of 4 full scholarships to the 2019 edition of the Fab Academy program, made possible by a generous donation from Dassault Systèmes SolidWorks.
+The Fab Foundation would like to announce the availability of 4 full scholarships to the 2019 edition of the Fab Academy program, made possible by a generous donation from Dassault Syst&egrave;mes SolidWorks.
 
 Successful applicants will matriculate in Dassault’s 3DExperience Lab in Waltham, MA and will have access to both the Fab Lab and free shuttle service, which runs regularly to and from Alewife Station on the MBTA Red Line.
 
@@ -54,7 +56,7 @@ Scholarships will be awarded based on assessment around a combination of factors
 
 For more information on the FabAcademy program please visit www.fabacademy.org
 
-Note for international applicants: While applicants of all nationalities are welcome to participate in the US based program, neither the Fab Foundation, Fab Academy Coordination nor Dassault Systèmes SolidWorks are able to provide assistance in applying for a VISA to the Unites States beyond the standard acceptance letter sent to successful applicants to the program. No official US Government forms can be provided. \*\*\* However, many other countries participate in Fab Academy, so contact coordination@fabacademy.org to find a participating lab near you!
+Note for international applicants: While applicants of all nationalities are welcome to participate in the US based program, neither the Fab Foundation, Fab Academy Coordination nor Dassault Syst&egrave;mes SolidWorks are able to provide assistance in applying for a VISA to the Unites States beyond the standard acceptance letter sent to successful applicants to the program. No official US Government forms can be provided. \*\*\* However, many other countries participate in Fab Academy, so contact coordination@fabacademy.org to find a participating lab near you!
 
 ## THE FAB CITY FOUNDATION
 
