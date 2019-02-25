@@ -1,6 +1,8 @@
 ---
 title: December Newsletter
-caption: www.scopesdf.org is now LIVE. Equitable Learinng for the 21st Century!
+caption: >-
+  December 2018 Newsletter. New Partnership, Fab City Foundation, Fab Foundation
+  Forum and more!
 highlight: true
 category: newsletter
 thumbnail:
