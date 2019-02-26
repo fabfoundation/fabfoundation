@@ -25,14 +25,7 @@ tabs:
       - p: >-
           A Fab Lab is comprised of off-the-shelf, industrial-grade fabrication
           and electronics tools, wrapped in open source software and programs
-          written by researchers at MIT’s Center for Bits & Atoms. Currently Fab
-          Labs include a laser cutter that makes 2D and 3D structures, a sign
-          cutter that plots in copper to make antennas and flex circuits, a
-          high-resolution NC milling machine that makes circuit boards and
-          precision parts, a large wood router for building furniture and
-          housing, and a suite of electronic components and programming tools
-          for low-cost, high-speed microcontrollers for on-site rapid circuit
-          prototyping. Originally designed for communities as prototyping
+          written by researchers at MIT’s Center for Bits & Atoms. Originally designed for communities as prototyping
           platforms for local entrepreneurship, Fab Labs are increasingly being
           adopted by schools as platforms for project-based, hands-on STEM
           education. Users learn by designing and creating objects of personal
@@ -106,13 +99,18 @@ tabs:
           something here in Boston and send you the files and documentation, you
           should be able to reproduce it there, fairly painlessly.  If I walk
           into a Fab Lab in Russia, I should be able to do the same things that
-          I can do in Nairobi, Cape Town, Delhi, Amsterdam or Boston Fab Labs.
+          I can do in Nairobi, Cape Town, Delhi, Amsterdam or Boston Fab Labs. 
+          Essentially, it’s the processes and the codes and the capabilities that
+          are important. Fab Labs typically include:
+      - p: A <h3>laser cutter</h3> that makes 2D and 3D structures
+      - p: A high-resolution CNC milling machine that makes circuit boards, precision parts, and molds for casting
+      - p: A large wood router for building furniture and housing
+      - p: A suite of electronic components and programming tools for low-cost, high-speed microcontrollers and on-site rapid circuit prototyping. 
+      - p: >-         
           The critical machines and materials are identified in this list:
           http://fab.cba.mit.edu/about/fab/inv.html and there’s a list of open
           source software and freeware that we use online as well (embedded in
-          Fab Academy modules here: http://academy.cba.mit.edu/classes/ ) But
-          essentially it’s the processes and the codes and the capabilities that
-          are important.
+          Fab Academy modules here: http://academy.cba.mit.edu/classes/ ). 
       - p: >-
           4. Fab Labs must  participate in the larger, global Fab Lab  network,
           that is, you can’t isolate yourself.  This is about being part of a
