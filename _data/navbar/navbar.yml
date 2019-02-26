@@ -33,7 +33,9 @@ sections:
       - title: 'Mobile Fab Lab' 
         link: 'global-community#mobile-fablab'
       - title: 'Fab Lab Resources' 
-        link: 'global-community#resources-fablabs' 
+        link: 'global-community#resources-fablabs'
+      - title: 'Fab Foundation Forum'
+        link: 'global-community#fab-foundation-forum'
     hasbuttons: false
   - title: "Research and Data"
     link: 'resources'
