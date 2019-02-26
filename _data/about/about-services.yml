@@ -23,7 +23,7 @@ services:
       - p: "The Foundation works to gather and provide critical evaluation data as well as provide tools for tracking the impact of fab labs in educational, business and social contexts. As part of our services we provide a network function for the fab lab community, bringing together fab labs around the world either physically (for annual meetings and workshops) or virtually through online tools and resources."
     buttons:
       - title: "The Fab Lab Network"
-        url: ''
+        url: 'global-community'
         type: "clear"
   - title: ".COM"
     orientation: normal
