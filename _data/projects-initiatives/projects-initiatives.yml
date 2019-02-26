@@ -12,7 +12,7 @@ cards:
     title: FabX Events
     id: fabevents
     img: fab13symposium_low_res.jpg
-    url: 'www.fabevent.org'
+    url: 'https://www.fabevent.org'
     description:
       - p: "Each year we offer members of the more than 1,000 worldwide Fab Labs a space to gather, to share, to collaborate, to explore and, of course, to fabricate. Join us this year in France!"
     bgcolor: "darkblue"
