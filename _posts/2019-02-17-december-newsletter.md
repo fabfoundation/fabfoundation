@@ -5,7 +5,7 @@ caption: >-
   Forum and more!
 highlight: true
 category: newsletter
-thumbnail: 10year.png
+thumbnail:10year.png
 layout: posts
 date: 2019-02-17 00:00:00
 img:
