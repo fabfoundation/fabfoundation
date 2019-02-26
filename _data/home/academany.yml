@@ -20,7 +20,7 @@ buttons:
     url: 'http://academany.org'
     type: red
   - title: Apply now!
-    url: 'education#academany-full'
+    url: 'education/#academany-full'
     type: clear
 hasslidermenu: true
 slides:
