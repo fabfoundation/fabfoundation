@@ -624,7 +624,6 @@ tabs:
     click: collapse11
   - title: Sample Program
     paragraphs:
-      - p: <h4>Large Fab Lab</h4>
       - p: '<b>Communities a  FabLab might serve:</b>'
       - p: <li><b>Public school children</b></li>
       - p: <li><b>Private school children</b> </li>
