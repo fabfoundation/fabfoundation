@@ -34,7 +34,7 @@ services:
       - p: "Businesses emerging from fab labs and the digital fabrication network include Formlab, Makerbot, Modkit, Ponoko, Ultimaker, Fabfi, Remake Electric, Snap and the Nifty Minidrive."
     buttons:
       - title: "See more projects"
-        url: ''
+        url: 'projects-initiatives'
         type: "clear"
 hasmorebutton: false
 morebuttontitle: ""
