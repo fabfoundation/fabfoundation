@@ -35,10 +35,10 @@ sections:
       - title: 'Fab Lab Resources' 
         link: 'global-community#resources-fablabs' 
     hasbuttons: false
-  - title: "Resources"
+  - title: "Research and Data"
     link: 'resources'
     sublinks:
-      - title: 'Research and Data' 
+      - title: 'Research' 
         link: 'resources#resources-research'
       - title: 'Data' 
         link: 'resources#resources-data'
