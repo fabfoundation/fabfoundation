@@ -13,7 +13,7 @@ services:
         url: 'https://www.scopesdf.org/'
         type: "clear"
       - title: "Academany"
-        url: "/education"
+        url: "http://academany.org/"
         type: "clear"
   - title: ".ORG"
     orientation: inverted
