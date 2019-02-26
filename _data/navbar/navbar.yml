@@ -38,7 +38,7 @@ sections:
   - title: "Resources"
     link: 'resources'
     sublinks:
-      - title: 'Research' 
+      - title: 'Research and Data' 
         link: 'resources#resources-research'
       - title: 'Data' 
         link: 'resources#resources-data'
