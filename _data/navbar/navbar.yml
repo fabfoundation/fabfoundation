@@ -22,7 +22,7 @@ sections:
   - title: "Fab Lab Network"
     link: 'global-community'
     sublinks:
-      - title: 'What is a Fablab' 
+      - title: 'What is a Fab Lab' 
         link: 'global-community#fablabs-full'
       - title: 'The Fab Lab Network' 
         link: 'global-community#fablabs-full'  
