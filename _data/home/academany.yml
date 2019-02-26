@@ -20,22 +20,22 @@ buttons:
     url: 'http://academany.org'
     type: red
   - title: Apply now!
-    url: 'education/#academany-full'
+    url: 'education#academany-full'
     type: clear
 hasslidermenu: true
 slides:
   - title: Fabacademy
-    url: 'education/#academany-full'
+    url: 'education#academany-full'
     img: student.png
     logo: fabacademy.svg
     color: '#f0434f'
   - title: Bioacademy
-    url: 'education/#fabacademy-course'
+    url: 'education#fabacademy-course'
     img: bioacademy.jpg
     logo: bioacademy.svg
     color: '#57bf81'
   - title: Fabricademy
-    url: 'education/#bioacademy-course'
+    url: 'education#bioacademy-course'
     img: fabricademy.jpg
     logo: fabricademy.svg
     color: '#9b6dbb'
