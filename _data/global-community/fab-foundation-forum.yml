@@ -17,7 +17,7 @@ hassubtitle: true
 subtitle: Fab Foundation Forum is launched!
 haslongtext: true
 longtext: text on Forum
-hasvignettes: true
+hasvignettes: false
 vignettes:
   - hastitle: true
     title: Census
@@ -43,9 +43,9 @@ buttons:
   - title: Example Clear
     url: 'https://www.scopesdf.org/contact/'
     type: clear
-hasprojectgallery: false
+hasprojectgallery: true
 projects:
-  - title: Example Project
+  - title: Census
     id: projects-initiatives-intro
     img: research.png
   - title: Example Project 2
