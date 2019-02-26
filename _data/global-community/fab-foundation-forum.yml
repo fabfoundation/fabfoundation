@@ -48,9 +48,9 @@ projects:
   - title: Census
     id: projects-initiatives-intro
     img: research.png
-  - title: Example Project 2
+  - title: Annual Report Based on Census Data
     id: fabeconomy
     img: woodstructure_lowres.jpg
-  - title: Example Project 3
+  - title: Fablabs.io
     id: fabevents
     img: fabcity.png
