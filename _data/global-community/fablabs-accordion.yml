@@ -102,10 +102,10 @@ tabs:
           I can do in Nairobi, Cape Town, Delhi, Amsterdam or Boston Fab Labs. 
           Essentially, it’s the processes and the codes and the capabilities that
           are important. Fab Labs typically include:
-      - p: A <h3>laser cutter</h3> that makes 2D and 3D structures
-      - p: A high-resolution CNC milling machine that makes circuit boards, precision parts, and molds for casting
-      - p: A large wood router for building furniture and housing
-      - p: A suite of electronic components and programming tools for low-cost, high-speed microcontrollers and on-site rapid circuit prototyping. 
+      - p: - A laser cutter that makes 2D and 3D structures
+      - p: - A high-resolution CNC milling machine that makes circuit boards, precision parts, and molds for casting
+      - p: - A large wood router for building furniture and housing
+      - p: - A suite of electronic components and programming tools for low-cost, high-speed microcontrollers and on-site rapid circuit prototyping. 
       - p: >-         
           The critical machines and materials are identified in this list:
           http://fab.cba.mit.edu/about/fab/inv.html and there’s a list of open
