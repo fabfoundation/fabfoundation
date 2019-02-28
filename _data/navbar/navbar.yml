@@ -62,10 +62,12 @@ sections:
   - title: "Global Initiatives"
     link: 'projects-initiatives'
     sublinks:
+      - title: 'Fablabs.io'
+        link: 'projects-initiatives#fablabs.io'
+      - title: 'FabX Events' 
+        link: 'projects-initiatives#fabevents'
       - title: 'Fab Research'
         link: 'projects-initiatives#fabresearch'
-      - title: 'Fab Events' 
-        link: 'projects-initiatives#fabevents'
       - title: 'Fab City'
         link: 'projects-initiatives#fabcity'
       - title: 'Fab Economy'
