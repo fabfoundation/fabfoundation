@@ -1,12 +1,13 @@
 id: "projects-initiatives"
 cards: 
+
   - orientation: normal
-    title: Fab Research
-    id: fabresearch
-    img: research.png
-    url: 'resources#resources-research'
+    title: Fablabs.io
+    id: fabevents
+    img: fab13symposium_low_res.jpg
+    url: 'https://www.fablabs.io'
     description:
-      - p: "The Fab Lab project is the educational outreach program for MIT’s Center for Bits & Atoms (link). As such the network is closely linked to MIT’s research into the merging of physical science and computer science and the development of digital materials. The international Fab Lab network also contributes to new research and applications in digital fabrication."
+      - p: "Fablabs.io is the online social network of the international Fab Lab community and is the current official list of Fab Labs that share same principles, tools, and philosophy around the future of technology and its role in society. Click here to be redirected to the platform's guidelines and FAQ on how to add a lab to the map and the community."
     bgcolor: "lightblue"
   - orientation: normal
     title: FabX Events
@@ -17,13 +18,21 @@ cards:
       - p: "Each year we offer members of the more than 1,000 worldwide Fab Labs a space to gather, to share, to collaborate, to explore and, of course, to fabricate. Join us this year in France!"
     bgcolor: "darkblue"
   - orientation: normal
+    title: Fab Research
+    id: fabresearch
+    img: research.png
+    url: 'resources#resources-research'
+    description:
+      - p: "The Fab Lab project is the educational outreach program for MIT’s Center for Bits & Atoms (link). As such the network is closely linked to MIT’s research into the merging of physical science and computer science and the development of digital materials. The international Fab Lab network also contributes to new research and applications in digital fabrication."
+    bgcolor: "lightblue"
+  - orientation: normal
     title: Fab City Global Initiative 
     id: fabcity
     img: fabcity.png
     url: 'https://fab.city/'
     description:
       - p: "Fab City is a global initiative to develop locally productive and globally connected self-sufficient cities. It comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste."
-    bgcolor: "lightblue"
+    bgcolor: "darkblue"
   - orientation: normal
     title: Fab Economy
     id: fabeconomy
@@ -31,4 +40,4 @@ cards:
     url: 'http://www.fabeconomy.com/'
     description:
       - p: "Fab Economy is the start of a community business platform, Fab Economy is about creating a new economy for everybody, where local fulfillment and customization take the place of mass production and global distribution. Fab Labs, along companies and organizations can all work together towards reaching this goal. This is an exchange space where companies, fab labs and individuals can potentially resources, funding, collaborations and expertise."
-    bgcolor: "darkblue"
+    bgcolor: "lightblue"
