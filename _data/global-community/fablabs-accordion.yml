@@ -516,7 +516,88 @@ tabs:
       - p: '<a href="http://www.mscsoftware.com/" target="_blank">Nastran</a>'
     id: 10
     click: collapse10
-  - title: The Community Function
+  - title: Communities a Fab Lab Might Servce
+    paragraphs:
+      - p: '<b>Communities a  Fab Lab might serve:</b>'
+      - p: <li><b>Public school children</b></li>
+      - p: <li><b>Private school children</b> </li>
+      - p: >-
+          <li><b>General public:</b>This group will consist of people who just
+          want to make things or learn new skills or make products in the lab.
+          This group could include college or university students who will want
+          to work in the lab. </li>
+      - p: >-
+          <li><b>Artists/Crafters:</b>The traditional artisans and crafters
+          should be encouraged to come and experiment with the tools and
+          processes of the fab lab. The lab doesn’t replace their traditional
+          work, but it augments and broadens the palette of what they can do in
+          their work.  It would be great to have artists experiment with the
+          tools in the fab lab.   Again, an artist in residency program might be
+          really interesting—offer several active artists one or two month
+          program in which they have access to the entire lab with the technical
+          gurus to help support them. If they produce some high level art or
+          crafts for exhibit in the lab, and outside in public spaces, this will
+          help you show off the capabilities of the lab, get the artists’
+          endorsements, and build the fab lab reputation in the public.  You
+          might want to sweeten this deal by offering a stipend for the month,
+          or to fund the materials they will need for their art work for the
+          month, or something along those lines. </li>
+      - p: >-
+          <li><b>University Students:</b>Always great to have classes and
+          students working in the lab.  They can bring great creativity and new
+          approaches to making things to the environment. They can also be
+          hugely useful as technical resources and as teachers! </li>
+      - p: >-
+          <li><b>Entrepreneurs:</b>This group includes the college or university
+          students, and young entrepreneurs who are inventive and creative and
+          need a space and a place and a community to support their invention.
+          It might be interesting to have an entrepreneur in residency
+          program—offer several active entrepreneurs a one or two month program
+          in which they have access to the entire lab with the technical gurus
+          to help support them. They can produce some interesting inventions for
+          exhibit in the lab, and outside in public spaces, this will help you
+          show off the capabilities of the lab, get the entrepreneurs’
+          endorsements, and build the fab lab reputation in the public.  You
+          might want to sweeten this deal by offering a stipend for the month,
+          or to fund the materials they will need for their invention work for
+          the month, or something along those lines.  Another approach would be
+          to offer a special Inventor his/her own group time in the lab over a
+          one year period.  He/she could invite peers, or clients to work in the
+          fab lab on special programs for the year. </li>
+      - p: >-
+          <li><b>Government or Corporate Employees:</b>This might be a group who
+          will find new uses for the lab, and new experts to volunteer and work
+          in the lab for you, and they will spread the word about the lab to the
+          larger community.  Their endorsement  and adoption of the lab can be
+          important to the success of the fab lab. </li></ul>
+      - p: >-
+          You could encourage experimentation and usage of the fab lab in the
+          employee community by putting up a contest/challenge for them to use
+          the fab lab. Something like– we’ll give a prize of money to the team
+          that comes up with the best community project made in the fab lab and
+          we (whichever organization is hosting) will help you implement it. 
+          For example, making benches for a community park, or desks for a low
+          income school, etc
+      - p: >-
+          If you want to accommodate school groups of approximately 15 to 20
+          children per group, you should have two technical/guru support people
+          working in the lab.  If you have the extended hours I have outlined
+          below, I think you need two shifts each day.   So your staff would
+          include:
+      - p: '<li>One logistics, planning, outreach and communications manager </li>'
+      - p: >-
+          <li>Three to four technical gurus/ support staff for mentoring,
+          teaching, maintaining and supervising the use of the equipment. They
+          would work two to a shift, with two shifts per day:  8:30- 16:30 and
+          13:30 – 21:30. The three hour overlap in time would be used for lab
+          maintenance,  professional development and project/group visit
+          preparation.</li>
+      - p: >-
+          <li>One technical manager–  to maintain computers, equipment, network,
+          and technical problem solving.</li></ul>
+    id: 12
+    click: collapse12
+  - title: Example of Fab Labs
     paragraphs:
       - p: >-
           “Function” is the community application and content of the fab lab.
@@ -612,87 +693,6 @@ tabs:
           with support from private investors.
     id: 11
     click: collapse11
-  - title: Sample Program
-    paragraphs:
-      - p: '<b>Communities a  FabLab might serve:</b>'
-      - p: <li><b>Public school children</b></li>
-      - p: <li><b>Private school children</b> </li>
-      - p: >-
-          <li><b>General public:</b>This group will consist of people who just
-          want to make things or learn new skills or make products in the lab.
-          This group could include college or university students who will want
-          to work in the lab. </li>
-      - p: >-
-          <li><b>Artists/Crafters:</b>The traditional artisans and crafters
-          should be encouraged to come and experiment with the tools and
-          processes of the fab lab. The lab doesn’t replace their traditional
-          work, but it augments and broadens the palette of what they can do in
-          their work.  It would be great to have artists experiment with the
-          tools in the fab lab.   Again, an artist in residency program might be
-          really interesting—offer several active artists one or two month
-          program in which they have access to the entire lab with the technical
-          gurus to help support them. If they produce some high level art or
-          crafts for exhibit in the lab, and outside in public spaces, this will
-          help you show off the capabilities of the lab, get the artists’
-          endorsements, and build the fab lab reputation in the public.  You
-          might want to sweeten this deal by offering a stipend for the month,
-          or to fund the materials they will need for their art work for the
-          month, or something along those lines. </li>
-      - p: >-
-          <li><b>University Students:</b>Always great to have classes and
-          students working in the lab.  They can bring great creativity and new
-          approaches to making things to the environment. They can also be
-          hugely useful as technical resources and as teachers! </li>
-      - p: >-
-          <li><b>Entrepreneurs:</b>This group includes the college or university
-          students, and young entrepreneurs who are inventive and creative and
-          need a space and a place and a community to support their invention.
-          It might be interesting to have an entrepreneur in residency
-          program—offer several active entrepreneurs a one or two month program
-          in which they have access to the entire lab with the technical gurus
-          to help support them. They can produce some interesting inventions for
-          exhibit in the lab, and outside in public spaces, this will help you
-          show off the capabilities of the lab, get the entrepreneurs’
-          endorsements, and build the fab lab reputation in the public.  You
-          might want to sweeten this deal by offering a stipend for the month,
-          or to fund the materials they will need for their invention work for
-          the month, or something along those lines.  Another approach would be
-          to offer a special Inventor his/her own group time in the lab over a
-          one year period.  He/she could invite peers, or clients to work in the
-          fab lab on special programs for the year. </li>
-      - p: >-
-          <li><b>Government or Corporate Employees:</b>This might be a group who
-          will find new uses for the lab, and new experts to volunteer and work
-          in the lab for you, and they will spread the word about the lab to the
-          larger community.  Their endorsement  and adoption of the lab can be
-          important to the success of the fab lab. </li></ul>
-      - p: >-
-          You could encourage experimentation and usage of the fab lab in the
-          employee community by putting up a contest/challenge for them to use
-          the fab lab. Something like– we’ll give a prize of money to the team
-          that comes up with the best community project made in the fab lab and
-          we (whichever organization is hosting) will help you implement it. 
-          For example, making benches for a community park, or desks for a low
-          income school, etc
-      - p: >-
-          If you want to accommodate school groups of approximately 15 to 20
-          children per group, you should have two technical/guru support people
-          working in the lab.  If you have the extended hours I have outlined
-          below, I think you need two shifts each day.   So your staff would
-          include:
-      - p: '<li>One logistics, planning, outreach and communications manager </li>'
-      - p: >-
-          <li>Three to four technical gurus/ support staff for mentoring,
-          teaching, maintaining and supervising the use of the equipment. They
-          would work two to a shift, with two shifts per day:  8:30- 16:30 and
-          13:30 – 21:30. The three hour overlap in time would be used for lab
-          maintenance,  professional development and project/group visit
-          preparation.</li>
-      - p: >-
-          <li>One technical manager–  to maintain computers, equipment, network,
-          and technical problem solving.</li></ul>
-    id: 12
-    click: collapse12
   - title: The Funds
     paragraphs:
       - p: >-
@@ -707,7 +707,3 @@ tabs:
           Budget Sample</a>
     id: 13
     click: collapse13
-  - title: Fab People
-    paragraphs:
-    id: 14
-    click: collapse14
