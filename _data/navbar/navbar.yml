@@ -62,8 +62,14 @@ sections:
   - title: "Global Initiatives"
     link: 'projects-initiatives'
     sublinks:
-      - title: 'Project Gallery' 
-        link: 'projects-initiatives#projects-initiatives' 
+      - title: 'Fab Research'
+        link: 'projects-initiatives#fabresearch'
+      - title: 'Fab Events' 
+        link: 'projects-initiatives#fabevents'
+      - title: 'Fab City'
+        link: 'projects-initiatives#fabcity'
+      - title: 'Fab Economy'
+        link: 'projects-initiatives#fabeconomy'
     hasbuttons: false 
   - title: 'News' 
     link: 'news'
