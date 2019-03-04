@@ -1,13 +1,13 @@
 id: fab-foundation-forum
 hastopbanner: true
-topbanner: fabacademy_graduation.jpg
+topbanner: FFF.jpg
 hascarousel: false
 carouselbackground: banner_events1.png
 carousel:
   - img: banner_events2.png
   - img: banner_events3.png
-haslogo: true
-logo: FFF.jpg
+haslogo: false
+logo: 
 height: 100px
 hastitle: true
 title: Fab Foundation Forum
