@@ -1,6 +1,6 @@
 id: fab-foundation-forum
 hastopbanner: true
-topbanner: FFF.jpg
+topbanner: 
 hascarousel: false
 carouselbackground: banner_events1.png
 carousel:
@@ -35,14 +35,6 @@ vignettes:
     hasbody: true
     body: This is another example body
     img: mobile_fablab6.png
-hasbuttons: true
-buttons:
-  - title: Example Red
-    url: 'education#scopes-full'
-    type: red
-  - title: Example Clear
-    url: 'https://www.scopesdf.org/contact/'
-    type: clear
 hasprojectgallery: true
 projects:
   - title: Fab Census
@@ -54,3 +46,11 @@ projects:
   - title: Fablabs.io
     id: fablabs.io
     img: fablabsmap.png
+hasbuttons: true
+buttons:
+  - title: Example Red
+    url:
+    type: red
+  - title: Example Clear
+    url: 
+    type: clear
