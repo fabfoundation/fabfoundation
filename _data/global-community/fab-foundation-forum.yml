@@ -8,7 +8,7 @@ carousel:
   - img: banner_events3.png
 haslogo: true
 logo: FFF.jpg
-height: 45px
+height: 100px
 hastitle: true
 title: Fab Foundation Forum
 haslargeimg: false
@@ -45,12 +45,12 @@ buttons:
     type: clear
 hasprojectgallery: true
 projects:
-  - title: Census
+  - title: Fab Census
     id: projects-initiatives-intro
-    img: research.png
+    img: 
   - title: Annual Report Based on Census Data
-    id: fabeconomy
-    img: woodstructure_lowres.jpg
+    id: 
+    img: 
   - title: Fablabs.io
-    id: fabevents
-    img: fabcity.png
+    id: project-initiatives-fablabs.io
+    img: fablabsmap.png
