@@ -46,11 +46,11 @@ buttons:
 hasprojectgallery: true
 projects:
   - title: Fab Census
-    id: projects-initiatives-intro
+    id: resources#data
     img: 
   - title: Annual Report Based on Census Data
-    id: 
+    id: resources#data
     img: 
   - title: Fablabs.io
-    id: project-initiatives-fablabs.io
+    id: project-initiatives#fablabs.io
     img: fablabsmap.png
