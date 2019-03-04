@@ -3,7 +3,7 @@ cards:
 
   - orientation: normal
     title: Fablabs.io
-    id: fabevents
+    id: fablabs.io
     img: fablabsmap.png
     url: 'https://www.fablabs.io'
     description:
