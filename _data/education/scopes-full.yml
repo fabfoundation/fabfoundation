@@ -12,7 +12,7 @@ haslargeimg: true
 largeimg: kidglasses-low-res.jpg
 hasbuttons: true
 buttons:
-  - title: "Check out the Scopes Website and Join the Community"
+  - title: "Check out the Scopes Website and Join Our Community"
     url: 'https://www.scopesdf.org/'
     type: clear
     
