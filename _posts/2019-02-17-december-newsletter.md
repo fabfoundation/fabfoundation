@@ -18,9 +18,7 @@ permalink: /december-newsletter
 
 ## 1,600 Fab Labs Worldwide!
 
-The Fab Lab network continues to grow and make impact across the world! As 2018 comes to a close,
-
-our network numbers more than 1,600 Fab Labs in 100+ countries and, if Lass's Law holds true, we anticipate that this number will double by mid2020.
+The Fab Lab network continues to grow and make impact across the world! As 2018 comes to a close, our network numbers more than 1,600 Fab Labs in 100+ countries and, if Lass's Law holds true, we anticipate that this number will double by mid2020.
 
 The Fablabs.io platform hosts the main list of all Fab
 
