@@ -20,15 +20,9 @@ permalink: /december-newsletter
 
 The Fab Lab network continues to grow and make impact across the world! As 2018 comes to a close, our network numbers more than 1,600 Fab Labs in 100+ countries and, if Lass's Law holds true, we anticipate that this number will double by mid2020.
 
-The Fablabs.io platform hosts the main list of all Fab
+The Fablabs.io platform hosts the main list of all Fab Labs around the world. If you know of a Fab Lab that is not yet registered on the platform and would like to be part of the #FabLabNetwork please make sure they register here!
 
-Labs around the world. If you know of a Fab Lab that is not yet registered on the platform and would like
-
-to be part of the #FabLabNetwork please make sure they register here!
-
-As you may have noticed, fablabs.io has a terrific new look and feel. We want to give special thanks to
-
-the Fab Lab Barcelona Team for their great effort on the development and launch of the new website.
+As you may have noticed, fablabs.io has a terrific new look and feel. We want to give special thanks to the Fab Lab Barcelona Team for their great effort on the development and launch of the new website.
 
 Stay tuned…more changes are coming!
 
