@@ -10,4 +10,10 @@ img: fab14-banner.jpg
 permalink: /fab14-photos-videos
 ---
 
-This is a comment on Fab14…
+We had an amazing time at Fab14: Fabricating Resilience! The annual Fab conference is always a fantastic time to build connections, delve into your creativity with dozens of workshops, and expand your knowledge with panelists across multiple countries and fields of experience.&nbsp;
+
+Please see below and enjoy all of the photos and videos from Fab14, and share on your social media!
+
+Photos: https://www.flickr.com/photos/fabfoundation/collections/72157696790028182
+
+Videos: https://vimeo.com/album/5340854
