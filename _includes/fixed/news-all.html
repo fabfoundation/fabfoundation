@@ -54,11 +54,7 @@
       <div class="row">
         {% for post in site.posts %} {% if post.category == 'newsletter' %}
         <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
-          <a
-            class="portfolio-link"
-            href="{{ post.url | relative_url }}"
-            target="_blank"
-          >
+          <a class="portfolio-link" href="{{ post.url | relative_url }}">
             <div class="portfolio-hover">
               <div class="portfolio-hover-content">
                 <i class="fa fa-plus fa-2x"></i>

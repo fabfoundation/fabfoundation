@@ -1,18 +1,32 @@
 <!--Standard standalone Banner or standalone carousel template -->
-<section id="{{ include.texts.id }}" style="background-color: #{{ include.texts.background }};" data-aos="fade-up" class="section-home">  
-    <div class="container">
-        <a href="{{ site.baseurl }}/{{ include.texts.link }}" target="_blank">
-        <div class="row text-center banner standalone">
-            <div>
-                <img class="banner-standalone" src="{{ site.baseurl }}/uploads/{{ include.texts.banner }}">
-            </div>
+<section
+  id="{{ include.texts.id }}"
+  style="background-color: #{{ include.texts.background }};"
+  data-aos="fade-up"
+  class="section-home"
+>
+  <div class="container">
+    <a href="{{ site.baseurl }}/{{ include.texts.link }}">
+      <div class="row text-center banner standalone">
+        <div>
+          <img
+            class="banner-standalone"
+            src="{{ site.baseurl }}/uploads/{{ include.texts.banner }}"
+          />
         </div>
-        </a>
-        <div class="row">
-            <div class="col-md-12">
-                <a data-aos="fade-right" href="{{ site.baseurl }}/{{ include.texts.buttonurl }}" class="page-scroll btn btn-gray" style="float: right;" target="_blank">{{ include.texts.button }} ></a> 
-            </div>
-         </div>
-    </div> <!-- close container -->                
+      </div>
+    </a>
+    <div class="row">
+      <div class="col-md-12">
+        <a
+          data-aos="fade-right"
+          href="{{ site.baseurl }}/{{ include.texts.buttonurl }}"
+          class="page-scroll btn btn-gray"
+          style="float: right;"
+          >{{ include.texts.button }} ></a
+        >
+      </div>
+    </div>
+  </div>
+  <!-- close container -->
 </section>
-
