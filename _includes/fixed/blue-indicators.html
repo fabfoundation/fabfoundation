@@ -1,20 +1,28 @@
 <!--Indicator module template -->
-<section id="{{ include.texts.id }}" class="no-margin no-padding">    
-    <div class="container blue-bg indicators-container">
-        <div class="sub-container">
-            <div class="row text-center">
-
-                {% for indicator in include.texts.indicators %}
-                <div class="col-xs-12 col-sm-3 col-md-3 indicator-box" data-aos="fade-up">
-                    <span class="indicator-img">
-                        <div class="icon"> <img src="{{ site.baseurl }}/uploads/{{ indicator.icon }}.svg">
-                        </div>
-                    </span>
-                    <h2 class="h2-inverted">{{ indicator.number }}</h2>
-                    <p class="p-inverted">{{ indicator.description }}</p>
-                </div>
-               {% endfor %}
+<section id="{{ include.texts.id }}" class="no-margin no-padding">
+  <div class="container blue-bg indicators-container">
+    <div class="sub-container">
+      <div class="row text-center">
+        {% for indicator in include.texts.indicators %}
+        <div
+          class="col-xs-12 col-sm-3 col-md-3 indicator-box"
+          data-aos="fade-up"
+        >
+          <span class="indicator-img">
+            <div class="icon">
+              <img
+                src="{{ site.baseurl }}/uploads/{{ indicator.icon }}.svg"
+                alt="{{ indicator.icon }}"
+              />
             </div>
-        </div><!-- close sub-container --> 
-    </div> <!-- close container -->
+          </span>
+          <h2 class="h2-inverted">{{ indicator.number }}</h2>
+          <p class="p-inverted">{{ indicator.description }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <!-- close sub-container -->
+  </div>
+  <!-- close container -->
 </section>

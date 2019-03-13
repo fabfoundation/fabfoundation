@@ -1,17 +1,22 @@
 <!--Blue Claims Strip template -->
 <div class="container no-padding blue-claims">
-	<div class="sub-container">
-		<div class="row text-center blue-claims-box">
-		    {% for statement in include.texts.blueclaims %}
-		    <div class="col-md-4 indicator-box" data-aos="fade-up">
-		    	<a href= "{{ site.baseurl }}/{{ statement.link }}" target="_blank">
-		        <span class="indicator-img" style="margin-bottom: 30px;">
-		            <div class="icon"> <img src="{{ site.baseurl }}/uploads/{{ statement.icon }}.svg"></div>
-		        </span>
-		        <h5 class="h5-inverted" style="margin:0px;">{{ statement.title }}</h5>
-		    </a>
-		    </div>
-		    {% endfor %}
-		</div>
-	</div>
+  <div class="sub-container">
+    <div class="row text-center blue-claims-box">
+      {% for statement in include.texts.blueclaims %}
+      <div class="col-md-4 indicator-box" data-aos="fade-up">
+        <a href="{{ site.baseurl }}/{{ statement.link }}" target="_blank">
+          <span class="indicator-img" style="margin-bottom: 30px;">
+            <div class="icon">
+              <img
+                src="{{ site.baseurl }}/uploads/{{ statement.icon }}.svg"
+                alt="{{ statement.icon }}"
+              />
+            </div>
+          </span>
+          <h5 class="h5-inverted" style="margin:0px;">{{ statement.title }}</h5>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>

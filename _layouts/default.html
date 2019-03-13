@@ -1,20 +1,36 @@
 <!DOCTYPE html>
 <html>
   {% include fixed/head.html %}
-    <body id="page-top" class="index">
-    <img src="{{ site.baseurl }}/uploads/making.jpg" class="page-bg">
-    <video autoplay loop muted poster="{{ site.baseurl }}/uploads/making.jpg" id="background-video">
-        <source src="{{ site.baseurl }}/uploads/home-bg-video.mp4" type="video/mp4">
-        <source src="{{ site.baseurl }}/uploads/home-bg-video.ogg" type="video/ogg">
-        <source src="{{ site.baseurl }}/uploads/home-bg-video.ogg" type="video/webm">
+  <body id="page-top" class="index">
+    <img
+      src="{{ site.baseurl }}/uploads/making.jpg"
+      class="page-bg"
+      alt="Making"
+    />
+    <video
+      autoplay
+      loop
+      muted
+      poster="{{ site.baseurl }}/uploads/making.jpg"
+      id="background-video"
+    >
+      <source
+        src="{{ site.baseurl }}/uploads/home-bg-video.mp4"
+        type="video/mp4"
+      />
+      <source
+        src="{{ site.baseurl }}/uploads/home-bg-video.ogg"
+        type="video/ogg"
+      />
+      <source
+        src="{{ site.baseurl }}/uploads/home-bg-video.ogg"
+        type="video/webm"
+      />
     </video>
-    {% include fixed/navbar.html %}
-    {% include fixed/header.html %}
-    {% include fixed/twitter.html %}  
+    {% include fixed/navbar.html %} {% include fixed/header.html %} {% include
+    fixed/twitter.html %}
     {{ content }}
-	{% include fixed/subscribe.html %}
-    {% include fixed/mailchimp-modal.html %}
-	{% include fixed/footer.html %}
-    {% include fixed/js.html %}
-    </body>
+    {% include fixed/subscribe.html %} {% include fixed/mailchimp-modal.html %}
+    {% include fixed/footer.html %} {% include fixed/js.html %}
+  </body>
 </html>

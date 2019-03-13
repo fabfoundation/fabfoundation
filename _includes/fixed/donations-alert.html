@@ -1,28 +1,55 @@
 <!--Donations Alert template -->
-<section id="{{ include.texts.id }}" class="">    
-    <div class="container standard red-bg">
-        <div class="sub-container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-3 col-md-3 alert-icon-box" data-aos="fade-up">
-                    <span class="alert-img">
-                        <div class="alert-icon"> <img src="{{ site.baseurl }}/uploads/{{ include.texts.icon }}.svg">
-                        </div>
-                    </span>
-                </div>
-                <div class="col-xs-12 col-sm-8 col-md-8 " data-aos="fade-up"> 
-                    <h2 class="h2-inverted" style="margin-bottom: 20px; font-size: 1.8em; text-transform: none;">{{ include.texts.title }}</h2>
-                    <p class="p-inverted" style="font-size: 14px;">{{ include.texts.description }}</p>
-                    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EYDLTF9MPXF2C">
-                        <img data-aos="fade-right" target="_blank" class="paypal-btn" src="{{ site.baseurl }}/uploads/donate.png">
-                    </a>
-                    {% if include.texts.hasbuttons == true %}
-                        {% for button in include.texts.buttons %}
-                        <a data-aos="fade-right" href="{{ button.url }}" class="page-scroll btn btn-clear clear-inverted" target="_blank">{{ button.title }}</a>
-                        {% endfor %}
-                    {% endif %}
-                </div>
+<section id="{{ include.texts.id }}" class="">
+  <div class="container standard red-bg">
+    <div class="sub-container">
+      <div class="row">
+        <div
+          class="col-xs-12 col-sm-3 col-md-3 alert-icon-box"
+          data-aos="fade-up"
+        >
+          <span class="alert-img">
+            <div class="alert-icon">
+              <img
+                src="{{ site.baseurl }}/uploads/{{ include.texts.icon }}.svg"
+                alt="{{ include.texts.icon }}"
+              />
             </div>
-        </div><!-- close sub-container --> 
-    </div> <!-- close container -->
+          </span>
+        </div>
+        <div class="col-xs-12 col-sm-8 col-md-8 " data-aos="fade-up">
+          <h2
+            class="h2-inverted"
+            style="margin-bottom: 20px; font-size: 1.8em; text-transform: none;"
+          >
+            {{ include.texts.title }}
+          </h2>
+          <p class="p-inverted" style="font-size: 14px;">
+            {{ include.texts.description }}
+          </p>
+          <a
+            href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EYDLTF9MPXF2C"
+          >
+            <img
+              data-aos="fade-right"
+              target="_blank"
+              class="paypal-btn"
+              src="{{ site.baseurl }}/uploads/donate.png"
+            />
+          </a>
+          {% if include.texts.hasbuttons == true %} {% for button in
+          include.texts.buttons %}
+          <a
+            data-aos="fade-right"
+            href="{{ button.url }}"
+            class="page-scroll btn btn-clear clear-inverted"
+            target="_blank"
+            >{{ button.title }}</a
+          >
+          {% endfor %} {% endif %}
+        </div>
+      </div>
+    </div>
+    <!-- close sub-container -->
+  </div>
+  <!-- close container -->
 </section>
-
