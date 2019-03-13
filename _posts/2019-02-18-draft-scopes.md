@@ -12,11 +12,11 @@ permalink: /draft-scopes
 
 It's National Engineers Week and we are celebrating by launching the new SCOPES-DF website!
 
-[SCOPESDF.org](https://www.scopesdf.org/) is dedicated to educators working with primary and secondary school students who want to leverage digital fabrication for STEM learning.
+<a href="https://www.scopesdf.org/" target="_blank">SCOPESDF.org</a> is dedicated to educators working with primary and secondary school students who want to leverage digital fabrication for STEM learning.
 
 Scaling a Community of Practice for Education in STEM through Digital Fabrication (SCOPES-DF) is our answer to the call for quality, standards-aligned, digital fabrication curriculum. The goal is to develop a community of practice to learn with and from as we use digital fabrication to ignite student learning.
 
-Today we invite you to visit [www.scopesdf.org](https://www.scopesdf.org/) where you can:
+Today we invite you to visit <a href="https://www.scopesdf.org/" target="_blank">www.scopesdf.org</a>
 
 1. Register, create a profile, and join this emerging community dedicated to learning.
 
@@ -24,7 +24,7 @@ Today we invite you to visit [www.scopesdf.org](https://www.scopesdf.org/) where
 
 3. Download and use lessons created by the rest of the community to ignite learning in your classroom, fab lab or makerspace.
 
-And please spread the word! Share [www.scopesdf.org](https://www.scopesdf.org/) with others, follow us on social media @FabFndn across all platforms – help us build and support this growing community of practice.
+And please spread the word! Share <a href="https://www.scopesdf.org/" target="_blank">www.scopesdf.org/a> with others, follow us on social media @FabFndn across all platforms – help us build and support this growing community of practice.
 
 Extra! Extra!
 
@@ -32,8 +32,8 @@ Don't miss the debut of our SCOPES-DF Playbook, which will go to subscribers Fri
 
 February 22nd, bookending the EWeek celebration. So register with scopesdf.org today!
 
-It’s great to join [EWeek](https://www.nspe.org/resources/partners-and-state-societies/national-engineers-week) this year as we celebrate engineering and STEM.
+It’s great to join <a href="https://www.nspe.org/resources/partners-and-state-societies/national-engineers-week" target="_blank">EWeek</a> this year as we celebrate engineering and STEM.
 
-And a special thank you to our sponsors, [Chevron](https://www.chevron.com/corporate-responsibility) and [GE Foundation](https://www.ge.com/sustainability/philanthropy).
+And a special thank you to our sponsors, <a href="https://www.chevron.com/corporate-responsibility" target="_blank">Chevron</a> and <a href="https://www.ge.com/sustainability/philanthropy" target="_blank">GE Foundation</a> 
 
-If you would like to continue receiving announcements about the SCOPES-DF project, be sure to [subscribe here](https://scopesdf.us17.list-manage.com/subscribe?u=8317b80fba41c61b9752d368d&id=f3e1736be6). 
+If you would like to continue receiving announcements about the SCOPES-DF project, be sure to <a href="https://scopesdf.us17.list-manage.com/subscribe?u=8317b80fba41c61b9752d368d&id=f3e1736be6" target="_blank">subscribe here</a> 
