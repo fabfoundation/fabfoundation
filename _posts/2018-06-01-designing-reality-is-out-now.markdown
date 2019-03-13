@@ -20,7 +20,7 @@ Authors Neil Gershenfeld, Alan Gershenfeld and Joel Cutcher-Gershenfeld ​have 
 
 So how do you get a free book?
 
-Your lab must be listed on fablabs.ioYou must have a PayPal Account for electronic reimbursement. (Getting an account is free, but PayPal does charge transactional fees: www.paypal.com)Send us an email to drbook &lt; at &gt; fabfoundation &lt; dot &gt; org with:a copy of your book purchase receiptyour name and full mailing address (for our tax records)email addressyour PayPal.me link so that we can reimburse you for the bookThis is a gift from The Brothers Gershenfeld. Thank you Bros!
+Your lab must be listed on fablabs.ioYou must have a PayPal Account for electronic reimbursement. (Getting an account is free, but PayPal does charge transactional fees: www.paypal.com). Send us an email to drbook@fabfoundation.org with a copy of your book purchase receipt, your name and full mailing address (for our tax records), email address, and your PayPal.me link so that we can reimburse you for the book. This is a gift from The Brothers Gershenfeld. Thank you Bros!
 
 Have a Fab read!
 
