@@ -14,9 +14,9 @@ permalink: /fabricademy-registrations-now-open
 
 ## What is Fabricademy?
 
-[Fabricademy](http://textile-academy.org/join/) is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry to the upcoming wearable market.
+<a href="http://textile-academy.org/join/" target="_blank">Fabricademy</a> is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry to the upcoming wearable market.
 
-[Fabricademy](http://textile-academy.org/join/) is a two-phase program that covers 6 months: approximately 3 months of seminars and learning modules plus 3 months focusing on individual in-depth applied project research.
+<a href="http://textile-academy.org/join/" target="_blank">Fabricademy</a> is a two-phase program that covers 6 months: approximately 3 months of seminars and learning modules plus 3 months focusing on individual in-depth applied project research.
 
 ![](/fabfoundation/uploads/fabrics-sample.png)
 
@@ -26,4 +26,4 @@ The possibilities to conduct experimental research in an open laboratory give st
 
 Along with experts from the field, the participants will investigate how the textile and fashion industry can benefit from new technologies, processes and business models. We are experimenting with the human body, culture and mindset by recycling, hacking and sensing it, creating feedback loops with project development, where materials, aesthetics, sustainability and customization play equal and important roles. The Fabricademy offers a cross-disciplinary education and research platform, where production and culture through advanced technologies are making impact in the way we think and act towards the textile industry and all of its application fields. Working locally, while creating connected communities globally. We are not waiting for things to change, we are changing them from the ground up.
 
-[Learn More about the program and register here!](http://textile-academy.org/)
+<a href="http://textile-academy.org/" target="_blank">Learn More about the program and register here!</a> 
