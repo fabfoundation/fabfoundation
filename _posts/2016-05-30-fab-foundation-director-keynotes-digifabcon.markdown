@@ -11,4 +11,4 @@ img: sherry-digifabcon.png
 permalink: /fab-foundation-director-keynotes-at-digifabcon
 ---
 
-Sherry Lassiter, Director of the Fab Foundation, brought her unique perspective of the Fab Lab Network to the opening keynote at DigiFabCon in April at the Microsoft NERD Center in Cambridge.  Having been involved with the development of Fab Labs from the beginning, Sherry shared the Fab Lab Network history and described the exciting current and future projects we are undertaking. [https://vimeo.com/168566760](Here is the link to the complete presentation.)
+Sherry Lassiter, Director of the Fab Foundation, brought her unique perspective of the Fab Lab Network to the opening keynote at DigiFabCon in April at the Microsoft NERD Center in Cambridge.  Having been involved with the development of Fab Labs from the beginning, Sherry shared the Fab Lab Network history and described the exciting current and future projects we are undertaking. <a href="https://vimeo.com/168566760" target="_blank">Here is the link to the complete presentation</a>.
