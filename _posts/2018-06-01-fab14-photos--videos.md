@@ -14,6 +14,6 @@ We had an amazing time at Fab14: Fabricating Resilience! The annual Fab conferen
 
 Please see below and enjoy all of the photos and videos from Fab14, and share on your social media!
 
-Photos: [https://www.flickr.com/photos/fabfoundation/collections/72157696790028182](https://www.flickr.com/photos/fabfoundation/collections/72157696790028182) 
+Photos: <a href="https://www.flickr.com/photos/fabfoundation/collections/72157696790028182" target="_blank">https://www.flickr.com/photos/fabfoundation/collections/72157696790028182</a> 
 
-Videos: [https://vimeo.com/album/5340854](https://vimeo.com/album/5340854) 
+Videos: <a href="https://vimeo.com/album/5340854" target="_blank">https://vimeo.com/album/5340854</a> 
