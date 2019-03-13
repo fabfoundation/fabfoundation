@@ -3,54 +3,54 @@ hastitle: true
 title: "Research"
 resources:
   - title: "Building a Hackerspace"
-    type: pdf 
+    type: pdf
     img: hackerspace.png
-    filename: Hacker-Space-Design-Patterns.pfd
+    filename: Hacker-Space-Design-Patterns.pdf
   - title: "Empowering people, driving change"
-    type: pdf  
+    type: pdf
     img: empoweringpeople-copy.png
     filename: NJ7911114ENC_002.pdf
-  - title: "The Environmental Forum" 
-    type: pdf 
+  - title: "The Environmental Forum"
+    type: pdf
     img: forum.png
     filename: "OLSON_FORUM_NOV-DEC_2013-1.pdf"
   - title: "Make a Space Kit"
-    type: pdf  
+    type: pdf
     img: space_kit.png
     filename: make-a-space-kit.pdf
-  - title: "The Maker Economy in Action" 
-    type: pdf 
+  - title: "The Maker Economy in Action"
+    type: pdf
     img: maker_economy_action.png
     filename: "The+Maker+Economy+in+Action+--+Final+Report+w+Appendices.pdf"
-  - title: "Introductions to making a community Fab Lab" 
-    type: pdf 
+  - title: "Introductions to making a community Fab Lab"
+    type: pdf
     img: makingacommunity.png
     filename: white-paper-2013-mcgrath-v11.pdf
-  - title: "Making Sustainability" 
-    type: pdf 
+  - title: "Making Sustainability"
+    type: pdf
     img: making_fab_sustainability.png
     filename: Kohtala.pdf
   - title: "Maybe a Maker Space?"
-    type: pdf  
+    type: pdf
     img: maybe_a_makerspace.png
     filename: "santo_et_al_2015_maybe_a_maker_space_organizational_learning_about_maker_education_within_a_regional_out_of_school_network.pdf"
   - title: "Bulgaria"
-    type: pdf 
+    type: pdf
     img: bulgaria-report.png
     filename: reportinnovationflagships.pdf
   - title: "Chicago Fab Lab Layouts"
-    type: pdf 
+    type: pdf
     img: chicago_thumb.png
     filename:
   - title: "This is European Social Innovation"
-    type: pdf 
+    type: pdf
     img: european_innovation.png
     filename: social_innov.pdf
   - title: "Social Innovation: A decade of changes"
-    type: pdf 
+    type: pdf
     img: social_innovation_decade.png
     filename: social_innovation_decade_of_changes.pdf
   - title: "Makerspaces in the university community"
-    type: pdf 
+    type: pdf
     img: weinmann.png
     filename: Weinmann_Masters_Thesis.pdf
