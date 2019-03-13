@@ -1,98 +1,98 @@
 sections:
   - title: "About"
-    link: 'about'
+    link: "about"
     sublinks:
-      - title: 'About the Foundation' 
-        link: 'about#about-intro'  
-      - title: 'Programs & Services' 
-        link: 'about#programs-services'
-      - title: 'Become a Partner' 
-        link: 'about#become-a-partner' 
-      - title: 'Donations & Grants' 
-        link: 'about#donations-grants' 
-      - title: 'Board & Team' 
-        link: 'about#board-team'
-      - title: 'Financial Reporting' 
-        link: 'about#financial-reports'
+      - title: "About the Foundation"
+        link: "about#about-intro"
+      - title: "Programs & Services"
+        link: "about#programs-services"
+      - title: "Become a Partner"
+        link: "about#become-a-partner"
+      - title: "Donations & Grants"
+        link: "about#donations-grants"
+      - title: "Board & Team"
+        link: "about#board-team"
+      - title: "Financial Reporting"
+        link: "about#financial-reports"
     hasbuttons: true
     buttons:
       - title: "Donate"
-        url: 'about#donations'
+        url: "about#donations-grants"
         type: clear
   - title: "Fab Lab Network"
-    link: 'global-community'
+    link: "global-community"
     sublinks:
-      - title: 'What is a Fab Lab' 
-        link: 'global-community#fablabs-full'
-      - title: 'The Fab Lab Network' 
-        link: 'global-community#fablabs-full'  
-      - title: 'How to start a Fab Lab' 
-        link: 'global-community#fab-lab-questions'
-      - title: 'Mobile Fab Lab' 
-        link: 'global-community#mobile-fablab'
-      - title: 'Fab Lab Resources' 
-        link: 'global-community#resources-fablabs'
-      - title: 'Fab Foundation Forum'
-        link: 'global-community#fab-foundation-forum'
-      - title: 'Fablabs.io' 
-        link: 'global-community#fablab-map'
+      - title: "What is a Fab Lab"
+        link: "global-community#fablabs-full"
+      - title: "The Fab Lab Network"
+        link: "global-community#fablabs-full"
+      - title: "How to start a Fab Lab"
+        link: "global-community#fab-lab-questions"
+      - title: "Mobile Fab Lab"
+        link: "global-community#mobile-fablab"
+      - title: "Fab Lab Resources"
+        link: "global-community#resources-fablabs"
+      - title: "Fab Foundation Forum"
+        link: "global-community#fab-foundation-forum"
+      - title: "Fablabs.io"
+        link: "global-community#fablab-map"
 
     hasbuttons: false
   - title: "Research and Data"
-    link: 'resources'
+    link: "resources"
     sublinks:
-      - title: 'Research' 
-        link: 'resources#resources-research'
-      - title: 'Data' 
-        link: 'resources#resources-data'
+      - title: "Research"
+        link: "resources#resources-research"
+      - title: "Data"
+        link: "resources#resources-data"
     hasbuttons: false
     buttons:
       - title: "Subscribe"
-        url: ''
+        url: ""
         color: clear
   - title: "Education"
-    link: 'education' 
+    link: "education"
     sublinks:
-      - title: 'Academany' 
-        link: 'education#academany-full'  
-      - title: 'Scopes-DF' 
-        link: 'education#scopes-full'
-      - title: 'Other Educational Projects' 
-        link: 'education#other-projects'
+      - title: "Academany"
+        link: "education#academany-full"
+      - title: "Scopes-DF"
+        link: "education#scopes-full"
+      - title: "Other Educational Projects"
+        link: "education#other-projects"
     hasbuttons: false
   - title: "Global Initiatives"
-    link: 'projects-initiatives'
+    link: "projects-initiatives"
     sublinks:
-      - title: 'Fablabs.io'
-        link: 'projects-initiatives#fablabs.io'
-      - title: 'FabX Events' 
-        link: 'projects-initiatives#fabevents'
-      - title: 'Fab Research'
-        link: 'projects-initiatives#fabresearch'
-      - title: 'Fab City'
-        link: 'projects-initiatives#fabcity'
-      - title: 'Fab Economy'
-        link: 'projects-initiatives#fabeconomy'
-    hasbuttons: false 
-  - title: 'News' 
-    link: 'news'
+      - title: "Fablabs.io"
+        link: "projects-initiatives#fablabs.io"
+      - title: "FabX Events"
+        link: "projects-initiatives#fabevents"
+      - title: "Fab Research"
+        link: "projects-initiatives#fabresearch"
+      - title: "Fab City"
+        link: "projects-initiatives#fabcity"
+      - title: "Fab Economy"
+        link: "projects-initiatives#fabeconomy"
+    hasbuttons: false
+  - title: "News"
+    link: "news"
     sublinks:
-      - title: 'Press Releases' 
-        link: 'news#press-releases'
-      - title: 'Newsletters' 
-        link: 'news#newsletters'
-      - title: 'Blog' 
-        link: 'news#blog' 
+      - title: "Press Releases"
+        link: "news#press-releases"
+      - title: "Newsletters"
+        link: "news#newsletters"
+      - title: "Blog"
+        link: "news#blog"
     hasbuttons: false
   - title: "Contact us"
-    link: 'contact' 
+    link: "contact"
     sublinks:
-      - title: 'E-mail' 
-        link: 'contact' 
-      - title: 'Facebook' 
-        link: 'https://www.facebook.com/fabfndn'  
-      - title: 'Twitter' 
-        link: 'https://twitter.com/fabfndn' 
-      - title: 'Youtube' 
-        link: 'https://www.youtube.com/user/fabfndn' 
+      - title: "E-mail"
+        link: "contact"
+      - title: "Facebook"
+        link: "https://www.facebook.com/fabfndn"
+      - title: "Twitter"
+        link: "https://twitter.com/fabfndn"
+      - title: "Youtube"
+        link: "https://www.youtube.com/user/fabfndn"
     hasbuttons: false

@@ -1,51 +1,61 @@
-
 <!-- Navigation -->
 
 <div id="myNav" class="overlay">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <div class="overlay-content">
     <div class="container overlay-container">
-
-        {% for category in site.data.navbar.navbar.sections %}
-            <div class="col-xs-12 col-sm-3 col-md-4 link-box">
-                <a class="main-link" href="{{ site.baseurl }}/{{ category.link }}" target="_blank">{{ category.title }}</a>
-                {% for sublink in category.sublinks %}
-                    <a class="sub-link" href="{{ site.baseurl }}/{{ sublink.link }}" target="_blank">{{ sublink.title }}</a>
-                {% endfor %}
-                {% if category.hasbuttons == true %}
-                {% for button in category.buttons %}
-                    {% if button.type == 'clear' %}
-                        <a href="{{ button.url }}" class="page-scroll btn btn-clear clear-inverted btn-navbar">{{ button.title }}</a>
-                    {% else button.type == 'red' %}
-                        <a href="{{ button.url }}" class="page-scroll btn btn-red btn-navbar">{{ button.title }}</a>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-            </div>
-        {% endfor %}
+      {% for category in site.data.navbar.navbar.sections %}
+      <div class="col-xs-12 col-sm-3 col-md-4 link-box">
+        <a class="main-link" href="{{ site.baseurl }}/{{ category.link }}">{{
+          category.title
+        }}</a>
+        {% for sublink in category.sublinks %}
+        <a class="sub-link" href="{{ site.baseurl }}/{{ sublink.link }}">{{
+          sublink.title
+        }}</a>
+        {% endfor %} {% if category.hasbuttons == true %} {% for button in
+        category.buttons %} {% if button.type == 'clear' %}
+        <a
+          href="{{ button.url | relative_url }}"
+          class="page-scroll btn btn-clear clear-inverted btn-navbar"
+          >{{ button.title }}</a
+        >
+        {% else button.type == 'red' %}
+        <a
+          href="{{ button.url | relative_url }}"
+          class="page-scroll btn btn-red btn-navbar"
+          >{{ button.title }}</a
+        >
+        {% endif %} {% endfor %} {% endif %}
+      </div>
+      {% endfor %}
     </div>
   </div>
 </div>
 
 <nav class="navbar navbar-default navbar-fixed-top" data-aos="fade-down">
-    <div class="container" style="background-color: transparent;">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <a class="navbar-brand page-scroll" href="{{ site.baseurl }}/#page-top"><img class="logo" src="{{ site.baseurl }}/uploads/fabfoundation.svg"></a>
-            <div class="right-group">
-                <div class="" style="position: relative; float:right;">
-                    <button type="button" class="navbar-toggle"  onclick="openNav()">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                     </button>
-                </div>
-                <div class="" style="position: relative; float:right;">
-                    <a href="{{ site.baseurl }}/search"><i class="glyphicon glyphicon-search navbar-search-icon"></i></a>
-                </div>
-            </div>
-            <!--
+  <div class="container" style="background-color: transparent;">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header page-scroll">
+      <a class="navbar-brand page-scroll" href="{{ site.baseurl }}/#page-top"
+        ><img class="logo" src="{{ site.baseurl }}/uploads/fabfoundation.svg"
+      /></a>
+      <div class="right-group">
+        <div class="" style="position: relative; float:right;">
+          <button type="button" class="navbar-toggle" onclick="openNav()">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="" style="position: relative; float:right;">
+          <a href="{{ site.baseurl }}/search"
+            ><i class="glyphicon glyphicon-search navbar-search-icon"></i
+          ></a>
+        </div>
+      </div>
+      <!--
             <div class="col-sm-3 col-md-3" style="float:right;">
                 <form class="navbar-form" role="search">
                     <div class="input-group">
@@ -57,7 +67,8 @@
                     </div>
                 </form>
              </div>-->
-
-        </div><!--close navbar-header -->
-    </div> <!--close .container -->
+    </div>
+    <!--close navbar-header -->
+  </div>
+  <!--close .container -->
 </nav>
