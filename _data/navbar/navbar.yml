@@ -81,8 +81,6 @@ sections:
         link: "news#Fab News"
       - title: "Newsletters"
         link: "news#newsletters"
-      - title: "Blog"
-        link: "news#blog"
     hasbuttons: false
   - title: "Contact us"
     link: "contact"
