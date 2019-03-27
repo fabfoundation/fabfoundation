@@ -41,7 +41,7 @@ sections:
   - title: "Research and Data"
     link: "resources"
     sublinks:
-      - title: "Research"
+      - title: "Research Papers"
         link: "resources#resources-research"
       - title: "Data"
         link: "resources#resources-data"
