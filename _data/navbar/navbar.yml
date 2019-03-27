@@ -12,7 +12,7 @@ sections:
         link: "about#donations-grants"
       - title: "Board & Team"
         link: "about#board-team"
-      - title: "Financial Reporting"
+      - title: "Organizational Reporting"
         link: "about#financial-reports"
     hasbuttons: true
     buttons:
