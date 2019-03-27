@@ -77,8 +77,8 @@ sections:
   - title: "News"
     link: "news"
     sublinks:
-      - title: "Press Releases"
-        link: "news#press-releases"
+      - title: "Fab News"
+        link: "news#Fab News"
       - title: "Newsletters"
         link: "news#newsletters"
       - title: "Blog"
