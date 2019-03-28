@@ -43,6 +43,14 @@ sections:
       - title: "Subscribe"
         url: ""
         color: clear
+  - title: "News"
+    link: "news"
+    sublinks:
+      - title: "Fab News"
+        link: "news#news-fabnews"
+      - title: "Newsletters"
+        link: "news#news-newsletters"
+    hasbuttons: false
   - title: "Education"
     link: "education"
     sublinks:
@@ -52,14 +60,6 @@ sections:
         link: "education#scopes-full"
       - title: "Other Educational Projects"
         link: "education#other-projects"
-    hasbuttons: false
-  - title: "News"
-    link: "news"
-    sublinks:
-      - title: "Fab News"
-        link: "news#news-fabnews"
-      - title: "Newsletters"
-        link: "news#news-newsletters"
     hasbuttons: false
   - title: "Contact us"
     link: "contact"
