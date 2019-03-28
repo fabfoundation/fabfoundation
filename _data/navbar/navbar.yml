@@ -9,6 +9,26 @@ sections:
       - title: "Mobile Fab Lab"
         link: "getting-started#mobile-fablab"
     hasbuttons: false   
+  - title: "Fab Lab Network"
+    link: "global-community"
+    sublinks:
+      - title: "Fab Lab Resources"
+        link: "global-community#resources-fablabs"
+      - title: "Fab Foundation Forum"
+        link: "global-community#fab-foundation-forum"
+      - title: "Fablabs.io"
+        link: "global-community#fablab-map"
+    hasbuttons: false
+  - title: "Education"
+    link: "education"
+    sublinks:
+      - title: "Academany"
+        link: "education#academany-full"
+      - title: "Scopes-DF"
+        link: "education#scopes-full"
+      - title: "Other Educational Projects"
+        link: "education#other-projects"
+    hasbuttons: false
   - title: "Research and Data"
     link: "resources"
     sublinks:
@@ -21,26 +41,6 @@ sections:
       - title: "Subscribe"
         url: ""
         color: clear
-  - title: "Education"
-    link: "education"
-    sublinks:
-      - title: "Academany"
-        link: "education#academany-full"
-      - title: "Scopes-DF"
-        link: "education#scopes-full"
-      - title: "Other Educational Projects"
-        link: "education#other-projects"
-    hasbuttons: false
-  - title: "Fab Lab Network"
-    link: "global-community"
-    sublinks:
-      - title: "Fab Lab Resources"
-        link: "global-community#resources-fablabs"
-      - title: "Fab Foundation Forum"
-        link: "global-community#fab-foundation-forum"
-      - title: "Fablabs.io"
-        link: "global-community#fablab-map"
-    hasbuttons: false
   - title: "News"
     link: "news"
     sublinks:
@@ -60,6 +60,18 @@ sections:
         link: "projects-initiatives#fabcity"
       - title: "Fab Economy"
         link: "projects-initiatives#fabeconomy"
+    hasbuttons: false
+  - title: "Contact us"
+    link: "contact"
+    sublinks:
+      - title: "E-mail"
+        link: "contact"
+      - title: "Facebook"
+        link: "https://www.facebook.com/fabfndn"
+      - title: "Twitter"
+        link: "https://twitter.com/fabfndn"
+      - title: "Youtube"
+        link: "https://www.youtube.com/user/fabfndn"
     hasbuttons: false
   - title: "About"
     link: "about"
@@ -81,15 +93,3 @@ sections:
       - title: "Donate"
         url: "about#donations-grants"
         type: clear
-  - title: "Contact us"
-    link: "contact"
-    sublinks:
-      - title: "E-mail"
-        link: "contact"
-      - title: "Facebook"
-        link: "https://www.facebook.com/fabfndn"
-      - title: "Twitter"
-        link: "https://twitter.com/fabfndn"
-      - title: "Youtube"
-        link: "https://www.youtube.com/user/fabfndn"
-    hasbuttons: false
