@@ -8,14 +8,15 @@ description:
   - paragraph: "This is an example page intrduction paragraph."
 hasjumplinks: true
 jumplinks:
-  - link: "Jumplink 1"
-    url: "example-id"
-  - link: "Jumplink 2"
-    url: "example-id"
-  - link: "Jumplink 3"
-    url: "example-id"
+  - link: Fab Labs and Fab Lab Network
+    url: fablabs-full
+  - link: How to Start a Fab Lab
+    url: fab-lab-questions
+  - link: Mobile Fab Lab
+    url: mobile-fablab
 background-img: making.jpg
 ---
 
-{% include customizable/section.html texts=site.data.education.academany-intro %}
-{% include customizable/services-cards.html texts=site.data.education.academany-courses %}
+{% include fixed/fablabs-vignettes.html texts=site.data.global-community.fablabs-vignettes %}
+{% include fixed/fablabs-accordion.html texts=site.data.global-community.fablabs-accordion %}
+{% include fixed/section.html texts=site.data.global-community.mobile-fablab %}
