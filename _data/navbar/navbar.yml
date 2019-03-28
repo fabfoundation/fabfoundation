@@ -1,24 +1,4 @@
 sections:
-  - title: "About"
-    link: "about"
-    sublinks:
-      - title: "About the Foundation"
-        link: "about#about-intro"
-      - title: "Programs & Services"
-        link: "about#programs-services"
-      - title: "Become a Partner"
-        link: "about#become-a-partner"
-      - title: "Donations & Grants"
-        link: "about#donations-grants"
-      - title: "Board & Team"
-        link: "about#board-team"
-      - title: "Organizational Reporting"
-        link: "about#financial-reports"
-    hasbuttons: true
-    buttons:
-      - title: "Donate"
-        url: "about#donations-grants"
-        type: clear
   - title: "Getting Started"
     link: "getting-started"
     sublinks:
@@ -81,6 +61,26 @@ sections:
       - title: "Fab Economy"
         link: "projects-initiatives#fabeconomy"
     hasbuttons: false
+  - title: "About"
+    link: "about"
+    sublinks:
+      - title: "About the Foundation"
+        link: "about#about-intro"
+      - title: "Programs & Services"
+        link: "about#programs-services"
+      - title: "Become a Partner"
+        link: "about#become-a-partner"
+      - title: "Donations & Grants"
+        link: "about#donations-grants"
+      - title: "Board & Team"
+        link: "about#board-team"
+      - title: "Organizational Reporting"
+        link: "about#financial-reports"
+    hasbuttons: true
+    buttons:
+      - title: "Donate"
+        url: "about#donations-grants"
+        type: clear
   - title: "Contact us"
     link: "contact"
     sublinks:
