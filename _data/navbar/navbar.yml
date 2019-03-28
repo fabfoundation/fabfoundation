@@ -36,7 +36,6 @@ sections:
         link: "global-community#fab-foundation-forum"
       - title: "Fablabs.io"
         link: "global-community#fablab-map"
-
     hasbuttons: false
   - title: "Research and Data"
     link: "resources"
@@ -72,6 +71,9 @@ sections:
       - title: "Fab Economy"
         link: "projects-initiatives#fabeconomy"
     hasbuttons: false
+   - title: "Getting Started"
+    link: "getting-started"
+    hasbuttons: false   
   - title: "News"
     link: "news"
     sublinks:
