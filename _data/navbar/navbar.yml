@@ -73,6 +73,13 @@ sections:
     hasbuttons: false
   - title: "Getting Started"
     link: "getting-started"
+    sublinks:
+      - title: "What is a Fab Lab?"
+        link: "getting-started#fablabs-full"
+      - title: "How to Start a Fab Lab"
+        link: "getting-started#fab-lab-questions"
+      - title: "Mobile Fab Lab"
+        link: "getting-started#mobile-fablab"
     hasbuttons: false   
   - title: "News"
     link: "news"
