@@ -31,16 +31,6 @@ sections:
       - title: "Subscribe"
         url: ""
         color: clear
-  - title: "Education"
-    link: "education"
-    sublinks:
-      - title: "Academany"
-        link: "education#academany-full"
-      - title: "Scopes-DF"
-        link: "education#scopes-full"
-      - title: "Other Educational Projects"
-        link: "education#other-projects"
-    hasbuttons: false
   - title: "Global Initiatives"
     link: "projects-initiatives"
     sublinks:
@@ -52,6 +42,16 @@ sections:
         link: "projects-initiatives#fabcity"
       - title: "Fab Economy"
         link: "projects-initiatives#fabeconomy"
+    hasbuttons: false
+  - title: "Education"
+    link: "education"
+    sublinks:
+      - title: "Academany"
+        link: "education#academany-full"
+      - title: "Scopes-DF"
+        link: "education#scopes-full"
+      - title: "Other Educational Projects"
+        link: "education#other-projects"
     hasbuttons: false
   - title: "News"
     link: "news"
