@@ -71,7 +71,7 @@ sections:
       - title: "Fab Economy"
         link: "projects-initiatives#fabeconomy"
     hasbuttons: false
-   - title: "Getting Started"
+  - title: "Getting Started"
     link: "getting-started"
     hasbuttons: false   
   - title: "News"
