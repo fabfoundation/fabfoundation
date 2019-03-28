@@ -1,66 +1,4 @@
 sections:
-  - title: "Getting Started"
-    link: "getting-started"
-    sublinks:
-      - title: "What is a Fab Lab?"
-        link: "getting-started#fablabs-full"
-      - title: "How to Start a Fab Lab"
-        link: "getting-started#fab-lab-questions"
-      - title: "Mobile Fab Lab"
-        link: "getting-started#mobile-fablab"
-    hasbuttons: false   
-  - title: "Fab Lab Network"
-    link: "global-community"
-    sublinks:
-      - title: "Fab Lab Resources"
-        link: "global-community#resources-fablabs"
-      - title: "Fab Foundation Forum"
-        link: "global-community#fab-foundation-forum"
-      - title: "Fablabs.io"
-        link: "global-community#fablab-map"
-    hasbuttons: false
-  - title: "Global Initiatives"
-    link: "projects-initiatives"
-    sublinks:
-      - title: "FabX Events"
-        link: "projects-initiatives#fabevents"
-      - title: "Fab Research"
-        link: "projects-initiatives#fabresearch"
-      - title: "Fab City"
-        link: "projects-initiatives#fabcity"
-      - title: "Fab Economy"
-        link: "projects-initiatives#fabeconomy"
-    hasbuttons: false
-  - title: "Education"
-    link: "education"
-    sublinks:
-      - title: "Academany"
-        link: "education#academany-full"
-      - title: "Scopes-DF"
-        link: "education#scopes-full"
-      - title: "Other Educational Projects"
-        link: "education#other-projects"
-    hasbuttons: false
-  - title: "Research and Data"
-    link: "resources"
-    sublinks:
-      - title: "Research Papers"
-        link: "resources#resources-research"
-      - title: "Data"
-        link: "resources#resources-data"
-    hasbuttons: false
-    buttons:
-      - title: "Subscribe"
-        url: ""
-        color: clear
-  - title: "News"
-    link: "news"
-    sublinks:
-      - title: "Fab News"
-        link: "news#news-fabnews"
-      - title: "Newsletters"
-        link: "news#news-newsletters"
-    hasbuttons: false
   - title: "About"
     link: "about"
     sublinks:
@@ -81,6 +19,68 @@ sections:
       - title: "Donate"
         url: "about#donations-grants"
         type: clear
+  - title: "Getting Started"
+    link: "getting-started"
+    sublinks:
+      - title: "What is a Fab Lab?"
+        link: "getting-started#fablabs-full"
+      - title: "How to Start a Fab Lab"
+        link: "getting-started#fab-lab-questions"
+      - title: "Mobile Fab Lab"
+        link: "getting-started#mobile-fablab"
+    hasbuttons: false   
+  - title: "Research and Data"
+    link: "resources"
+    sublinks:
+      - title: "Research Papers"
+        link: "resources#resources-research"
+      - title: "Data"
+        link: "resources#resources-data"
+    hasbuttons: false
+    buttons:
+      - title: "Subscribe"
+        url: ""
+        color: clear
+  - title: "Education"
+    link: "education"
+    sublinks:
+      - title: "Academany"
+        link: "education#academany-full"
+      - title: "Scopes-DF"
+        link: "education#scopes-full"
+      - title: "Other Educational Projects"
+        link: "education#other-projects"
+    hasbuttons: false
+  - title: "Fab Lab Network"
+    link: "global-community"
+    sublinks:
+      - title: "Fab Lab Resources"
+        link: "global-community#resources-fablabs"
+      - title: "Fab Foundation Forum"
+        link: "global-community#fab-foundation-forum"
+      - title: "Fablabs.io"
+        link: "global-community#fablab-map"
+    hasbuttons: false
+  - title: "News"
+    link: "news"
+    sublinks:
+      - title: "Fab News"
+        link: "news#news-fabnews"
+      - title: "Newsletters"
+        link: "news#news-newsletters"
+    hasbuttons: false
+  - title: "Global Initiatives"
+    link: "projects-initiatives"
+    sublinks:
+      - title: "FabX Events"
+        link: "projects-initiatives#fabevents"
+      - title: "Fab Research"
+        link: "projects-initiatives#fabresearch"
+      - title: "Fab City"
+        link: "projects-initiatives#fabcity"
+      - title: "Fab Economy"
+        link: "projects-initiatives#fabeconomy"
+    hasbuttons: false
   - title: "Contact us"
     link: "contact"
     sublinks:
