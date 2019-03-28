@@ -19,18 +19,6 @@ sections:
       - title: "Fablabs.io"
         link: "global-community#fablab-map"
     hasbuttons: false
-  - title: "Research and Data"
-    link: "resources"
-    sublinks:
-      - title: "Research Papers"
-        link: "resources#resources-research"
-      - title: "Data"
-        link: "resources#resources-data"
-    hasbuttons: false
-    buttons:
-      - title: "Subscribe"
-        url: ""
-        color: clear
   - title: "Global Initiatives"
     link: "projects-initiatives"
     sublinks:
@@ -43,6 +31,18 @@ sections:
       - title: "Fab Economy"
         link: "projects-initiatives#fabeconomy"
     hasbuttons: false
+  - title: "Research and Data"
+    link: "resources"
+    sublinks:
+      - title: "Research Papers"
+        link: "resources#resources-research"
+      - title: "Data"
+        link: "resources#resources-data"
+    hasbuttons: false
+    buttons:
+      - title: "Subscribe"
+        url: ""
+        color: clear
   - title: "Education"
     link: "education"
     sublinks:
