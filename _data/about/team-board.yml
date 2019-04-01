@@ -20,7 +20,7 @@ cards:
       - p: "Prof. Neil Gershenfeld is the Director of MIT’s Center for Bits and Atoms. His unique laboratory is breaking down boundaries between the digital and physical worlds, from creating molecular quantum computers to virtuosic musical instruments. Technology from his lab has been seen and used in settings including New York’s Museum of Modern Art and rural Indian villages, the White House and the World Economic Forum, inner-city community centers and automobile safety systems, Las Vegas shows and Sami herds."
       - p: "He is the author of numerous technical publications, patents, and books including Fab, When Things Start To Think, The Nature of Mathematical Modeling, and The Physics of Information Technology, and has been featured in media such as The New York Times, The Economist, and the McNeil/Lehrer News Hour. He is the originator of the growing global network of field fab labs that provide widespread access to prototype tools for personal fabrication, and directs the Fab Academy, the associated program for distributed research and education in the principles and practices of digital fabrication."
   - name: "Blair Evans"
-    img: 'Blair_Evans.png'
+    img: 'blair_evans.png'
     position: "Board Member"
     social: 
       - title: 

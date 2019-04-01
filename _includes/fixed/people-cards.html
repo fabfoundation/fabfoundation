@@ -11,7 +11,8 @@
                 {% for item in include.texts.cards %}
                 <div class="row no-side-margin team-box" data-aos="fade-up">
                     <div class="col-md-3 no-side-padding">
-                        <div class="row no-side-margin team-img" style="background-image: url('{{ site.baseurl }}/uploads/{{ item.img }}');">
+                        <div class="row no-side-margin team-img">
+                            <img src="{{ site.baseurl }}/uploads/{{ item.img }}">
                         </div>
                         <div class="row no-side-margin social-row">
                             <ul class="list-inline social-buttons">

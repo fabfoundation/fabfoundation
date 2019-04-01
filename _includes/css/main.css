@@ -2142,14 +2142,20 @@ header .container {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: top left;
-    webkit-background-size: contain;
+    -webkit-background-size: contain;
     -moz-background-size: contain;
     background-size: contain;
     -o-background-size: contain;
     padding: 0px;
     height: 250px;
+    width: 250px;
+    overflow: hidden;
+}
+
+.team-img img{
     width: 100%;
 }
+
 @media (min-width: 992px){
     .team-box {
         margin-bottom: 40px;
