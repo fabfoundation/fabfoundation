@@ -37,7 +37,7 @@ services:
         url: "projects-initiatives"
         type: "clear"
       - title: "Download brochure"
-        url: "http://add.link.to/brochure"
+        url: "uploads/FF_brochure.pdf"
 hasmorebutton: false
 morebuttontitle: ""
 morebuttonurl: ""
