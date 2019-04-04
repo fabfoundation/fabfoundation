@@ -7,7 +7,7 @@ highlight: false
 category: newsletter
 thumbnail:
 layout: posts
-date: 2019-02-18 00:00:00
+date: 2019-03-01 00:00:00
 img:
 permalink: /draft-newsletter
 ---
