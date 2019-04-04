@@ -3,7 +3,7 @@ title: March Newsletter
 caption: >-
   Fab Foundation March Newsletter is here: 2019 FabCensus, SCOPESDF, FABBR1 and
   more!
-highlight: false
+highlight: true
 category: newsletter
 thumbnail:
 layout: posts
