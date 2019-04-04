@@ -7,7 +7,7 @@ highlight: true
 category: newsletter
 thumbnail: /uploads/camel.png
 layout: posts
-date: 2019-04-01 00:00:00
+date: 2019-04-02 00:00:00
 img: fflogo.svg
 permalink: /april-newsletter
 ---
