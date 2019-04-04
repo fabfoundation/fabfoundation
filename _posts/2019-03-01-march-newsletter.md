@@ -8,7 +8,7 @@ category: newsletter
 thumbnail: /FabCensus.png
 layout: posts
 date: 2019-03-01 00:00:00
-img: ff_logo_horizontal_color.png
+img:
 permalink: /draft-newsletter
 ---
 
