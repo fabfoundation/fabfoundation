@@ -1,8 +1,6 @@
 ---
 title: April Newsletter
-caption: >-
-  Fab Foundation April Newsletter is here: Fab15 Egypt, New Fab Lab Guide,
-  Fabricademy and more
+caption: 'Fab15 Egypt, New Fab Lab Guide, Fabricademy and more'
 highlight: true
 category: newsletter
 thumbnail: /uploads/camel.png
