@@ -9,7 +9,7 @@ thumbnail: /FabCensus.png
 layout: posts
 date: 2019-03-01 00:00:00
 img: fflogo.svg
-permalink: /draft-newsletter
+permalink: /march-newsletter
 ---
 
 Check out our March 2019 Newsletter!<br><br>Click on the link here:
