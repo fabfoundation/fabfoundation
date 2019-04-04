@@ -9,7 +9,7 @@ thumbnail: /uploads/camel.png
 layout: posts
 date: 2019-04-01 00:00:00
 img: fflogo.svg
-permalink: /draft-newsletter-april
+permalink: /april-newsletter
 ---
 
 The Fab Foundation April Newsletter is here!<br><br>Click on the link below to read it:
