@@ -44,7 +44,7 @@ projects:
     id: resources-data
     img: 
   - title: Fablabs.io
-    id: fablabs.io
+    id: fablab-map
     img: fablabsmap.png
 hasbuttons: true
 buttons:
