@@ -38,7 +38,7 @@ vignettes:
 hasprojectgallery: true
 projects:
   - title: Fab Census
-    id: resources-data
+    url: "resources#resources-data"
     img: FabCensus.png
   - title: Annual Report Based on Census Data
     id: resources-data
