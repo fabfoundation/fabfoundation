@@ -49,5 +49,5 @@ projects:
 hasbuttons: true
 buttons:
   - title: Contact us
-    url: forum@fabfoundation.org
+    mailto: "forum@fabfoundation.org"
     type: red
