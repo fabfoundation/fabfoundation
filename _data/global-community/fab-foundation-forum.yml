@@ -1,6 +1,6 @@
 id: fab-foundation-forum
 hastopbanner: true
-topbanner: 
+topbanner: fablabsmap.png
 hascarousel: false
 carouselbackground: banner_events1.png
 carousel:
@@ -10,13 +10,13 @@ haslogo: false
 logo: 
 height: 100px
 hastitle: true
-title: Fab Foundation Forum
+title: Fab Foundation Forum is Launched!
 haslargeimg: false
 largeimg: fablabsmap.png
-hassubtitle: true
+hassubtitle: false
 subtitle: Fab Foundation Forum is launched! 
 haslongtext: true
-longtext: "Our main goals are to <p>Facilitate communication, sharing and collaboration between regional networks, and by extension, between fab labs and fabbers around the world.</p><p> Gather and distribute resources and data from the Fab Lab Network that can help those looking to start new labs, or to enhance the operations, sustainability and fundraising capacity of existing labs.</p><p>Develop a unified strategy for promoting and communicating about the Fab Lab Network that enables individual labs to identify themselves as members of an international network of like-minded organizations with internal resources and governance.</p>"
+longtext: "The Fab Foundation Forum is a new initiative from the Fab Foundation. Our main goals are to <p>Facilitate communication, sharing and collaboration between regional networks, and by extension, between fab labs and fabbers around the world.</p><p> Gather and distribute resources and data from the Fab Lab Network that can help those looking to start new labs, or to enhance the operations, sustainability and fundraising capacity of existing labs.</p><p>Develop a unified strategy for promoting and communicating about the Fab Lab Network that enables individual labs to identify themselves as members of an international network of like-minded organizations with internal resources and governance.</p>"
 hasvignettes: false
 vignettes:
   - hastitle: true
@@ -48,9 +48,6 @@ projects:
     img: fablabsmap.png
 hasbuttons: true
 buttons:
-  - title: Example Red
-    url:
+  - title: Contact us
+    url: forum@fabfoundation.org
     type: red
-  - title: Example Clear
-    url: 
-    type: clear
