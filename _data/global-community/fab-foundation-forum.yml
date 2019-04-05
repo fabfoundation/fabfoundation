@@ -39,7 +39,7 @@ hasprojectgallery: true
 projects:
   - title: Fab Census
     id: resources-data
-    img: 
+    img: FabCensus.png
   - title: Annual Report Based on Census Data
     id: resources-data
     img: 
