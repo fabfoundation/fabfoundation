@@ -2,7 +2,7 @@ id: staff-team
 title: "Fab Foundation Staff"
 cards: 
   - name: "Fiore Basile"
-    img: 'Luciano_Betoldi.png'
+    img: 'fiore.png'
     position: "Chief Information Officer"
     social: 
       - title: linkedin
