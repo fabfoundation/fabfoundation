@@ -1,6 +1,15 @@
 id: staff-team
 title: "Fab Foundation Staff"
 cards: 
+  - name: "Fiore Basile"
+    img: 'Luciano_Betoldi.png'
+    position: "Chief Information Officer"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/fibasile"
+    bio:
+      - p: "Fiore has been coding since he was a kid, and soon moved to networking, hosting a BBS in his room in the late 80s, getting a Computer Science degree, founding two IT startups, managing EU IST research projects, building web and mobile apps and consulting to companies for over 20 years. In his late thirties he realized that software alone cannot make a real impact in the world, and he started to get involved in the local Fab Lab movement first, then joining the Fab Academy and opening a public access Fab Lab in his town, Cascina, Italy. He started Fab Lab Toscana, the regional Fab Lab network in Tuscany and helped setup labs in Italy, Africa and Middle east."
+      - p: " As a teacher, Fiore gave lectures in graduate and post-graduate classes, workshops in Fab Labs around the world, and is one of the global evaluators for Fab Academy and Fabricademy. In his spare time he enjoys making digital art and educational installations, such as the largest Arduino-compatible board in the world, in Fab Lab UAE, Dubai. He currently manages Fab Cloud, the IT infrastructure for Fab Lab network projects including the Fab Academy, Fablabs.io and Fabricademy."
   - name: "Luciano Betoldi"
     img: 'Luciano_Betoldi.png'
     position: "International Operations Director"
