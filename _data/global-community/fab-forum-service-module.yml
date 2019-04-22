@@ -47,6 +47,6 @@ services:
       - title: Example button 1
         url:
         type: clear
-hasmorebutton: true
+hasmorebutton: false
 morebuttontitle: This is an extra button
 morebuttonurl:
