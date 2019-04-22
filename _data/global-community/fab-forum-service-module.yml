@@ -27,7 +27,7 @@ services:
     buttons:
       - title: Contact Us
         url: forum@fabfoundation.org
-        type: clear
+        type: red
       - title: Fab Census
         url: 'resources#resources-data'
         type: clear
