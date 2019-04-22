@@ -1,30 +1,52 @@
-id: example-id
+id: fab-forum
 hastitle: true
-title: "This is an example title"
+title: Fab Foundation Forum is Launched!
 services:
-  - title: "This is an example service"
+  - title: The Fab Foundation Forum is a new initiative from the Fab Foundation.
     orientation: normal
-    img: scopes.png
+    img: fablabsmap.png
     paragraphs:
-      - p: "This is an example paragraph 1." 
-      - p: "This is an example paragraph 2."
+      - p: 'Our main goals are to:'
+      - p: >-
+          Facilitate communication, sharing and collaboration between regional
+          networks, and by extension, between fab labs and fabbers around the
+          world.
+      - p: >-
+          Gather and distribute resources and data from the Fab Lab Network that
+          can help those looking to start new labs, or to enhance the
+          operations, sustainability and fundraising capacity of existing labs.
+          --> see Fab Census
+      - p: >-
+          Develop a unified strategy for promoting and communicating about the
+          Fab Lab Network that enables individual labs to identify themselves as
+          members of an international network of like-minded organizations with
+          internal resources and governance.--> See Annual Report
+      - p: >-
+          Feel free to contact us with any questions or comments for making a
+          stronger network!
     buttons:
-      - title: "Example button 1"
-        url: 'https://www.scopesdf.org/'
-        type: "clear"
-      - title: "Example button 2"
-        url: "/education"
-        type: "clear"
-  - title: "This is an example second service"
+      - title: Contact Us
+        url: forum@fabfoundation.org
+        type: clear
+      - title: Fab Census
+        url: 'resources#resources-data'
+        type: clear
+      - title: Annual Report Based on Census Data
+        url: 'resources#resources-data'
+        type: clear
+  - title: This is an example second service
     orientation: inverted
     img: fablabsmap.png
     paragraphs:
-      - p: "In this one we use an inverted orientation to give more flow to the list! Choose orientation 'normal' or 'inverted' to change the direction with which is it displayed"
-      - p: "This is an example second paragraph"
+      - p: >-
+          In this one we use an inverted orientation to give more flow to the
+          list! Choose orientation 'normal' or 'inverted' to change the
+          direction with which is it displayed
+      - p: This is an example second paragraph
     buttons:
-      - title: "Example button 1"
-        url: ''
-        type: "clear"
+      - title: Example button 1
+        url:
+        type: clear
 hasmorebutton: true
-morebuttontitle: "This is an extra button"
-morebuttonurl: ''
+morebuttontitle: This is an extra button
+morebuttonurl:
