@@ -34,19 +34,6 @@ services:
       - title: Annual Report Based on Census Data
         url: 'resources#resources-data'
         type: clear
-  - title: This is an example second service
-    orientation: inverted
-    img: fablabsmap.png
-    paragraphs:
-      - p: >-
-          In this one we use an inverted orientation to give more flow to the
-          list! Choose orientation 'normal' or 'inverted' to change the
-          direction with which is it displayed
-      - p: This is an example second paragraph
-    buttons:
-      - title: Example button 1
-        url:
-        type: clear
 hasmorebutton: false
 morebuttontitle: This is an extra button
 morebuttonurl:
