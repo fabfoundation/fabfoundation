@@ -29,10 +29,10 @@ services:
         url: forum@fabfoundation.org
         type: red
       - title: Fab Census
-        link: 'resources#resources-data'
+        url: 'resources#resources-data'
         type: clear
       - title: Annual Report Based on Census Data
-        link: 'resources#resources-data'
+        url: 'resources#resources-data'
         type: clear
 hasmorebutton: false
 morebuttontitle: This is an extra button
