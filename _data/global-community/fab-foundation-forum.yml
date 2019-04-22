@@ -52,9 +52,9 @@ buttons:
     mailto: "forum@fabfoundation.org"
     type: red
   - title: Fab Census
-    id: resources
+    id: resources#resources-data
     type: clear
   - title: Annual Report Based on Census Data
-    id: resources 
+    id: resources#resources-data
     type: clear    
     
