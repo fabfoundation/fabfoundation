@@ -1,10 +1,10 @@
-id: fab-forum-service-module
+id: fab-forum
 hastitle: true
 title: Fab Foundation Forum is Launched!
 services:
   - title: The Fab Foundation Forum is a new initiative from the Fab Foundation.
     orientation: normal
-    img:
+    img: peoplecheering.jpg
     paragraphs:
       - p: 'Our main goals are to:'
       - p: >-
