@@ -70,7 +70,7 @@ section .page {
     padding-bottom: 60px;
     background-color: #{{ site.data.template.color.dark }};
 }
-.container.blue-bg {
+.container.blue-bg, .container-fluid.blue-bg {
     background-color: #{{ site.data.template.color.darkblues }};
 }
 .container.green-bg {
@@ -1071,12 +1071,17 @@ header .container {
     border-top: none;
 }
 
+
+#impact-numbers {
+    min-height: 400px;
+}
+
 /*// TWITTER HOME SECTION //*/
 
 #twitter-section {
     position: relative;
     z-index: 10;
-    min-height: 1170px;
+    min-height: 600px;
     background-color: #{{ site.data.template.color.lightblues }};
 }
 #twitter {
@@ -1097,6 +1102,8 @@ header .container {
     text-align: left;
     float: left;
 }
+
+
 @media (min-width: 992px){
     #twitter {
         margin-top: -0px;
@@ -1104,6 +1111,8 @@ header .container {
         padding-bottom: 40px;
         padding-top: 0px;
     }
+
+
     #twitter .twitter-space {
         float: right;
         display: block;
@@ -1134,7 +1143,7 @@ header .container {
     font-size: 14.6px;*/
     line-height: 21px;
     margin: 0 0 70px;
-    font-size: 13.3px;
+    font-size: 15px;
     font-weight: 400;
     font-style: oblique;
     letter-spacing: 1.2px;
@@ -1789,14 +1798,15 @@ header .container {
 
 #fablabs{
     z-index: 100;
-    margin-top: -420px;
-   /*margin-top: -250px;*/
+    /* margin-top: -420px; */
+   /* margin-top: -250px; */
+   margin-top: -30px;
     background-color: transparent;
 }
 
 @media (min-width: 768px){
     #fablabs{
-        margin-top: -210px;
+        margin-top: -30px;
     }
 }
 #projects {

@@ -10,6 +10,7 @@
                     <a href="{{ site.baseurl }}/about#become-a-partner" class="page-scroll btn btn-blue no-margin">Become a partner</a>
                 </div> 
                 <div class="row no-side-margin highlights">
+                <div class="blue-bg">
                     {% for post in site.posts limit:2 %}
                         {% if post.highlight == true %}
                             <a class="" href="{{ post.url | relative_url }}">
@@ -26,6 +27,7 @@
                         {% endif %}
                     {% endfor %}
                     <a href="{{ site.baseurl }}/news"><h6 class="more-button" > More news ></a>
+                    </div>
                 </div><!-- close highlights-->
             </div> <!-- close intro-box-->
         </div> <!--page heading module-->
