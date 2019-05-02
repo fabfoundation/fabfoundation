@@ -1076,7 +1076,7 @@ header .container {
 #twitter-section {
     position: relative;
     z-index: 10;
-    min-height: 1070px;
+    min-height: 1170px;
     background-color: #{{ site.data.template.color.lightblues }};
 }
 #twitter {
@@ -1088,7 +1088,7 @@ header .container {
     margin-top: 0px;
     z-index: 0;
     float: left;
-    margin-bottom: 10px;
+    margin-bottom: 120px;
     display: none;
 }
 #twitter .twitter-space .tweet-box {
