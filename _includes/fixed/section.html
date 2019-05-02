@@ -200,17 +200,23 @@
           %}
           <a
             data-aos="fade-right"
-            href="{{ button.url }}"
             class="page-scroll btn btn-clear"
-            target="_blank"
+             {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank"                    
+             {% else %}
+             href="{{site.baseurl}}/{{button.url}}"
+             {% endif %}
+
             >{{ button.title }}</a
           >
           {% else button.type == 'red' %}
           <a
             data-aos="fade-right"
-            href="{{ button.url }}"
             class="page-scroll btn btn-red"
-            target="_blank"
+            {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank"                    
+             {% else %}
+             href="{{site.baseurl}}/{{button.url}}"
+             {% endif %}
+
             >{{ button.title }}</a
           >
           {% endif %} {% endfor %}
