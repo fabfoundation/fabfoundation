@@ -1072,6 +1072,16 @@ header .container {
 }
 
 
+#header-news-container {
+    display:  flex;
+    flex-direction: column;
+    padding: 12px;
+   
+}
+#header-news-container.redborder{
+    border: 1px solid #{{site.data.template.color.reds}};
+}
+
 #impact-numbers {
     min-height: 400px;
 }
