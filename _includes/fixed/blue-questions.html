@@ -11,7 +11,7 @@
                 <div class= "description">
         		  <p class="p-inverted small"> {{ statement.description }} </p>
                 </div>
-                <a href="{{ button.url }}" class="page-scroll btn btn-gray">{{ statement.button }}</a>
+                <a href="{{site.baseurl}}{{ statement.url }}" class="page-scroll btn btn-gray">{{ statement.button }}</a>
         	</div>
             {% endfor %}
 

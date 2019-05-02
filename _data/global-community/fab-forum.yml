@@ -26,13 +26,13 @@ services:
           stronger network!
     buttons:
       - title: Contact Us
-        url: forum@fabfoundation.org
+        url: mailto:forum@fabfoundation.org
         type: red
       - title: Fab Census
-        url: 'resources#resources-data'
+        url: https://mailchi.mp/fabfoundation.org/2019-fabcensus-is-here
         type: clear
       - title: Annual Report Based on Census Data
-        url: 'resources#resources-data'
+        url: /resources/#resources-research
         type: clear
 hasmorebutton: false
 morebuttontitle: This is an extra button

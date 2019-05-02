@@ -3,12 +3,12 @@ statements:
   - title: "Are you a company looking for possible partnerships and impactful initiatives?"
     description: "We have worked with a range of companies to provide thoughtful and thorough service to our local and global communities. In partnering with us, you are actively participating in a collaborative future, striving to see change in the workforce, education, and innovation."
     button: "Become a partner"
-    url: 'about#become-a-partner' 
+    url: '/about#become-a-partner' 
   - title: "Are you a Government Representative?"
     description: "We have engaged governments on all levels, in multiple countries around the globe. From the Kingdom of Bhutan to Native American tribes in the United States, we work with local and country wide representatives on how to bridge the digital divide facing us all over the world today."
     button: "Get in contact"
-    url: 'contact'
+    url: '/contact'
   - title: "Are you looking for information around Fab Labs and how to join the Fab Lab Network?"
     description: "To be a Fab Lab means connecting to a global community of learners, educators, technologists, researchers, makers and innovators- -a knowledge sharing network that spans 30 countries and 24 time zones. Because all Fab Labs share common tools and processes, the program is building a global network, a distributed laboratory for research and invention. Joining the Fab Lab Network can mean being a lab manager, opening a fab lab, teaching at Fab Academy, and much more!"
     button: "Information about fab labs"
-    url: "getting-started"
+    url: "/getting-started"

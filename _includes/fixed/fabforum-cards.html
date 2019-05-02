@@ -27,13 +27,13 @@
                                 
                                 {% else %}
                                 href="{{site.baseurl}}/{{button.url}}"
-                                {% endif %} class="page-scroll btn btn-clear">{{ button.title }}</a>
+                                {% endif %}class="page-scroll btn btn-clear">{{ button.title }}</a>
                             {% else button.type == 'red' %}
                                 <a {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
                                 
                                 {% else %}
                                 href="{{site.baseurl}}/{{button.url}}"
-                                {% endif %} class="page-scroll btn btn-red">{{ button.title }}</a>
+                                {% endif %}  class="page-scroll btn btn-red">{{ button.title }}</a>
                             {% endif %}
                         {% endfor %}
                     </div>  
@@ -48,17 +48,17 @@
                         {% endfor %}
                         {% for button in service.buttons %}
                             {% if button.type == 'clear' %}
-                                <a class="page-scroll btn btn-clear"{% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
+                                <a{% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
                                 
                                 {% else %}
                                 href="{{site.baseurl}}/{{button.url}}"
-                                {% endif %} >{{ button.title }}</a>
+                                {% endif %} class="page-scroll btn btn-clear" >{{ button.title }}</a>
                             {% else button.type == 'red' %}
-                                <a class="page-scroll btn btn-red" {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
+                                <a {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
                                 
                                 {% else %}
                                 href="{{site.baseurl}}/{{button.url}}"
-                                {% endif %} >{{ button.title }}</a>
+                                {% endif %} class="page-scroll btn btn-red" >{{ button.title }}</a>
                             {% endif %}
                         {% endfor %}
                     </div> 
@@ -70,7 +70,7 @@
 
                 {% if include.texts.hasmorebutton == true %}
                 <div class="row no-padding" data-aos="fade-up">
-                    <a href="{{ site.baseurl }}/{{ include.texts.morebuttonurl }}" ><h6 class="more-button" > {{ include.texts.morebuttontitle }} ></a>
+                    <a href="{{ site.baseurl }}/{{ include.texts.morebuttonurl }}"><h6 class="more-button" > {{ include.texts.morebuttontitle }} ></a>
                 </div>
                 {% endif %}
             </div> <!-- close services-module-->
