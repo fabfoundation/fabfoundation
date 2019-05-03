@@ -1078,7 +1078,7 @@ header .container {
     padding: 12px;
    
 }
-#header-news-container.redborder{
+#header-news-container .redborder{
     border: 1px solid #{{site.data.template.color.reds}};
 }
 

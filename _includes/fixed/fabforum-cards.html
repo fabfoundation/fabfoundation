@@ -23,13 +23,13 @@
                         {% endfor %}
                         {% for button in service.buttons %}
                             {% if button.type == 'clear' %}
-                                <a {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
+                                <a {% if button.url contains 'http' or button.url contains 'mailto' %} href="{{ button.url }}"  target="_blank" 
                                 
                                 {% else %}
                                 href="{{site.baseurl}}/{{button.url}}"
                                 {% endif %}class="page-scroll btn btn-clear">{{ button.title }}</a>
                             {% else button.type == 'red' %}
-                                <a {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
+                                <a {% if button.url contains 'http' or button.url contains 'mailto' %} href="{{ button.url }}"  target="_blank" 
                                 
                                 {% else %}
                                 href="{{site.baseurl}}/{{button.url}}"
@@ -48,13 +48,13 @@
                         {% endfor %}
                         {% for button in service.buttons %}
                             {% if button.type == 'clear' %}
-                                <a{% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
+                                <a{% if button.url contains 'http' or button.url contains 'mailto' %} href="{{ button.url }}"  target="_blank" 
                                 
                                 {% else %}
                                 href="{{site.baseurl}}/{{button.url}}"
                                 {% endif %} class="page-scroll btn btn-clear" >{{ button.title }}</a>
                             {% else button.type == 'red' %}
-                                <a {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
+                                <a {% if button.url contains 'http' or button.url contains 'mailto' %} href="{{ button.url }}"  target="_blank" 
                                 
                                 {% else %}
                                 href="{{site.baseurl}}/{{button.url}}"
