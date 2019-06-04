@@ -1,7 +1,15 @@
-id: "become-a-partner"
-title: "Become a partner" 
-subtitle: "Being a partner or contributor of the Fab Foundation is contributing to our relentless mission to bridge the digital divide, bringing digital fabrication technologies and resources closer to the future generations of entrepreneurs, community leaders, scientists, and citizens that need the spaces, the learning communities and the resources to bring their ideas closer to life. Get in touch with us to see the multiple possibilities to become part of this global effort for a better future."
-sponsors: 
+id: become-a-partner
+title: Become a partner
+subtitle: >-
+  bridge the digital divide, creating equitable opportunity for future
+  generations of artists, makers, entrepreneurs, scientists, manufacturers,
+  community leaders and citizens. Our work leverages the tools and knowledge of
+  digital fabrication to create spaces for exploring and making with technology,
+  to support relevant learning communities and to provide resources to bring
+  great ideas to life.  Get in touch with us to learn about the many ways you
+  can join the Fab Lab community and support our global efforts to create a
+  better, inclusive future for all through technology.
+sponsors:
   - organization: Chevron
     url: 'https://www.chevron.com/'
     img: chevron.jpg
@@ -11,17 +19,17 @@ sponsors:
   - organization: Solidworks
     url: 'http://www.solidworks.com/'
     img: solidworks.png
-  - organization: Cisco 
+  - organization: Cisco
     url: 'https://www.cisco.com/'
     img: cisco.png
   - organization: Autodesk
     url: 'https://www.autodesk.eu/'
-    img: autodesk.png 
+    img: autodesk.png
   - organization: MIT Center for Bits and Atoms
     url: 'http://cba.mit.edu/'
     img: cba.jpg
 hasbuttons: true
 buttons:
-  - title: "Contact the team"
+  - title: Contact the team
     url: 'mailto:info@fabfoundation.org'
     type: clear
