@@ -14,18 +14,6 @@
   <div class="post-banner-wrap">
     <h1 class="post-title" data-aos="fade-up" >{{ page.title }}</h1>
     <p class="post__meta" data-aos="fade-up">
-        <span>
-          <time>{{ page.date | date_to_string }}</time>&nbsp;
-        </span>
-      <span>
-          {% assign words = content | number_of_words %}
-            {% if words < 360 %}
-              1 min
-            {% else %}
-              {{ words | divided_by:180 }} mins
-          {% endif %} read
-          &nbsp;
-      </span>
     </p>
   </div>
 </div>
