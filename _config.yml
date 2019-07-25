@@ -1,10 +1,10 @@
-url: http://localhost:4000/
-baseurl: /fabfoundation
+#url: http://ff-website.dokku.fabeconomy.com/
+baseurl: /
 
 # Site settings
 title: The Fab Foundation
 logo: /uploads/fabfoundation.svg
-email: your-email@domain.com
+email: info@fabfoundation.org
 description: "Bridging the Digital Divide Design / Fabricate / Share. We work to provide access to the tools, the knowledge and the financial means to educate, innovate and invent using technology and digital fabrication to allow anyone to make (almost) anything. We create opportunity."
 
 
