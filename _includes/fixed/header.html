@@ -2,36 +2,45 @@
 <header>
     <div class="container">
         <div id="page-heading-module">
-            <div class="intro-box"  data-aos="fade-up">
+            <div class="intro-box" data-aos="fade-up">
                 <div class="row no-side-margin statements">
                     <div class="intro-heading">Bridging the digital divide</div>
                     <div class="intro-sub-heading">Design/Fabricate/Share</div>
-                    <div class="intro-mission">Our mission is to provide access to the tools, the knowledge and the financial means to educate, innovate and invent using technology and digital fabrication to allow anyone to make (almost) anything. We create opportunity.</div>
-                    <a href="{{ site.baseurl }}/about#become-a-partner" class="page-scroll btn btn-blue no-margin">Become a partner</a>
-                </div> 
+                    <div class="intro-mission">Our mission is to provide access to the tools, the knowledge and the
+                        financial means to educate, innovate and invent using technology and digital fabrication to
+                        allow anyone to make (almost) anything. We create opportunity.</div>
+                    <a href="{{ site.baseurl }}/about#become-a-partner"
+                        class="page-scroll btn btn-blue no-margin">Become a partner</a>
+                </div>
                 <div class="row no-side-margin highlights">
-                  <div id="header-news-container">
-                    {% for post in site.posts limit:2 %}
+                    <div id="header-news-container">
+                        {% for post in site.posts limit:2 %}
                         {% if post.highlight == true %}
-                            <a class="" href="{{ post.url | relative_url }}">
-                            <div class="row no-side-margin highlight"> <!-- add redborder for a red border -->
-                                <div class="col-xs-3 col-sm-3 col-md-3 img" style="background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');"> </div>
-                                <div class="col-xs-9 col-sm-9 col-md-9 text"> 
+                        <a class="" href="{{ post.url | relative_url }}">
+                            <div class="row no-side-margin highlight">
+                                <!-- add redborder for a red border -->
+                                <div class="col-xs-3 col-sm-3 col-md-3 img"
+                                    style="background-image: url('{{ post.thumbnail | relative_url}}');"> </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9 text">
                                     <div class="title">{{ post.title }} </div>
                                     <div class="caption">
                                         <div class="latest-caption">{{ post.caption }}</div>
                                     </div>
-                                 </div>
+                                </div>
                             </div>
-                            </a>
+                        </a>
                         {% endif %}
-                    {% endfor %}
-                    <a href="{{ site.baseurl }}/news"><h6 class="more-button"> More news ></a>
+                        {% endfor %}
+                        <a href="{{ site.baseurl }}/news">
+                            <h6 class="more-button"> More news >
+                        </a>
                     </div>
                 </div><!-- close highlights-->
             </div> <!-- close intro-box-->
-        </div> <!--page heading module-->
-    </div> <!--close container-->  
+        </div>
+        <!--page heading module-->
+    </div>
+    <!--close container-->
 </header>
 
 <!--
