@@ -1,14 +1,14 @@
 id: impact-numbers
 indicators:
   - icon: "resources"
-    number: "1000+"
+    number: "1750+"
     description: "Fab Labs around the globe"
   - icon: "academic"
-    number: "660+"
+    number: "860+"
     description: "Academany Alumni in the past 10 years."
   - icon: "connections"
     number: "ca. 1000"
     description: "Attendees to the Fab International Conference each year"
   - icon: "planet"
-    number: "40+"
+    number: "100+"
     description: "Countries in the fab lab network"
