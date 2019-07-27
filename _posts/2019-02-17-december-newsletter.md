@@ -26,7 +26,7 @@ As you may have noticed, fablabs.io has a terrific new look and feel. We want to
 
 Stay tuned…more changes are coming!
 
-## ![](/fabfoundation/uploads/TdH.jpg)
+## ![](/uploads/TdH.jpg)
 
 ## A NEW PARTNERSHIP
 
@@ -38,7 +38,7 @@ In 2017, 44,000 people were newly displaced every day. The average time people s
 
 We will be reaching out to the fab lab community this year to find labs willing to technically support and mentor the new TDH labs. If you want to help out, or have ideas about how to leverage fab labs and their tools for at risk youth, please contact jeanmichel.molenaar@tdh.ch or go to www.tdh.ch to learn more!
 
-## <br>![](/fabfoundation/uploads/Solidworks-Logo.png)
+## <br>![](/uploads/Solidworks-Logo.png)
 
 ## FAB ACADEMY SCHOLARSHIPS IN BOSTON
 
@@ -54,7 +54,7 @@ For more information on the FabAcademy program please visit <a href="https://www
 
 Note for international applicants: While applicants of all nationalities are welcome to participate in the US based program, neither the Fab Foundation, Fab Academy Coordination nor Dassault Systemes SolidWorks are able to provide assistance in applying for a VISA to the Unites States beyond the standard acceptance letter sent to successful applicants to the program. No official US Government forms can be provided. \*\*\* However, many other countries participate in Fab Academy, so contact coordination@fabacademy.org to find a participating lab near you!
 
-## ![](/fabfoundation/uploads/fab city foundation.jpg)
+## ![](/uploads/fab city foundation.jpg)
 
 ## THE FAB CITY FOUNDATION
 
@@ -68,7 +68,7 @@ The official launch event of the Fab City Foundation just took place in Estonia 
 
 Check more information here.
 
-## ![](/fabfoundation/uploads/FFF.jpg)
+## ![](/uploads/FFF.jpg)
 
 ## FAB FOUNDATION FORUM
 
@@ -82,7 +82,7 @@ Develop a unified strategy for promoting and communicating about the Fab Lab Net
 
 We'll hit the ground running in January with the 2019 FabCensus and our first recurring monthly call, open to representatives from regional networks worldwide. In the meantime, reach out and connect with the FFF team through forum@fabfoundation.org.
 
-## ![](/fabfoundation/uploads/SCOPES2.jpg)
+## ![](/uploads/SCOPES2.jpg)
 
 ## SHARE YOUR FAB STORIES WITH THE WORLD!
 
@@ -90,7 +90,7 @@ It's hard to believe, but The Fab Foundation's 10th year anniversary is coming u
 
 This is a call to the network to share the story of your fab lab building community, making impact, taking part in this global initiative and changing the world. If you would like us to consider your story as part of the 10 N 10 publication next year, please read and complete the following form <a href="https://form.jotformz.com/82757379572675" target="_blank">HERE</a>.
 
-## ![](/fabfoundation/uploads/SCOPES.jpg)
+## ![](/uploads/SCOPES.jpg)
 
 ## SCOPESDF WRAPS UP 2018
 

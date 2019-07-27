@@ -76,5 +76,5 @@ vignettes:
 hasbuttons: true
 buttons:
   - title: "Download the Interior Layout Sample"
-    url: '/web_sandbox/resource-folder/mobile-fablab-sample.png'
+    url: 'resource-folder/mobile-fablab-sample.png'
     type: clear

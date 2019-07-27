@@ -16,7 +16,7 @@ In *Designing Reality*, Neil Gershenfeld provides a glimpse into the technology 
 
 Authors Neil Gershenfeld, Alan Gershenfeld and Joel Cutcher-Gershenfeld ​have offered to buy books for all the fab labs in the global network. If your fab lab is officially listed on fablabs.io, the Fab Foundation will take care of reimbursing​ you for​ the cost of the book between now and December 31, 2018.
 
-![](/fabfoundation/uploads/designing-reality-cover.jpg)
+![](/uploads/designing-reality-cover.jpg)
 
 So how do you get a free book?
 
