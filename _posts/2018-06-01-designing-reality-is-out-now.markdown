@@ -24,6 +24,6 @@ Your lab must be listed on fablabs.ioYou must have a PayPal Account for electron
 
 Have a Fab read!
 
-<a href="designingreality.org" target="_blank">designingreality.org</a>
+<a href="http://designingreality.org" target="_blank">designingreality.org</a>
 
 #designingreality

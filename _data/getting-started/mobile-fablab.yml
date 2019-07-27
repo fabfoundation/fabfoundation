@@ -78,3 +78,4 @@ buttons:
   - title: "Download the Interior Layout Sample"
     url: 'resource-folder/mobile-fablab-sample.png'
     type: clear
+    target: '_blank'

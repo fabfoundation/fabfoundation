@@ -1,5 +1,5 @@
 <!--Latest News Sub-pages Module -->
-<section id="{{ include.texts.id }}" data-aos="fade-up">  
+<section id="{{ include.texts.id }}" data-aos="fade-up">
     <div class="container standard">
         <div class="sub-container">
             <div class="row">
@@ -10,34 +10,38 @@
 
             <div class="row">
                 <div class="col-md-8">
-                    <p class="section-subheading">Keep up to date with all the latest news and activities of the global Fab Lab Network and the Fab Foundation. Subscribe to our newsletter below.</p>
+                    <p class="section-subheading">Keep up to date with all the latest news and activities of the global
+                        Fab Lab Network and the Fab Foundation. Subscribe to our newsletter below.</p>
                 </div>
             </div>
 
             <!--Post gallery -->
 
-           
+
             <div class="row">
                 {% for post in site.posts limit:3 %}
-                    <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
-                        <a class="portfolio-link" href="{{ post.url | relative_url }}">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-2x"></i>
-                                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
+                    <a class="portfolio-link" href="{{ post.url | relative_url }}">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-2x"></i>
                             </div>
-                            <div class="portfolio-img" style="background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');"> </div>
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>{{ post.title }}</h4>
-                            <p class="text-muted"></p>
                         </div>
+                        <div class="portfolio-img"
+                            style="background-image: url('{{ post.thumbnail | relative_url }}');"> </div>
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted"></p>
                     </div>
+                </div>
                 {% endfor %}
-            </div> 
+            </div>
             <div class="row more-news-alert">
                 <div class="col-md-12 text-right">
-                <a href="{{ site.baseurl }}/news" ><h6 class="more-button" > More news ></a>
+                    <a href="/news">
+                        <h6 class="more-button"> More news >
+                    </a>
                 </div>
             </div>
 
@@ -55,7 +59,6 @@
                 </div>
             </div>
 
-        </div><!-- close sub-container --> 
+        </div><!-- close sub-container -->
     </div> <!-- close container -->
 </section>
-

@@ -1,5 +1,5 @@
 #url: http://ffwebsite.dokku.fabeconomy.com
-#baseurl: /
+baseurl: ""
 
 # Site settings
 title: The Fab Foundation

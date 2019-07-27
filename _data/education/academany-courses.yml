@@ -10,10 +10,10 @@ services:
       - p: "We offer advanced technical education through the Fab Academy which provides instruction and supervises investigation of mechanisms, applications, and implications of digital fabrication. The Fab Academy is a worldwide, distributed campus utilizing fab labs as classrooms and libraries for a new kind of technical literacy. Students learn in local workgroups, with peers, mentors, and machines, which are then connected globally by content sharing and video for interactive classes. "
     buttons:
       - title: "Learn More"
-        url: 'http://fabacademy.org/'
+        url: 'https://fabacademy.org/'
         type: clear
       - title: "Apply"
-        url: "http://fabacademy.org/application-form/"
+        url: "https://fabacademy.org/apply/registration.html"
         type: red
   - title: "BIOACADEMY"
     id: 'bioacademy-course'
@@ -25,9 +25,6 @@ services:
       - title: "Learn More"
         url: 'http://bio.academany.org/'
         type: clear
-      - title: "Apply"
-        url: "http://bio.academany.org/signup.html"
-        type: red
   - title: "FABRICADEMY"
     id: 'fabricademy-course'
     orientation: normal
@@ -37,10 +34,10 @@ services:
       - p: "This is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry and the upcoming wearable market."
     buttons:
       - title: "Learn More"
-        url: 'http://textile-academy.org/'
+        url: 'https://textile-academy.org/'
         type: clear
       - title: "Apply"
-        url: "http://textile-academy.org/join/"
+        url: "https://textile-academy.org/join/"
         type: red
 hasmorebutton: true
 morebuttontitle: "Academany's website"

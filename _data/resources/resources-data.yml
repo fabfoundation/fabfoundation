@@ -2,7 +2,7 @@ id: resources-data
 hastitle: true
 title: Data
 resources:
-  - title: FanCensus Survey Results Coming Soon
+  - title: FABCensus Survey Results Coming Soon
     type:
     img:
     filename:

@@ -7,7 +7,7 @@ cards:
     has_external_link: true
     url: "https://www.fabevent.org"
     description:
-      - p: "Each year we offer members of the more than 1,000 worldwide Fab Labs a space to gather, to share, to collaborate, to explore and, of course, to fabricate. Join us this year in France!"
+      - p: "Each year we offer members of the more than 1,750 worldwide Fab Labs a space to gather, to share, to collaborate, to explore and, of course, to fabricate. Join us this year in France!"
     bgcolor: "darkblue"
   - orientation: normal
     title: Fab Research
@@ -16,7 +16,8 @@ cards:
     url: "resources#resources-research"
     has_external_link: false
     description:
-      - p: "The Fab Lab project is the educational outreach program for MIT’s Center for Bits & Atoms (link). As such the network is closely linked to MIT’s research into the merging of physical science and computer science and the development of digital materials. The international Fab Lab network also contributes to new research and applications in digital fabrication."
+      - p: |
+         The Fab Lab project is the educational outreach program for <a href="https://cba.mit.edu" target="_blank" style="text-decoration: underline">MIT’s Center for Bits & Atoms</a>. As such the network is closely linked to MIT’s research into the merging of physical science and computer science and the development of digital materials. The international Fab Lab network also contributes to new research and applications in digital fabrication.
     bgcolor: "lightblue"
   - orientation: normal
     title: Fab City Global Initiative
@@ -34,5 +35,5 @@ cards:
     url: "http://www.fabeconomy.com/"
     has_external_link: true
     description:
-      - p: "Fab Economy is the start of a community business platform, Fab Economy is about creating a new economy for everybody, where local fulfillment and customization take the place of mass production and global distribution. Fab Labs, along companies and organizations can all work together towards reaching this goal. This is an exchange space where companies, fab labs and individuals can potentially resources, funding, collaborations and expertise."
+      - p: "Fab Economy is the start of a community business platform. Fab Economy is about creating a new economy for everybody, where local fulfillment and customization take the place of mass production and global distribution. Fab Labs, along with companies and organizations can all work together toward reaching this goal. This is an exchange space where companies, fab labs and individuals can potentially find resources, funding, collaborations and expertise."
     bgcolor: "lightblue"

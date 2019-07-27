@@ -103,6 +103,7 @@ tabs:
                 Essentially, it’s the processes and the codes and the capabilities that
                 are important. Fab Labs typically include:
           - p: -A laser cutter that makes 2D and 3D structures
+          - p: -A 3D printer
           - p: -A high-resolution CNC milling machine that makes circuit boards, precision parts, and molds for casting
           - p: -A large wood router for building furniture and housing
           - p: -A suite of electronic components and programming tools for low-cost, high-speed microcontrollers and on-site rapid circuit prototyping.
@@ -178,7 +179,7 @@ tabs:
                 comprises from $25-$65k in capital equipment and about $15-40k in
                 consumables. The open source software or freeware we typically use can
                 be found at our <a href="http://academy.cba.mit.edu/classes"
-                target=“_blank">Fab Academy class site
+                target=“_blank">Fab Academy class site</a>
           - p: >-
                 The Fab Foundation can be your one stop shop when setting up a fab
                 lab, and we have partners all over the world who can help. While we
@@ -201,14 +202,15 @@ tabs:
                 Outside of formal contractual programs or the network’s Fab Academy
                 program for training there is a growing online paragraphs of
                 information which addresses many questions, and a growing archive of
-                tutorials online.  (http://fab.cba.mit.edu— look under “tools”,
-                “classes”, fab lab wiki at http://www.fablab.is/wiki, or the Fab 
-                Academy repository at http://academy.cba.mit.edu/labs/index.html) 
+                tutorials online.  (<a href="http://fab.cba.mit.edu" target="_blank">http://fab.cba.mit.edu</a> — look under “tools”,
+                “classes”, <a href="http://www.fablab.is/wiki" target="_blank">Fab Lab wiki</a>, 
+                or the <a target="_blank" href="https://fabacademy.org/2019/labs/index.html">Fab 
+                Academy repository</a>).
                 Live help and support from volunteers in the network can be accessed
                 through videoconference and our MCU online videoconferencing unit,
                 where members hang out during the day and can help one another.   It’s
                 free and you can visit once you are set up to do so:
-                http://fab.cba.mit.edu/about/video. There are also some good experts
+                <a href="http://fab.cba.mit.edu/about/video" target="_blank">http://fab.cba.mit.edu/about/video</a>. There are also some good experts
                 in the network now that you could contact directly to see if they
                 would be interested (for a fee) in coming and helping you set up and
                 train.  I can connect you to those people if and when the time comes.
@@ -216,8 +218,8 @@ tabs:
                 The best background on fab labs  and the digital fabrication movement
                 is Professor Neil Gershenfeld’s book:  FAB: The Coming  Revolution on
                 Your Desktop–from Personal Computers to Personal Fabrication. 
-                (available on http://www.amazon.com).  It contains a wealth of
-                information for you and is a good read.
+                (available on <a href="https://www.amazon.com/Fab-Revolution-Desktop-Computers-Fabrication/dp/0465027466" target="_blank">Amazon</a>).  
+                It contains a wealth of information for you and is a good read.
           - p: >-
                 You can also see some FAQ <a href="http://fab.cba.mit.edu/about/faq/"
                 target=“_blank">here</a>
@@ -227,13 +229,13 @@ tabs:
                 target=“_blank">talk at the Library of Congress</a> as seen on CSPAN.
           - p: "As well as a few links to other information:"
           - p: >-
-                <a
+                <a target="_blank" 
                 href="http://cba.mit.edu/events/05.07.Norway/">http://cba.mit.edu/events/05.07.Norway/</a>
           - p: >-
-                <a
+                <a target="_blank" 
                 href="http://www.economist.com/science/displayStory.cfm?story_id=3786368">http://www.economist.com/science/displayStory.cfm?story_id=3786368</a>
           - p: >-
-                <a
+                <a target="_blank" 
                 href="http://www.businessweek.com/magazine/content/05_18/b3931027_mz005.htm">http://www.businessweek.com/magazine/content/05_18/b3931027_mz005.htm</a>
       id: 4
       click: collapse4
@@ -373,28 +375,7 @@ tabs:
     - title: Ideal Lab Layout
       paragraphs:
           - p: >-
-                <img src="/uploads/3DPrintingSpace.png" width="100%"
-                style="margin-bottom: 10px;" alt="Ideal Lab Layout">
-          - p: >-
-                <img src="/uploads/Molding.png" width="100%"
-                style="margin-bottom: 10px;" alt="Ideal Lab Layout">
-          - p: >-
-                <img src="/uploads/TotalSpace.png" width="100%"
-                style="margin-bottom: 10px;" alt="Ideal Lab Layout">
-          - p: >-
-                <img src="/uploads/ShopBotRoom.png" width="100%"
-                style="margin-bottom: 10px;" alt="Ideal Lab Layout">
-          - p: >-
-                <img src="/uploads/Laser.png" width="100%"
-                style="margin-bottom: 10px;" alt="Ideal Lab Layout">
-          - p: >-
-                <img src="/uploads/Electronics.png" width="100%"
-                style="margin-bottom: 10px;" alt="Ideal Lab Layout">
-          - p: >-
-                <img src="/uploads/ConferenceDesign.png" width="100%"
-                style="margin-bottom: 40px;" alt="Ideal Lab Layout">
-          - p: >-
-                <a href="/resource-folder/pdfs/IdealLab.zip" class="btn btn-clear">Download .zip with all Pdfs</a>
+                <a href="/resource-folder/pdfs/IdealLab.zip" class="btn btn-clear"  target="_blank" >Download .zip with all plans</a>
       id: 8
       click: collapse8
     - title: The Hardware
@@ -418,7 +399,7 @@ tabs:
                 style='border: 0px #FFFFFF none;' width='100%'></iframe>
           - p: >-
                 <a
-                href="http://www.fabfoundation.org/index.php/the-hardware-and-software/index.html"
+                href="https://docs.google.com/a/cba.mit.edu/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html"
                 target="_blank" class="btn btn-clear" style="margin-top: 20px;">Go to
                 Fab Lab Inventory</a>
       id: 9
