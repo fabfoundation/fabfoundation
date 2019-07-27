@@ -2,7 +2,7 @@ id: board-team
 title: "Fab Foundation Board"
 cards: 
   - name: "Sherry Lassiter"
-    img: Sherry_Lassiter.jpg
+    img: LassiterHeadShot.jpg
     position: "President & CEO"
     social: 
       - title: linkedin
@@ -32,7 +32,7 @@ cards:
       - p: "Blair's experience includes curriculum development in direct and advisory roles for K-12, college and professional development. Blair worked as a principal agent in designing, starting and training for over half a dozen Fab Labs and with many more collaborations. Since 2012, Blair is an instructor in Fab Academy. He also instructs a registered apprenticeship program based on Digital Fabrication."
       - p: "His early career evolved from product designer, team leader, and group leader at Hewlett Packard and technology-based SMEs, to technical co-founder and VP of Engineering of MicroTouch Systems from start-up through public offering on NASDAQ. He has early inventions in touchscreen technologies."
   - name: "Marie Planchard"
-    img: 'Marie_Planchard.png'
+    img: Marie_Planchard.png
     position: "Board Member"
     social: 
       - title: linkedin
@@ -40,3 +40,12 @@ cards:
     bio:
       - p: "Marie Planchard is Director of Education & Early Engagement, at SOLIDWORKS, DASSAULT SYSTEMES. She is responsible for global development of content and social outreach for the SOLIDWORKS platform across all levels of learning including educational institutions, Fab Labs, and start-up companies." 
       - p: "Marie is responsible for the SOLIDWORKS Certification Academic program, providing highly qualified graduates to commercial engineering and design companies.  She also manages the SOLIDWORKS Entrepreneur Program that helps young start-up companies design innovative products.  As creator/author of the STEM Teacher Blog, Marie shares stories about students, teachers, entrepreneurs, and fabbers that design and make great things happen."
+  - name: "Katie Rast"
+    img: katie-rast.jpg
+    position: "Board Member"
+    bio:
+      - p: In 2007, Katie co-founded the San Diego Fab Lab. With a commitment to educational access, she built local partnerships and created a community-embedded learning laboratory. As Director, she developed programs, and established a social enterprise to increase sustainability and support for the organization’s mission. This effort expanded the Fab Lab’s offerings to include a fee-for-service model, and made over 4,000 no-cost educational experiences for K-12 students possible. In addition to college and career preparation, Fab Lab supported the local innovation ecconomy by providing access to tools, teams and training for start-ups and entrepreneurs.
+      - p: Katie has collaborated to launch local events to spark civic dialogue, including the Urban Prototyping Festival, San Diego Maker Faire, Smart City Hackathon, and the National Day of Civic Hacking. These efforts brought citizens, government, and academic partners together to consider community challenges through prototyping practices that place people at the center of the solution.
+      - p: As a consultant, Katie has been a Senior Strategist at the University of California San Diego (UCSD) Design Lab, and has supported Fab Foundation, including with the General Electric Brilliant Career Lab pilot program in Boston.
+      - p: Katie is currently the Director of Community Impact at The San Diego Foundation, working to maximize the impact of philanthropic investments through the development and management of a portfolio of programs that support the San Diego region.
+      - p: With an ongoing commitment to the extraordinary Fab Lab community, Katie currently volunteers with the Fab Foundation, serving as a Board Member.
