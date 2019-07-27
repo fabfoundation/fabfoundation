@@ -5,7 +5,7 @@ statements:
     button: "Become a partner"
     url: '/about#become-a-partner' 
   - title: "Are you a Government Representative?"
-    description: "We have engaged governments on all levels, in multiple countries around the globe. From the Kingdom of Bhutan to Native American tribes in the United States, we work with local and country wide representatives on how to bridge the digital divide facing us all over the world today."
+    description: "We have engaged governments on all levels, in multiple countries around the globe. From the Kingdom of Bhutan to Native American tribes in the United States, we work with local and countrywide representatives on how to bridge the digital divide facing us all over the world today."
     button: "Get in contact"
     url: '/contact'
   - title: "Are you looking for information around Fab Labs and how to join the Fab Lab Network?"
