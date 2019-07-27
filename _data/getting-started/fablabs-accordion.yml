@@ -18,7 +18,7 @@ tabs:
                 innovation: a place to play, to create, to learn, to mentor, to
                 invent. To be a Fab Lab means connecting to a global community of
                 learners, educators, technologists, researchers, makers and
-                innovators- -a knowledge sharing network that spans 30 countries and
+                innovators- -a knowledge sharing network that spans 100 countries and
                 24 time zones. Because all Fab Labs share common tools and processes,
                 the program is building a global network, a distributed laboratory for
                 research and invention.
@@ -363,7 +363,7 @@ tabs:
     - title: Chicago layout
       paragraphs:
           - p: >-
-                <img src="/fabfoundation/uploads/chicago_layout.png" width="100%"
+                <img src="/uploads/chicago_layout.png" width="100%"
                 style="margin-bottom: 40px;" title="chicago layout">
           - p: >-
                 <a href="/uploads/chicagolayout.pdf" target="_blank" class="btn
@@ -373,29 +373,28 @@ tabs:
     - title: Ideal Lab Layout
       paragraphs:
           - p: >-
-                <img src="/fabfoundation/uploads/3dPrintingSpace.png" width="100%"
+                <img src="/uploads/3DPrintingSpace.png" width="100%"
                 style="margin-bottom: 10px;" alt="Ideal Lab Layout">
           - p: >-
-                <img src="/fabfoundation/uploads/Molding.png" width="100%"
+                <img src="/uploads/Molding.png" width="100%"
                 style="margin-bottom: 10px;" alt="Ideal Lab Layout">
           - p: >-
-                <img src="/fabfoundation/uploads/TotalSpace.png" width="100%"
+                <img src="/uploads/TotalSpace.png" width="100%"
                 style="margin-bottom: 10px;" alt="Ideal Lab Layout">
           - p: >-
-                <img src="/fabfoundation/uploads/ShopBotRoom.png" width="100%"
+                <img src="/uploads/ShopBotRoom.png" width="100%"
                 style="margin-bottom: 10px;" alt="Ideal Lab Layout">
           - p: >-
-                <img src="/fabfoundation/uploads/Laser.png" width="100%"
+                <img src="/uploads/Laser.png" width="100%"
                 style="margin-bottom: 10px;" alt="Ideal Lab Layout">
           - p: >-
-                <img src="/fabfoundation/uploads/Electronics.png" width="100%"
+                <img src="/uploads/Electronics.png" width="100%"
                 style="margin-bottom: 10px;" alt="Ideal Lab Layout">
           - p: >-
-                <img src="/fabfoundation/uploads/ConferenceDesign.png" width="100%"
+                <img src="/uploads/ConferenceDesign.png" width="100%"
                 style="margin-bottom: 40px;" alt="Ideal Lab Layout">
           - p: >-
-                <a href="/fabfoundation/resource-folder/pdfs/IdealLab.zip" class="btn
-                btn-clear">Download .zip with all Pdfs</a>
+                <a href="/resource-folder/pdfs/IdealLab.zip" class="btn btn-clear">Download .zip with all Pdfs</a>
       id: 8
       click: collapse8
     - title: The Hardware

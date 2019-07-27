@@ -1,13 +1,13 @@
 <!--Expandable accordion template -->
-<section id="{{ include.texts.id }}" data-aos="fade-up">  
+<section id="{{ include.texts.id }}" data-aos="fade-up">
     <div class="container standard" id="accordion">
         <div class="sub-container">
             {% if include.texts.hastitle == true %}
-                <div class="row">
-                    <div class="col-md-8">
-                        <h3 class="section-heading">{{ include.texts.title }}</h3>
-                    </div>
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">{{ include.texts.title }}</h3>
                 </div>
+            </div>
             {% endif %}
 
             {% if include.texts.hassubtitle == true %}
@@ -18,18 +18,21 @@
             </div>
             {% endif %}
 
-            <div class="panel-group" id="{{ include.texts.accordionID }}" role="tablist" aria-multiselectable="true" data-aos="fade-right">
+            <div class="panel-group" id="{{ include.texts.accordionID }}" role="tablist" aria-multiselectable="true"
+                data-aos="fade-right">
                 {% for tab in site.data.getting-started.fablabs-accordion.tabs %}
                 <div class="panel panel-default">
                     <div class="panel-heading" role="tab" id="{{ tab.id }}">
                         <h3 class="h3-inverted panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#{{ tab.click }}" aria-expanded="true" aria-controls="{{ tab.click }}">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#{{ tab.click }}"
+                                aria-expanded="true" aria-controls="{{ tab.click }}">
                                 <i class="short-full glyphicon glyphicon-plus"></i>
                                 {{ tab.title }}
                             </a>
                         </h3>
                     </div>
-                    <div id="{{ tab.click }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{ tab.id }}">
+                    <div id="{{ tab.click }}" class="panel-collapse collapse" role="tabpanel"
+                        aria-labelledby="{{ tab.id }}">
                         <div class="panel-body" id="panel-text">
                             {% for paragraph in tab.paragraphs %}
                             <p>{{ paragraph.p }}</p>
@@ -40,17 +43,32 @@
                 {% endfor %}
             </div><!-- panel-group -->
 
-        </div><!--close subcontainer -->
-    </div><!--close container -->
+        </div>
+        <!--close subcontainer -->
+    </div>
+    <!--close container -->
 </section>
 
 <script>
-    function toggleIcon(e) {
-        $(e.target)
-            .prev('.panel-heading')
-            .find(".short-full")
-            .toggleClass('glyphicon-plus glyphicon-minus');
+    function defer(method) {
+        if (window.jQuery) {
+            method();
+        } else {
+            setTimeout(function () {
+                defer(method)
+            }, 50);
+        }
     }
-    $('.panel-group').on('hidden.bs.collapse', toggleIcon);
-    $('.panel-group').on('shown.bs.collapse', toggleIcon);
+
+    defer(function () {
+
+        function toggleIcon(e) {
+            $(e.target)
+                .prev('.panel-heading')
+                .find(".short-full")
+                .toggleClass('glyphicon-plus glyphicon-minus');
+        }
+        $('.panel-group').on('hidden.bs.collapse', toggleIcon);
+        $('.panel-group').on('shown.bs.collapse', toggleIcon);
+    })
 </script>
