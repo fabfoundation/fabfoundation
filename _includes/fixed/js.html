@@ -20,7 +20,7 @@
 
 <!-- Slow Appear Effect -->
 <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
-<script src="{{ "/js/demoUtils.js" | prepend: site.baseurl }}" ></script>
+<script src="{{ "/js/demoUtils.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
     AOS.init({
         duration: 1200,
@@ -30,7 +30,7 @@
 <!-- Banner Carousel -->
 <script type="text/javascript">
     $('.carousel').carousel({
-    interval: 3000 //changes the speed
+        interval: 3000 //changes the speed
     })
 </script>
 
@@ -47,28 +47,30 @@
 
 <!-- Background Video -->
 <script>
-    (function() {
-    /**
-    * Video element
-    * @type {HTMLElement}
-    */
-    var video = document.getElementById("background-video");
-    /**
-    * Check if video can play, and play it
-    */
-    video.addEventListener( "canplay", function() {
-    video.play();
-    });
+    (function () {
+        /**
+         * Video element
+         * @type {HTMLElement}
+         */
+        var video = document.getElementById("background-video");
+        /**
+         * Check if video can play, and play it
+         */
+        if (video) {
+            video.addEventListener("canplay", function () {
+                video.play();
+            });
+        }
     })();
 </script>
 
 <script>
- $(document).scroll(function() {
-       if($(window).scrollTop() > 800){
-        $("#background-video").hide();
+    $(document).scroll(function () {
+        if ($(window).scrollTop() > 800) {
+            $("#background-video").hide();
 
-       }else if($(window).scrollTop() < 800){
-        $("#background-video").show();
-       }
-});
+        } else if ($(window).scrollTop() < 800) {
+            $("#background-video").show();
+        }
+    });
 </script>

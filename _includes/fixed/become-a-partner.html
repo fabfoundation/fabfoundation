@@ -1,5 +1,5 @@
 <!--Become a partner Section  -->
-<section id="become-a-partner" class="section-home">  
+<section id="become-a-partner" class="section-home">
     <div class="container standard">
         <div class="sub-container">
             <div class="row">
@@ -7,7 +7,7 @@
                     <h3 class="section-heading">{{ include.texts.title }}</h3>
                 </div>
             </div>
-            
+
             <div class="row" data-aos="fade-right">
                 <div class="col-md-12">
                     <p class="section-subheading">
@@ -15,35 +15,42 @@
                     </p>
                 </div>
             </div>
-            
+
             <div class="row sponsor-row">
                 {% for sponsor in include.texts.sponsors %}
-            
-                       <a href="{{ sponsor.url }}" target="_blank">
-                           <div class="col-xs-6 col-sm-4 col-md-4 indicator-box link-grow text-center">
-                            <span class="sponsor">
-                                <div class="icon"><img class="sponsor-img" src="{{ site.baseurl }}/uploads/{{ sponsor.img }}"> </div>
-                            </span>
-                            </div>
-                        </a>
-                    
+
+                <a href="{{ sponsor.url }}" target="_blank">
+                    <div class="col-xs-6 col-sm-4 col-md-4 indicator-box link-grow text-center">
+                        <span class="sponsor">
+                            <div class="icon"><img class="sponsor-img"
+                                    src="{{ site.baseurl }}/uploads/{{ sponsor.img }}"> </div>
+                        </span>
+                    </div>
+                </a>
+
                 {% endfor %}
-            </div><!--row-->
+            </div>
+            <!--row-->
 
             {% if include.texts.hasbuttons == true %}
             <div class="row text-center">
                 <div class="col-md-12">
                     {% for button in include.texts.buttons %}
-                        {% if button.type == 'clear' %}
-                            <a href="{{ button.url }}" class="page-scroll btn btn-clear">{{ button.title }}</a>
-                        {% else button.type == 'red' %}
-                            <a href="{{ button.url }}" class="page-scroll btn btn-red">{{ button.title }}</a>
-                        {% endif %}
+                    {% if button.type == 'clear' %}
+                    {% if button.target == '_blank' %}
+                    <a href="{{ button.url }}" target="_blank" class="page-scroll btn btn-clear">{{ button.title }}</a>
+                    {% else %}
+                    <a href="{{ button.url }}" class="page-scroll btn btn-clear">{{ button.title }}</a>
+                    {% endif %}
+                    {% else button.type == 'red' %}
+                    <a href="{{ button.url }}" class="page-scroll btn btn-red">{{ button.title }}</a>
+                    {% endif %}
                     {% endfor %}
                 </div>
             </div>
             {% endif %}
 
         </div>
-    </div><!--container-->  
-</section> 
+    </div>
+    <!--container-->
+</section>

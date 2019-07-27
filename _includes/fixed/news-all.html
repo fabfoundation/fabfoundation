@@ -31,12 +31,7 @@
                 <i class="fa fa-plus fa-2x"></i>
               </div>
             </div>
-            <div
-              class="portfolio-img"
-              style="background-image: url('{{ site.baseurl }}/{{
-                post.thumbnail
-              }}');"
-            ></div>
+            <div class="portfolio-img" style="background-image: url('{{ post.thumbnail | relative_url}}');"></div>
           </a>
           <div class="portfolio-caption">
             <h4>{{ post.title }}</h4>
@@ -60,12 +55,9 @@
                 <i class="fa fa-plus fa-2x"></i>
               </div>
             </div>
-            <div
-              class="portfolio-img"
-              style="background-image: url('{{ site.baseurl }}/{{
-                post.thumbnail
-              }}');"
-            ></div>
+            <div class="portfolio-img" style="background-image: url('{{
+                post.thumbnail | relative_url
+              }}');"></div>
           </a>
           <div class="portfolio-caption">
             <h4>{{ post.title }}</h4>

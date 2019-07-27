@@ -34,3 +34,4 @@ buttons:
   - title: Contact the team
     url: 'mailto:info@fabfoundation.org'
     type: clear
+    target: _blank
