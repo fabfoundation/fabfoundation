@@ -42,3 +42,4 @@ services:
 hasmorebutton: true
 morebuttontitle: "Academany's website"
 morebuttonurl: 'http://academany.org/'
+morebuttontarget: '_blank'
