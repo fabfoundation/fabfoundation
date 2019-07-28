@@ -1985,8 +1985,8 @@ header .container {
 .vignette-body {
     margin-bottom: 20px;
     text-align: left;
-    font-size: 0.81em;
-    line-height: 19px;
+    font-size: 1.01em;
+    line-height: 24px;
     font-weight: 400;
     letter-spacing: 0.3px;
 }
