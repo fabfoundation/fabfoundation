@@ -10,6 +10,11 @@ img: fflogo.svg
 permalink: /april-newsletter
 ---
 
-The Fab Foundation April Newsletter is here!<br><br>Click on the link below to read it:
+The Fab Foundation April Newsletter is here!<br>
 
-[https://mailchi.mp/fabfoundation.org/the-fab-foundation-newsletter-z5ibsxzmw9](https://mailchi.mp/fabfoundation.org/the-fab-foundation-newsletter-z5ibsxzmw9)
+<a href="https://mailchi.mp/fabfoundation.org/the-fab-foundation-newsletter-z5ibsxzmw9" target="_blank">
+Open Fullscreen</a>
+
+<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-newsletter-z5ibsxzmw9" 
+style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px">
+</iframe>

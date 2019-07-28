@@ -10,22 +10,21 @@
           category.title
         }}</a>
         {% for sublink in category.sublinks %}
+        {% if sublink.target == '_blank' %}
+        <a class="sub-link" target="_blank" href="{{ sublink.link }}">{{
+          sublink.title
+        }}</a>
+        {% else %}
         <a class="sub-link" href="{{ site.baseurl }}/{{ sublink.link }}">{{
           sublink.title
         }}</a>
+        {% endif %}
         {% endfor %} {% if category.hasbuttons == true %} {% for button in
         category.buttons %} {% if button.type == 'clear' %}
-        <a
-          href="{{ button.url | relative_url }}"
-          class="page-scroll btn btn-clear clear-inverted btn-navbar"
-          >{{ button.title }}</a
-        >
+        <a href="{{ button.url | relative_url }}"
+          class="page-scroll btn btn-clear clear-inverted btn-navbar">{{ button.title }}</a>
         {% else button.type == 'red' %}
-        <a
-          href="{{ button.url | relative_url }}"
-          class="page-scroll btn btn-red btn-navbar"
-          >{{ button.title }}</a
-        >
+        <a href="{{ button.url | relative_url }}" class="page-scroll btn btn-red btn-navbar">{{ button.title }}</a>
         {% endif %} {% endfor %} {% endif %}
       </div>
       {% endfor %}
@@ -37,9 +36,8 @@
   <div class="container" style="background-color: transparent;">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header page-scroll">
-      <a class="navbar-brand page-scroll" href="{{ site.baseurl }}/#page-top"
-        ><img class="logo" src="{{ site.baseurl }}/uploads/fabfoundation.svg"
-      /></a>
+      <a class="navbar-brand page-scroll" href="{{ site.baseurl }}/#page-top"><img class="logo"
+          src="{{ site.baseurl }}/uploads/fabfoundation.svg" /></a>
       <div class="right-group">
         <div class="" style="position: relative; float:right;">
           <button type="button" class="navbar-toggle" onclick="openNav()">
@@ -50,9 +48,7 @@
           </button>
         </div>
         <div class="" style="position: relative; float:right;">
-          <a href="{{ site.baseurl }}/search"
-            ><i class="glyphicon glyphicon-search navbar-search-icon"></i
-          ></a>
+          <a href="{{ site.baseurl }}/search"><i class="glyphicon glyphicon-search navbar-search-icon"></i></a>
         </div>
       </div>
       <!--

@@ -68,10 +68,13 @@ sections:
         link: "contact"
       - title: "Facebook"
         link: "https://www.facebook.com/fabfndn"
+        target: _blank
       - title: "Twitter"
         link: "https://twitter.com/fabfndn"
+        target: _blank
       - title: "Youtube"
         link: "https://www.youtube.com/user/fabfndn"
+        target: _blank
     hasbuttons: false
   - title: "About"
     link: "about"
