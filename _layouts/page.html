@@ -53,7 +53,11 @@
                             <div class="col-md-12">
                                 <ul class="jumplinks">
                                 {% for jumplink in page.jumplinks %}
+                                    {% if jumplink.url contains 'https' %}
+                                    <a class="page-scroll page-jumplinks" target="_blank" href="{{ jumplink.url }}"><li >{{ jumplink.link }}</li></a> <span class="separator"> &#47; </span>
+                                    {% else %}
                                     <a class="page-scroll page-jumplinks" href="#{{ jumplink.url }}"><li >{{ jumplink.link }}</li></a> <span class="separator"> &#47; </span>
+                                    {% endif %}
                                 {% endfor %}
                                 </ul>
                             </div>
