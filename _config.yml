@@ -1,12 +1,11 @@
 #url: http://ffwebsite.dokku.fabeconomy.com
-baseurl: "/fabfoundation"
+baseurl: ""
 
 # Site settings
 title: The Fab Foundation
 logo: /uploads/fabfoundation.svg
 email: info@fabfoundation.org
 description: "Bridging the Digital Divide Design / Fabricate / Share. We work to provide access to the tools, the knowledge and the financial means to educate, innovate and invent using technology and digital fabrication to allow anyone to make (almost) anything. We create opportunity."
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -17,13 +16,10 @@ social:
   - title: youtube
     url: https://www.youtube.com/user/fabfndn
 
-
 # Postal address (add as many lines as necessary)
 address:
   - line: "50 Milk St., 16th Floor"
   - line: "Boston, MA 02109"
-
-
 
 # Build settings
 markdown: kramdown
@@ -32,8 +28,6 @@ plugins:
 
 # applies pretty for all
 permalink: pretty
-
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
