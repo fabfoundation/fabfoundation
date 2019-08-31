@@ -12,9 +12,9 @@ permalink: /june-newsletter
 
 The Fab Foundation June Newsletter is here!<br>
 
-<a href="http://mailchi.mp/fabfoundation.org/the-fab-foundation-june-newsletter-is-here-245919" target="_blank">
+<a href="https://mailchi.mp/fabfoundation.org/the-fab-foundation-june-newsletter-is-here-245919" target="_blank">
 Open Fullscreen</a>
 
-<iframe src="http://mailchi.mp/fabfoundation.org/the-fab-foundation-june-newsletter-is-here-245919" 
+<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-june-newsletter-is-here-245919" 
 style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px">
 </iframe>
