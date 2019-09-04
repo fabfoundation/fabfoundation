@@ -3,7 +3,7 @@ title: August Newsletter
 caption: 'FAB15 Highlights, Upcoming Programs, Job Opportunities and more!' 
 highlight: true
 category: newsletter
-thumbnail: /uploads/july-newsletter.jpg
+thumbnail: /uploads/pyramid.jpg
 layout: posts
 date: 2019-08-01 00:00:00
 img: fflogo.svg
