@@ -4,15 +4,15 @@ topbanner: kidsplaying-low-res.jpg
 hascarousel: false
 carouselbackground: banner_events1.png
 carousel:
-  - img: banner_events2.png
-  - img: banner_events3.png
+  - img: banner_events2.jpg
+  - img: banner_events3.jpg
 haslogo: true
 logo: academany-short.svg
 height: 45px
 hastitle: true
 title: This is an example title
 haslargeimg: false
-largeimg: fablabsmap.png
+largeimg: fablabsmap.jpg
 hassubtitle: true
 subtitle: >-
   This is an example subtitle where we explain something about the sections in
@@ -42,10 +42,10 @@ vignettes:
 hasbuttons: true
 buttons:
   - title: Example Red
-    url: 'education#scopes-full'
+    url: "education#scopes-full"
     type: red
   - title: Example Clear
-    url: 'https://www.scopesdf.org/contact/'
+    url: "https://www.scopesdf.org/contact/"
     type: clear
 hasprojectgallery: true
 projects:
@@ -57,4 +57,4 @@ projects:
     img: woodstructure_lowres.jpg
   - title: Example Project 3
     id: fabevents
-    img: fabcity.png
+    img: fabcity.jpg

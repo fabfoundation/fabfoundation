@@ -17,12 +17,12 @@ cards:
     has_external_link: false
     description:
       - p: |
-         The Fab Lab project is the educational outreach program for <a href="https://cba.mit.edu" target="_blank" style="text-decoration: underline">MIT’s Center for Bits & Atoms</a>. As such the network is closely linked to MIT’s research into the merging of physical science and computer science and the development of digital materials. The international Fab Lab network also contributes to new research and applications in digital fabrication.
+          The Fab Lab project is the educational outreach program for <a href="https://cba.mit.edu" target="_blank" style="text-decoration: underline">MIT’s Center for Bits & Atoms</a>. As such the network is closely linked to MIT’s research into the merging of physical science and computer science and the development of digital materials. The international Fab Lab network also contributes to new research and applications in digital fabrication.
     bgcolor: "lightblue"
   - orientation: normal
     title: Fab City Global Initiative
     id: fabcity
-    img: fabcity.png
+    img: fabcity.jpg
     url: "https://fab.city/"
     has_external_link: true
     description:

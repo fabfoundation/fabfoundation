@@ -17,7 +17,7 @@ services:
         type: "clear"
   - title: "This is an example second service"
     orientation: inverted
-    img: fablabsmap.png
+    img: fablabsmap.jpg
     paragraphs:
       - p: "In this one we use an inverted orientation to give more flow to the list! Choose orientation 'normal' or 'inverted' to change the direction with which is it displayed"
       - p: "This is an example second paragraph"

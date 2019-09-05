@@ -8,7 +8,7 @@ category: newsletter
 thumbnail: /uploads/10year.png
 layout: posts
 date: 2019-02-17 00:00:00
-img: fablabsmap.png
+img: fablabsmap.jpg
 permalink: /december-newsletter
 ---
 

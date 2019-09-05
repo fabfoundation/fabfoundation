@@ -17,7 +17,7 @@ services:
         type: "clear"
   - title: ".ORG"
     orientation: inverted
-    img: fablabsmap.png
+    img: fablabsmap.jpg
     paragraphs:
       - p: "The Fab Foundation's work includes the promotion of digital fabrication, facilitating the development of community-based and educational fab labs, the dissemination of best practices in digital fabrication throughout the fab lab network, facilitation and dissemination of research and community-beneficial projects, the funding and facilitation of fab lab and digital fabrication projects that benefit people and communities in exemplary ways, such as mobile fab labs for emergency aid, or fab labs for developing world contexts. These services include deploying, installing, training, and consulting for new fab labs as well as programmatic support of established fab labs. (Fab Labs)"
       - p: "The Foundation works to gather and provide critical evaluation data as well as provide tools for tracking the impact of fab labs in educational, business and social contexts. As part of our services we provide a network function for the fab lab community, bringing together fab labs around the world either physically (for annual meetings and workshops) or virtually through online tools and resources."
