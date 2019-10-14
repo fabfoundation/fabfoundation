@@ -1,13 +1,17 @@
 ---
-title: Bioacademy Registrations now open
-caption: Join the Synthetic Biology Program for learning how to grow (almost) anything!
+title: October Newsletter
+caption: 'News, Programs, Events and more from the #FabLabNetwork' 
 highlight: true
-category: press
-thumbnail: /uploads/bioacademy-thumb.png
+category: newsletter
+thumbnail: /uploads/pyramid.jpg
 layout: posts
-date: 2018-06-01 00:00:00
-img: bioacademy-banner.png
-permalink: /bioacademy-registrations-now-open
+date: 2019-10-01 00:00:00
+img: fflogo.svg
+permalink: /october-newsletter
 ---
 
-## What is Bioacademy?
+The Fab Foundation August Newsletter is here\!
+
+[Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-october-newsletter-is-here-301699){: target="_blank"}
+
+<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-october-newsletter-is-here-301699" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
