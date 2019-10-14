@@ -3,7 +3,7 @@ title: October Newsletter
 caption: 'News, Programs, Events and more from the #FabLabNetwork'
 highlight: true
 category: newsletter
-thumbnail: /uploads/october photo.jpg
+thumbnail: /uploads/October photo.jpg
 layout: posts
 date: 2019-10-01 00:00:00
 img: fflogo.svg
