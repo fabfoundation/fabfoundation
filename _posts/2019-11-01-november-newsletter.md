@@ -10,7 +10,7 @@ img: fflogo.svg
 permalink: /november-newsletter
 ---
 
-The Fab Foundation October Newsletter is here\!
+The Fab Foundation November Newsletter is here\!
 
 [Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-november-newsletter-is-here-3078735){: target="_blank"}
 
