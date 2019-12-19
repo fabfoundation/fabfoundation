@@ -1,6 +1,5 @@
-#url: http://ffwebsite.dokku.fabeconomy.com
 baseurl: ""
-repository: fablabbcn/fabfoundation
+repository: academany/fabfoundation
 
 # Site settings
 title: The Fab Foundation
