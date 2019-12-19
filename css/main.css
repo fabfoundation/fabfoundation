@@ -1,3 +1,7 @@
+---
+note: We need this in order to Jekyll variables to render properly
+---
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -1010,7 +1014,7 @@ header .container {
     width: 30px;
     height: 30px;
     background-repeat: no-repeat;
-    background-image: url('{{ site.baseurl }}/uploads/dialog-item.svg');
+    background-image: url("{{site.baseurl}}/uploads/dialog-item.svg");
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: contain;
