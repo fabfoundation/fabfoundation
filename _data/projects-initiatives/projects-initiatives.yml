@@ -40,7 +40,7 @@ cards:
   - orientation: normal
     title: Fab House
     id: fabhouse
-    img: fabhouse.png
+    img: fabhouse1.png
     url: "https://ioby.org/project/fab-house"
     has_external_link: true
     description:
