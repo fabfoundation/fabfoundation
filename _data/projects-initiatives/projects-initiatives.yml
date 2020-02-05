@@ -1,13 +1,13 @@
 id: "projects-initiatives"
 cards:
   - orientation: normal
-    title: FabX Events
+    title: FABx Events
     id: fabevents
     img: fab13symposium_low_res.jpg
     has_external_link: true
     url: "https://www.fabevent.org"
     description:
-      - p: "Each year we offer members of the more than 1,750 worldwide Fab Labs a space to gather, to share, to collaborate, to explore and, of course, to fabricate. Join us this year in France!"
+      - p: "Each year we offer members of the more than 1,750 worldwide Fab Labs a space to gather, to share, to collaborate, to explore and, of course, to fabricate. Join us this year in Montréal, Canada!"
     bgcolor: "darkblue"
   - orientation: normal
     title: Fab Research
