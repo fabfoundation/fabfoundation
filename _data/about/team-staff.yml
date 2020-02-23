@@ -1,15 +1,6 @@
 id: staff-team
 title: "Fab Foundation Staff"
 cards: 
-  - name: "Fiore Basile"
-    img: 'fiore.png'
-    position: "Chief Information Officer"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/fibasile"
-    bio:
-      - p: "Fiore has been coding since he was a kid, and soon moved to networking, hosting a BBS in his room in the late 80s, getting a Computer Science degree, founding two IT startups, managing EU IST research projects, building web and mobile apps and consulting to companies for over 20 years. In his late thirties he realized that software alone cannot make a real impact in the world, and he started to get involved in the local Fab Lab movement first, then joining the Fab Academy and opening a public access Fab Lab in his town, Cascina, Italy. He started Fab Lab Toscana, the regional Fab Lab network in Tuscany and helped setup labs in Italy, Africa and Middle east."
-      - p: " As a teacher, Fiore gave lectures in graduate and post-graduate classes, workshops in Fab Labs around the world, and is one of the global evaluators for Fab Academy and Fabricademy. In his spare time he enjoys making digital art and educational installations, such as the largest Arduino-compatible board in the world, in Fab Lab UAE, Dubai. He currently manages Fab Cloud, the IT infrastructure for Fab Lab network projects including the Fab Academy, Fablabs.io and Fabricademy."
   - name: "Luciano Betoldi"
     img: 'Luciano_Betoldi.png'
     position: "International Operations Director"
@@ -29,18 +20,9 @@ cards:
     bio:
       - p: "The Program Manager of the GE Brilliant Career Lab, Alethea Campbell discovered the power and joy of making for herself, and others, has become a driving force in her life to make a transformation in the world of education."
       - p: "Her passion for art, design, science, and technology led her to the maker world. She saw the power of sharing how to use an Arduino or create a 3D Model using CAD software, can change a young person’s world. An alumni of Smith College, she graduated from Harvard Graduate School of Education and earned a Master’s of Education degree in Technology, Innovation, and Education. Alethea is a maker, creator, innovator, an educator, and a learner."
-  - name: "David Cavallo"
-    img: 'David_cavallo.png' 
-    position: "Learning Architect, SCOPES-DF"
-    social: 
-      - title: 
-        url:
-    bio:
-      - p: "David Cavallo is a consultant with the Fab Foundation and serving as the Learning Architect for the SCOPES-DF project. David is a Research Scientist and former Director of the Future of Learning Group at the MIT Media Laboratory. He completed his Ph.D. under the direction of Professor Seymour Papert. His thesis work describes an educational intervention in Thailand, named Project Lighthouse, and points towards the importance of emergent design in the reform of large-scale, complex, dynamic environments. His work focuses on the design and implementation of reforms of learning environments and educational systems, and the role technology can play in this change process. He also works on the design of new technologies for learning through design, expression, and construction. His other work includes projects for large-scale educational reform in Brasil, including a project where children design their city of the future. Prior to MIT, Cavallo led the design and implementation of medical informatics as part of a reform of health care delivery and management at the Harvard University Health Services."
-      - p: "Prior to that he was a principal and consulting software engineer at Digital Equipment Corporation's Artificial Intelligence Technology Center. He led enterprise architecture and implementation efforts for using technology to produce change in the processes and operations of major companies by focusing on learning. He designed and built numerous knowledge-based systems for industry. He also holds a Master of Science degree from the MIT Media Laboratory and a Bachelor's of Science degree in Computer Science from Rutgers University. He has advised numerous heads of state and ministries of education on the adoption of advanced technologies for learning and the reform of educational institutions"
   - name: "Norella Coronell"
     img: 'Norella_Coronell.png'
-    position: "Fab Forum International Coordinator, Special Projects Consultant"
+    position: "Fab Foundation Forum Project Manager, Special Projects Consultant"
     social: 
       - title: linkedin
         url: "https://es.linkedin.com/in/norella-coronell-1831973a"
@@ -50,22 +32,13 @@ cards:
       - p: "She currently lives in Barranquilla, Colombia and teaches the undergraduate course Technological Design on her former University."
   - name: "Dr. Nettrice Gaskins"
     img: 'Nettrice_Gaskins.png'
-    position: "Program Manager, SCOPES-DF"
+    position: "Consultant, SCOPES-DF"
     social: 
       - title: linkedin
         url: "https://www.linkedin.com/in/nettrice"
     bio:
       - p: "Dr. Nettrice Gaskins has worked for several years in K-12 and post-secondary education, community media and technology before receiving a doctorate in Digital Media from Georgia Institute of Technology in 2014. Nettrice has focused on the application of cultural art and technologies in STEAM learning for underrepresented ethnic groups in public schools in the United States and around the world."
       - p: "She has worked as a teaching artist for the Boston 100K Artscience Innovation Prize; and was a youth media/technology trainer for Adobe Youth Voices. She served as Board President of the National Alliance for Media Arts and Culture and was on the board of the Community Technology Centers Network (CTCNet). Dr. Gaskins has also received funding from the National Science Foundation for Advancing STEM Through Culturally Situated Arts-Based Learning. Nettrice provides expert advice on how to include people from underrepresented communities."
-  - name: "Pamela King"
-    img: 'Pamela_King.png' 
-    position: "General Manager"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/pamelajking"
-    bio:
-      - p: "Pamela is The General Manager and has the great distinction of being The Fab Foundation's Employee #1(or first employee). She initially joined FF as a temporary part-time program assistant while still looking for full-time work. She decided to stay on and her status changed to full-time as Operations Manager to the current status. Her role includes administration management, assisting in the growth and development of the organization. She is also affiliated with the first fab lab."
-      - p: "Pamela is a native of Boston, Massachusetts with Bajan(Barbados) and Southern(Maryland/North Carolina) US roots. She is a seamstress, baker, an aunt, big sister, first daughter, mentor, friend, likes to travel and ventures into genealogy. She holds Bachelor's and Master's Degrees in Education and has worked in various industries: State, National government, legal aid, public health, youth and social services, private and non-profit."
   - name: "Melvin LaPrade"
     img: 'Melvin_LaPrade.png' 
     position: "Consultant, SCOPES-DF"
@@ -75,14 +48,6 @@ cards:
     bio:
       - p: "Melvin LaPrade is a consultant with the Fab Foundation for the SCOPES-DF project. Melvin’s areas of expertise and research address both traditional issues, such as narrowing racial and gender achievement gaps as well as new challenges, such as the implementation of Common Core State Learning Standards with fidelity. Melvin was the Founding Director of Development for the Benjamin Banneker Academy for Community Development in Central Brooklyn, NY, a college-preparatory community development-themed middle/high school created by the Gates Foundation small school initiative. As Managing Partner of the New York based National Urban Research group, his thought leadership consultant practice works to shape the broader P-16 educational policy landscape by conducting analysis, research and idea generation on approaches objectively demonstrated to reach traditionally underserved neighborhoods, first-generation college students, low-income students and their families. In the fall of 2015, Melvin implemented the Clement School Analytics Leadership Team (C-SALT) model at CMSD Investment School Kenneth W. Clement Boys Leadership Academy (KCBLA). This model resulted in over 94 percent of KCBLA students meeting the 3rd grade Ohio Reading Guarantee promotion benchmark, and 80 percent of 7th grade student’s recorded MAP RIT scores above the 50th percentile."
       - p: "Melvin is a graduate of CMSD schools, East High. He did his undergraduate work at Howard University, Master’s at Cleveland State University, and Post-graduate studies, Department of Urban Studies and Planning, Ph.D. Program at M.I.T."
-  - name: "Jean-Michel Molenaar"
-    img: 'Jean_Michel_Molenaar.jpg'
-    position: "Sr. Consultant, International Projects"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/jean-michel-molenaar-7283243a"
-    bio:
-      - p: "As a senior consultant on international projects Jean-Michel works on creating ecosystems around labs and linking it to existing programs, organizations and systems. He has helped create labs in multiple countries on multiple continents, and is most excited about projects that use technology to help improve people’s daily lives. Next to his work on consultancy projects, he also manages the Bio Academy, a globally distributed course on the implications and applications of synthetic biology, and works as a professor of the practice in the department of biomedical engineering at Tufts University. He lives in Medford, MA, with his wife and their two sons."
   - name: "Aidan Mullaney"
     img: 'Aidan_Mullaney.png'
     position: "Manager of Instruction, GE/Celtics BCP"
@@ -132,3 +97,31 @@ cards:
       - p: "Daniel serves as Master Fabricator for the SCOPES-DF project. He works collaboratively with STEM experts to build foundational and scalable digital fabrication knowledge for K-12 education."
       - p: "He is a scholar in design, computation, and cognitive sciences whose dissertation research explored human cognition and robotic interaction for creative applications. He has published on this topic and more in academic and popular press. He has taught classes on digital design and fabrication at MIT, RISD, and the Boston Architectural College."
       - p: "Daniel was trained as an architect at the University of Minnesota (BS, Architecture) and completed research degrees at MIT (MS and PhD, Design Computation). Dan and his family live in Somerville, Massachusetts and for fun he plays drums in an 80's cover band."
+  - name: "In Memoriam: Fiore Basile"
+    img: 'fiore.png'
+    position: "Chief Information Officer"
+    social: 
+      - title: linkedin
+        url: "https://donate.fabevent.org/"
+    bio:
+      - p: "Our colleague, good and dear friend, adventuring spirit, innovator and Bit Ninja Fiore Basile passed away November 2019. Fiore has been and will always be a part of the fab family, a part of all of us.  We will miss him, and we carry his spirit and memory with us, always.  Please make a contribution toward the Fiore Basile Scholarship Fund here. "
+     - name: "David Cavallo"
+    img: 'David_cavallo.png' 
+    position: "Learning Architect, SCOPES-DF"
+    social: 
+      - title: 
+        url:
+    bio:
+   - name: "Pamela King"
+    img: 'Pamela_King.png' 
+    position: "General Manager"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/pamelajking"
+  - name: "Jean-Michel Molenaar"
+    img: 'Jean_Michel_Molenaar.jpg'
+    position: "Sr. Consultant, International Projects"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jean-michel-molenaar-7283243a"
+    bio:
