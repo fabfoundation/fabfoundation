@@ -105,19 +105,19 @@ cards:
         url: "https://donate.fabevent.org/"
     bio:
       - p: "Our colleague, good and dear friend, adventuring spirit, innovator and Bit Ninja Fiore Basile passed away November 2019. Fiore has been and will always be a part of the fab family, a part of all of us.  We will miss him, and we carry his spirit and memory with us, always.  Please make a contribution toward the Fiore Basile Scholarship Fund here. "
-   - name: "David Cavallo"
+  - name: "David Cavallo"
     img: 'David_cavallo.png' 
     position: "Learning Architect, SCOPES-DF"
     social: 
       - title: 
         url:
-   - name: "Pamela King"
+  - name: "Pamela King"
     img: 'Pamela_King.png' 
     position: "General Manager"
     social: 
       - title: linkedin
         url: "https://www.linkedin.com/in/pamelajking"
-   - name: "Jean-Michel Molenaar"
+  - name: "Jean-Michel Molenaar"
     img: 'Jean_Michel_Molenaar.jpg'
     position: "Sr. Consultant, International Projects"
     social: 
