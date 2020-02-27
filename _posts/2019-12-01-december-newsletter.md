@@ -14,4 +14,4 @@ The Fab Foundation December Newsletter is here\!
 
 [Open Fullscreen](http://mailchi.mp/fabfoundation.org/the-fab-foundation-december-newsletter-is-here-4007311){: target="_blank"}
 
-<iframe src="http://mailchi.mp/fabfoundation.org/the-fab-foundation-december-newsletter-is-here-4007311" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
+<iframe src= "http://mailchi.mp/fabfoundation.org/the-fab-foundation-december-newsletter-is-here-4007311" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
