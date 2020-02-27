@@ -1,17 +1,17 @@
 ---
-title: November Newsletter
+title: December Newsletter
 caption: 'News, Programs, Events and more from the #FabLabNetwork'
 highlight: true
 category: newsletter
 thumbnail: /uploads/novnewsletter.jpg
 layout: posts
-date: 2019-11-01 00:00:00
+date: 2019-12-01 00:00:00
 img: fflogo.svg
-permalink: /november-newsletter
+permalink: /december-newsletter
 ---
 
-The Fab Foundation November Newsletter is here\!
+The Fab Foundation December Newsletter is here\!
 
-[Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-november-newsletter-is-here-3078735){: target="_blank"}
+[Open Fullscreen](http://mailchi.mp/fabfoundation.org/the-fab-foundation-december-newsletter-is-here-4007311){: target="_blank"}
 
-<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-november-newsletter-is-here-3078735" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
+<iframe src="http://mailchi.mp/fabfoundation.org/the-fab-foundation-december-newsletter-is-here-4007311" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
