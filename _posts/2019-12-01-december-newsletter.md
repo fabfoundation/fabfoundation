@@ -1,6 +1,6 @@
 ---
 title: December Newsletter
-caption: 'News, Programs, Events and more from the #FabLabNetwork'
+caption: 'Fablabs.io, Foldscope, FAB16 and more from the #FabLabNetwork'
 highlight: true
 category: newsletter
 thumbnail: /uploads/novnewsletter.jpg
