@@ -1,7 +1,7 @@
 ---
 title: March Newsletter
 caption: 'Bootcamp, Fab Babies, Fab Care and More'
-highlight: false
+highlight: true
 category: newsletter
 thumbnail: /uploads/makered.jpg
 layout: posts
