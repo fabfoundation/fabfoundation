@@ -14,4 +14,4 @@ The Fab Foundation March Newsletter is here\!
 
 [Open Fullscreen](http://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4030331){: target="_blank"}
 
-<iframe src="http://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4030331" style="max-width: 1024px; width: 90%; margin: 0 auto; height: 1024px"></iframe>
+<iframe src="http://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4030331" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
