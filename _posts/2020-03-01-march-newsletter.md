@@ -1,17 +1,17 @@
 ---
-title: February Newsletter
-caption: 'Fab16 is here!'
+title: March Newsletter
+caption: 'Bootcamp, Fab Babies, Fab Care and More'
 highlight: true
 category: newsletter
-thumbnail: /uploads/digifabcon.jpg
+thumbnail: /uploads/makered.jpg
 layout: posts
-date: 2020-02-01 00:00:00
+date: 2020-03-01 00:00:00
 img: fflogo.svg
-permalink: /February-newsletter
+permalink: /March-newsletter
 ---
 
-The Fab Foundation February Newsletter is here\!
+The Fab Foundation March Newsletter is here\!
 
-[Open Fullscreen](https://mailchi.mp/fabfoundation.org/fab16-montral-is-here){: target="_blank"}
+[Open Fullscreen](http://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4030331){: target="_blank"}
 
-<iframe src="https://mailchi.mp/fabfoundation.org/fab16-montral-is-here" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
+<iframe src="http://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4030331" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
