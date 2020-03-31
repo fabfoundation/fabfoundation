@@ -5,7 +5,7 @@ highlight: true
 category: newsletter
 thumbnail: /uploads/digifabcon.jpg
 layout: posts
-date: 2019-02-01 00:00:00
+date: 2020-02-01 00:00:00
 img: fflogo.svg
 permalink: /February-newsletter
 ---
