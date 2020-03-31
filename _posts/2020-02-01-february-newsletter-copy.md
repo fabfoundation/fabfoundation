@@ -1,7 +1,7 @@
 ---
 title: February Newsletter
 caption: 'Fab16 is here!'
-highlight: true
+highlight: false
 category: newsletter
 thumbnail: /uploads/digifabcon.jpg
 layout: posts
