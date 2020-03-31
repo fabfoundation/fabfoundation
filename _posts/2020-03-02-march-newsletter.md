@@ -1,11 +1,11 @@
 ---
 title: March Newsletter
 caption: 'Bootcamp, Fab Babies, Fab Care and More'
-highlight: true
+highlight: false
 category: newsletter
 thumbnail: /uploads/makered.jpg
 layout: posts
-date: 2020-03-01 00:00:00
+date: 2020-03-02 00:00:00
 img: fflogo.svg
 permalink: /March-newsletter
 ---
