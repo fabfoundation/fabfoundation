@@ -1,9 +1,9 @@
 ---
 title: February Newsletter
-caption: 'Fab16 is here!'
+caption: Fab16 is here!
 highlight: false
 category: newsletter
-thumbnail: /uploads/digifabcon.jpg
+thumbnail: /uploads/fab16newsletter.png
 layout: posts
 date: 2020-02-01 00:00:00
 img: fflogo.svg
