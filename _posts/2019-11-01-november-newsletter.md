@@ -1,7 +1,7 @@
 ---
 title: November Newsletter
 caption: 'News, Programs, Events and more from the #FabLabNetwork'
-highlight: true
+highlight: false
 category: newsletter
 thumbnail: /uploads/novnewsletter.jpg
 layout: posts
