@@ -1,17 +1,17 @@
 ---
-title: December Newsletter
-caption: 'Fablabs.io, Foldscope, FAB16 and more from the #FabLabNetwork'
+title: February Newsletter
+caption: 'Fab16 is here!'
 highlight: true
 category: newsletter
-thumbnail: /uploads/fab16newsletter.png
+thumbnail: /uploads/digifabcon.jpg
 layout: posts
-date: 2019-12-01 00:00:00
+date: 2019-02-01 00:00:00
 img: fflogo.svg
-permalink: /december-newsletter
+permalink: /February-newsletter
 ---
 
-The Fab Foundation December Newsletter is here\!
+The Fab Foundation February Newsletter is here\!
 
-[Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-december-newsletter-is-here-4007311){: target="_blank"}
+[Open Fullscreen](https://mailchi.mp/fabfoundation.org/fab16-montral-is-here){: target="_blank"}
 
-<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-december-newsletter-is-here-4007311" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
+<iframe src="https://mailchi.mp/fabfoundation.org/fab16-montral-is-here" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
