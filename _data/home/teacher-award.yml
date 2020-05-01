@@ -43,7 +43,7 @@ buttons:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSfFuLW5KfWtwDXqxoAS8303_Xema15vkNDV-DMU0VElJT9AKA/viewform?usp=sf_link
     type: red
-  - title: Example Clear
+  - title: Read More
     url: 'https://www.scopesdf.org/contact/'
     type: clear
 hasprojectgallery: false
