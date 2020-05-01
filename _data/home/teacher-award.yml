@@ -1,58 +1,59 @@
-id: example-id
+id: teacher-innovator-award
 hastopbanner: true
-topbanner: kidsplaying-low-res.jpg 
+topbanner: kidsplaying-low-res.jpg
 hascarousel: false
 carouselbackground: banner_events1.png
 carousel:
   - img: banner_events2.jpg
   - img: banner_events3.jpg
-haslogo: true
+haslogo: false
 logo: academany-short.svg
 height: 45px
 hastitle: true
-title: "This is an example title" 
+title: 2020 Teacher Innovator Award
 haslargeimg: false
 largeimg: fablabsmap.jpg
-hassubtitle: true
-subtitle: "This is an example subtitle where we explain something about the sections in two or three lines"
+hassubtitle: false
+subtitle: >-
+  This is an example subtitle where we explain something about the sections in
+  two or three lines
 haslongtext: true
-longtext: "This is a space to put more texts if needed, it will display longer text better than the subtitle because it takes all the width of the"
-hasvignettes: true
-id: example-id-vignette
+longtext: "Since 2016, Chevron and the Fab Foundation have partnered to recognize educators that are creating STEM learning opportunities through digital fabrication.\_This year is a particularly challenging time for educators and their students. Due to the pandemic, over 95% of school-age children are unable to learn in their classrooms with teachers.\_  Many teachers are innovating and finding a way to get quality learning experiences to their students, and we want to acknowledge them with the Teacher Innovator Award. We will be accepting submissions throughout the month of May (Teacher Appreciation Month!). Apply below or find out more."
+hasvignettes: false
 vignettes:
   - hastitle: true
-    title: "This is a title"
+    title: This is a title
     orientation: normal
     haslead: true
-    lead: "This is an example lead"
+    lead: This is an example lead
     hasbody: true
-    body: "This is an example body"
-    img: 'mobile_fablab5.png'
+    body: This is an example body
+    img: mobile_fablab5.png
   - hastitle: true
-    title: "This is a title"
+    title: This is a title
     orientation: inverted
     haslead: true
-    lead: "This is another example lead"
+    lead: This is another example lead
     hasbody: true
-    body: "This is another example body"
-    img: 'mobile_fablab6.png'
+    body: This is another example body
+    img: mobile_fablab6.png
 hasbuttons: true
 buttons:
-  - title: "Example Red"
-    url: 'education#scopes-full'
+  - title: Apply Here
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSfFuLW5KfWtwDXqxoAS8303_Xema15vkNDV-DMU0VElJT9AKA/viewform?usp=sf_link
     type: red
-  - title: "Example Clear"
+  - title: Example Clear
     url: 'https://www.scopesdf.org/contact/'
     type: clear
-hasprojectgallery: true
+hasprojectgallery: false
 projects:
-  - title: "Example Project"
+  - title: Example Project
     id: projects-initiatives-intro
-    img: research.png 
-  - title: "Example Project 2"
+    img: research.png
+  - title: Example Project 2
     id: fabeconomy
     img: woodstructure_lowres.jpg
-  - title: "Example Project 3"
+  - title: Example Project 3
     id: fabevents
-    img: fabcity.jpg 
-
+    img: fabcity.jpg
