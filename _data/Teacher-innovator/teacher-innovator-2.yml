@@ -13,9 +13,6 @@ services:
       - title: "Nominate Now!"
         url: "https://docs.google.com/forms/d/e/1FAIpQLSfFuLW5KfWtwDXqxoAS8303_Xema15vkNDV-DMU0VElJT9AKA/viewform?usp=sf_link"
         type: "clear"
-      - title: "Example button 2"
-        url: "/education"
-        type: "clear"
 hasmorebutton: false
 morebuttontitle: "This is an extra button"
 morebuttonurl: ""
