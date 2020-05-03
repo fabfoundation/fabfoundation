@@ -55,7 +55,7 @@ vignettes:
     img: mobile_fablab6.png
 hasbuttons: true
 buttons:
-  - title: Nominate Now!
+  - title: Apply Here!
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSfFuLW5KfWtwDXqxoAS8303_Xema15vkNDV-DMU0VElJT9AKA/viewform?usp=sf_link
     type: red
