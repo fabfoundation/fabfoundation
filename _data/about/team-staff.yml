@@ -38,15 +38,6 @@ cards:
         url: ""
     bio:
       - p: "Lydia grew up in Cleveland, Ohio and graduated from Cleveland Public Schools. She attended Baldwin Wallace College in Berea, Ohio and studied Communications and Psychology.  Lydia worked with the County Human Services department for six years servicing low-income families, connecting them with supportive services and assistance. She worked towards her Masters of Education during this time at Malone University in Canton, Ohio and after finishing in 2010 became a school counselor. Lydia worked as a counselor for ten years in charter and traditional public schools. Currently, she serves with her husband in Christian ministry. They have twin 18-year-old daughters who are in their first year of college."
-  - name: "Dr. Nettrice Gaskins"
-    img: 'Nettrice_Gaskins.png'
-    position: "Consultant, SCOPES-DF"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/nettrice"
-    bio:
-      - p: "Dr. Nettrice Gaskins has worked for several years in K-12 and post-secondary education, community media and technology before receiving a doctorate in Digital Media from Georgia Institute of Technology in 2014. Nettrice has focused on the application of cultural art and technologies in STEAM learning for underrepresented ethnic groups in public schools in the United States and around the world."
-      - p: "She has worked as a teaching artist for the Boston 100K Artscience Innovation Prize; and was a youth media/technology trainer for Adobe Youth Voices. She served as Board President of the National Alliance for Media Arts and Culture and was on the board of the Community Technology Centers Network (CTCNet). Dr. Gaskins has also received funding from the National Science Foundation for Advancing STEM Through Culturally Situated Arts-Based Learning. Nettrice provides expert advice on how to include people from underrepresented communities."
   - name: "Melvin LaPrade"
     img: 'Melvin_LaPrade.png' 
     position: "Consultant, SCOPES-DF"
@@ -119,6 +110,12 @@ cards:
     social: 
       - title: 
         url:
+  - name: "Dr. Nettrice Gaskins"
+    img: 'Nettrice_Gaskins.png'
+    position: "Consultant, SCOPES-DF"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/nettrice"
   - name: "Pamela King"
     img: 'Pamela_King.png' 
     position: "General Manager"
