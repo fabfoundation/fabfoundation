@@ -1,17 +1,17 @@
 ---
-title: Covid-19 Response
-caption: '#FabDoesNotWait, Network repository, Projects and more'
+title: 2020 Teacher Innovator Award
+caption: Find out how we're showing appreciation for teachers!
 highlight: true
-category: newsletter
-thumbnail: /uploads/covid1.jpg
+category: press
+thumbnail: /uploads/McKinley.jpeg
 layout: posts
-date: 2020-03-26 00:00:00
+date: 2020-04-04 00:00:00
 img: fflogo.svg
-permalink: /Covid19-Blast
+permalink: /Teacher-Innovator
 ---
 
-The Fab Lab Network's Response to Covid-19 is here\!
+2020 Teacher Innovator Award- nominate someone now\!
 
-[Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-march-blast-is-here-4355935){: target="_blank"}
+Since 2016, Chevron and the Fab Foundation have partnered to recognize educators that are creating STEM learning opportunities through digital fabrication.\_To date, we have awarded over $40,000 to formal and informal educators all around the world. <p> This year is a particularly challenging time for educators and their students. Due to the pandemic, over 95% of school-age children are unable to learn in their classrooms with teachers. In spite of these difficulties, many teachers are innovating and finding a way to get quality learning experiences to their students, and we want to acknowledge them with the Teacher Innovator Award! </p> <p> We will be accepting submissions for the 2020 Teacher Innovator Award throughout the month of May (Teacher Appreciation Month!), beginning May 5. Apply below and find out more! </p>
 
-<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-march-blast-is-here-4355935" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
+[Click Here to nominate someone or apply yourself!](https://docs.google.com/forms/d/e/1FAIpQLSfFuLW5KfWtwDXqxoAS8303_Xema15vkNDV-DMU0VElJT9AKA/viewform?usp=sf_link){: target="_blank"}
