@@ -3,7 +3,7 @@ title: 2020 Teacher Innovator Award
 caption: Find out how we're showing appreciation for teachers in May!
 highlight: true
 category: press
-thumbnail: /uploads/McKinley.jpeg
+thumbnail: /uploads/Mckinley.jpeg
 layout: posts
 date: 2020-04-04 00:00:00
 img: fflogo.svg
