@@ -30,7 +30,7 @@
                                 </div>
                             </div>
                         </a>
-                        {% endif %}
+                        {% else %}
                         <!-- Turn this back on after Teacher Innovator campaign -->
                         <a class="" href="{{ post.url | relative_url }}">
                             <div class="row no-side-margin highlight">
@@ -45,7 +45,7 @@
                                 </div>
                             </div>
                         </a>
-
+                        {% endif %}
                         {% endif %}
                         {% endfor %}
                         <a href="{{ site.baseurl }}/news">
