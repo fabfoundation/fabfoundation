@@ -19,8 +19,8 @@ haslongtext: false
 longtext: >-
 hasvignettes: true
 vignettes:
-  - hastitle: false
-    title: This is a title
+  - hastitle: true
+    title: 2020 Teacher Innovator Award- Nominate through May 29, 2020!
     orientation:  normal
     haslead: true
     lead: >-
