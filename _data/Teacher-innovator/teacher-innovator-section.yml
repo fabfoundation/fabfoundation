@@ -19,9 +19,9 @@ haslongtext: false
 longtext: >-
 hasvignettes: true
 vignettes:
-  - hastitle: flase
+  - hastitle: false
     title: This is a title
-    orientation: normal
+    orientation: inverted
     haslead: true
     lead: "Since 2016, Chevron and the Fab Foundation have partnered to recognize educators that are creating STEM learning opportunities through digital fabrication. To date, we have awarded over $40,000 to formal and informal educators all around the world. This year is a particularly challenging time for educators and their students. Due to the pandemic, over 95% of school-age children are unable to learn in their classrooms with teachers. Instead, they are at home, learning through online virtual classrooms and mailed packets."
     hasbody: true
