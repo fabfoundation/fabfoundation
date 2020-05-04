@@ -16,9 +16,11 @@
                     <!--Section-Intro Template -->
                     <div>
                         <div class="row">
+{% if page.hastitle == true %}
                             <div class="col-md-8">
                                 <h2 class="page-heading">{{ page.title }}</h2>
                             </div>
+{% endif %}
                         </div>
                     </div> <!--close section-intro-->
                 </div><!-- close sub-container --> 
