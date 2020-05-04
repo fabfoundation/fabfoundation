@@ -11,20 +11,20 @@
 
     <div class="page-content">
     	<div id="{{ page.id }}-intro page-intro" data-aos="fade-up">  
+{% if page.hastitle == true %}
     		<div class="container standard">
         		<div class="sub-container">
                     <!--Section-Intro Template -->
                     <div>
-{% if page.hastitle == true %}
                         <div class="row">
                             <div class="col-md-8">
                                 <h2 class="page-heading">{{ page.title }}</h2>
                             </div>
                         </div>
-{% endif %}
                     </div> <!--close section-intro-->
                 </div><!-- close sub-container --> 
             </div> <!-- close container -->
+{% endif %}
 
             {% if page.hasdescription == true %}
             <div class="container standard" style="background-color: #e5e3ea;">
