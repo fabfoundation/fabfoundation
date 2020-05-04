@@ -1,7 +1,7 @@
 id: award2
-hastopbanner: false
+hastopbanner: true
 topbanner: teacher-innovator-topbanner.png
-hascarousel: true
+hascarousel: false
 carouselbackground: teacher-innovator-topbanner.png
 carousel:
 haslogo: false
