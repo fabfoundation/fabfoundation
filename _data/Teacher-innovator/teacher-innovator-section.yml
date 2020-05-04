@@ -1,11 +1,9 @@
 id: award2
-hastopbanner: true
+hastopbanner: false
 topbanner: teacher-innovator-topbanner.png
-hascarousel: false
-carouselbackground: banner_events1.png
+hascarousel: true
+carouselbackground: teacher-innovator-topbanner.png
 carousel:
-  - img: banner_events2.jpg
-  - img: banner_events3.jpg
 haslogo: false
 logo: Chevron_logo.png
 height: 200px
