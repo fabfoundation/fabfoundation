@@ -16,21 +16,6 @@
                     <div id="header-news-container">
                         {% for post in site.posts limit:2 %}
                         {% if post.highlight == true %}
-                        {% if post.title == "2020 Teacher Innovator Award" %}
-                        <a class="" href="https://fabfoundation.org/teacherinnovator/">
-                            <div class="row no-side-margin highlight">
-                                <!-- add redborder for a red border -->
-                                <div class="col-xs-3 col-sm-3 col-md-3 img"
-                                    style="background-image: url('{{ post.thumbnail | relative_url}}');"> </div>
-                                <div class="col-xs-9 col-sm-9 col-md-9 text">
-                                    <div class="title">{{ post.title }} </div>
-                                    <div class="caption">
-                                        <div class="latest-caption">{{ post.caption }}</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                        {% else %}
                         <!-- Turn this back on after Teacher Innovator campaign -->
                         <a class="" href="{{ post.url | relative_url }}">
                             <div class="row no-side-margin highlight">
@@ -45,7 +30,6 @@
                                 </div>
                             </div>
                         </a>
-                        {% endif %}
                         {% endif %}
                         {% endfor %}
                         <a href="{{ site.baseurl }}/news">
