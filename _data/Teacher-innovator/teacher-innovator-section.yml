@@ -37,6 +37,10 @@ buttons:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSfFuLW5KfWtwDXqxoAS8303_Xema15vkNDV-DMU0VElJT9AKA/viewform?usp=sf_link
     type: red
+  - title: Frequently Asked Questions
+    url: >-
+      https://docs.google.com/document/d/1ctaSFnPzKGgTV93bAnmYXSFadga4i_XHjGNB3nbr9f8
+    type: clear
 hasprojectgallery: false
 projects:
   - title: Example Project
