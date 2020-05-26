@@ -1,98 +1,100 @@
 sections:
-  - title: "Getting Started"
-    link: "getting-started"
+  - title: Getting Started
+    link: getting-started
     sublinks:
-      - title: "What is a Fab Lab?"
-        link: "getting-started#fablabs-full"
-      - title: "How to Start a Fab Lab"
-        link: "getting-started#fab-lab-questions"
-      - title: "Mobile Fab Lab"
-        link: "getting-started#mobile-fablab"
-    hasbuttons: false   
-  - title: "Fab Lab Network"
-    link: "global-community"
-    sublinks:
-      - title: "Fab Lab Resources"
-        link: "global-community#resources-fablabs"
-      - title: "Fab Foundation Forum"
-        link: "global-community#fab-forum"
-      - title: "Fablabs.io"
-        link: "global-community#fablab-map"
+      - title: What is a Fab Lab?
+        link: 'getting-started#fablabs-full'
+      - title: How to Start a Fab Lab
+        link: 'getting-started#fab-lab-questions'
+      - title: Mobile Fab Lab
+        link: 'getting-started#mobile-fablab'
     hasbuttons: false
-  - title: "Global Initiatives"
-    link: "projects-initiatives"
+  - title: Fab Lab Network
+    link: global-community
     sublinks:
-      - title: "FabX Events"
-        link: "projects-initiatives#fabevents"
-      - title: "Fab Research"
-        link: "projects-initiatives#fabresearch"
-      - title: "Fab City"
-        link: "projects-initiatives#fabcity"
-      - title: "Fab Economy"
-        link: "projects-initiatives#fabeconomy"
+      - title: Fab Lab Resources
+        link: 'global-community#resources-fablabs'
+      - title: Fab Foundation Forum
+        link: 'global-community#fab-forum'
+      - title: Fablabs.io
+        link: 'global-community#fablab-map'
     hasbuttons: false
-  - title: "Research and Data"
-    link: "resources"
+  - title: Global Initiatives
+    link: projects-initiatives
     sublinks:
-      - title: "Research Papers"
-        link: "resources#resources-research"
-      - title: "Data"
-        link: "resources#resources-data"
+      - title: FabX Events
+        link: 'projects-initiatives#fabevents'
+      - title: Fab Research
+        link: 'projects-initiatives#fabresearch'
+      - title: Fab City
+        link: 'projects-initiatives#fabcity'
+      - title: Fab Economy
+        link: 'projects-initiatives#fabeconomy'
+      - title: Fab House
+        link: 'projects-initiatives#fabhouse'
+    hasbuttons: false
+  - title: Research and Data
+    link: resources
+    sublinks:
+      - title: Research Papers
+        link: 'resources#resources-research'
+      - title: Data
+        link: 'resources#resources-data'
     hasbuttons: false
     buttons:
-      - title: "Subscribe"
-        url: ""
-        color: clear
-  - title: "News"
-    link: "news"
+      - title: Subscribe
+        url:
+        color: '#000000'
+  - title: News
+    link: news
     sublinks:
-      - title: "Fab News"
-        link: "news#news-fabnews"
-      - title: "Newsletters"
-        link: "news#news-newsletters"
+      - title: Fab News
+        link: 'news#news-fabnews'
+      - title: Newsletters
+        link: 'news#news-newsletters'
     hasbuttons: false
-  - title: "Education"
-    link: "education"
+  - title: Education
+    link: education
     sublinks:
-      - title: "Academany"
-        link: "education#academany-full"
-      - title: "Scopes-DF"
-        link: "education#scopes-full"
-      - title: "Other Educational Projects"
-        link: "education#other-projects"
+      - title: Academany
+        link: 'education#academany-full'
+      - title: Scopes-DF
+        link: 'education#scopes-full'
+      - title: Other Educational Projects
+        link: 'education#other-projects'
     hasbuttons: false
-  - title: "Contact us"
-    link: "contact"
+  - title: Contact us
+    link: contact
     sublinks:
-      - title: "E-mail"
-        link: "contact"
-      - title: "Facebook"
-        link: "https://www.facebook.com/fabfndn"
+      - title: E-mail
+        link: contact
+      - title: Facebook
+        link: 'https://www.facebook.com/fabfndn'
         target: _blank
-      - title: "Twitter"
-        link: "https://twitter.com/fabfndn"
+      - title: Twitter
+        link: 'https://twitter.com/fabfndn'
         target: _blank
-      - title: "Youtube"
-        link: "https://www.youtube.com/user/fabfndn"
+      - title: Youtube
+        link: 'https://www.youtube.com/user/fabfndn'
         target: _blank
     hasbuttons: false
-  - title: "About"
-    link: "about"
+  - title: About
+    link: about
     sublinks:
-      - title: "About the Foundation"
-        link: "about#about-intro"
-      - title: "Programs & Services"
-        link: "about#programs-services"
-      - title: "Become a Partner"
-        link: "about#become-a-partner"
-      - title: "Donations & Grants"
-        link: "about#donations-grants"
-      - title: "Board & Team"
-        link: "about#board-team"
-      - title: "Organizational Reporting"
-        link: "about#financial-reports"
+      - title: About the Foundation
+        link: 'about#about-intro'
+      - title: Programs & Services
+        link: 'about#programs-services'
+      - title: Become a Partner
+        link: 'about#become-a-partner'
+      - title: Donations & Grants
+        link: 'about#donations-grants'
+      - title: Board & Team
+        link: 'about#board-team'
+      - title: Organizational Reporting
+        link: 'about#financial-reports'
     hasbuttons: true
     buttons:
-      - title: "Donate"
-        url: "about#donations-grants"
+      - title: Donate
+        url: 'about#donations-grants'
         type: clear
