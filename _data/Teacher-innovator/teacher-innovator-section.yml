@@ -19,7 +19,7 @@ haslongtext: false
 longtext: >-
 hasvignettes: true
 vignettes:
-  - hastitle: falsa
+  - hastitle: false
     title: Nominate Now through May 29, 2020!
     orientation:  normal
     haslead: true
@@ -30,7 +30,7 @@ vignettes:
       We believe that the best teachers are innovating and finding a way to get quality learning experiences to their students, and we wanted to acknowledge them with the Teacher Innovator Award. Each week during Teacher Appreciation Month (May), the Fab Foundation and our partners at Chevron awarded an innovative Teacher with $1,000 to continue their work during this pandemic. We hope that this can provide some support to the incredible work our teachers are doing. If you have any questions about the award or would like to connect with us, please email us at innovate@fabfoundation.org.
     img: Mckinley.jpeg
 
-hasbuttons: true
+hasbuttons: false
 buttons:
   - title: Apply Here!
     url: >-
