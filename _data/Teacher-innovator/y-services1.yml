@@ -1,30 +1,24 @@
-id: example-id
+id: award-winners
 hastitle: true
-title: "This is an example title"
+title: "A big congratulations to the 2020 Teacher Innovator Award Winners!"
 services:
-  - title: "This is an example service"
+  - title: "Miranda Stringer"
     orientation: normal
     img: scopes.png
     paragraphs:
-      - p: "This is an example paragraph 1."
-      - p: "This is an example paragraph 2."
-    buttons:
-      - title: "Example button 1"
-        url: "https://www.scopesdf.org/"
-        type: "clear"
-      - title: "Example button 2"
-        url: "/education"
-        type: "clear"
-  - title: "This is an example second service"
+      - p: "Miranda has made sure that her students stayed engaged during the time they have been at home by enlisting staff to submit videos inspired by the hit TV show, The Masked Singer.Students have been able to watch on Social Media. She has also incorporated students and staff singing to create a music video to share with her school and community."
+  - title: "Owen Peery"
     orientation: inverted
     img: fablabsmap.jpg
     paragraphs:
-      - p: "In this one we use an inverted orientation to give more flow to the list! Choose orientation 'normal' or 'inverted' to change the direction with which is it displayed"
-      - p: "This is an example second paragraph"
-    buttons:
-      - title: "Example button 1"
-        url: ""
-        type: "clear"
-hasmorebutton: true
-morebuttontitle: "This is an extra button"
-morebuttonurl: ""
+      - p: "Owen has collected donated computers and refurbished them for the purpose of distributing them to students in need of a working computer. He delivers the computers to the students' home. He has made partnerships with community organizations to get computers at minimum cost. Although his teaching position was not considered 'essential' he still found a way to make sure students were getting the resources needed to be successful during this challenging time."
+  - title: "Carlota Lim"
+    orientation: normal
+    img: fablabsmap.jpg
+    paragraphs:
+      - p: "Carlota has maintained an engaging curriculum for her students by recording video lessons to show plant life cycle growth of her hydroponic Tower Garden at home. They have also been able to explore Science animal life cycles through 3D modeling and simulations during this time of remote learning. She has maximized the use of technology to keep her students active and challenged."
+  - title: "Arundhati Jadhav"
+    orientation: normal
+    img: scopes.png
+    paragraphs:
+      - p: "Arundhati has reached over 145 students with her creative style of teaching while bringing awareness to the COVID-19 pandemic. She has conducted student competitions, workshops to create toys using materials in the home and has also taught her students to make their own hand sanitizer."     
