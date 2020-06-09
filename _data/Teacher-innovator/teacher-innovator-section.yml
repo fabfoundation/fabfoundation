@@ -19,7 +19,7 @@ haslongtext: false
 longtext: >-
 hasvignettes: true
 vignettes:
-  - hastitle: true
+  - hastitle: falsa
     title: Nominate Now through May 29, 2020!
     orientation:  normal
     haslead: true
