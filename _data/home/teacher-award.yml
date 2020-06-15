@@ -10,7 +10,7 @@ haslogo: false
 logo: academany-short.svg
 height: 45px
 hastitle: true
-title: 2020 Teacher Innovator Award- Apply now! 
+title: Congratulations 2020 Teacher Innovator Award Winners! 
 haslargeimg: true
 largeimg: education-bg.jpg
 hassubtitle: false
@@ -18,7 +18,7 @@ subtitle: >-
   This is an example subtitle where we explain something about the sections in
   two or three lines
 haslongtext: true
-longtext: "Since 2016, Chevron and the Fab Foundation have partnered to recognize educators that are creating STEM learning opportunities through digital fabrication.\_To date, we have awarded over $40,000 to formal and informal educators all around the world. <p> This year is a particularly challenging time for educators and their students. Due to the pandemic, over 95% of school-age children are unable to learn in their classrooms with teachers. In spite of these difficulties, many teachers are innovating and finding a way to get quality learning experiences to their students, and we want to acknowledge them with the Teacher Innovator Award! </p> <p> We will be accepting submissions for the 2020 Teacher Innovator Award May 5- May 29 (during Teacher Appreciation Month!). Apply below and find out more! </p>"
+longtext: "Since 2016, Chevron and the Fab Foundation have partnered to recognize educators that are creating STEM learning opportunities through digital fabrication.\_To date, we have awarded over $40,000 to formal and informal educators all around the world. <p> This year is a particularly challenging time for educators and their students. Due to the pandemic, over 95% of school-age children are unable to learn in their classrooms with teachers. In spite of these difficulties, many teachers are innovating and finding a way to get quality learning experiences to their students, and we wanted to acknowledge them with the Teacher Innovator Award! </p> <p> Click below to find out more!""
 hasvignettes: false
 vignettes:
   - hastitle: true
@@ -39,13 +39,9 @@ vignettes:
     img: mobile_fablab6.png
 hasbuttons: true
 buttons:
-  - title: Apply Here
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSfFuLW5KfWtwDXqxoAS8303_Xema15vkNDV-DMU0VElJT9AKA/viewform?usp=sf_link
-    type: red
   - title: Read More
     url: teacherinnovator
-    type: clear
+    type: red
 hasprojectgallery: false
 projects:
   - title: Example Project
