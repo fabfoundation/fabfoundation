@@ -1876,10 +1876,8 @@ header .container {
     font-weight: 500;
 }
 .modal-content p {
-    margin-bottom: 60px;
     text-align: left;
     font-size: 15px;
-    font-weight: 200;
     color: white;
     letter-spacing: 0px;
 }
