@@ -2,7 +2,7 @@ id: fabevents
 hastopbanner: false
 topbanner:
 hascarousel: true
-carouselbackground: fabxbanner.png
+carouselbackground: fabxlive2.png
 carousel:
   - img: banner_events2.jpg
   - img: banner_events3.png
