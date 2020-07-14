@@ -5,7 +5,7 @@ hascarousel: true
 carouselbackground: fabxbanner.png
 carousel:
   - img: banner_events2.jpg
-  - img: fabxliveballoon.png
+  - img: banner_events3.png
 hastitle: true
 title: "We organize the largest event on digital fabrication where you can learn, share and connect."
 hassubtitle: true
