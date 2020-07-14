@@ -1,17 +1,17 @@
 ---
-title: March Newsletter
-caption: 'Bootcamp, Fab Babies, Fab Care and More'
-highlight: false
+title: FABxLive 
+caption: FABxLive is Here! July 27-31
+highlight: true
 category: newsletter
 thumbnail: /uploads/makered.jpg
 layout: posts
-date: 2020-03-02 00:00:00
+date: 2020-07-13 00:00:00
 img: fflogo.svg
-permalink: /March-newsletter
+permalink: /FABxLive
 ---
 
-The Fab Foundation March Newsletter is here\!
+FABxLive is Here\!
 
-[Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4030331){: target="_blank"}
+[Open Fullscreen](http://mailchi.mp/fabfoundation.org/fabxlive){: target="_blank"}
 
-<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4030331" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
+<iframe src="http://mailchi.mp/fabfoundation.org/fabxlive" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
