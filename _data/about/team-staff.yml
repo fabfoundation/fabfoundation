@@ -96,6 +96,14 @@ cards:
       - p: "Daniel serves as Master Fabricator for the SCOPES-DF project. He works collaboratively with STEM experts to build foundational and scalable digital fabrication knowledge for K-12 education."
       - p: "He is a scholar in design, computation, and cognitive sciences whose dissertation research explored human cognition and robotic interaction for creative applications. He has published on this topic and more in academic and popular press. He has taught classes on digital design and fabrication at MIT, RISD, and the Boston Architectural College."
       - p: "Daniel was trained as an architect at the University of Minnesota (BS, Architecture) and completed research degrees at MIT (MS and PhD, Design Computation). Dan and his family live in Somerville, Massachusetts and for fun he plays drums in an 80's cover band."
+  - name: "Liz Whitewolf"
+    img: 'Liz_Whitewolf.png'
+    position: "Community Engagement and Project Manager, SCOPES-DF"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/danielsmithwick"
+    bio:
+      - p: "Liz Whitewolf joins the SCOPES team as Community Engagement and Project Manager with a passion for integrating digital fabrication technologies equitably in schools for students, teachers, and other stakeholders in K-12 education. A graduate of FAB Academy, Liz opened an educational Fab Lab in Pittsburgh, PA, expanding the program to include two mobile fab lab units in addition to the museum-based makerspace. Before joining the FAB Foundation, Liz served as Senior Director of STEM Education at Carnegie Science Center and previously was a classroom teacher and out of school time educator in robotics, computer programming, and engineering. Currently Liz is pursuing her Ed.D. in STEM Education at the University of Pittsburgh and spends her free time mentoring an all-girls robotics team and serving on various educational committees and projects including the Remake Learning Network, STEM Ecosystems, National Science Teaching Association, and the North American Digital Fabrication Alliance.  Liz and her family are all makers and spend time experimenting and creating projects in their garage-based Fab Lab in their Pittsburgh home."
   - name: "In Memoriam: Fiore Basile"
     img: 'fiore.png'
     position: "Chief Information Officer"
