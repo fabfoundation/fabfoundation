@@ -2196,7 +2196,7 @@ header .container {
     margin-bottom: 30px;
 }
 .social-row {
-    position: absolute;
+    position: relative;
     bottom: 40px;
     left: 20px;
 }
