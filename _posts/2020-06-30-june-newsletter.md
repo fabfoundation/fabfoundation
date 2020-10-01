@@ -3,7 +3,7 @@ title: June Newsletter
 caption: June newsletter is Here!
 highlight: true
 category: newsletter
-thumbnail: /uploads/FabXLive_2020.png
+thumbnail: /uploads/sarah-newsletter.jpg
 layout: posts
 date: 2020-06-30 00:00:00
 img: fflogo.svg
