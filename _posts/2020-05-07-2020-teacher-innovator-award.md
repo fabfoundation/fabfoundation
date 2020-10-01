@@ -1,7 +1,7 @@
 ---
 title: 2020 Teacher Innovator Award
 caption: Find out how we're showing appreciation for teachers in May!
-highlight: true
+highlight: false
 category: press
 thumbnail: /uploads/Mckinley.jpeg
 layout: posts
