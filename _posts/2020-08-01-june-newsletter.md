@@ -5,9 +5,9 @@ highlight: true
 category: newsletter
 thumbnail: /uploads/sarah-newsletter.jpg
 layout: posts
-date: 2020-06-30 00:00:00
+date: 2020-08-01 00:00:00
 img: fflogo.svg
-permalink: /FABxLive
+permalink: /June-newsletter
 ---
 
 FABxLive is Here\!
