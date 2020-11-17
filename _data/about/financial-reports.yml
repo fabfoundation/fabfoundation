@@ -53,9 +53,9 @@ categories:
       - name: "2017"
         url: "tax-returns/2017FORM990ForWeb.PDF"
       - name: "2018"
-        url: "tax-returns/2018TaxReturn.PDF"
+        url: "tax-returns/2018TaxReturn.pdf"
       - name: "2019"
-        url: "tax-returns/2019TaxReturn.PDF"        
+        url: "tax-returns/2019TaxReturn.pdf"        
   - title: "Organizational Documents"
     bullets:
       - name: "ByLaws"
