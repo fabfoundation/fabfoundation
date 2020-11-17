@@ -28,6 +28,10 @@ categories:
         url: "financial-statements/FabFoundationSignedFinancials2016.pdf"
       - name: "2017"
         url: "financial-statements/2017FabFoundationSignedFinancialStatements.pdf"
+      - name: "2018"
+        url: "financial-statements/FabFoundationFinancials2018.pdf"
+      - name: "2019"
+        url: "financial-statements/FabFoundationFinancials2019.pdf"  
   - title: "Tax Returns"
     bullets:
       - name: "2009"
