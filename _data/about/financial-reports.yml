@@ -48,6 +48,10 @@ categories:
         url: "tax-returns/2016TaxReturn.pdf"
       - name: "2017"
         url: "tax-returns/2017FORM990ForWeb.PDF"
+      - name: "2018"
+        url: "tax-returns/2018TaxReturn.PDF"
+      - name: "2019"
+        url: "tax-returns/2019TaxReturn.PDF"        
   - title: "Organizational Documents"
     bullets:
       - name: "ByLaws"
@@ -75,7 +79,7 @@ categories:
       - name: "2018"
         url: "annual-reports/FF-MA-AnnualReport2018.pdf"
       - name: "2019"
-        url: "FabFoundationAnnualReport2019"
+        url: "annual-reports/FabFoundationAnnualReport2019"
 hasbuttons: false
 buttons:
   - title: ""
