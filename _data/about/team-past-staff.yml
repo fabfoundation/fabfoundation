@@ -9,30 +9,12 @@ cards:
         url: "https://donate.fabevent.org/"
     bio:
       - p: "Our colleague, good and dear friend, adventuring spirit, innovator and Bit Ninja Fiore Basile passed away November 2019. Fiore has been and will always be a part of the fab family, a part of all of us.  We will miss him, and we carry his spirit and memory with us, always.  Please make a contribution toward the Fiore Basile Scholarship Fund here."
-  - name: "Dr. Dan Smithwick"
-    img: 'Dan_Smithwick.png'
-    position: "Master Fabricator, SCOPES-DF"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/danielsmithwick"
   - name: "David Cavallo"
     img: 'David_cavallo.png' 
     position: "Learning Architect, SCOPES-DF"
     social: 
       - title: 
         url:
-  - name: "Jean-Luc Pierite"
-    img: 'Jean_Luc_Pierite.png'
-    position: "International Procurement and Logistics Manager"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/jeanlucpierite"
-  - name: "Jean-Michel Molenaar"
-    img: 'Jean_Michel_Molenaar.jpg'
-    position: "Sr. Consultant, International Projects"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/jean-michel-molenaar-7283243a"
   - name: "Dr. Nettrice Gaskins"
     img: 'Nettrice_Gaskins.png'
     position: "Consultant, SCOPES-DF"
@@ -45,6 +27,24 @@ cards:
     social: 
       - title: linkedin
         url: "https://www.linkedin.com/in/pamelajking"
+  - name: "Jean-Michel Molenaar"
+    img: 'Jean_Michel_Molenaar.jpg'
+    position: "Sr. Consultant, International Projects"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jean-michel-molenaar-7283243a"
+  - name: "Jean-Luc Pierite"
+    img: 'Jean_Luc_Pierite.png'
+    position: "International Procurement and Logistics Manager"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jeanlucpierite"
+  - name: "Dr. Dan Smithwick"
+    img: 'Dan_Smithwick.png'
+    position: "Master Fabricator, SCOPES-DF"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/danielsmithwick"
 
         
         
