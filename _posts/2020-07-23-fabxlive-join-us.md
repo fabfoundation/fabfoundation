@@ -1,5 +1,5 @@
 ---
-title: FABxLive
+title: FABxLive Join Us
 caption: FABxLive is Here! July 27-31
 highlight: false
 category: newsletter
