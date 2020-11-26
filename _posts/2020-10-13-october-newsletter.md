@@ -5,9 +5,9 @@ highlight: true
 category: newsletter
 thumbnail: /uploads/FabXLive_2020.png
 layout: posts
-date: 2020-08-23 00:00:00
+date: 2020-10-13 00:00:00
 img: fflogo.svg
-permalink: /FABxLive-Thanks
+permalink: /October-Newsletter
 ---
 
 Thank you to everyone who participated in our first ever virtual FABX conference! Please see below for links and ways to keep the conversation going\!
