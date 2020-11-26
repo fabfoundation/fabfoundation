@@ -66,15 +66,6 @@ cards:
     bio:
       - p: "Rebecca Ottinger is the Executive Assistant to Sherry Lassiter. She has worked in various settings in education: Joan B. Kroc Institute for Peace and Justice at the University of San Diego, ESL teacher for adults, Jewish Education coordinator for teens, and experiential education leader in California and Costa Rica for grades 5-12. "
       - p: "Rebecca holds a degree in Hispanic Studies and Education from Brandeis University, Summa Cum Laude. Rebecca is an amateur cellist, is a strong advocate of the arts, is fluent in Spanish, and spent six months living in New Zealand before joining the Fab community. She is continually learning how the Fab Community has an incredible impact around the world."
-  - name: "Jean-Luc Pierite"
-    img: 'Jean_Luc_Pierite.png'
-    position: "International Procurement and Logistics Manager"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/jeanlucpierite"
-    bio:
-      - p: "Jean-Luc currently is the International Procurement and Logistics Manager for The Fab Foundation. He is also a complementary Community Manager for fablabs.io. Outside of The Fab Foundation, Jean-Luc currently serves as President of the Board of Directors for the North American Indian Center of Boston. He also serves as a Community Linguist on the Advisory Circle for CoLang for the period 2016-20. The Institute on Collaborative Language Research or 'CoLang' is designed to provide an opportunity for community language activists and linguists to receive training in community-based language documentation and revitalization. Jean-Luc also contributes to the Tunica Language Project which is a collaboration with Tulane University in New Orleans and the Tunica-Biloxi Tribe of Louisiana. For Tunica-Biloxi, Jean-Luc serves on the tribal Constitution Committee."
-      - p: "Jean-Luc has a B.A. in Humanities with a co-major in Mass Communication and Japanese from Dillard University in New Orleans. He also earned an A.S. in Video Game Design from Full Sail University in Orlando, Florida. Jean-Luc's previous positions include: Internet Marketing Specialist for Mohegan Sun, and Graphic Artist for Paragon Casino Resort. Originally from New Orleans, Louisiana, Jean-Luc now resides in Jamaica Plain, Masachusetts."
   - name: "Sonya Pryor-Jones"
     img: 'Sonya_Pryor_Jones.png'
     position: "Chief Implementation Officer"
@@ -86,16 +77,6 @@ cards:
       - p: "Sonya manages signature projects for the Fab Foundation including the Brilliant Career Labs, SCOPES-DF, and partnerships with Chevron, The GE Foundation, Adam Savage and Tested.com, The Boston Celtics, and DARPA."
       - p: "Prior to joining the Fab Foundation, Sonya was the founding Director for a national placed-based education and community development strategy at the Sisters of Charity Foundation. She also managed a $3.5 million STEM (Science, Technology, Engineering, and Math) effort as the Executive Director for Northeast Ohio’s STEM initiative at Case Western Reserve University. Her work with several public-private partnerships has included collaboration with a wide range of partners including Policy Link, Battelle, GE, Rockwell Automation, NASA, and The White House Office of Science and Technology Policy."
       - p: "Sonya received a B.A. in International Studies and History from Kenyon College, and a M.Ed. in Education from Cleveland State University. She also holds Certificates in Executive Education and Appreciative Inquiry from The Weatherhead School of Management at Case Western Reserve University."
-  - name: "Dr. Dan Smithwick"
-    img: 'Dan_Smithwick.png'
-    position: "Master Fabricator, SCOPES-DF"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/danielsmithwick"
-    bio:
-      - p: "Daniel serves as Master Fabricator for the SCOPES-DF project. He works collaboratively with STEM experts to build foundational and scalable digital fabrication knowledge for K-12 education."
-      - p: "He is a scholar in design, computation, and cognitive sciences whose dissertation research explored human cognition and robotic interaction for creative applications. He has published on this topic and more in academic and popular press. He has taught classes on digital design and fabrication at MIT, RISD, and the Boston Architectural College."
-      - p: "Daniel was trained as an architect at the University of Minnesota (BS, Architecture) and completed research degrees at MIT (MS and PhD, Design Computation). Dan and his family live in Somerville, Massachusetts and for fun he plays drums in an 80's cover band."
   - name: "Liz Whitewolf"
     img: 'Liz_Whitewolf.png'
     position: "Community Engagement and Project Manager, SCOPES-DF"
@@ -113,12 +94,30 @@ cards:
         url: "https://donate.fabevent.org/"
     bio:
       - p: "Our colleague, good and dear friend, adventuring spirit, innovator and Bit Ninja Fiore Basile passed away November 2019. Fiore has been and will always be a part of the fab family, a part of all of us.  We will miss him, and we carry his spirit and memory with us, always.  Please make a contribution toward the Fiore Basile Scholarship Fund here."
+  - name: "Dr. Dan Smithwick"
+    img: 'Dan_Smithwick.png'
+    position: "Master Fabricator, SCOPES-DF"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/danielsmithwick"
   - name: "David Cavallo"
     img: 'David_cavallo.png' 
     position: "Learning Architect, SCOPES-DF"
     social: 
       - title: 
         url:
+  - name: "Jean-Luc Pierite"
+    img: 'Jean_Luc_Pierite.png'
+    position: "International Procurement and Logistics Manager"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jeanlucpierite"
+  - name: "Jean-Michel Molenaar"
+    img: 'Jean_Michel_Molenaar.jpg'
+    position: "Sr. Consultant, International Projects"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jean-michel-molenaar-7283243a"
   - name: "Dr. Nettrice Gaskins"
     img: 'Nettrice_Gaskins.png'
     position: "Consultant, SCOPES-DF"
@@ -131,9 +130,8 @@ cards:
     social: 
       - title: linkedin
         url: "https://www.linkedin.com/in/pamelajking"
-  - name: "Jean-Michel Molenaar"
-    img: 'Jean_Michel_Molenaar.jpg'
-    position: "Sr. Consultant, International Projects"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/jean-michel-molenaar-7283243a"
+
+        
+        
+  
+        
