@@ -1,5 +1,5 @@
 ---
-title: FABxLive
+title: FABxLive Thank You
 caption: FABxLive Thank You!
 highlight: true
 category: newsletter
