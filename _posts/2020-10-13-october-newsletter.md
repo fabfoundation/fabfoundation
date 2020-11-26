@@ -10,7 +10,6 @@ img: fflogo.svg
 permalink: /October-Newsletter
 ---
 
-Thank you to everyone who participated in our first ever virtual FABX conference! Please see below for links and ways to keep the conversation going\!
 
 [Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-october-newsletter-is-here-4512376){: target="_blank"}
 
