@@ -21,7 +21,7 @@ vignettes:
     haslead: true
     lead: "To date most mobile fab labs are assembled inside a trailer and pulled by a heavy duty pick-up truck. As the network grows, so does the definition of mobile labs with machine specific carts, and short-term lending models being piloted."
     hasbody: true
-    body: "The mobile Fab Labs have a standard platform which includes the suite of machines, and materials and equipment found in a stationary lab. This includes Laser Cutters, Filtration, ShopBot , MDX-20 Mini Mill, 3 D printers, Laptop Computers, Software (Sketch Up, Rhino, Corel Draw), Large format printer, an Electronics Workbench, Small tools for molding & casting, Molding and casting materials, Silk Screening materials, Documentation tools camera+ accessories), Power and Internet Cables, and Books."
+    body: "The mobile Fab Labs have a standard platform which includes the suite of machines, and materials and equipment found in a stationary lab. This includes Laser Cutters, Filtration, CNC milling machine , MDX-20 Mini Mill, 3 D printers, Laptop Computers, Software (Sketch Up, Rhino, Corel Draw), Large format printer, an Electronics Workbench, Small tools for molding & casting, Molding and casting materials, Silk Screening materials, Documentation tools camera+ accessories), Power and Internet Cables, and Books."
     img: 'mobile_fablab5.png'
   - hastitle: true
     title: "The Role of the Network?"
@@ -57,7 +57,7 @@ vignettes:
       <ul>
       <li>Laser Cutters</li>
       <li>Filtration</li>
-      <li>Shopbot</li>
+      <li>CNC Milling Machine</li>
       <li>MDX-20 Mini Mill</li>
       <li>3 D printers</li>
       <li>Computers</li>
