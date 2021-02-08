@@ -1,0 +1,28 @@
+id: projects
+hastitle: true
+title: >-
+  We support the development of local and international projects and initiatives
+  around digital fabrication, education, and open source technologies.
+hassubtitle: true
+subtitle: Check out our gallery of projects creating impact all over the globe.
+haslongtext:
+longtext:
+hasbuttons: false
+buttons:
+  - title:
+    url:
+    type: clear
+  - title:
+    url:
+    type: red
+hasprojectgallery: true
+projects:
+  - title: Fab Research
+    id: projects-initiatives
+    img: research.png
+  - title: Fab Economy
+    id: fabeconomy
+    img: woodstructure_lowres.jpg
+  - title: Fab City Global Initiative
+    id: fabcity
+    img: fabcity.jpg
