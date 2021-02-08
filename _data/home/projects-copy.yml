@@ -1,21 +1,23 @@
-id: projects
+id: covid
 hastitle: true
 title: >-
-  We support the development of local and international projects and initiatives
-  around digital fabrication, education, and open source technologies.
+  We promote the resilience of makers around the world as we fight against the global pandemic.
 hassubtitle: true
-subtitle: Check out our gallery of projects creating impact all over the globe.
-haslongtext:
-longtext:
-hasbuttons: false
+subtitle: 2020 was a year of uncertainty and immense hardship. The global pandemic has affected Fab Lab communities in every way imaginable, but through it all, there has been incredible support for one another and for local community need. Millions of PPE have been made and distributed through the Fab Lab Network, thousands of designs have been modified and shared, and new partnerships have formed as we all try and help each other to stay healthy and succeed.
+haslongtext: true
+longtext: Below you will find a few resources of COVID-19 response from the Fab Lab Network, as well as the larger Maker community around the world. The Fab Lab Network COVID-19 survey response will be updated shortly with more than 150 Fab Labs!
+hasbuttons: true
 buttons:
-  - title:
+  - title: Fab Lab Network
     url:
-    type: clear
-  - title:
+    type: 
+  - title: FabDoesNotWait Global Talks
     url:
     type: red
-hasprojectgallery: true
+  - title: OSMS and NOM, Design | Make | Protect COVID-19 Response
+    url:
+    type:     
+hasprojectgallery: false
 projects:
   - title: Fab Research
     id: projects-initiatives
