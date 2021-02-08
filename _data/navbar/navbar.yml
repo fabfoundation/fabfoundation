@@ -48,10 +48,10 @@ sections:
   - title: News
     link: news
     sublinks:
-      - title: Fab News
-        link: 'news#news-fabnews'
       - title: Newsletters
         link: 'news#news-newsletters'
+      - title: Fab News
+        link: 'news#news-fabnews'
     hasbuttons: false
   - title: Education
     link: education
