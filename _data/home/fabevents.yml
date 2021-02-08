@@ -7,9 +7,9 @@ carousel:
   - img: banner_events2.jpg
   - img: banner_events3.png
 hastitle: true
-title: "We organize the largest event on digital fabrication where you can learn, share and connect. Join us for FABxLive this year."
+title: "We organize the largest event on digital fabrication where you can learn, share and connect. Join us for FAB16 this year."
 hassubtitle: true
-subtitle: "Each year we offer members of the more than 1,750 worldwide Fab Labs a space to gather, share, collaborate, explore and, of course, fabricate. Join us this year July 27-31, online for the first time! We will have daily symposiums, workshops and surprise challenges!"
+subtitle: "Each year we offer members of the more than 1,750 worldwide Fab Labs a space to gather, share, collaborate, explore and, of course, fabricate. Join us this year August 9-15 2021, online for the second time! We will have daily symposiums, workshops and surprise challenges!"
 haslongtext: false
 longtext:
 hasbuttons: true
@@ -18,8 +18,8 @@ buttons:
     url: "http://fabevent.org/"
     type: clear
   - title: "This year's conference"
-    url: "http://fabxlive.fabevent.org/"
+    url: "http://fab16.fabevent.org/"
     type: clear
-  - title: "Fab15 Photos and Videos!"
-    url: "https://www.flickr.com/photos/fabfoundation/"
+  - title: "Last year's FABxLive"
+    url: "https://www.fabxlive.fabevent.org/"
     type: red
