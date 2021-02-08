@@ -1,6 +1,6 @@
 ---
 title: December Newsletter
-caption: 'Viral Design, Brother decorations and more!'
+caption: 'Viral Design Book, 3DEXPERIENCE World, Brother Holidays and more!'
 highlight: true
 category: newsletter
 thumbnail: /uploads/viral_design.png
