@@ -5,7 +5,7 @@ highlight: true
 category: newsletter
 thumbnail: /uploads/viral_design.jpg
 layout: posts
-date: 2020-11-01 00:00:00
+date: 2020-12-01 00:00:00
 img: fflogo.svg
 permalink: /December-Newsletter
 ---
