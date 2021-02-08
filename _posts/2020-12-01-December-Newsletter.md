@@ -1,6 +1,6 @@
 ---
 title: December Newsletter
-caption: 'Viral Design and Holiday Decorations!'
+caption: 'Viral Design, Brother decorations and more!'
 highlight: true
 category: newsletter
 thumbnail: /uploads/viral_design.png
