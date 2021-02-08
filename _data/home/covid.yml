@@ -8,7 +8,7 @@ haslongtext: true
 longtext: Below you will find a few resources of COVID-19 response from the Fab Lab Network, as well as the larger Maker community around the world. The Fab Lab Network COVID-19 survey response will be updated shortly with more than 150 Fab Labs!
 hasbuttons: true
 buttons:
-  - title: Fab Lab Network COVID-19 Survey Round 1
+  - title: Fab Lab Manufacturing COVID-19 Survey
     url:
     type: red
   - title: FabDoesNotWait Global Talks
