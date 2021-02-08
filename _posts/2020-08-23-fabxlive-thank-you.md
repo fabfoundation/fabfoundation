@@ -1,7 +1,7 @@
 ---
 title: FABxLive Thank You
 caption: FABxLive Thank You!
-highlight: true
+highlight: false
 category: newsletter
 thumbnail: /uploads/FabXLive_2020.png
 layout: posts
