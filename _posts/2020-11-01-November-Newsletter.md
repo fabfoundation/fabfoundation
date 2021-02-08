@@ -3,7 +3,7 @@ title: November Newsletter
 caption: 'Geneva Forum, Covid-19 Survey and more!'
 highlight: true
 category: newsletter
-thumbnail: /uploads/fabcity_color.png
+thumbnail: /uploads/covid_survey.png
 layout: posts
 date: 2020-11-01 00:00:00
 img: fflogo.svg
