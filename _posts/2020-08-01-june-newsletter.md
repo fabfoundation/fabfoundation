@@ -1,7 +1,7 @@
 ---
 title: June Newsletter
 caption: June newsletter is Here!
-highlight: true
+highlight: false
 category: newsletter
 thumbnail: /uploads/sarah-newsletter.jpg
 layout: posts
