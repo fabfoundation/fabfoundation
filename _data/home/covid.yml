@@ -8,15 +8,15 @@ haslongtext: true
 longtext: Below you will find a few resources of COVID-19 response from the Fab Lab Network, as well as the larger Maker community around the world. The Fab Lab Network COVID-19 survey response will be updated shortly with more than 150 Fab Labs!
 hasbuttons: true
 buttons:
-  - title: Fab Lab Network
-    url:
-    type: 
-  - title: FabDoesNotWait Global Talks
+  - title: Fab Lab Network COVID-19 Survey Round 1
     url:
     type: red
+  - title: FabDoesNotWait Global Talks
+    url: https://www.youtube.com/watch?v=i7zcE_9qX2w&list=PLLgC0nB1k-MOxASPHod4S8W9IhhtPZlcL
+    type: red
   - title: OSMS and NOM, Design | Make | Protect COVID-19 Response
-    url:
-    type:     
+    url: https://opensourcemedicalsupplies.org/wp-content/uploads/2021/01/Design-Make-Protect_21.01.27.pdf
+    type: red   
 hasprojectgallery: false
 projects:
   - title: Fab Research
