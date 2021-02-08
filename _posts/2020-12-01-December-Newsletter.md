@@ -3,7 +3,7 @@ title: December Newsletter
 caption: 'Viral Design, SDG's and DIY!'
 highlight: true
 category: newsletter
-thumbnail: /uploads/covid_survey_pic.png
+thumbnail: /uploads/viral_design.jpg
 layout: posts
 date: 2020-11-01 00:00:00
 img: fflogo.svg
