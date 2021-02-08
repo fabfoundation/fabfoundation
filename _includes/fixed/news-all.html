@@ -19,11 +19,11 @@
       <!--Post gallery -->
       <div class="row">
         <div class="col-md-8">
-          <h3 class="section-heading" id="news-fabnews">Fab News</h3>
+          <h3 class="section-heading" id="news-newsletters">Newsletters</h3>
         </div>
       </div>
       <div class="row">
-        {% for post in site.posts %} {% if post.category == 'press' %}
+        {% for post in site.posts %} {% if post.category == 'newsletter' %}
         <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
           <a class="portfolio-link" href="{{ post.url | relative_url }}">
             <div class="portfolio-hover">
@@ -43,11 +43,11 @@
 
       <div class="row">
         <div class="col-md-8">
-          <h3 class="section-heading" id="news-newsletters">Newsletters</h3>
+          <h3 class="section-heading" id="news-fabnews">Fab News</h3>
         </div>
       </div>
       <div class="row">
-        {% for post in site.posts %} {% if post.category == 'newsletter' %}
+        {% for post in site.posts %} {% if post.category == 'press' %}
         <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
           <a class="portfolio-link" href="{{ post.url | relative_url }}">
             <div class="portfolio-hover">
