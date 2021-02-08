@@ -1,22 +1,36 @@
 id: covid
 hastitle: true
 title: >-
-  We promote the resilience of makers around the world as we fight against the global pandemic.
+  We promote the resilience of makers around the world as we fight against the
+  global pandemic.
 hassubtitle: true
-subtitle: 2020 was a year of uncertainty and immense hardship. The global pandemic has affected Fab Lab communities in every way imaginable, but through it all, there has been incredible support for one another and for local community need. Millions of PPE have been made and distributed through the Fab Lab Network, thousands of designs have been modified and shared, and new partnerships have formed as we all try and help each other to stay healthy and succeed.
+subtitle: >-
+  2020 was a year of uncertainty and immense hardship. The global pandemic has
+  affected Fab Lab communities in every way imaginable, but through it all,
+  there has been incredible support for one another and for local community
+  need. Millions of PPE have been made and distributed through the Fab Lab
+  Network, thousands of designs have been modified and shared, and new
+  partnerships have formed as we all try and help each other to stay healthy and
+  succeed.
 haslongtext: true
-longtext: Below you will find a few resources of COVID-19 response from the Fab Lab Network, as well as the larger Maker community around the world. The Fab Lab Network COVID-19 survey response will be updated shortly with more than 150 Fab Labs!
+longtext: >-
+  Below you will find a few resources of COVID-19 response from the Fab Lab
+  Network, as well as the larger Maker community around the world. The Fab Lab
+  Network COVID-19 survey response will be updated shortly with more than 150
+  Fab Labs!
 hasbuttons: true
 buttons:
   - title: Fab Lab Manufacturing COVID-19 Survey
-    url: COVIDSurveyJune2020-Final.pdf
+    url: /uploads/COVIDSurveyJune2020-Final.pdf
     type: red
   - title: FabDoesNotWait Global Talks
-    url: https://www.youtube.com/watch?v=i7zcE_9qX2w&list=PLLgC0nB1k-MOxASPHod4S8W9IhhtPZlcL
+    url: >-
+      https://www.youtube.com/watch?v=i7zcE_9qX2w&list=PLLgC0nB1k-MOxASPHod4S8W9IhhtPZlcL
     type: red
-  - title: OSMS and NOM, Design | Make | Protect COVID-19 Response
-    url: https://opensourcemedicalsupplies.org/wp-content/uploads/2021/01/Design-Make-Protect_21.01.27.pdf
-    type: red   
+  - title: 'OSMS and NOM, Design | Make | Protect COVID-19 Response'
+    url: >-
+      https://opensourcemedicalsupplies.org/wp-content/uploads/2021/01/Design-Make-Protect_21.01.27.pdf
+    type: red
 hasprojectgallery: false
 projects:
   - title: Fab Research
