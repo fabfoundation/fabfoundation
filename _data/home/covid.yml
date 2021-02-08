@@ -18,7 +18,7 @@ longtext: >-
 hasbuttons: true
 buttons:
   - title: Fab Lab Manufacturing COVID-19 Survey
-    url: /uploads/FabLabCovidSurvey.pdf
+    url: fabfoundaiton.org/uploads/FabLabCovidSurvey.pdf
     type: red
   - title: FabDoesNotWait Global Talks
     url: >-
