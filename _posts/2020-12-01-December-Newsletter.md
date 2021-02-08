@@ -7,7 +7,7 @@ thumbnail: /uploads/viral_design.jpg
 layout: posts
 date: 2020-11-01 00:00:00
 img: fflogo.svg
-permalink: /November-Newsletter
+permalink: /December-Newsletter
 ---
 
 Happy Holidays and Happy New Year! 
