@@ -10,7 +10,7 @@ img: fflogo.svg
 permalink: /June-newsletter
 ---
 
-See below for our June newsletter and new from the Network\!
+See below for our June newsletter and news from the Network\!
 
 [Open Fullscreen](http://mailchi.mp/fabfoundation.org/the-fab-foundation-june-newsletter-is-here-4359179){: target="_blank"}
 
