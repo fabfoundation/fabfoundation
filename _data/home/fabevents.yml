@@ -19,7 +19,7 @@ buttons:
     type: clear
   - title: "This year's conference"
     url: "http://fab16.fabevent.org/"
-    type: clear
+    type: red
   - title: "Last year's FABxLive"
     url: "https://www.fabxlive.fabevent.org/"
-    type: red
+    type: clear
