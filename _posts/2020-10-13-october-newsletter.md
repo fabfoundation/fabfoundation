@@ -1,7 +1,7 @@
 ---
 title: October Newsletter
 caption: 'Fab City Summit, Covid-19 Survey and more!'
-highlight: true
+highlight: false
 category: newsletter
 thumbnail: /uploads/fabcity_color.png
 layout: posts
