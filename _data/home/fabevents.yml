@@ -23,6 +23,6 @@ buttons:
   - title: "Last year's FABxLive"
     url: "http://fabxlive.fabevent.org/"
     type: clear
-   - title: "FABxLive Report"
+  - title: "FABxLive Report"
     url: "http://www.fabfoundation.org/uploads/FinalFABxLiveReport.pdf"
     type: red   
