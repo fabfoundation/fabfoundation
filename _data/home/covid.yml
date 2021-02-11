@@ -22,11 +22,15 @@ buttons:
   - title: FabDoesNotWait Global COVID-19 Response Regional Talks
     url: >-
       https://www.youtube.com/watch?v=i7zcE_9qX2w&list=PLLgC0nB1k-MOxASPHod4S8W9IhhtPZlcL
-    type: red
+    type: clear
   - title: 'OSMS and NOM, Design | Make | Protect COVID-19 Response'
     url: >-
       https://opensourcemedicalsupplies.org/wp-content/uploads/2021/01/Design-Make-Protect_21.01.27.pdf
     type: red
+  - title: 'K-12 Virtual Learning Support'
+    url: >-
+      https://www.scopesdf.org/covid-19/
+    type: clear   
 hasprojectgallery: false
 projects:
   - title: Fab Research
