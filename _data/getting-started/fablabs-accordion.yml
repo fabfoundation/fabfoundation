@@ -675,6 +675,24 @@ tabs:
     - title: The Funds
       paragraphs:
           - p: >-
+                The Fab Foundation can help you create a Fab Lab for your organization, university, school or community, but does not fund the creation of such labs or it's equipment. We are
+                a non-profit organization that offers services and organizes project and programs for the global network but rely on funding or contracts ourselves.
+          - p: <h4>Finding funding for your future lab</h4>
+          - p: >-
+                If you want to create a Fab Lab, there are several ways of funding it. People have succesefully started labs with their own funds, but that is a large investement. Most labs
+                are either funded by organizations as part of a larger project or context (like in a university or company) or are funded with money from donor organizations. Fab Labs serve
+                as community spaces, and offer education and business development opportunities - something that donors are often looking for.
+          - p: <h4>Project and programs to fund the running of the lab</h4>
+          - p: >-
+                One of the programs we organize, the <a href="http://fabacademy.org/">Fab Academy</a> allows you to welcome students who pay to follow the classes in your lab. Similarly
+                organizing paid workshops and training session can help fund your expenses. Many labs also charge fees for the use of machines, or have a subscription model. Some labs also
+                sell products, or fabricate items for other organizations. 
+          - p: <h4>Costs of setting up a Fab Lab (with example budget)</h4>
+          - p: >-    
+                The average cost of all the equipment of a standard lab (one that can participate in Fab Academy) is around 120 thousand USD. this does not include transport, installation and
+                training and also depends on what size of machines you get (you can choose for a smaller or larger laser cutter, or CNC mill etc.)
+                Below is an example budget. Might you want to get a better idea of the cost in your place, don't hesitate to contact us for more details.
+          - p: >-
                 <iframe id="pageswitcher-content" frameborder="0" marginheight="0"
                 marginwidth="0"
                 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOldh7H1KLJWCjBx--nzrBqBWyBcVFyB7XCxGFBqbNCqNMvejxdFD9zg_tmlog6HKBmmhql3dRTp5K/pubhtml/sheet?headers=false&amp;gid=341525378"
