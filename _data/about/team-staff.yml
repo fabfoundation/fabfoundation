@@ -86,6 +86,11 @@ cards:
     bio:
       - p: "Liz Whitewolf joins the SCOPES team as Community Engagement and Project Manager with a passion for integrating digital fabrication technologies equitably in schools for students, teachers, and other stakeholders in K-12 education. A graduate of FAB Academy, Liz opened an educational Fab Lab in Pittsburgh, PA, expanding the program to include two mobile fab lab units in addition to the museum-based makerspace. Before joining the FAB Foundation, Liz served as Senior Director of STEM Education at Carnegie Science Center and previously was a classroom teacher and out of school time educator in robotics, computer programming, and engineering. Currently Liz is pursuing her Ed.D. in STEM Education at the University of Pittsburgh and spends her free time mentoring an all-girls robotics team and serving on various educational committees and projects including the Remake Learning Network, STEM Ecosystems, National Science Teaching Association, and the North American Digital Fabrication Alliance.  Liz and her family are all makers and spend time experimenting and creating projects in their garage-based Fab Lab in their Pittsburgh home."
       - p: To schedule a 1:1 meeting with Liz, please click <a href="https://calendly.com/fablabliz/30min" target="_blank">here</a>.
+  - name: "Jean-Michel Molenaar"
+    img: 'Jean_Michel_Molenaar.jpg'
+    position: "Sr. Consultant, International Projects"
+    bio:
+      - p: "Jean-michel Molenaar works for the Foundation as a Seniour Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe."
 
         
         
