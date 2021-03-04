@@ -27,12 +27,6 @@ cards:
     social: 
       - title: linkedin
         url: "https://www.linkedin.com/in/pamelajking"
-  - name: "Jean-Michel Molenaar"
-    img: 'Jean_Michel_Molenaar.jpg'
-    position: "Sr. Consultant, International Projects"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/jean-michel-molenaar-7283243a"
   - name: "Jean-Luc Pierite"
     img: 'Jean_Luc_Pierite.png'
     position: "International Procurement and Logistics Manager"
