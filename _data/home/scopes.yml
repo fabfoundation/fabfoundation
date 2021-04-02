@@ -19,7 +19,7 @@ longtext:
 hasbuttons: true
 buttons:
   - title: "Learn more about SCOPES-DF"
-    url: 'education#scopes-full'
+    url: 'k-12#scopes-full'
     type: red
   - title: "Contact the SCOPES-DF Team"
     url: 'https://www.scopesdf.org/contact/'
