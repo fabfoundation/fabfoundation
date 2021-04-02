@@ -12,9 +12,6 @@ services:
       - title: "Contact Us"
         url: 'https://www.scopesdf.org/contact/'
         type: "clear"
-      - title: "Example button 2"
-        url: "/education"
-        type: "clear"
   - title: "Consultation and Design"
     orientation: inverted
     img: kidsplaying-low-res.jpg 
@@ -25,9 +22,6 @@ services:
       - title: "Contact Us"
         url: 'https://www.scopesdf.org/contact/'
         type: "clear"
-hasmorebutton: false
-morebuttontitle: "This is an extra button"
-morebuttonurl: ""
   - title: "Student Programming"
     orientation: inverted
     img: scopes.png
