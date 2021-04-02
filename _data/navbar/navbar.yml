@@ -98,3 +98,12 @@ sections:
       - title: Donate
         url: 'about#donations-grants'
         type: clear
+   - title: K-12 EDUCATION
+    link: k-12
+    sublinks:
+      - title: K-12 Services
+        link: 'k-12#services'
+      - title: K-12 Educational Mobile Fab Lab
+        link: 'k-12#other-projects'
+      - title: Digital Fabrication Lesson Plans 
+        link: 'k-12#scopes'       
