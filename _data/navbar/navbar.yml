@@ -53,15 +53,15 @@ sections:
       - title: Fab News
         link: 'news#news-fabnews'
     hasbuttons: false
-  - title: Education
+  - title: Academany
     link: education
     sublinks:
-      - title: Academany
+      - title: Fab Academy
         link: 'education#academany-full'
-      - title: Scopes-DF
-        link: 'education#scopes-full'
-      - title: Other Educational Projects
-        link: 'education#other-projects'
+      - title: Bio Academy
+        link: 'education#academany-full'
+      - title: Fabricademy
+        link: 'education#academany-full'
     hasbuttons: false
   - title: Contact us
     link: contact
