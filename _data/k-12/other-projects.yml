@@ -1,8 +1,8 @@
 id: other-projects
 hastitle: true
-title: "Other educational projects" 
+title: "K-12 Educational Mobile Fab Lab: Brilliant Career Lab" 
 services:
-  - title: "Brilliant Career Lab"
+  - title: "K-12 Educational Mobile Fab Lab: Brilliant Career Lab"
     id: 'bcl'
     orientation: normal
     img: bcl.jpg
