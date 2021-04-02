@@ -101,7 +101,11 @@ sections:
   - title: K-12 EDUCATION
     link: k-12
     sublinks:
-      - title: K-12 Services
+      - title: Teacher Professional Development
+        link: 'k-12#services'
+      - title: Consultation and Design
+        link: 'k-12#services'
+      - title: Student Programming
         link: 'k-12#services'
       - title: K-12 Educational Mobile Fab Lab
         link: 'k-12#other-projects'
