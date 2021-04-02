@@ -98,7 +98,7 @@ sections:
       - title: Donate
         url: 'about#donations-grants'
         type: clear
-   - title: K-12 EDUCATION
+  - title: K-12 EDUCATION
      link: k-12
      sublinks:
       - title: K-12 Services
