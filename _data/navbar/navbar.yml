@@ -59,9 +59,9 @@ sections:
       - title: Fab Academy
         link: 'education#academany-full'
       - title: Bio Academy
-        link: 'education#academany-full'
+        link: 'education#academany-courses'
       - title: Fabricademy
-        link: 'education#academany-full'
+        link: 'education#academany-courses'
     hasbuttons: false
   - title: Contact us
     link: contact
