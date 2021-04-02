@@ -3,7 +3,7 @@ haslogo: true
 logo: scopes.svg
 height: 25px
 hastitle: true
-title: "Digital fabrication has the potential to transform k-12 education." 
+title: "Digital Fabrication Lesson Plans: SCOPES-DF Community of Practice" 
 hassubtitle: false
 subtitle: 
 haslongtext: true
@@ -12,7 +12,7 @@ haslargeimg: true
 largeimg: kidglasses-low-res.jpg
 hasbuttons: true
 buttons:
-  - title: "Check out the Scopes Website and Join Our Community"
+  - title: "Check out the SCOPES-DF Website and Join Our Community"
     url: 'https://www.scopesdf.org/'
     type: clear
     
