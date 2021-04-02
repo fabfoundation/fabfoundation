@@ -16,7 +16,7 @@ services:
     orientation: inverted
     img: kidsplaying-low-res.jpg 
     paragraphs:
-      - p: "Fab Foundation’s approach to digital fabrication integration can support authentic student learning in any educational setting. Built on constructionist roots, the student-centered, culturally relevant learning that happens in a Fab Lab provides opportunities for students to practice the engineering design process, scientific inquiry, and also build STEM competencies like collaboration, complex problem solving, and design thinking. Consulting services are available for any learning space in any stage of development."
+      - p: "Fab Foundation’s approach to digital fabrication integration can support authentic student learning in any educational setting. Built on constructionist roots, the student-centered,culturally relevant learning that happens in a Fab Lab provides opportunities for students to practice the engineering design process, scientific inquiry, and also build STEM competencies like collaboration, complex problem solving, and design thinking. Consulting services are available for any learning space in any stage of development."
       - p: "For more information, contact scopesdf@fabfoundation.org"
     buttons:
       - title: "Contact Us"
