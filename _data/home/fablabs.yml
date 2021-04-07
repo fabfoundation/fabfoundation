@@ -10,10 +10,10 @@ largeimg: fablabsmap.jpg
 hasbuttons: true
 buttons:
   - title: "What is a  Lab?"
-    url: "global-community#fablabs-full"
+    url: "getting-started"
     type: red
   - title: "How to start a Fab Lab?"
-    url: "global-community#fab-lab-questions"
+    url: "getting-started"
     type: clear
   - title: "Add a Lab to the Map"
     url: "global-community#adding-labs"
