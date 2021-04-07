@@ -7,9 +7,9 @@ services:
     img: scopes.png
     paragraphs:
       - p: "Fab Educators will work directly with teachers to develop and deliver standards-aligned lessons that integrate digital design and fabrication technologies. These learning modules can be done with students virtually or in person for both informal education and school-based classrooms."
-      - p: - EXCITE One-week engagement (minimum)
-      - p: - EXPERIENCE Two-week engagement (minimum)
-      - p: - EXTEND Three-week engagement (minimum)
+      - p: "EXCITE One-week engagement (minimum)"
+      - p: "EXPERIENCE Two-week engagement (minimum)"
+      - p: "EXTEND Three-week engagement (minimum)"
       - p: "For more information, contact scopesdf@fabfoundation.org"
     buttons:
       - title: "Contact Us"
