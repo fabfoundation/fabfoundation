@@ -1,0 +1,34 @@
+id: services
+hastitle: true
+title: "K-12 Education Services We Provide"
+services:
+  - title: "Teacher Professional Development"
+    orientation: normal
+    img: TeacherPD.jpg
+    paragraphs:
+      - p: "Fab Foundation offers teacher professional development for schools and school districts looking to integrate digital fabrication tools into their classroom. Fab Educators will design and implement professional development experiences for teachers virtually (or in-person) and offer support developing individualized lesson plans for each educator."
+      - p: "For more information, contact scopesdf@fabfoundation.org"
+    buttons:
+      - title: "Contact Us"
+        url: 'https://www.scopesdf.org/contact/'
+        type: "clear"
+  - title: "Consultation and Design"
+    orientation: inverted
+    img: kidsplaying-low-res.jpg 
+    paragraphs:
+      - p: "Fab Foundation’s approach to digital fabrication integration can support authentic student learning in any educational setting. Built on constructionist roots, the student-centered,culturally relevant learning that happens in a Fab Lab provides opportunities for students to practice the engineering design process, scientific inquiry, and also build STEM competencies like collaboration, complex problem solving, and design thinking. Consulting services are available for any learning space in any stage of development."
+      - p: "For more information, contact scopesdf@fabfoundation.org"
+    buttons:
+      - title: "Contact Us"
+        url: 'https://www.scopesdf.org/contact/'
+        type: "clear"
+  - title: "Student Programming"
+    orientation: normal
+    img: scopes.png
+    paragraphs:
+      - p: "Fab Educators will work directly with teachers to develop and deliver standards-aligned lessons that integrate digital design and fabrication technologies. These learning modules can be done with students virtually or in person for both informal education and school-based classrooms."
+      - p: "For more information, contact scopesdf@fabfoundation.org"
+    buttons:
+      - title: "Contact Us"
+        url: 'https://www.scopesdf.org/contact/'
+        type: "clear"
