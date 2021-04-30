@@ -10,5 +10,5 @@ indicators:
     number: "ca. 1000"
     description: "Attendees to the Fab International Conference each year"
   - icon: "planet"
-    number: "100+"
+    number: "120+"
     description: "Countries in the fab lab network"
