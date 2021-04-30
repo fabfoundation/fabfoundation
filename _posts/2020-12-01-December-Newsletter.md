@@ -1,7 +1,7 @@
 ---
 title: December Newsletter
 caption: 'Viral Design Book, 3DEXPERIENCE World, Brother Holidays and more!'
-highlight: true
+highlight: false
 category: newsletter
 thumbnail: /uploads/viral_design.png
 layout: posts
