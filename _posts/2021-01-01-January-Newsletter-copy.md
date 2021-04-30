@@ -1,17 +1,17 @@
 ---
-title: January Newsletter
-caption: 'Jobs Platform, Fab Academy and more!'
+title: March Newsletter
+caption: 'FAB16, da Vinci challenge and more!'
 highlight: true
 category: newsletter
 thumbnail: /uploads/jobs_fablabs.png
 layout: posts
-date: 2021-01-01 00:00:00
+date: 2021-03-01 00:00:00
 img: fflogo.svg
-permalink: /January-Newsletter
+permalink: /March-Newsletter
 ---
 
-New Jobs platform, New Collar Workforce, 3DEXPERIENCE WORLD and more!
+FAB16 Montreal, new movie challenge, Black History Month (February) and more!
 
-[Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-january-newsletter-is-here-4551306){: target="_blank"}
+[Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4551322){: target="_blank"}
 
-<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-january-newsletter-is-here-4551306" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
+<iframe src="https://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4551322" style="max-width: 1024px; width: 100%; margin: 0 auto; height: 1024px"></iframe>
