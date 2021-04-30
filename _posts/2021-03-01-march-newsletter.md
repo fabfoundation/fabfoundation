@@ -3,7 +3,7 @@ title: March Newsletter
 caption: 'FAB16, da Vinci challenge and more!'
 highlight: true
 category: newsletter
-thumbnail: /uploads/jobs_fablabs.png
+thumbnail: /uploads/fab16newsletter.png
 layout: posts
 date: 2021-03-01 00:00:00
 img: fflogo.svg
