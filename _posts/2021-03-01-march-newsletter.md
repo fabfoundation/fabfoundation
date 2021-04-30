@@ -9,8 +9,7 @@ date: 2021-03-01 00:00:00
 img: fflogo.svg
 permalink: /March-Newsletter
 ---
-
-FAB16 Montreal, new movie challenge, Black History Month (February) and more!
+FAB16 Montreal, Dassault Syst&egrave;mes 3DEXPERIENCE Lab 3D movie challenge, Black History Month (February), Women's History Month (March) and more\!
 
 [Open Fullscreen](https://mailchi.mp/fabfoundation.org/the-fab-foundation-march-newsletter-is-here-4551322){: target="_blank"}
 
