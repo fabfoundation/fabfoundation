@@ -18,7 +18,7 @@ haslongtext: false
 longtext:
 hasbuttons: true
 buttons:
-  - title: "Donate on Paypal"
+  - title: "Donate with Paypal"
     url: 'https://www.paypal.com/donate?hosted_button_id=QMJMYZLWNYSDS'
     type: red
   - title: "Contact Us to donate through check or wire transfer"
