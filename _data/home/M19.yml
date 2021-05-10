@@ -24,6 +24,7 @@ buttons:
   - title: "Contact Us to donate through check or wire transfer"
     url: 'mailto:rebecca@fabfoundation.org'
     type: red
+    target: _blank
   - title: "Learn More"
     url: 'https://www.makersasylum.com/m19-initiative/'
     type: red   
