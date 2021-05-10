@@ -22,7 +22,7 @@ buttons:
     url: 'https://www.paypal.com/donate?hosted_button_id=QMJMYZLWNYSDS'
     type: red
   - title: "Contact Us to donate through check or wire transfer"
-    url: '#contact'
+    url: 'contact'
     type: red
   - title: "Learn More"
     url: 'https://www.makersasylum.com/m19-initiative/'
