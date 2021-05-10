@@ -2,7 +2,7 @@ id: M19
 haslogo: true
 hastopbanner: false
 topbanner: oxikit2.jpg
-hascarousel: true
+hascarousel: false
 carouselbackground: oxikit2.jpg
 carousel:
   - img: banner_events2.jpg
