@@ -25,5 +25,5 @@ buttons:
     url: 'https://www.makersasylum.com/m19-initiative/'
     type: red   
   - title: "Contact Us to donate through check or wire transfer"
-    url: 'https://www.scopesdf.org/contact/'
+    url: 'mailto:info@fabfoundation.org'
     type: clear
