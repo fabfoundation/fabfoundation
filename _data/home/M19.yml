@@ -13,14 +13,17 @@ height: 25px
 hastitle: true
 title: "M19 Oxikit: Support India's Covid-19 Initiative for Oxygen Supply" 
 hassubtitle: true
-subtitle: "We build curricular frameworks, professional development resources, and evaluation tools around digital fabrication that catalyze STEM learning in the classroom."
+subtitle: "Makers Asylum in India has launched the M19 Collective, a collection of makerspaces, community organisations, foundations, industries, universities, researchers and individuals, to fost a collaborative effort in open innovation, and help combat the current COVID-19 crisis in India. The M19 collective is hoping to activate local communities in India to make 2900 M19 Oxikits using locally sourced parts, building capacity to manufacture & maintain locally and in a decentralised manner."
 haslongtext: false
 longtext:
 hasbuttons: true
 buttons:
-  - title: "Learn more about SCOPES-DF"
+  - title: "Donate Here"
     url: 'k-12#scopes-full'
     type: red
-  - title: "Contact the SCOPES-DF Team"
+  - title: "Learn More"
+    url: 'k-12#scopes-full'
+    type: red   
+  - title: "Contact Us to donate through check or wire transfer"
     url: 'https://www.scopesdf.org/contact/'
     type: clear
