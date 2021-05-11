@@ -202,7 +202,7 @@
             data-aos="fade-right"
             class="page-scroll btn btn-clear"
              {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
-             {% if button.url contains 'mailto' %} href="{{ button.url }}"  target="_blank" 
+             {% elseif button.url contains 'mailto' %} href="{{ button.url }}"  target="_blank" 
              {% else %}
              href="{{site.baseurl}}/{{button.url}}"
              {% endif %}
