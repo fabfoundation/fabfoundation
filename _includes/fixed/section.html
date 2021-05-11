@@ -212,18 +212,11 @@
           <a
             data-aos="fade-right"
             class="page-scroll btn btn-red"
-            {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank"                    
+            {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank"   
+            {% elseif button.url contains '@' %} href="{{ button.url }}" target="_blank"
              {% else %}
              href="{{site.baseurl}}/{{button.url}}"
              {% endif %}
-             
-            >{{ button.title }}</a
-          >
-           {% else button.type == 'email' %}
-          <a
-            data-aos="fade-right"
-            class="page-scroll btn btn-red"
-             href="{{button.url}}"
              
             >{{ button.title }}</a
           >
