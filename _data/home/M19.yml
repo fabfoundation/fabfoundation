@@ -22,7 +22,7 @@ buttons:
     url: 'https://www.paypal.com/donate?hosted_button_id=QMJMYZLWNYSDS'
     type: red
   - title: "Contact Us to donate through check or wire transfer"
-    url: '<a href="mailto:rebecca@fabfoundation.org"</a>'
+    url: 'mailto:rebecca@fabfoundation.org'
     type: red
   - title: "Learn More"
     url: 'https://www.makersasylum.com/m19-initiative/'
