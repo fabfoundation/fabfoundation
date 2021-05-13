@@ -28,3 +28,17 @@ services:
 hasmorebutton: true
 morebuttontitle: "This is an extra button"
 morebuttonurl: ''
+
+
+title: "K-12 Education Services We Provide"
+services:
+  - title: "Teacher Professional Development"
+    orientation: normal
+    img: TeacherPD.jpg
+    paragraphs:
+      - p: "Fab Foundation offers teacher professional development for schools and school districts looking to integrate digital fabrication tools into the classroom. Fab Educators will design and implement individualized professional development experiences for schools, preservice programs, school districts, and educators in and out of the classroom. Trainings can be offered in-person and virtual with focus on content integration, technical training, and pedagogy and classroom support. Fab Educators also offer 1:1 lesson coaching for subject area teachers activating digital fabrication technologies to support classroom learning."
+      - p: "Fab Foundation is registered as a state-approved teacher PD provider by the Massachusetts Department of Elementary and Secondary Education (ESE). MA Teacher Vendor Profile - (ESE) https://www.doe.mass.edu/pd/search/details.aspx?id=3917"
+    buttons:
+      - title: "Contact Us"
+        url: 'https://www.scopesdf.org/contact/'
+        type: "clear"
