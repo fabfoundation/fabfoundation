@@ -11,10 +11,10 @@ services:
     buttons:
       - title: "Contact Us"
         url: 'https://www.scopesdf.org/contact/'
-        color: clear
+        type: clear
       - title: "MA Teacher Vendor Profile - (ESE)"
         url: 'https://www.doe.mass.edu/pd/search/details.aspx?id=3917'
-        color: red    
+        type: red    
   - title: "Consultation and Design"
     orientation: inverted
     img: kidsplaying-low-res.jpg
@@ -32,7 +32,7 @@ services:
     buttons:
       - title: "Contact Us"
         url: 'https://www.scopesdf.org/contact/'
-        color: clear        
+        type: clear        
         
 hasmorebutton: false
 morebuttontitle: "This is an extra button"
