@@ -11,7 +11,7 @@ services:
     buttons:
       - title: "Contact Us"
         url: 'https://www.scopesdf.org/contact/'
-        color: "clear"
+        color: clear
       - title: "MA Teacher Vendor Profile - (ESE)"
         url: 'https://www.doe.mass.edu/pd/search/details.aspx?id=3917'
         color: "red"    
