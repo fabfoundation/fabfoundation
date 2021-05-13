@@ -1,5 +1,5 @@
 id: consultation
-hastitle: true
+hastitle: false
 title: "K-12 Education Services We Provide"
 services:
   - title: "Consultation and Design"
