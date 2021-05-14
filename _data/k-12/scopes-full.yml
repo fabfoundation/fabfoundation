@@ -15,5 +15,8 @@ buttons:
   - title: "Check out the SCOPES-DF Website and Join Our Community"
     url: 'https://www.scopesdf.org/'
     type: clear
+  - title: "Learn about our other Education Services"
+    url: 'k-12'
+    type: clear  
     
    
