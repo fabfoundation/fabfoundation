@@ -16,7 +16,7 @@ buttons:
     url: 'https://www.scopesdf.org/'
     type: clear
   - title: "Learn about our other Education Services"
-    url: 'k-12'
+    url: "k-12"
     type: clear  
     
    
