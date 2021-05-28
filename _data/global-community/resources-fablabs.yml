@@ -2,19 +2,6 @@ id: resources-fablabs
 hastitle: true
 title: "Fab Lab resources" 
 resources:
-  - title: "SOLIDWORKS xDesign"
-    id: 'solidworks-xdesign'
-    img: solidworks.png
-    paragraphs:
-      - p: "Dear Fab Lab Managers and Fabbers, Dassault Systèmes SOLIDWORKS has been a great Founding Partner for Fab Foundation, both in starting new Fab Labs, such as Rwanda and Bhutan labs, and facilitating all Fab Labs with its state-of-the-art 3D CAD tools."
-      - p: "SolidWorks xDesign is a cloud-based 3D CAD Application that runs in a browser, is device-agnostic, and can be used anytime, anywhere with no install required. Combined with its innovative design, cloud data management, and collaboration capabilities, SOLIDWORKS xDesign is all set to help fabbers in their creative journeys from art to part. Dassault Systèmes is excited to invite fabbers to the SOLIDWORKS xDesign Lighthouse Program, starting from August 1, 2018. SOLIDWORKS Team will make a formal announcement during the Fab 14 mega event, host hands-on workshops in Toulouse and announce a ‘Make in xDesign’ Challenge with some cool prizes. Of course, to take part in the challenge, you need to be part of the Lighthouse program"
-      - p: "How to access SOLIDWORKS xDesign (two ways):"
-      - p: "1. You can become part of the Lighthouse Program by way of recommendation from your Fab Lab Manager via the attached form. This completed form must be sent to abi9@3ds.com by each Fab Lab Manager by September 1, 2018. This will enable the SOLIDWORKS team to invite the Fab Lab Manager, and her/ his recommended fabbers (up to 10 per Fab Lab), to the program."
-      - p: "2. If you, as a fabber, are interested in using SOLIDWORKS xDesign, you can write to abi9@3ds.com with a CC to your Fab Lab Manager. The team at SOLIDWORKS will evaluate your request and send you an invite after verification with your Fab Lab. It is recommended that you make your Fab Lab Manager aware of your willingness to be part of SOLIDWORKS xDesign Lighthouse Program beforehand."
-    buttons:
-      - title: "Become part of the Lighthouse Program"
-        url: 'resource-folder/forms/xdesign-form.pdf'
-        type: clear
   - title: "SOLIDWORKS Software Licenses"
     id: 'solidworks-license'
     img: solidworks.png
