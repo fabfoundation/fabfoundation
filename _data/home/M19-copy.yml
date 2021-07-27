@@ -1,29 +1,24 @@
-id: M19
+id: Fab16_Boston
 haslogo: true
 hastopbanner: false
-topbanner: oxikit4.jpg
+topbanner: 
 hascarousel: false
-carouselbackground: oxikit2.jpg
+carouselbackground: 
 carousel:
   - img: banner_events2.jpg
   - img: banner_events3.jpg
-haslogo: true
-logo: M19combined.png
+haslogo: false
+logo: 
 height: 200px
 hastitle: true
-title: "M19 OxiKit: Support India's Covid-19 Initiative for Oxygen Supply" 
-hassubtitle: true
-subtitle: "Makers Asylum and the M19 collective are activating local communities in India to make 2,900 M19 OxiKits, across 29 states, using locally sourced materials." 
+title: "Fab 16 Boston Event Schedule" 
+hassubtitle: false
+subtitle:  
 haslongtext: true
-longtext: "The M19 Collective is a collection of makerspaces, fab labs, community organisations, foundations, industries, universities, researchers and individuals, fostering a collaborative effort in open innovation and helping to combat the current COVID-19 crisis in India.  The OxiKit is an open source oxygen concentrator design that allows for more than one person to use the same oxygen tank at the same time. As you may have read,  oxygen tanks are in critically short supply in India.  This initiative will help save lives, and build decentralized manufacturing capacity across the country. If you are able, please donate toward this important initiative to help save lives as well as support local production in communities across India."
-hasbuttons: true
+longtext: <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnXBfQGNa8yhDSbrS3q7SaUdF-iv5zZWhxAH1ExL4qYQ037U_JuiO6QoKCMGLXHb9T6yByv4jp92Ik/pubhtml?gid=38235134&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+hasbuttons: false
 buttons:
   - title: "Donate with Paypal"
     url: 'https://www.paypal.com/donate?hosted_button_id=QMJMYZLWNYSDS'
     type: red
-  - title: "Contact Us to donate through check or wire transfer"
-    url: 'mailto:rebecca@fabfoundation.org?subject=M19check/wiretransfer'
-    type: red
-  - title: "Learn More"
-    url: 'https://www.makersasylum.com/m19-initiative/'
-    type: red   
+   
