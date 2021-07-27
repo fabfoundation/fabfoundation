@@ -12,8 +12,8 @@ logo:
 height: 200px
 hastitle: true
 title: "Fab 16 Boston Hub Event Schedule" 
-hassubtitle: false
-subtitle:  
+hassubtitle: true
+subtitle: "Boston is a distributed hub of FAB16 MTL this year! The Boston area conference participation features a series of workshops, talks, and maker activities for youth and adults, as well as Mobile Fab Lab activities and a FAB16 street festival in Somerville. The events are distributed across the Greater Boston area - celebrating local artists, makers, innovators, small-scale manufacturers, and digital fabricators. See below for the schedule and registration links!" 
 haslongtext: true
 longtext: <p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnXBfQGNa8yhDSbrS3q7SaUdF-iv5zZWhxAH1ExL4qYQ037U_JuiO6QoKCMGLXHb9T6yByv4jp92Ik/pubhtml?gid=38235134&amp;single=true&amp;widget=true&amp;headers=false" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:600px;width:100%;border:none;overflow:hidden;">></iframe></p>
 hasbuttons: false
