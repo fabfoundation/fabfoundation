@@ -12,7 +12,7 @@ services:
       - p: "The conference is entirely free!  But we do ask you to register for workshops and site events so that we know how many of you are coming!  Please see schedule below and Eventbrite registration links."
   - title: "Sponsors"
     orientation: inverted
-    img: fab16greenv2.png
+    img: fab16graphic.png
     paragraphs:
       - p: "Our special thanks go to this year’s Boston area conference hosts and sponsors"
       - p: "<a href=\"https://fabfoundation.org/\">The Fab Foundation</a>, <a href=\"https://cba.mit.edu/\">The Center for Bits and Atoms at MIT</a>, <a href=\"https://www.solidworks.com/\">Dassault Systemés - SolidWorks</a>, <a href=\"https://www.cambridgehackspace.com/\">Cambridge Hackspace</a>, <a href=\"https://www.cambridgema.gov/Departments/cambridgepubliclibrary/steaminitiative/hive\">Cambridge Public Library- The Hive</a>, <a href=\"https://www.somervillema.gov/\">The City of Somerville</a>, <a href=\"https://www.fabville.org/\">Fabville</a>, <a href=\"https://somernova.com/\">Somernova</a>, <a href=\"https://artisansasylum.com/\">Artisan’s Asylum</a>, and <a href=\"https://www.unionsquaremain.org/\">Union Square Main Streets.</a>"
