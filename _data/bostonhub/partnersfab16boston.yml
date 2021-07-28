@@ -21,7 +21,7 @@ sponsors:
   - organization: MIT Center for Bits and Atoms
     url: 'http://cba.mit.edu/'
     img: cba.jpg
-hasbuttons: true
+hasbuttons: false
 buttons:
   - title: Contact the team
     url: 'mailto:info@fabfoundation.org'
