@@ -33,7 +33,7 @@ services:
     orientation: normal
     img: TeacherPD.jpg
     paragraphs:
-      - p: "Online </br> Theme - Fabricating the Commons, Fab City Summit </br> Moderator - Kate Armstrong, Fab City Global Initiative <a href=\"https://youtu.be/oRO190Z8cws\"><Click here for the live stream</a>"
+      - p: "Online </br> Theme - Fabricating the Commons, Fab City Summit </br> Moderator - Kate Armstrong, Fab City Global Initiative <a href=\"https://youtu.be/oRO190Z8cws\">Click here for the live stream</a>"
       - p: "In-person Activities </br> TBD <br> Fab City Boston-Cambridge-Somerville </br> Eventbrite link coming soon!"
   - title: "Saturday August 13"
     orientation: inverted
