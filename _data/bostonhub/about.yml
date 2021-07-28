@@ -16,7 +16,7 @@ services:
     paragraphs:
       - p: "Our special thanks go to this year’s Boston area conference hosts and sponsors"
       - p: "The Fab Foundation, The Center for Bits and Atoms at MIT, Dassault Systemés - SolidWorks, Cambridge Hackspace,  Cambridge Public Library- The Hive, The City of Somerville, Fabville, Somernova, Artisan’s Asylum, and Union Square Main Streets."
-   
+
 hasmorebutton: false
 morebuttontitle: "This is an extra button"
 morebuttonurl: ''
