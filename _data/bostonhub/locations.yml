@@ -14,7 +14,7 @@ services:
     img: fab16tuesday.png
     paragraphs:
       - p: "Online </br> Theme - Fabricating Science and Technology </br> Moderator - Prof. Neil Gershenfeld, Center for Bits and Atoms at MIT, Cambridge MA </br> <a href=\"https://www.youtube.com/watch?v=bgrXBcMqmpo\">Click here for the live stream</a>"
-      - p: "In-person activities </br> Cambridge Hackspace </br> 440R Somerville Avenue (Union Square) </br> Somerville, MA 02143 </br> Eventbrite links coming soon!"
+      - p: "In-person activities </br> Cambridge Hackspace </br> 440R Somerville Avenue (Union Square) </br> Somerville, MA 02143 </br> <a href=\"https://eventbrite.com/c/fab16-mtl-boston-hub-ccbhzpxr--8zvmQc8n7hIL\">Eventbrite link</a>"
       
   - title: "Wednesday August 11"
     orientation: normal
