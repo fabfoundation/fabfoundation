@@ -4,7 +4,7 @@ title: "This is an example title"
 services:
   - title: "FAB16 Boston Hub"
     orientation: normal
-    img: /fab16/Fab16BOS_square.jpg
+    img: Fab16BOS_square.jpg
     paragraphs:
       - p: "Fab16 Boston is part of the global FAB16 conference and festival that brings together makers, fab lab members, educators, artists, youth, government officials, academic researchers  and experts in the field of digital fabrication to present, vision, discuss, make and build community around digital fabrication, technology and innovation." 
       - p: "The conference theme for FAB16 is Fabricating the Commons, about how our fab labs and makerspaces are producing and sharing knowledge and technology to make collaborative, sustainable change in our communities."
