@@ -4,7 +4,7 @@ title: "This is an example title"
 services:
   - title: "FAB16 Boston Hub Schedule"
     orientation: normal
-    img: TeacherPD.jpg
+    #img: TeacherPD.jpg
     paragraphs:
       - p: "<iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTnXBfQGNa8yhDSbrS3q7SaUdF-iv5zZWhxAH1ExL4qYQ037U_JuiO6QoKCMGLXHb9T6yByv4jp92Ik/pubhtml?gid=38235134&amp;single=true&amp;widget=true&amp;headers=false\" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+\"px\";}(this));' style=\"height:600px;width:100%;border:none;overflow:hidden;\">></iframe>"
 
