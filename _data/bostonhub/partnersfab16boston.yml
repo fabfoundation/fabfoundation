@@ -3,23 +3,35 @@ title: FAB16 Boston Hub Hosts and Sponsors
 subtitle: >-
   Our special thanks goes to this year's Boston area hosts and sponsors
 sponsors:
-  - organization: Chevron
-    url: 'https://www.chevron.com/'
+  - organization: Fab Foundation
+    url: 'https://fabfoundation.org/'
     img: chevron.jpg
-  - organization: GE Foundation
-    url: 'http://www.gesustainability.com/enabling-progress/ge-foundation/'
+  - organization: The Center for Bits and Atoms at MIT
+    url: 'https://cba.mit.edu/'
     img: ge.jpg
-  - organization: Solidworks
-    url: 'http://www.solidworks.com/'
+  - organization: Dassault Systemés- SolidWorks
+    url: 'https://www.solidworks.com/'
     img: solidworks.png
-  - organization: Cisco
-    url: 'https://www.cisco.com/'
+  - organization: Cambridge Hackspace
+    url: 'https://www.cambridgehackspace.com/'
     img: cisco.png
-  - organization: Autodesk
-    url: 'https://www.autodesk.eu/'
+  - organization: Cambridge Public Library- The Hive
+    url: 'https://www.cambridgema.gov/Departments/cambridgepubliclibrary/steaminitiative/hive\'
     img: autodesk.png
-  - organization: MIT Center for Bits and Atoms
-    url: 'http://cba.mit.edu/'
+  - organization: The City of Somerville
+    url: 'https://www.somervillema.gov/'
+    img: cba.jpg
+  - organization: Fabville
+    url: 'https://www.fabville.org/'
+    img: cba.jpg
+  - organization: Somernova
+    url: 'https://somernova.com/'
+    img: cba.jpg
+  - organization: Artisan's Asylum
+    url: 'https://artisansasylum.com/'
+    img: cba.jpg
+  - organization: Union Square Main Streets
+    url: 'https://www.unionsquaremain.org/'
     img: cba.jpg
 hasbuttons: false
 buttons:
