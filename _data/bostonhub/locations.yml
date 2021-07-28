@@ -20,7 +20,7 @@ services:
     orientation: normal
     img: TeacherPD.jpg
     paragraphs:
-      - p: "Theme - FABTV </br> Online All Day! </br> <a href=:\"https://www.youtube.com/watch?v=oSS9aXOYtJY\">Click here for the live stream</a>"
+      - p: "Theme - FABTV </br> Online All Day! </br> <a href=\"https://www.youtube.com/watch?v=oSS9aXOYtJY\">Click here for the live stream</a>"
   
   - title: "Thursday August 12"
     orientation: inverted
