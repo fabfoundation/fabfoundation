@@ -5,34 +5,34 @@ subtitle: >-
 sponsors:
   - organization: Fab Foundation
     url: 'https://fabfoundation.org/'
-    img: 
+    img: fflogo.svg
   - organization: The Center for Bits and Atoms at MIT
     url: 'https://cba.mit.edu/'
     img: cba.jpg
   - organization: Dassault Systemés- SolidWorks
     url: 'https://www.solidworks.com/'
-    img: solidworks.png
+    img: Dassaultlogos.png
   - organization: Cambridge Hackspace
     url: 'https://www.cambridgehackspace.com/'
-    img: 
+    img: fab16hackspace.jpeg
   - organization: Cambridge Public Library- The Hive
     url: 'https://www.cambridgema.gov/Departments/cambridgepubliclibrary/steaminitiative/hive\'
-    img: 
+    img: fab16CambridgePublicLibrary.png
   - organization: The City of Somerville
     url: 'https://www.somervillema.gov/'
-    img: 
+    img: fab16city-of-somerville-color-seal.png
   - organization: Fabville
     url: 'https://www.fabville.org/'
-    img: 
+    img: fab16fabvillelogo.jpg
   - organization: Somernova
     url: 'https://somernova.com/'
-    img: 
+    img: fab16Somernovalogo.png
   - organization: Artisan's Asylum
     url: 'https://artisansasylum.com/'
-    img: 
+    img: fab16artisansasylum.png
   - organization: Union Square Main Streets
     url: 'https://www.unionsquaremain.org/'
-    img: 
+    img: fab16unionsquaremainstreets.jpeg
 hasbuttons: false
 buttons:
   - title: Contact the team
