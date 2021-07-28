@@ -27,7 +27,7 @@ services:
     img: kidsplaying-low-res.jpg
     paragraphs:
       - p: "Online </br> Theme - Fabricating Craft </br> Moderator - Anastasia Pistofidou, Institute of Advanced Architecture of Catalonia </br> <a href=\"https://www.youtube.com/watch?v=cv8Ghrm-lIU\"><Click here for the live stream</a>"
-      - p: "In-person activities - <br> The Hive @ Cambridge Public Library </br> 449 Broadway <br> Cambridge, MA 02138 </br>Eventbrite links coming soon! </br> 1-2:30pm <ul><li>Augmented Reality workshop with Hoverlay</li><li>Bookmarks and 3D printing</li></ul> 2:30-4pm <br> <ul><li>Virtual Reality workshop</li><li>Recording studio workshop</li></ul>"
+      - p: "In-person activities - <br> The Hive @ Cambridge Public Library </br> 449 Broadway <br> Cambridge, MA 02138 </br>Eventbrite links coming soon! </br></br> 1-2:30pm<ul><li>Augmented Reality workshop with Hoverlay</li><li>Bookmarks and 3D printing</li></ul> 2:30-4pm <br> <ul><li>Virtual Reality workshop</li><li>Recording studio workshop</li></ul>"
   
   - title: "Friday August 13"
     orientation: normal
