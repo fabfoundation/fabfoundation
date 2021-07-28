@@ -10,12 +10,12 @@ services:
       - p: "The conference theme for FAB16 is Fabricating the Commons, about how our fab labs and makerspaces are producing and sharing knowledge and technology to make collaborative, sustainable change in our communities."
       - p: "This year’s Boston area conference participation features a series of workshops, talks, and maker activities for youth and adults, as well as Mobile Fab Lab activities and a FAB16 street festival in Somerville. The events are distributed across the Greater Boston area - celebrating local artists, makers, innovators, small-scale manufacturers, and digital fabricators."
       - p: "The conference is entirely free!  But we do ask you to register for workshops and site events so that we know how many of you are coming!  Please see schedule below and Eventbrite registration links."
-  - title: "Schedule"
+  - title: "Sponsors"
     orientation: inverted
     img: kidsplaying-low-res.jpg
     paragraphs:
       - p: "Our special thanks go to this year’s Boston area conference hosts and sponsors"
-      - p: "The Fab Foundation, The Center for Bits and Atoms at MIT, Dassault Systemés - SolidWorks, Cambridge Hackspace,  Cambridge Public Library- The Hive, The City of Somerville, Fabville, Somernova, Artisan’s Asylum, and Union Square Main Streets."
+      - p: "<a href=\"https://fabfoundation.org/\">The Fab Foundation</a>, The Center for Bits and Atoms at MIT, Dassault Systemés - SolidWorks, Cambridge Hackspace,  Cambridge Public Library- The Hive, The City of Somerville, Fabville, Somernova, Artisan’s Asylum, and Union Square Main Streets."
 
 hasmorebutton: false
 morebuttontitle: "This is an extra button"
