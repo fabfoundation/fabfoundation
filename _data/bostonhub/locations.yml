@@ -13,7 +13,31 @@ services:
     img: kidsplaying-low-res.jpg
     paragraphs:
       - p: "Online </br> Theme - Fabricating Science and Technology </br> Moderator - Prof. Neil Gershenfeld, Center for Bits and Atoms at MIT, Cambridge MA </br> <a href=\"https://www.youtube.com/watch?v=bgrXBcMqmpo\">Click here for the live stream</a>"
-
+      - p: "In-person activities </br> Cambridge Hackspace </br> 440R Somerville Avenue (Union Square) </br> Somerville, MA 02143 </br> Eventbrite links coming soon!"
+  - title: "Wednesday August 11"
+    orientation: normal
+    img: kidsplaying-low-res.jpg
+    paragraphs:
+      - p: "Theme - FABTV </br> Online All Day! </br> <a href=:\"https://www.youtube.com/watch?v=oSS9aXOYtJY\">Click here for the live stream</a>"
+  - title: "Thursday August 12"
+    orientation: inverted
+    img: kidsplaying-low-res.jpg
+    paragraphs:
+      - p: "Online </br> Theme - Fabricating Craft </br> Moderator - Anastasia Pistofidou, Institute of Advanced Architecture of Catalonia </br> <a href=:\"https://www.youtube.com/watch?v=cv8Ghrm-lIU\"><Click here for the live stream</a>"
+      - p: "In-person activities - <br> The Hive @ Cambridge Public Library </br> 449 Broadway <br> Cambridge, MA 02138 </br>Eventbrite links coming soon! </br> </br>1-2:30pm <ul><li>Augmented Reality workshop with Hoverlay</li><li>Bookmarks and 3D printing</li></ul> 2:30-4pm <br> <ul><li>Virtual Reality workshop</li>Recording studio workshop</li></ul>"
+  - title: "Friday August 13"
+    orientation: normal
+    img: kidsplaying-low-res.jpg
+    paragraphs:
+      - p: "Online </br> Theme - Fabricating the Commons, Fab City Summit </br> Moderator - Kate Armstrong, Fab City Global Initiative <a href=\"https://youtu.be/oRO190Z8cws\"><Click here for the live stream</a>"
+      - p: "In-person Activities </br> TBD <br> Fab City Boston-Cambridge-Somerville </br> Eventbrite link coming soon!"
+  - title: "Saturday August 13"
+    orientation: inverted
+    img: kidsplaying-low-res.jpg
+    paragraphs:
+      - p: "10:00AM - 4:00PM  In-person activities </br> No Registration Required! Just come and have fun! </br> Discovering, Making, Learning + Food and Music! </br> Mobile Fab Lab Family Activities & Ice Cream! </br> @Cambridge Public Library, Valente Branch </br> 826 Cambridge Street </br> Cambridge, MA 02141"
+      - p: "Somerville’s FAB16 Festival </br> Come meet the Mayor, Makers, Innovators and Manufacturers, young and old! </br>The Alley @ Somernova (between Market Basket & Dane St) </br>Somerville, MA"
+      
 hasmorebutton: false
 morebuttontitle: "This is an extra button"
 morebuttonurl: ''
