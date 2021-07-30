@@ -39,7 +39,7 @@ services:
     orientation: inverted
     img: education-bg.jpg
     paragraphs:
-      - p: "10:00AM - 4:00PM  </br> In-person activities </br> <a href=\"https://www.fabfoundation.org/fab16festival/">No Registration Required! Just come and have fun!</a> </br> </br> Discovering, Making, Learning + Food and Music! </br> Mobile Fab Lab Family Activities & Ice Cream! </br> Location in Cambridge TBA"
+      - p: "10:00AM - 4:00PM </br> In-person activities </br> <a href=\"https://www.fabfoundation.org/fab16festival/">No Registration Required! Just come and have fun!</a> </br> </br> Discovering, Making, Learning + Food and Music! </br> Mobile Fab Lab Family Activities & Ice Cream! </br> Location in Cambridge TBA"
       - p: "Somerville’s FAB16 Festival </br> Come meet the Mayor, Makers, Innovators and Manufacturers, young and old! </br>The Alley @ Somernova (between Market Basket & Dane St) </br>Somerville, MA"
       
 hasmorebutton: false
