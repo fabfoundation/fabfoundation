@@ -6,7 +6,7 @@ services:
     orientation: normal
     img: fab16graphic.png 
     paragraphs:
-      - p: "Do you want to participate with a booth at FAB16 Somerville Festival? <a href=\"https://forms.gle/L87YdsQRRKRQpNMD7\">Fill out this form by August 3</a>""
+      - p: "Do you want to participate with a booth at FAB16 Somerville Festival? <a href=\"https://forms.gle/L87YdsQRRKRQpNMD7\">Fill out this form by August 3</a>"
   - title: "Sponsors"
     orientation: inverted
     img: fab16graphic.png
