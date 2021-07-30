@@ -12,6 +12,11 @@ services:
     img: fab16graphic.png
     paragraphs:
       - p: "Co-hosts and Sponsors: </br> Fab Foundation, Cambridge Hackspace, City of Somerville, Somernova, Artisan's Asylum, and Union Square Main Streets!"
-hasmorebutton: true
+hasbuttons: true
+buttons:
+  - title: "See full Boston Schedule Here"
+    url: 'https://www.fabfoundation.org/fab16bostonhub/'
+    type: red
+hasmorebutton: false
 morebuttontitle: "See full Boston Schedule Here"
 morebuttonurl: 'fab16bostonhub'
