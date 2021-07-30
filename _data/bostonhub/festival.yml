@@ -6,17 +6,12 @@ services:
     orientation: normal
     img: fab16graphic.png 
     paragraphs:
-      - p: "Fab16 Boston is part of the global FAB16 conference and festival that brings together makers, fab lab members, educators, artists, youth, government officials, academic researchers  and experts in the field of digital fabrication to present, vision, discuss, make and build community around digital fabrication, technology and innovation." 
-      - p: "The conference theme for FAB16 is Fabricating the Commons, about how our fab labs and makerspaces are producing and sharing knowledge and technology to make collaborative, sustainable change in our communities."
-      - p: "This year’s Boston area conference participation features a series of workshops, talks, and maker activities for youth and adults, as well as Mobile Fab Lab activities and a FAB16 street festival in Somerville. The events are distributed across the Greater Boston area - celebrating local artists, makers, innovators, small-scale manufacturers, and digital fabricators."
-      - p: "The conference is entirely free!  But we do ask you to register for workshops and site events so that we know how many of you are coming!  Please see schedule below and Eventbrite registration links."
+      - p: "Do you want to participate with a booth at FAB16 Somerville Festival? <a href=\"https://forms.gle/L87YdsQRRKRQpNMD7\">Fill out this form by August 3</a>""
   - title: "Sponsors"
     orientation: inverted
     img: fab16graphic.png
     paragraphs:
-      - p: "Our special thanks go to this year’s Boston area conference hosts and sponsors"
-      - p: "<a href=\"https://fabfoundation.org/\">The Fab Foundation</a>, <a href=\"https://cba.mit.edu/\">The Center for Bits and Atoms at MIT</a>, <a href=\"https://www.solidworks.com/\">Dassault Systemés - SolidWorks</a>, <a href=\"https://www.cambridgehackspace.com/\">Cambridge Hackspace</a>, <a href=\"https://www.cambridgema.gov/Departments/cambridgepubliclibrary/steaminitiative/hive\">Cambridge Public Library- The Hive</a>, <a href=\"https://www.somervillema.gov/\">The City of Somerville</a>, <a href=\"https://www.fabville.org/\">Fabville</a>, <a href=\"https://somernova.com/\">Somernova</a>, <a href=\"https://artisansasylum.com/\">Artisan’s Asylum</a>, and <a href=\"https://www.unionsquaremain.org/\">Union Square Main Streets.</a>"
-
+      - p: "Co-hosts and Sponsors: </br> Fab Foundation, Cambridge Hackspace, City of Somerville, Somernova, Artisan's Asylum, and Union Square Main Streets!"
 hasmorebutton: false
 morebuttontitle: "This is an extra button"
 morebuttonurl: ''
