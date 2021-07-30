@@ -15,8 +15,8 @@ sponsors:
   - organization: Cambridge Hackspace
     url: 'https://www.cambridgehackspace.com/'
     img: fab16hackspace.jpeg
-  - organization: Cambridge Public Library- The Hive
-    url: 'https://www.cambridgema.gov/Departments/cambridgepubliclibrary/steaminitiative/hive\'
+  - organization: Cambridge Public Library
+    url: 'https://www.cambridgema.gov/Departments/cambridgepubliclibrary'
     img: fab16CambridgePublicLibrary.png
   - organization: The City of Somerville
     url: 'https://www.somervillema.gov/'
@@ -33,6 +33,12 @@ sponsors:
   - organization: Union Square Main Streets
     url: 'https://www.unionsquaremain.org/'
     img: fab16unionsquaremainstreets.jpeg
+  - organization: Greentown Labs
+    url: 'https://greentownlabs.com/'
+    img: fab16greentownlabs.png
+  - organization: Cambridge Public Library- The Hive
+    url: 'https://www.cambridgema.gov/Departments/cambridgepubliclibrary/steaminitiative/hive\'
+    img: fab16thehive.png       
 hasbuttons: false
 buttons:
   - title: Contact the team
