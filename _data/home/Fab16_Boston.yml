@@ -21,4 +21,7 @@ buttons:
   - title: "See Full Boston Schedule"
     url: 'fab16bostonhub'
     type: red
+  - title: "Go to the Fab16 Boston Hub page"
+    url: 'https://fabfoundation.org/fab16bostonhub/'
+    type: red
    
