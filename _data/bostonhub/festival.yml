@@ -12,7 +12,7 @@ services:
     img: fab16graphic.png 
     paragraphs:
       - p: "Saturday, August 14, 2021, we will have a Mobile Lab 10-4 at a location to be determined, either outside of  the Cambridge Public Library Valente Branch, or at Columbia Park near Central Square. We invite you and your family to come see the machines, eat some ice cream, and make some stuff!"
- - title: "Sponsors"
+  - title: "Sponsors"
     orientation: normal
     img: fab16graphic.png
     paragraphs:
