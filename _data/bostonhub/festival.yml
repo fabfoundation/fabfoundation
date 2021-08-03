@@ -2,17 +2,22 @@ id: education-services
 hastitle: false
 title: "Join us for FAB16 Boston Hub Events!"
 services:
-  - title: "A celebration of Making, Innovation, Art and Manufacturing in the Greater Boston area Saturday, August 14, 2021"
+  - title: "Do you want to participate with a booth at FAB16 Somerville Festival?"
     orientation: normal
     img: fab16graphic.png 
     paragraphs:
-      - p: "Do you want to participate with a booth at FAB16 Somerville Festival? <a href=\"https://forms.gle/L87YdsQRRKRQpNMD7\">Fill out this form by August 6</a>"
-  - title: "Sponsors"
+      - p: "<a href=\"https://forms.gle/L87YdsQRRKRQpNMD7\">Fill out this form by August 6</a> Join a celebration of Making, Innovation, Art and Manufacturing in the Greater Boston area Saturday, August 14, 2021"
+  - title: "Join the Cambridge Public Library for a day with the Mobile Lab!"
     orientation: inverted
+    img: fab16graphic.png 
+    paragraphs:
+      - p: "Saturday, August 14, 2021, we will have a Mobile Lab 10-4 at a located to be determined, either outside of  the Cambridge Public Library Valente Branch, or at Columbia Park near Central Square. We invite you and your family to come see the machines, eat some ice cream, and make some stuff!"
+ - title: "Sponsors"
+    orientation: normal
     img: fab16graphic.png
     paragraphs:
       - p: "Co-hosts and Sponsors: </br> Fab Foundation, Cambridge Hackspace, City of Somerville, Somernova, Artisan's Asylum, and Union Square Main Streets!"
-hasbuttons: true
+hasbuttons: false
 buttons:
   - title: "See full Boston Schedule Here"
     url: 'https://www.fabfoundation.org/fab16bostonhub/'
