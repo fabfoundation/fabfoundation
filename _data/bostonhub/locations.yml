@@ -34,7 +34,7 @@ services:
     img: fab16friday2.png
     paragraphs:
       - p: "Online </br> Theme - Fabricating the Commons, Fab City Summit </br> Moderator - Kate Armstrong, Fab City Global Initiative <a href=\"https://youtu.be/oRO190Z8cws\">Click here for the live stream</a>"
-      - p: "In-person Activities </br> TBD <br> Ignite Fab City Boston-Cambridge-Somerville! </br> <a href=\"https://www.eventbrite.com/e/ignite-fab-city-greater-boston-registration-166168860535\">Eventbrite Link</a>"
+      - p: "In-person Activities </br> Ignite Fab City Boston-Cambridge-Somerville! </br> <a href=\"https://www.eventbrite.com/e/ignite-fab-city-greater-boston-registration-166168860535\">Eventbrite Link</a>"
   - title: "Saturday August 14"
     orientation: inverted
     img: education-bg.jpg
