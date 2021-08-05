@@ -38,7 +38,10 @@ sponsors:
     img: fab16greentownlabs.png
   - organization: Cambridge Public Library- The Hive
     url: 'https://www.cambridgema.gov/Departments/cambridgepubliclibrary/steaminitiative/hive\'
-    img: fab16thehive.png       
+    img: fab16thehive.png
+  - organization: North American Indian Center of Boston
+    url: 'http://www.naicob.org/'
+    img: NAICOB_logo.png
 hasbuttons: false
 buttons:
   - title: Contact the team
