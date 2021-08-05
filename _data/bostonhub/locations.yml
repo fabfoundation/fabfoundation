@@ -39,7 +39,7 @@ services:
     orientation: inverted
     img: education-bg.jpg
     paragraphs:
-      - p: "10:00AM - 4:00PM </br> In-person activities </br> No Registration Required! Just come and have fun! </br> </br> Discovering, Making, Learning + Food and Music! </br> Mobile Fab Lab Family Activities & Ice Cream! </br> Location in Cambridge at Cambridge Public Library Valente Branch or Columbia Park in Central Square"
+      - p: "10:00AM - 4:00PM </br> In-person activities </br> No Registration Required! Just come and have fun! </br> </br> Discovering, Making, Learning + Food and Music! </br> Mobile Fab Lab Family Activities & Ice Cream! </br> Location Columbia Park in Central Square"
       - p: "Somerville’s FAB16 Festival </br> Come meet the Mayor, Makers, Innovators and Manufacturers, young and old! </br>The Alley @ Somernova (between Market Basket & Dane St) </br>Somerville, MA"
       - p: "11:00AM - 1:00pm  </br> </br> 1x1 Student Exhibition </br> North American Indian Center of Boston </br> 105 S. Huntington Ave., Jamaica Plain, MA 02130"
       
