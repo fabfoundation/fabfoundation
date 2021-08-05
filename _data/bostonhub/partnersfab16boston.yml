@@ -9,9 +9,15 @@ sponsors:
   - organization: The Center for Bits and Atoms at MIT
     url: 'https://cba.mit.edu/'
     img: cba.jpg
-  - organization: Dassault Systemés- SolidWorks
+  - organization: Dassault Systemés
+    url: 'https://www.3ds.com/'
+    img: DassaultSystemes_logo.png
+  - organization: SolidWorks
     url: 'https://www.solidworks.com/'
-    img: Dassaultlogos.png
+    img: Solidworks-Logo.png
+  - organization: 3DEXPERIENCE Lab
+    url: 'https://www.3ds.com/'
+    img: 3DEXPERIENCE_logo.png
   - organization: Cambridge Hackspace
     url: 'https://www.cambridgehackspace.com/'
     img: fab16hackspace.jpeg
