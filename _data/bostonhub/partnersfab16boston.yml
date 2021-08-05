@@ -9,6 +9,9 @@ sponsors:
   - organization: The Center for Bits and Atoms at MIT
     url: 'https://cba.mit.edu/'
     img: cba.jpg
+  - organization: Cambridge Hackspace
+    url: 'https://www.cambridgehackspace.com/'
+    img: fab16hackspace.jpeg
   - organization: Dassault Systemés
     url: 'https://www.3ds.com/'
     img: DassaultSystemes_logo.png
@@ -18,9 +21,6 @@ sponsors:
   - organization: 3DEXPERIENCE Lab
     url: 'https://www.3ds.com/'
     img: 3DEXPERIENCE_logo.png
-  - organization: Cambridge Hackspace
-    url: 'https://www.cambridgehackspace.com/'
-    img: fab16hackspace.jpeg
   - organization: Cambridge Public Library
     url: 'https://www.cambridgema.gov/Departments/cambridgepubliclibrary'
     img: fab16CambridgePublicLibrary.png
