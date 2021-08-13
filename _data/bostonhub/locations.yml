@@ -45,7 +45,7 @@ services:
     orientation: normal
     img: education-bg.jpg
     paragraphs:
-      - p: "10:00AM - 4:00PM </br> No Registration Required! Just come and have fun! </br> Somerville’s FAB16 Festival </br> Come meet the Mayor, Makers, Innovators and Manufacturers, young and old! </br>The Alley @ Somernova (between Market Basket & Dane St) </br>Somerville, MA"
+      - p: "10:00AM - 4:00PM </br> No Registration Required! Just come and have fun! </br> </br> Somerville’s FAB16 Festival </br> Come meet the Mayor, Makers, Innovators and Manufacturers, young and old! </br>The Alley @ Somernova (between Market Basket & Dane St) </br>Somerville, MA"
  
 hasmorebutton: false
 morebuttontitle: "This is an extra button"
