@@ -6,7 +6,7 @@ services:
     orientation: normal
     img: fab16graphic.png 
     paragraphs:
-      - p: "<a href=\"https://forms.gle/L87YdsQRRKRQpNMD7\">Fill out this form by August 6</a> Join a celebration of Making, Innovation, Art and Manufacturing in the Greater Boston area Saturday, August 14, 2021"
+      - p: "<a href=\"https://forms.gle/L87YdsQRRKRQpNMD7\">Fill out this form by August 6</a> Join a celebration of Making, Innovation, Art and Manufacturing in the Greater Boston area Sunday, August 15, 2021"
   - title: "Join the Cambridge Public Library for a day with the Mobile Lab!"
     orientation: inverted
     img: fab16graphic.png 
