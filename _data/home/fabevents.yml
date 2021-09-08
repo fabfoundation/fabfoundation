@@ -17,12 +17,15 @@ buttons:
   - title: "Check out all Fabx Events"
     url: "http://fabevent.org/"
     type: clear
-  - title: "This year's conference"
+  - title: "FAB16 conference"
     url: "http://fab16.fabevent.org/"
     type: red
+  - title: "FAB16 Boston Hub"
+    url: "https://fabfoundation.org/fab16bostonhub/"
+    type: clear
   - title: "Last year's FABxLive"
     url: "http://fabxlive.fabevent.org/"
-    type: clear
+    type: red
   - title: "FABxLive Report"
     url: "http://www.fabfoundation.org/uploads/FinalFABxLiveReport.pdf"
-    type: red   
+    type: clear   
