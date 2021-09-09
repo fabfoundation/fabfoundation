@@ -30,14 +30,6 @@ cards:
       - p: "As a Product Designer from Universidad del Norte, Barranquilla (Colombia) and with a Master’s Degree in Project Management from IEP Madrid, Norella’s early approach in the Fab Lab World came when she discovered through a tweet what a fab lab was, she became an intern at Fab Lab Barcelona (Spain) in 2012. Later in 2015, she became part of the Fab Lat Network (Latinoamerica), becoming the Regional Coordinator and finally, in 2017 she held the Fab Academy Diploma at Fab Lab Santiago (Chile), where she also co-organize the International Fab Lab Conference FAB13."
       - p: "Norella joined the Fab Foundation team in 2017 as Special Projects Consultant where she aims to develop new tools and programs on how to work in a collaborative way among the network an facilitate communications between regional networks through the Fab Foundation Forums which she will coordinate based on her skills on Networking Strategies."
       - p: "She currently lives in Barranquilla, Colombia and teaches the undergraduate course Technological Design on her former University."
-  - name: "Lydia Ford"
-    img: 'Lydia_Ford.png'
-    position: ""
-    social: 
-      - title: linkedin
-        url: ""
-    bio:
-      - p: "Lydia grew up in Cleveland, Ohio and graduated from Cleveland Public Schools. She attended Baldwin Wallace College in Berea, Ohio and studied Communications and Psychology.  Lydia worked with the County Human Services department for six years servicing low-income families, connecting them with supportive services and assistance. She worked towards her Masters of Education during this time at Malone University in Canton, Ohio and after finishing in 2010 became a school counselor. Lydia worked as a counselor for ten years in charter and traditional public schools. Currently, she serves with her husband in Christian ministry. They have twin 18-year-old daughters who are in their first year of college."
   - name: "Melvin LaPrade"
     img: 'Melvin_LaPrade.png' 
     position: "Consultant, SCOPES-DF"
@@ -47,25 +39,6 @@ cards:
     bio:
       - p: "Melvin LaPrade is a consultant with the Fab Foundation for the SCOPES-DF project. Melvin’s areas of expertise and research address both traditional issues, such as narrowing racial and gender achievement gaps as well as new challenges, such as the implementation of Common Core State Learning Standards with fidelity. Melvin was the Founding Director of Development for the Benjamin Banneker Academy for Community Development in Central Brooklyn, NY, a college-preparatory community development-themed middle/high school created by the Gates Foundation small school initiative. As Managing Partner of the New York based National Urban Research group, his thought leadership consultant practice works to shape the broader P-16 educational policy landscape by conducting analysis, research and idea generation on approaches objectively demonstrated to reach traditionally underserved neighborhoods, first-generation college students, low-income students and their families. In the fall of 2015, Melvin implemented the Clement School Analytics Leadership Team (C-SALT) model at CMSD Investment School Kenneth W. Clement Boys Leadership Academy (KCBLA). This model resulted in over 94 percent of KCBLA students meeting the 3rd grade Ohio Reading Guarantee promotion benchmark, and 80 percent of 7th grade student’s recorded MAP RIT scores above the 50th percentile."
       - p: "Melvin is a graduate of CMSD schools, East High. He did his undergraduate work at Howard University, Master’s at Cleveland State University, and Post-graduate studies, Department of Urban Studies and Planning, Ph.D. Program at M.I.T."
-  - name: "Aidan Mullaney"
-    img: 'Aidan_Mullaney.png'
-    position: "Fab Foundation Senior Manager of Educational Programs"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/aidan-mullaney-61b1286b"
-    bio:
-      - p: "Aidan Mullaney is the Instructional Manager for the GE/Celtics Brilliant Play Lab. His primary role with the Fab Foundation is developing and delivering curriculum for the middle school mobile lab. Aidan facilitates career-related activities with a focus on STEM in sports and supports course work for partnering schools, working with teachers to integrate the BPL lessons into school curriculum."
-      - p: "Prior to joining the Fab Foundation, Aidan spent three years working within innovative informal education spaces. He was a Learning Specialist at Shedd Aquarium in Chicago where he created, instructed, and curated content for kindergarten to adult learners. His work with the aquarium included the creation of a middle school STEM program centered on designing prototype enrichment items for Shedd's animals. He also previously supervised the Great Science Academy program at the Great Lakes Science Center in Cleveland; a grant-funded, middle and high school program for underserved youth with an emphasis on STEM literacy."
-      - p: "Aidan received a B.A. in Neuroscience from Oberlin College, with a concentration in Education. He has co-authored a paper detailing his research at Oberlin on multi-sensory integration within virtual environments."
-  - name: "Rebecca Ottinger"
-    img: 'rebecca-ottinger.png'
-    position: "General Manager, Programs and Administration"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/rebecca-ottinger"
-    bio:
-      - p: "Rebecca Ottinger is the General Manager of Programs and Administration. She has worked in various settings in education: Joan B. Kroc Institute for Peace and Justice at the University of San Diego, ESL teacher for adults, Jewish Education coordinator for teens, and experiential education leader in California and Costa Rica for grades 5-12. "
-      - p: "Rebecca holds a degree in Hispanic Studies and Education from Brandeis University. She is an amateur cellist, is a strong advocate of the arts, is fluent in Spanish, and spent six months living in New Zealand before joining the Fab community."
   - name: "Sonya Pryor-Jones"
     img: 'Sonya_Pryor_Jones.png'
     position: "Chief Implementation Officer"
