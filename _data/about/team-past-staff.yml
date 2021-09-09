@@ -15,6 +15,12 @@ cards:
     social: 
       - title: 
         url:
+  - name: "Lydia Ford"
+    img: 'Lydia_Ford.png' 
+    position: "Assistant to Chief Implementation Officer"
+    social: 
+      - title: 
+        url:      
   - name: "Dr. Nettrice Gaskins"
     img: 'Nettrice_Gaskins.png'
     position: "Consultant, SCOPES-DF"
