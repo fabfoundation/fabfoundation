@@ -29,6 +29,15 @@ cards:
       - p: "Fab City is a global initiative to develop locally productive and globally connected self-sufficient cities. It comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste."
     bgcolor: "darkblue"
   - orientation: normal
+    title: Future Workforce
+    id: fabworkforce
+    img: woodstructure_lowres.jpg
+    url: "https://drive.google.com/file/d/1Q-_qMG37nWUEI3hO9Z8ZruyGP4PYhrza/view?usp=sharing"
+    has_external_link: true
+    description:
+      - p: "Future Workforce Now: Reimagining Workforce Policy in the Age of Disruption was launched in 2018 to help states advance policy to prepare for the workforce needs of the future. The initiative is led by the National Governors Association Center for Best Practices (NGA Center) in partnership with FHI 360 and the Fab Foundation and with support from the Bill & Melinda Gates Foundation, Siegel Family Endowment and Schmidt Futures. Through a series of topical roundtables, Future Workforce Now brought leading economic, education, industry and workforce experts together with state policy leaders to share knowledge and expertise on the technological disruptions affecting current and future workers and workplaces. These leaders identified the major disruptions and global forces shaping the future of work and are pleased to present this publication as a transformative agenda for preparing the future workforce now."
+    bgcolor: "lightblue"  
+  - orientation: normal
     title: Fab Economy
     id: fabeconomy
     img: woodstructure_lowres.jpg
