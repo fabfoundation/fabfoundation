@@ -29,7 +29,7 @@ cards:
       - p: "Fab City is a global initiative to develop locally productive and globally connected self-sufficient cities. It comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste."
     bgcolor: "darkblue"
   - orientation: normal
-    title: Future Workforce
+    title: Future Workforce Now
     id: fabworkforce
     img: woodstructure_lowres.jpg
     url: "https://www.nga.org/futureworkforce/"
