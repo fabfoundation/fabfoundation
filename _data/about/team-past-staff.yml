@@ -27,6 +27,18 @@ cards:
     social: 
       - title: linkedin
         url: "https://www.linkedin.com/in/pamelajking"
+  - name: "Aidan Mullaney"
+    img: 'Aidan_Mullaney.png' 
+    position: "Fab Foundation Senior Manager of Educational Programs"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/aidan-mullaney/"   
+  - name: "Rebecca Ottinger"
+    img: 'rebecca-ottinger.png' 
+    position: "General Manager, Programs and Administration"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/rebecca-ottinger-2765b840/"         
   - name: "Jean-Luc Pierite"
     img: 'Jean_Luc_Pierite.png'
     position: "International Procurement and Logistics Manager"
