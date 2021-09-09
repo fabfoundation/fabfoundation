@@ -17,12 +17,12 @@ buttons:
     type: red
 hasprojectgallery: true
 projects:
-  - title: Fab Research
+  - title: Fab City Global Initiative
     id: projects-initiatives
-    img: research.png
+    img: fabcity.jpg
+  - title: Future Workforce Now
+    id: fabworkforce
+    img: STEMchattanooga.jpg
   - title: Fab Economy
     id: fabeconomy
     img: woodstructure_lowres.jpg
-  - title: Fab City Global Initiative
-    id: fabcity
-    img: fabcity.jpg
