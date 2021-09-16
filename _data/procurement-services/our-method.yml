@@ -1,10 +1,10 @@
-id: fab-lab-questions
+id: services
 hastitle: true
 title: Our services
 hassubtitle: true
 subtitle: >-
     We have installed labs on every continent - from small labs in schools to giant super labs in companies. Check out what we can do for you below.
-accordionID: everything-fablabs
+accordionID: services
 tabs:
     - title: Design and project development
       paragraphs:
