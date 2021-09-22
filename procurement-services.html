@@ -1,23 +1,43 @@
 ---
 layout: page
-id: procurement-services
+id: about
 hastitle: true
-title: Creating a Fab lab, from design to installation and training
+title: About the Fab Foundation
 hasdescription: true
 description:
   - paragraph: >-
-      The Fab Foundation can help you create your Fab Lab from A to Z - we have helped create labs in over 20 countries, and offer services from the design of the lab to procurement and shipping of the machines and materials to installation and training. We can also work with you on the projects and serivces the lab can offer, and elaborate a business plan with you to make sure the lab is sustainable in it's operations. 
+      Formed in 2009 to facilitate and support the growth of the international
+      fab lab network as well as the development of regional capacity-building
+      organizations. The Fab Foundation is a US non-profit 501(c) 3 organization
+      that emerged from MIT’s Center for Bits & Atoms Fab Lab Program. Our
+      mission is to provide access to the tools, the knowledge and the financial
+      means to educate, innovate and invent using technology and digital
+      fabrication to allow anyone to make (almost) anything, and thereby
+      creating opportunities to improve lives and livelihoods around the world.
+      Community organizations, educational institutions and non-profit concerns
+      are our primary beneficiaries.
 hasjumplinks: true
 jumplinks:
-  - link: Services we offer
-    url: fablabs-full
-  - link: Our methods
-    url: fab-lab-questions
-  - link: Want to know more?
-    url: mobile-fablab
-background-img: making.jpg
+  - link: Programs and Services
+    url: programs-services
+  - link: Become a Partner
+    url: become-a-partner
+  - link: Donations / Grants
+    url: donations-grants
+  - link: Fab Foundation Board
+    url: board-team
+  - link: Organizational Reporting
+    url: financial-reports
+background-img: kidglasses.jpg
 ---
 
-{% include fixed/fablabs-vignettes.html texts=site.data.procurement-services.services-vignettes %}
-{% include fixed/fablabs-accordion.html texts=site.data.procurement-services.our-method %}
-{% include fixed/section.html texts=site.data.procurement-services.learn-more %}
+{% include fixed/blue-claims.html texts=site.data.home.about-claims %}
+{% include fixed/services-cards.html texts=site.data.about.about-services %}
+{% include fixed/become-a-partner.html texts=site.data.about.become-a-partner %}
+{% include fixed/donations-full.html texts=site.data.about.donations-grants %}
+{% include fixed/people-cards.html texts=site.data.about.team-board %}
+{% include fixed/people-cards.html texts=site.data.about.team-staff %}
+{% include fixed/people-cards.html texts=site.data.about.team-past-staff %}
+{% include fixed/bullet-lists.html texts=site.data.about.financial-reports %}
+{% include fixed/posts-gallery.html %}
+
