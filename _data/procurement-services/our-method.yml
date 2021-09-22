@@ -9,57 +9,32 @@ tabs:
     - title: Design and project development
       paragraphs:
           - p: >-
-                Fab Lab is the educational outreach component of MIT’s Center for Bits
-                and Atoms (CBA), an extension of its research into digital fabrication
-                and computation. A Fab Lab is a technical prototyping platform for
-                innovation and invention, providing stimulus for local
-                entrepreneurship. A Fab Lab is also a platform for learning and
-                innovation: a place to play, to create, to learn, to mentor, to
-                invent. To be a Fab Lab means connecting to a global community of
-                learners, educators, technologists, researchers, makers and
-                innovators- -a knowledge sharing network that spans 100 countries and
-                24 time zones. Because all Fab Labs share common tools and processes,
-                the program is building a global network, a distributed laboratory for
-                research and invention.
+                Fab
       id: 1
       click: collapse1
     - title: Procurement and transport
       paragraphs:
           - p: >-
-                The four qualities and requirements listed below altogether create an
-                enabling environment that we call a Fab Lab. If your lab effort meets
-                all these criteria,  “Welcome!”  If you feel you are in synchrony with
-                the Fab Lab form and spirit, please use our logo in your fundraising
-                efforts, and keep us informed of your progress. Please register your
-                lab effort or new fab lab on the world map here.   Here are the
-                criteria we currently use for defining a Fab Lab:
+                The 
       id: 2
       click: collapse2
     - title: Installation and training
       paragraphs:
           - p: <h3>What is a fab lab?</h3>
           - p: >-
-                Fab labs are a global network of local labs, enabling invention by
-                providing access to tools for digital fabrication
+                Fab 
       id: 3
       click: collapse3
     - title: Extended training and workshops
       paragraphs:
           - p: >-
-                You are on the front wave of a new, international movement in personal
-                fabrication—and therefore you would be considered an “early adopter.
-                The cheapest and fastest method to get a fab lab is to buy  and
-                assemble it yourself. This approach does require that you have some
-                good expertise on hand to help you set up,  install, debug and train.
-                There are a few other ways to get a lab, but they are more expensive
-                and require some contractual transactions.
+                You 
       id: 4
       click: collapse4
     - title: Cost and funding
       paragraphs:
           - p: >-
-                The Fab Foundation can help you create a Fab Lab for your organization, university, school or community, but does not fund the creation of such labs or it's equipment. We are
-                a non-profit organization that offers services and organizes project and programs for the global network but rely on funding or contracts ourselves.
+                The 
           - p: <h4>Finding funding for your future lab</h4>
       id: 13
       click: collapse13
