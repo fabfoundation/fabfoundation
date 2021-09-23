@@ -1,34 +1,32 @@
-id: become-a-partner
-title: Become a partner
+id: clients
+title: Some of our previous clients
 subtitle: >-
-  Being a partner, sponsor or contributor to the Fab Foundation helps support
-  our mission to bridge the digital divide, creating equitable opportunity for
-  future generations of artists, makers, entrepreneurs, scientists,
-  manufacturers, community leaders and citizens. Our work leverages the tools
-  and knowledge of digital fabrication to create spaces for exploring and making
-  with technology, to support relevant learning communities and to provide
-  resources to bring great ideas to life.  Get in touch with us to learn about
-  the many ways you can join the Fab Lab community and support our global
-  efforts to create a better, inclusive future for all through technology.
+  The Fab Foundation has installed Fab Labs and trained teams in over 20 countries and has worked with goverments, educational bodies, companies and non-profit organizations of all sizes.
 sponsors:
-  - organization: Chevron
-    url: 'https://www.chevron.com/'
-    img: chevron.jpg
   - organization: GE Foundation
     url: 'http://www.gesustainability.com/enabling-progress/ge-foundation/'
     img: ge.jpg
-  - organization: Solidworks
-    url: 'http://www.solidworks.com/'
+  - organization: IEEE
+    url: 'http://'
     img: solidworks.png
-  - organization: Cisco
-    url: 'https://www.cisco.com/'
-    img: cisco.png
-  - organization: Autodesk
-    url: 'https://www.autodesk.eu/'
-    img: autodesk.png
-  - organization: MIT Center for Bits and Atoms
-    url: 'http://cba.mit.edu/'
-    img: cba.jpg
+  - organization: the World Bank
+    url: 'https:/'
+    img: 
+  - organization: UNDP
+    url: 'https://'
+    img: 
+  - organization: Kenya Red Cross
+    url: ''
+    img: 
+    - organization: Jordan Crown Prince foundation
+    url: ''
+    img: 
+    - organization: IIT Mumbai
+    url: ''
+    img: 
+    - organization: Kerala startup mission
+    url: ''
+    img: 
 hasbuttons: true
 buttons:
   - title: Contact the team
