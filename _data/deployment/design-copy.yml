@@ -1,0 +1,26 @@
+id: programs-services
+hastitle: true
+title: "Deployment services"
+services:
+  - title: "Design and consultancy"
+    orientation: normal
+    img: scopes.png
+    paragraphs:
+      - p: "coming soon"
+  - title: "Procurement and shipping"
+    orientation: inverted
+    img: fablabsmap.jpg
+    paragraphs:
+      - p: "Coming soon"
+#    buttons:
+#      - title: "The Fab Lab Network"
+#        url: "global-community"
+#        type: "clear"
+  - title: "Installation and training"
+    orientation: normal
+    img: machine.png
+    paragraphs:
+      - p: "Coming soon"
+hasmorebutton: false
+morebuttontitle: ""
+morebuttonurl: ""
