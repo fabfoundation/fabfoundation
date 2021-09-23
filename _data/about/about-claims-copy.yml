@@ -1,0 +1,10 @@
+blueclaims:
+  - title: "Resources to innovate"
+    icon: fablabs
+    link: projects-initiatives
+  - title: "Community to learn"
+    icon: makers
+    link: education
+  - title: "Connections to build"
+    icon: students
+    link: global-community
