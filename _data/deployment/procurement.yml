@@ -1,13 +1,13 @@
 id: programs-services
 hastitle: true
-title: "Deployment services"
+title: "Procurement and shipping"
 services:
-  - title: "Design and consultancy"
+  - title: "From mini labs to custom super labs"
     orientation: normal
     img: scopes.png
     paragraphs:
       - p: "coming soon"
-  - title: "Procurement and shipping"
+  - title: "Global services and compatibility"
     orientation: inverted
     img: fablabsmap.jpg
     paragraphs:
@@ -16,7 +16,7 @@ services:
 #      - title: "The Fab Lab Network"
 #        url: "global-community"
 #        type: "clear"
-  - title: "Installation and training"
+  - title: "Customs and importation"
     orientation: normal
     img: machine.png
     paragraphs:
