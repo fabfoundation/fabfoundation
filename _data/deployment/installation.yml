@@ -21,7 +21,7 @@ services:
     img: machine.png
     paragraphs:
       - p: "Coming soon"
-    - title: "Fab Academy"
+  - title: "Fab Academy"
     orientation: inverted
     img: machine.png
     paragraphs:
