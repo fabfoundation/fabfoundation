@@ -1,13 +1,13 @@
 id: programs-services
 hastitle: true
-title: "Deployment services"
+title: "Installation and training"
 services:
-  - title: "Design and consultancy"
+  - title: "Installation services"
     orientation: normal
     img: scopes.png
     paragraphs:
       - p: "coming soon"
-  - title: "Procurement and shipping"
+  - title: "Training services"
     orientation: inverted
     img: fablabsmap.jpg
     paragraphs:
@@ -16,8 +16,13 @@ services:
 #      - title: "The Fab Lab Network"
 #        url: "global-community"
 #        type: "clear"
-  - title: "Installation and training"
+  - title: "Pre Academy"
     orientation: normal
+    img: machine.png
+    paragraphs:
+      - p: "Coming soon"
+    - title: "Fab Academy"
+    orientation: inverted
     img: machine.png
     paragraphs:
       - p: "Coming soon"
