@@ -11,57 +11,12 @@ cards:
       - p: "Luciano Betoldi has been involved in the Fab Lab Network since 2009, initially through his work at Fab Lab Barcelona and the Fab Academy program and most recently, by joining the Fab Foundation in 2016 as International Operations Director."
       - p: "Initially trained as a Product Designer at IED Barcelona and as an Interaction Designer at Elisava Design School, Luciano’s early work focused on the intersection of manufacturing and craft and the ongoing dialogue between them. Exploration of this theme inevitably led him discover digital fabrication and to the creation of projects such as the Made@EU platform, a collaborative educational platform focusing on the introduction of digital fabrication tools to craftspeople and artists across Europe and supported by the European Commission."
       - p: "Since joining the Fab Foundation, Luciano has worked towards democratizing access to digital fabrication tools and education through the development and implementation of programs such as FabAcademy X and facilitating communication between regional networks through the Fab Foundation Forums initiative."
-  - name: "Alethea Campbell"
-    img: 'Alethea_Campbell.png'
-    position: "Senior Manager of Relationships, Outreach, and Education Operations"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/aletheacampbell"
-    bio:
-      - p: "The Program Manager of the GE Brilliant Career Lab, Alethea Campbell discovered the power and joy of making for herself, and others, has become a driving force in her life to make a transformation in the world of education."
-      - p: "Her passion for art, design, science, and technology led her to the maker world. She saw the power of sharing how to use an Arduino or create a 3D Model using CAD software, can change a young person’s world. An alumni of Smith College, she graduated from Harvard Graduate School of Education and earned a Master’s of Education degree in Technology, Innovation, and Education. Alethea is a maker, creator, innovator, an educator, and a learner."
-  - name: "Norella Coronell"
-    img: 'Norella_Coronell.png'
-    position: "Fab Foundation Forum Project Manager, Special Projects Consultant"
-    social: 
-      - title: linkedin
-        url: "https://es.linkedin.com/in/norella-coronell-1831973a"
-    bio:
-      - p: "As a Product Designer from Universidad del Norte, Barranquilla (Colombia) and with a Master’s Degree in Project Management from IEP Madrid, Norella’s early approach in the Fab Lab World came when she discovered through a tweet what a fab lab was, she became an intern at Fab Lab Barcelona (Spain) in 2012. Later in 2015, she became part of the Fab Lat Network (Latinoamerica), becoming the Regional Coordinator and finally, in 2017 she held the Fab Academy Diploma at Fab Lab Santiago (Chile), where she also co-organize the International Fab Lab Conference FAB13."
-      - p: "Norella joined the Fab Foundation team in 2017 as Special Projects Consultant where she aims to develop new tools and programs on how to work in a collaborative way among the network an facilitate communications between regional networks through the Fab Foundation Forums which she will coordinate based on her skills on Networking Strategies."
-      - p: "She currently lives in Barranquilla, Colombia and teaches the undergraduate course Technological Design on her former University."
-  - name: "Melvin LaPrade"
-    img: 'Melvin_LaPrade.png' 
-    position: "Consultant, SCOPES-DF"
-    social: 
-      - title: 
-        url:
-    bio:
-      - p: "Melvin LaPrade is a consultant with the Fab Foundation for the SCOPES-DF project. Melvin’s areas of expertise and research address both traditional issues, such as narrowing racial and gender achievement gaps as well as new challenges, such as the implementation of Common Core State Learning Standards with fidelity. Melvin was the Founding Director of Development for the Benjamin Banneker Academy for Community Development in Central Brooklyn, NY, a college-preparatory community development-themed middle/high school created by the Gates Foundation small school initiative. As Managing Partner of the New York based National Urban Research group, his thought leadership consultant practice works to shape the broader P-16 educational policy landscape by conducting analysis, research and idea generation on approaches objectively demonstrated to reach traditionally underserved neighborhoods, first-generation college students, low-income students and their families. In the fall of 2015, Melvin implemented the Clement School Analytics Leadership Team (C-SALT) model at CMSD Investment School Kenneth W. Clement Boys Leadership Academy (KCBLA). This model resulted in over 94 percent of KCBLA students meeting the 3rd grade Ohio Reading Guarantee promotion benchmark, and 80 percent of 7th grade student’s recorded MAP RIT scores above the 50th percentile."
-      - p: "Melvin is a graduate of CMSD schools, East High. He did his undergraduate work at Howard University, Master’s at Cleveland State University, and Post-graduate studies, Department of Urban Studies and Planning, Ph.D. Program at M.I.T."
-  - name: "Sonya Pryor-Jones"
-    img: 'Sonya_Pryor_Jones.png'
-    position: "Chief Implementation Officer"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/sonya-pryor-jones"
-    bio:
-      - p: "Sonya Pryor-Jones is the Chief Implementation Officer for the Fab Foundation. In partnership with Sherry Lassiter, Sonya is charged with supporting the next iteration of Dr. Neil Gershenfeld’s work, and the strategic endeavors of the organization."
-      - p: "Sonya manages signature projects for the Fab Foundation including the Brilliant Career Labs, SCOPES-DF, and partnerships with Chevron, The GE Foundation, Adam Savage and Tested.com, The Boston Celtics, and DARPA."
-      - p: "Prior to joining the Fab Foundation, Sonya was the founding Director for a national placed-based education and community development strategy at the Sisters of Charity Foundation. She also managed a $3.5 million STEM (Science, Technology, Engineering, and Math) effort as the Executive Director for Northeast Ohio’s STEM initiative at Case Western Reserve University. Her work with several public-private partnerships has included collaboration with a wide range of partners including Policy Link, Battelle, GE, Rockwell Automation, NASA, and The White House Office of Science and Technology Policy."
-      - p: "Sonya received a B.A. in International Studies and History from Kenyon College, and a M.Ed. in Education from Cleveland State University. She also holds Certificates in Executive Education and Appreciative Inquiry from The Weatherhead School of Management at Case Western Reserve University."
-  - name: "Liz Whitewolf"
-    img: 'Liz_Whitewolf.png'
-    position: "Fab Foundation (K-12) Education Director"
-    social: 
-      - title: linkedin
-        url: ""
-    bio:
-      - p: "Liz Whitewolf joins the SCOPES team as Community Engagement and Project Manager with a passion for integrating digital fabrication technologies equitably in schools for students, teachers, and other stakeholders in K-12 education. A graduate of FAB Academy, Liz opened an educational Fab Lab in Pittsburgh, PA, expanding the program to include two mobile fab lab units in addition to the museum-based makerspace. Before joining the FAB Foundation, Liz served as Senior Director of STEM Education at Carnegie Science Center and previously was a classroom teacher and out of school time educator in robotics, computer programming, and engineering. Currently Liz is pursuing her Ed.D. in STEM Education at the University of Pittsburgh and spends her free time mentoring an all-girls robotics team and serving on various educational committees and projects including the Remake Learning Network, STEM Ecosystems, National Science Teaching Association, and the North American Digital Fabrication Alliance.  Liz and her family are all makers and spend time experimenting and creating projects in their garage-based Fab Lab in their Pittsburgh home."
-      - p: To schedule a 1:1 meeting with Liz, please click <a href="https://calendly.com/fablabliz/30min" target="_blank">here</a>.
   - name: "Jean-Michel Molenaar"
     img: 'Jean_Michel_Molenaar.jpg'
     position: "Sr. Consultant, International Projects"
+    social: 
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
     bio:
       - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe."
 
