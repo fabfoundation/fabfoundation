@@ -1,13 +1,13 @@
 id: programs-services
 hastitle: true
-title: "Deployment services"
+title: "Design and consultancy"
 services:
-  - title: "Design and consultancy"
+  - title: "Design and layout of the lab"
     orientation: normal
     img: scopes.png
     paragraphs:
       - p: "coming soon"
-  - title: "Procurement and shipping"
+  - title: "Choice of equipment, materials and tools"
     orientation: inverted
     img: fablabsmap.jpg
     paragraphs:
@@ -16,7 +16,7 @@ services:
 #      - title: "The Fab Lab Network"
 #        url: "global-community"
 #        type: "clear"
-  - title: "Installation and training"
+  - title: "Business model and sustainability"
     orientation: normal
     img: machine.png
     paragraphs:
