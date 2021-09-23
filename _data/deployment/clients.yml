@@ -7,8 +7,8 @@ sponsors:
     url: 'http://www.gesustainability.com/enabling-progress/ge-foundation/'
     img: ge.jpg
   - organization: IEEE
-    url: 'http://'
-    img: solidworks.png
+    url: 'https://ieee-cas.org/'
+    img: IEEE_Cas.png
   - organization: the World Bank
     url: 'https:/'
     img: 
@@ -18,13 +18,13 @@ sponsors:
   - organization: Kenya Red Cross
     url: 'https://www.redcross.or.ke/'
     img: kenya-red-cross.png
-    - organization: Jordan Crown Prince foundation
+  - organization: Jordan Crown Prince foundation
     url: 'https://www.cpf.jo/en'
     img: Jordan_foundation.png
-    - organization: IIT Bombay
+  - organization: IIT Bombay
     url: 'https://www.iitb.ac.in/'
     img: IIT_Mumbai.svg
-    - organization: Kerala startup mission
+  - organization: Kerala startup mission
     url: ''
     img: 
 hasbuttons: true
