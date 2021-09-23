@@ -25,8 +25,11 @@ sponsors:
     url: 'https://www.iitb.ac.in/'
     img: IIT_Mumbai.svg
   - organization: Kerala startup mission
-    url: ''
-    img: 
+    url: 'https://startupmission.kerala.gov.in/'
+    img: kerala_startup.jpeg
+  - organization: STPI
+    url: 'https://bhubaneswar.stpi.in/home'
+    img: stpi.png
 hasbuttons: true
 buttons:
   - title: Contact the team
