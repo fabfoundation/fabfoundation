@@ -1,43 +1,26 @@
 id: programs-services
 hastitle: true
-title: "Our Programs and Services"
+title: "Deployment services"
 services:
-  - title: ".EDU"
+  - title: "Design and consultancy"
     orientation: normal
     img: scopes.png
     paragraphs:
-      - p: "Bringing digital fabrication tools and processes to people of all ages, teaching the skills and knowledge of digital fabrication, developing curriculum for formal and informal educational settings, as well as designing and offering professional development training programs for teachers, fab lab managers and other professionals.→ (SCOPES-DF)"
-      - p: "We offer advanced technical education through the Fab Academy which provides instruction and supervises investigation of mechanisms, applications, and implications of digital fabrication. The Fab Academy is a worldwide, distributed campus utilizing fab labs as classrooms and libraries for a new kind of technical literacy. → (Fab Academy)"
-    buttons:
-      - title: "SCOPES-DF"
-        url: "https://www.scopesdf.org/"
-        type: "clear"
-      - title: "Academany"
-        url: "http://academany.org/"
-        type: "clear"
-  - title: ".ORG"
+      - p: "coming soon"
+  - title: "Procurement and shipping"
     orientation: inverted
     img: fablabsmap.jpg
     paragraphs:
-      - p: "The Fab Foundation's work includes the promotion of digital fabrication, facilitating the development of community-based and educational fab labs, the dissemination of best practices in digital fabrication throughout the fab lab network, facilitation and dissemination of research and community-beneficial projects, the funding and facilitation of fab lab and digital fabrication projects that benefit people and communities in exemplary ways, such as mobile fab labs for emergency aid, or fab labs for developing world contexts. These services include deploying, installing, training, and consulting for new fab labs as well as programmatic support of established fab labs. (Fab Labs)"
-      - p: "The Foundation works to gather and provide critical evaluation data as well as provide tools for tracking the impact of fab labs in educational, business and social contexts. As part of our services we provide a network function for the fab lab community, bringing together fab labs around the world either physically (for annual meetings and workshops) or virtually through online tools and resources."
-    buttons:
-      - title: "The Fab Lab Network"
-        url: "global-community"
-        type: "clear"
-  - title: ".COM"
+      - p: "Coming soon"
+#    buttons:
+#      - title: "The Fab Lab Network"
+#        url: "global-community"
+#        type: "clear"
+  - title: "Installation and training"
     orientation: normal
     img: machine.png
     paragraphs:
-      - p: "This is Fab Foundation's newest frontier, to support the development of new forms of economic exchange and opportunities emerging from this globally distributed network, facilitating an ecosystem of fab lab-generated businesses and products with access to global markets."
-      - p: "From time to time, as financial resources permit, the Foundation will connect exemplary business concepts and products emerging from the fab lab community to venture and micro-finance funding, making capital available in the right form, at the right time, and with the right terms, to help them along the trajectory of long-term sustainability."
-      - p: "Businesses emerging from fab labs and the digital fabrication network include Formlab, Makerbot, Modkit, Ponoko, Ultimaker, Fabfi, Remake Electric, Snap and the Nifty Minidrive, Smart Citizen Sensor and more."
-    buttons:
-      - title: "See more projects"
-        url: "projects-initiatives"
-        type: "clear"
-      - title: "Download brochure"
-        url: "uploads/FF_brochure.pdf"
+      - p: "Coming soon"
 hasmorebutton: false
 morebuttontitle: ""
 morebuttonurl: ""
