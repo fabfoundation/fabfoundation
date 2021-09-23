@@ -16,14 +16,14 @@ sponsors:
     url: 'https://'
     img: 
   - organization: Kenya Red Cross
-    url: ''
-    img: 
+    url: 'https://www.redcross.or.ke/'
+    img: kenya-red-cross.png
     - organization: Jordan Crown Prince foundation
-    url: ''
-    img: 
-    - organization: IIT Mumbai
-    url: ''
-    img: 
+    url: 'https://www.cpf.jo/en'
+    img: Jordan_foundation.png
+    - organization: IIT Bombay
+    url: 'https://www.iitb.ac.in/'
+    img: IIT_Mumbai.svg
     - organization: Kerala startup mission
     url: ''
     img: 
