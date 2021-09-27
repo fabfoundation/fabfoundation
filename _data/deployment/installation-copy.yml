@@ -1,0 +1,31 @@
+id: installation
+hastitle: true
+title: "Installation and training"
+services:
+  - title: "Installation services"
+    orientation: normal
+    img: scopes.png
+    paragraphs:
+      - p: "coming soon"
+  - title: "Training services"
+    orientation: inverted
+    img: fablabsmap.jpg
+    paragraphs:
+      - p: "Coming soon"
+#    buttons:
+#      - title: "The Fab Lab Network"
+#        url: "global-community"
+#        type: "clear"
+  - title: "Pre Academy"
+    orientation: normal
+    img: machine.png
+    paragraphs:
+      - p: "Coming soon"
+  - title: "Fab Academy"
+    orientation: inverted
+    img: machine.png
+    paragraphs:
+      - p: "Coming soon"
+hasmorebutton: false
+morebuttontitle: ""
+morebuttonurl: ""
