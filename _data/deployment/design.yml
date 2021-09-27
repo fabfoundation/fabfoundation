@@ -18,7 +18,7 @@ services:
 #        type: "clear"
   - title: "Partners and connections to local organisations"
     orientation: normal
-    img: machine.png
+    img: fablabsmap.png
     paragraphs:
       - p: "The most successful labs have strong partnerships with both global and local organisations, from educational institutions, non- and for profit organisations to governments. We can help you find the right partners and design the right model for combined use of the lab. Fab Labs are often included in larger projects - we can show you how to properly balance the use of assets in a larger context."
   - title: "Business model and sustainability"
