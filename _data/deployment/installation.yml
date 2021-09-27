@@ -2,11 +2,16 @@ id: installation
 hastitle: true
 title: "Installation and training"
 services:
+  - title: "From assembly to safety"
+    orientation: normal
+    img: scopes.png
+    paragraphs:
+      - p: "In almost all cases we come and do the installation and training on-site, bringing in experts from our global team, to assure they speak the language and understand the local context and customs. We work with skilled professionals who have completed Fab Academy and installed machines in many locations - just check out some of the [countries we have worked in, and the previous clients we engaged with.](\\#clients)"
   - title: "Installation services"
     orientation: normal
     img: scopes.png
     paragraphs:
-      - p: "coming soon"
+      - p: "When it comes to installing your lab, we generally send 2 experts to your site for 1 full week - changing the duration depending on the inventory. Tasks will include the unpacking of all items, assembly of tools which need this, setup of all the machines and performing tests to make sure everything operates correctly. Add on to that the organization of the space and tools, where we label items, create custom signage and fine tune the layout with the local team."
   - title: "Training services"
     orientation: inverted
     img: fablabsmap.jpg
