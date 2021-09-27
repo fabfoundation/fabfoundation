@@ -35,7 +35,7 @@ cards:
 #        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
     bio:
       - p: "Coming soon"
-  - name: "Romain Divozzio"
+  - name: "Romain Di-vozzo"
     img: 'Romain.jpg'
     position: "Installation and training Guru"
 #    social: 
@@ -43,7 +43,22 @@ cards:
 #        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
     bio:
       - p: "Coming soon"
- 
+  - name: "Abubakari Adam"
+    img: 'Abu.jpg'
+    position: "Installation and training Guru"
+#    social: 
+#      - title: linkedin
+#        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
+    bio:
+      - p: "Coming soon"	
+  - name: "Luís Carvão"
+    img: 'Luis.jpg'
+    position: "Installation and training Guru"
+#    social: 
+#      - title: linkedin
+#        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
+    bio:
+      - p: "Coming soon"
 
         
         
