@@ -7,7 +7,7 @@ services:
     img: scopes.png
     paragraphs:
       - p: "We have shipped anything from single machines to full labs all around the world, always making sure we get the voltage and plugs exactly right. We can help you create your perfect Mini or Mobile lab, or set up a full Fab Academy ready lab in your space. Want more? We custom designed labs from small shops to industrial scale to serve specific needs and industries. We are also there to help you continue your work, with equipment upgrades and re-supply of consumables and materials for labs we install and those who participate in Fab Academy. "
-  - title: "Global services and compatibility"
+  - title: "Global services and transport"
     orientation: inverted
     img: fablabsmap.jpg
     paragraphs:
