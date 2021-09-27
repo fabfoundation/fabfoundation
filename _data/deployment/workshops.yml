@@ -1,13 +1,13 @@
-id: installation
+id: workshops
 hastitle: true
-title: "Installation and training"
+title: "Workshops and extended training"
 services:
-  - title: "Installation services"
+  - title: "Mastering machines"
     orientation: normal
     img: scopes.png
     paragraphs:
       - p: "coming soon"
-  - title: "Training services"
+  - title: "Mastering techniques"
     orientation: inverted
     img: fablabsmap.jpg
     paragraphs:
@@ -16,12 +16,12 @@ services:
 #      - title: "The Fab Lab Network"
 #        url: "global-community"
 #        type: "clear"
-  - title: "Pre Academy"
+  - title: "Long term management and support"
     orientation: normal
     img: machine.png
     paragraphs:
       - p: "Coming soon"
-  - title: "Fab Academy"
+  - title: "Other offers from the network"
     orientation: inverted
     img: machine.png
     paragraphs:
