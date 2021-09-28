@@ -6,7 +6,7 @@ services:
     orientation: normal
     img: scopes.png
     paragraphs:
-      - p: "In almost all cases we come and do the installation and training on-site, bringing in experts from our global team, to assure they speak the language and understand the local context and customs. We work with skilled professionals who have completed Fab Academy and installed machines in many locations - just check out some of the countries we have worked in, and the previous clients we engaged with."
+      - p: "In almost all cases we come and do the installation and training on-site, bringing in experts from our global team, to assure they speak the language and understand the local context and customs. We work with skilled professionals who have completed Fab Academy and installed machines in many locations - <a href=\"\#clients\">just check out some of the countries we have worked in, and the previous clients we engaged with.<\/a>"
   - title: "Installation services"
     orientation: inverted
     img: scopes.png
