@@ -16,7 +16,7 @@ services:
     orientation: normal
     img: fablabsmap.jpg
     paragraphs:
-      - p: "Coming soon"
+      - p: "To make sure your local team will not only know how to use the equipment, but will use them safely and efficiently, we offer 1 to several weeks of on-site training (depending on the inventory). Going from basic safety training and running the equipment (using existing files, choice of materials and tooling, troubleshooting common faults) all the way to managing the space(s), communities and programs, we’ll be with you all the way. Before leaving the tools in the capable hands of your team, we also always make sure they know where to find the additional resources the Foundation offers, and how to use them."
 #    buttons:
 #      - title: "The Fab Lab Network"
 #        url: "global-community"
@@ -25,12 +25,12 @@ services:
     orientation: inverted
     img: machine.png
     paragraphs:
-      - p: "Coming soon"
+      - p: "If you’d like to participate in the global Fab Academy program, for local students, or your local team, we can set you up for success. In the Pre-Academy we don’t only offer all the knowledge we normally use in training, but add design skills and creating files for specific equipment and teach how to smoothly use version control and employ project and time management techniques to make sure everyone is ready for the first lecture."
   - title: "Fab Academy"
     orientation: normal
     img: machine.png
     paragraphs:
-      - p: "Coming soon"
+      - p: "The Fab Academy is a fast paced, hands-on learning experience where students learn rapid-prototyping by planning and executing a new project each week, resulting in a personal portfolio of technical accomplishments. This highly successful program has been running for many years both in the Center for Bits and Atoms at MIT, and globally as overseen by the Fab Foundation. <a href=\"https://fabacademy.org/\">Learn more on the Fab Academy website.<\/a>"
 hasmorebutton: false
 morebuttontitle: ""
 morebuttonurl: ""
