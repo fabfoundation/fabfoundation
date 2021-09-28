@@ -1,10 +1,10 @@
 blueclaims:
   - title: "Procurement and transport"
     icon: fablabs
-    link: projects-initiatives
+    link: procurement
   - title: "Consultancy and design"
     icon: makers
-    link: education
+    link: design
   - title: "Global connections and expertise"
     icon: students
-    link: global-community
+    link: training
