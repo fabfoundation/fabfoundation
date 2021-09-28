@@ -1,4 +1,4 @@
-id: fabevents
+id: images
 hastopbanner: false
 topbanner:
 hascarousel: true
@@ -6,26 +6,15 @@ carouselbackground: fab16banner.jpg
 carousel:
   - img: banner_events2.jpg
   - img: banner_events3.png
-hastitle: true
+hastitle: false
 title: "We organize the largest event on digital fabrication where you can learn, share and connect. Join us for FAB16 this year."
-hassubtitle: true
+hassubtitle: false
 subtitle: "Each year we offer members of the more than 1,750 worldwide Fab Labs a space to gather, share, collaborate, explore and, of course, fabricate. Join us this year August 9-15 2021, online for the second time! We will have daily symposiums, workshops and surprise challenges!"
 haslongtext: false
 longtext:
-hasbuttons: true
+hasbuttons: false
 buttons:
   - title: "Check out all Fabx Events"
     url: "http://fabevent.org/"
     type: clear
-  - title: "FAB16 conference"
-    url: "http://fab16.fabevent.org/"
-    type: red
-  - title: "FAB16 Boston Hub"
-    url: "https://fabfoundation.org/fab16bostonhub/"
-    type: clear
-  - title: "Last year's FABxLive"
-    url: "http://fabxlive.fabevent.org/"
-    type: red
-  - title: "FABxLive Report"
-    url: "http://www.fabfoundation.org/uploads/FinalFABxLiveReport.pdf"
-    type: clear   
+
