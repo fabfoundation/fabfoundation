@@ -9,7 +9,7 @@ services:
       - p: "We have shipped anything from single machines to full labs all around the world, always making sure we get the voltage and plugs exactly right. We can help you create your perfect Mini or Mobile lab, or set up a full Fab Academy ready lab in your space. Want more? We custom designed labs from small shops to industrial scale to serve specific needs and industries. We are also there to help you continue your work, with equipment upgrades and re-supply of consumables and materials for labs we install and those who participate in Fab Academy. "
   - title: "Global services and transport"
     orientation: inverted
-    #img: fablabsmap.jpg
+    img: fablabsmap.jpg
     paragraphs:
       - p: "We can (and have) deliver(ed) (almost) anywhere, through any means - Air, sea, road, or a combination of those where needed. We can get your equipment to the closest sea- or airport, or straight to your door. Because of our direct connection with vendors, we have access to discounts that can be very significant when it comes to larger setups, and we forward all those discounts to you."
 #    buttons:
