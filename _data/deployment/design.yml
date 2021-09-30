@@ -7,9 +7,9 @@ services:
     img: design_and_layout.png
     paragraphs:
       - p: "From optimizing space in mobile labs to designing the proper flow of people and materials through large spaces with hundreds of students and faculty, we can help you design the perfect Fab Lab for your organization. From the placement of the machines to the proper adaptation of air handling, electrical systems and more, we accompany you in creating the perfect space in which your users can safely engage with the machines, tools and equipment."
-  - title: "Choice of equipment, materials and tools"
+  - title: ""
     orientation: inverted
-    img: fablabsmap.jpg
+    img: equipment_materials_tools.png
     paragraphs:
       - p: "The Fab Foundation has worked with the manufacturers and vendors of all the standard Fab Lab machines, tools and consumables for many years, and collaborates with the MIT Center for Bits and Atoms to assure we use the latest and best adapted tools and products during our deployments. Whether it's a small mini lab in a school, or a giant super lab dedicated to advanced prototyping, research and development, we can help you choose and install the right tools for the job."
 #    buttons:
