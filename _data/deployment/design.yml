@@ -16,14 +16,14 @@ services:
 #      - title: "The Fab Lab Network"
 #        url: "global-community"
 #        type: "clear"
-  - title: "Partners and connections to local organisations"
+  - title: ""
     orientation: normal
-    img: fablabsmap.png
+    img: partners_connections.png
     paragraphs:
       - p: "The most successful labs have strong partnerships with both global and local organisations, from educational institutions, non- and for profit organisations to governments. We can help you find the right partners and design the right model for combined use of the lab. Fab Labs are often included in larger projects - we can show you how to properly balance the use of assets in a larger context."
-  - title: "Business model and sustainability"
+  - title: ""
     orientation: inverted
-    img: machine.png
+    img: business_sustainability.png
     paragraphs:
       - p: "After the initial investment, Fab Labs need consumables, materials and human resources. Machine parts need to be maintained and replaced from time to time and projects and their needs evolve. We can help you plan the opening of the lab, but also the following years to make sure you and your users can continue to invent, build and collaborate in a vibrant and sustainable environment."
 hasmorebutton: false
