@@ -14,7 +14,7 @@ services:
       - p: "When it comes to installing your lab, we generally send 2 experts to your site for 1 full week - changing the duration depending on the inventory. Tasks will include the unpacking of all items, assembly of tools which need this, setup of all the machines and performing tests to make sure everything operates correctly. Add on to that the organization of the space and tools, where we label items, create custom signage and fine tune the layout with the local team."
   - title: ""
     orientation: normal
-    img: training.jpg
+    img: training.png
     paragraphs:
       - p: "To make sure your local team will not only know how to use the equipment, but will use them safely and efficiently, we offer 1 to several weeks of on-site training (depending on the inventory). Going from basic safety training and running the equipment (using existing files, choice of materials and tooling, troubleshooting common faults) all the way to managing the space(s), communities and programs, we’ll be with you all the way. Before leaving the tools in the capable hands of your team, we also always make sure they know where to find the additional resources the Foundation offers, and how to use them."
 #    buttons:
