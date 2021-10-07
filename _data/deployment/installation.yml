@@ -4,17 +4,17 @@ title: "Installation and training"
 services:
   - title: ""
     orientation: normal
-    img: /deployement/tools_teams.png
+    img: /deployment/tools_teams.png
     paragraphs:
       - p: "In almost all cases we come and do the installation and training on-site, bringing in experts from our global team, to assure they speak the language and understand the local context and customs. We work with skilled professionals who have completed Fab Academy and installed machines in many locations - <a href=\"#clients\">just check out some of the countries we have worked in, and the previous clients we engaged with.<\/a>"
   - title: ""
     orientation: inverted
-    img: /deployement/installation.png
+    img: /deployment/installation.png
     paragraphs:
       - p: "When it comes to installing your lab, we generally send 2 experts to your site for 1 full week - changing the duration depending on the inventory. Tasks will include the unpacking of all items, assembly of tools which need this, setup of all the machines and performing tests to make sure everything operates correctly. Add on to that the organization of the space and tools, where we label items, create custom signage and fine tune the layout with the local team."
   - title: ""
     orientation: normal
-    img: /deployement/training.png
+    img: /deployment/training.png
     paragraphs:
       - p: "To make sure your local team will not only know how to use the equipment, but will use them safely and efficiently, we offer 1 to several weeks of on-site training (depending on the inventory). Going from basic safety training and running the equipment (using existing files, choice of materials and tooling, troubleshooting common faults) all the way to managing the space(s), communities and programs, we’ll be with you all the way. Before leaving the tools in the capable hands of your team, we also always make sure they know where to find the additional resources the Foundation offers, and how to use them."
 #    buttons:
@@ -23,12 +23,12 @@ services:
 #        type: "clear"
   - title: ""
     orientation: inverted
-    img: /deployement/pre_academy.png
+    img: /deployment/pre_academy.png
     paragraphs:
       - p: "If you’d like to participate in the global Fab Academy program, for local students, or your local team, we can set you up for success. In the Pre-Academy we don’t only offer all the knowledge we normally use in training, but add design skills and creating files for specific equipment and teach how to smoothly use version control and employ project and time management techniques to make sure everyone is ready for the first lecture."
   - title: ""
     orientation: normal
-    img: /deployement/fab_academy.png
+    img: /deployment/fab_academy.png
     paragraphs:
       - p: "The Fab Academy is a fast paced, hands-on learning experience where students learn rapid-prototyping by planning and executing a new project each week, resulting in a personal portfolio of technical accomplishments. This highly successful program has been running for many years both in the Center for Bits and Atoms at MIT, and globally as overseen by the Fab Foundation. <a href=\"https://fabacademy.org/\">Learn more on the Fab Academy website.<\/a>"
 hasmorebutton: false
