@@ -2,28 +2,28 @@ id: workshops
 hastitle: true
 title: "Workshops and extended training"
 services:
-  - title: "Mastering machines"
+  - title: ""
     orientation: normal
-    img: scopes.png
+    img: mastering_machines.png
     paragraphs:
       - p: "coming soon"
-  - title: "Mastering techniques"
+  - title: ""
     orientation: inverted
-    img: fablabsmap.jpg
+    img: mastering_techniques.png
     paragraphs:
       - p: "Coming soon"
 #    buttons:
 #      - title: "The Fab Lab Network"
 #        url: "global-community"
 #        type: "clear"
-  - title: "Long term management and support"
+  - title: ""
     orientation: normal
-    img: machine.png
+    img: management_support.png
     paragraphs:
       - p: "Coming soon"
-  - title: "Other offers from the network"
+  - title: ""
     orientation: inverted
-    img: machine.png
+    img: network_offers.png
     paragraphs:
       - p: "Coming soon"
 hasmorebutton: false
