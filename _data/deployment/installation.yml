@@ -26,7 +26,7 @@ services:
     img: pre_academy.png
     paragraphs:
       - p: "If you’d like to participate in the global Fab Academy program, for local students, or your local team, we can set you up for success. In the Pre-Academy we don’t only offer all the knowledge we normally use in training, but add design skills and creating files for specific equipment and teach how to smoothly use version control and employ project and time management techniques to make sure everyone is ready for the first lecture."
-  - title: "Fab Academy"
+  - title: ""
     orientation: normal
     img: fab_academy.png
     paragraphs:
