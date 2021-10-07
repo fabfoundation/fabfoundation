@@ -12,7 +12,7 @@ services:
     img: installation.png
     paragraphs:
       - p: "When it comes to installing your lab, we generally send 2 experts to your site for 1 full week - changing the duration depending on the inventory. Tasks will include the unpacking of all items, assembly of tools which need this, setup of all the machines and performing tests to make sure everything operates correctly. Add on to that the organization of the space and tools, where we label items, create custom signage and fine tune the layout with the local team."
-  - title: "Training services"
+  - title: ""
     orientation: normal
     img: training.jpg
     paragraphs:
