@@ -6,7 +6,7 @@ services:
     orientation: normal
     img: mastering_machines.png
     paragraphs:
-      - p: "Standards labs have a few 3D printers and a laser cutter, CNC Mill and vinyl cutter. But what if you’d like to go beyond that? We can help you set up a full printer farm with multi materials processes, or a full metal machining setup, and offer training to go along. Working with Fab Academy graduates from all over the world, we understand the importance of locally relevant teaching and projects."
+      - p: "Standard labs have a few 3D printers and a laser cutter, CNC Mill and vinyl cutter. But what if you’d like to go beyond that? We can help you set up a full printer farm with multi materials processes, or a full metal machining setup, and offer training to go along. Working with Fab Academy graduates from all over the world, we understand the importance of locally relevant teaching and projects."
   - title: ""
     orientation: inverted
     img: mastering_techniques.png
