@@ -4,12 +4,12 @@ title: "Design and consultancy"
 services:
   - title: ""
     orientation: normal
-    img: /deployement/design_and_layout.png
+    img: /deployment/design_and_layout.png
     paragraphs:
       - p: "From optimizing space in mobile labs to designing the proper flow of people and materials through large spaces with hundreds of students and faculty, we can help you design the perfect Fab Lab for your organization. From the placement of the machines to the proper adaptation of air handling, electrical systems and more, we accompany you in creating the perfect space in which your users can safely engage with the machines, tools and equipment."
   - title: ""
     orientation: inverted
-    img: /deployement/equipment_materials_tools.png
+    img: /deployment/equipment_materials_tools.png
     paragraphs:
       - p: "The Fab Foundation has worked with the manufacturers and vendors of all the standard Fab Lab machines, tools and consumables for many years, and collaborates with the MIT Center for Bits and Atoms to assure we use the latest and best adapted tools and products during our deployments. Whether it's a small mini lab in a school, or a giant super lab dedicated to advanced prototyping, research and development, we can help you choose and install the right tools for the job."
 #    buttons:
@@ -18,12 +18,12 @@ services:
 #        type: "clear"
   - title: ""
     orientation: normal
-    img: /deployement/partners_connections.png
+    img: /deployment/partners_connections.png
     paragraphs:
       - p: "The most successful labs have strong partnerships with both global and local organisations, from educational institutions, non- and for profit organisations to governments. We can help you find the right partners and design the right model for combined use of the lab. Fab Labs are often included in larger projects - we can show you how to properly balance the use of assets in a larger context."
   - title: ""
     orientation: inverted
-    img: /deployement/business_sustainability.png
+    img: /deployment/business_sustainability.png
     paragraphs:
       - p: "After the initial investment, Fab Labs need consumables, materials and human resources. Machine parts need to be maintained and replaced from time to time and projects and their needs evolve. We can help you plan the opening of the lab, but also the following years to make sure you and your users can continue to invent, build and collaborate in a vibrant and sustainable environment."
 hasmorebutton: false
