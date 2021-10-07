@@ -2,9 +2,9 @@ id: images
 hastopbanner: false
 topbanner:
 hascarousel: true
-carouselbackground: deployment_01.jpg
+carouselbackground: /deployment/deployment_01.jpg
 carousel:
-  - img: deployment_02.jpg
+  - img: /deployment/deployment_02.jpg
 hastitle: false
 title: "We organize the largest event on digital fabrication where you can learn, share and connect. Join us for FAB16 this year."
 hassubtitle: false
