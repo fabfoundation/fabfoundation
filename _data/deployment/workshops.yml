@@ -4,12 +4,12 @@ title: "Workshops and extended training"
 services:
   - title: ""
     orientation: normal
-    img: mastering_machines.png
+    img: /deployement/mastering_machines.png
     paragraphs:
       - p: "Standard labs have a few 3D printers and a laser cutter, CNC Mill and vinyl cutter. But what if you’d like to go beyond that? We can help you set up a full printer farm with multi materials processes, or a full metal machining setup, and offer training to go along. Working with Fab Academy graduates from all over the world, we understand the importance of locally relevant teaching and projects."
   - title: ""
     orientation: inverted
-    img: mastering_techniques.png
+    img: /deployement/mastering_techniques.png
     paragraphs:
       - p: "Next to digitally controlled machines, Fab Labs offer tools and materials to mold and cast products, create composite materials and parts and create reliable embedded electronics. We can offer training sessions on all the techniques employed in a standard lab, from safely handling materials and tools to advanced programming."
 #    buttons:
@@ -18,12 +18,12 @@ services:
 #        type: "clear"
   - title: ""
     orientation: normal
-    img: management_support.png
+    img: /deployement/management_support.png
     paragraphs:
       - p: "Sometimes you need more than just the start. The Fab Foundation offers long term support and management of your space(s) to make sure you don’t just hit the ground running, but you keep improving your projects and local impact. From months to several years, we can help you find the right person(s) for your Fab Lab and it’s projects!"
   - title: ""
     orientation: inverted
-    img: network_offers.png
+    img: /deployement/network_offers.png
     paragraphs:
       - p: "The amazing global network of labs has produced myriads of other projects and offers that we are happy to connect to you and your efforts. Whether it’s workshops specifically designed for children and young learners, or the creation of content and solutions for humanitarian situations, there are groups out there working on just that. Instead of re-inventing the wheel, join the global network!"
 hasmorebutton: false
