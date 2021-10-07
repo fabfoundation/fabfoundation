@@ -9,28 +9,28 @@ sponsors:
     img: ge.jpg
   - organization: IEEE
     url: 'https://ieee-cas.org/'
-    img: IEEE_Cas.png
+    img: /deployement/IEEE_Cas.png
   - organization: the World Bank
     url: 'https://www.worldbank.org/en/home'
-    img: World-Bank.png
+    img: /deployement/World-Bank.png
   - organization: UNDP
     url: 'https://www.undp.org/'
-    img: undp.png
+    img: /deployement/undp.png
   - organization: Kenya Red Cross
     url: 'https://www.redcross.or.ke/'
-    img: kenya-red-cross.png
+    img: /deployement/kenya-red-cross.png
   - organization: Jordan Crown Prince foundation
     url: 'https://www.cpf.jo/en'
-    img: Jordan_foundation.png
+    img: /deployement/Jordan_foundation.png
   - organization: IIT Bombay
     url: 'https://www.iitb.ac.in/'
-    img: IIT_Mumbai.svg
+    img: /deployement/IIT_Mumbai.svg
   - organization: Kerala startup mission
     url: 'https://startupmission.kerala.gov.in/'
-    img: kerala_startup.jpeg
+    img: /deployement/kerala_startup.jpeg
   - organization: STPI
     url: 'https://bhubaneswar.stpi.in/home'
-    img: stpi.png
+    img: /deployement/stpi.png
 hasbuttons: true
 buttons:
   - title: Contact the team
