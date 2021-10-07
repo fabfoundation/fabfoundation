@@ -20,7 +20,7 @@ cards:
     bio:
       - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe."
   - name: "Luís Carvão"
-    img: 'Luis.jpg'
+    img: '/deployement/Luis.jpg'
     position: "Installation and training Guru"
     social: 
       - title: linkedin
