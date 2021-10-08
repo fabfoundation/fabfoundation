@@ -27,6 +27,14 @@ cards:
         url: "https://www.linkedin.com/in/luiscarvao/"
     bio:
       - p: "Luís Carvão has a master's degree in Architecture and Urbanism. Just before graduating, in 2012, he was invited to join EDP’s Fab Lab, the first in Portugal, as a technical expert (guru). Two years later, he graduated from Fab Academy and with a growing interest in the course, in 2014, he started lecturing in Portugal with the support of FabLab EDP. From 2016 on, Luís has been collaborating with the Fab Foundation as a senior consultant to assist on instruction and deployment of FabLabs all around the world."
+  - name: "Romain Di-vozzo"
+    img: 'romain.jpg'
+    position: "Installation and training Guru"
+#    social: 
+#      - title: linkedin
+#        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
+    bio:
+      - p: "Romain Di Vozzo is Head of Fablab Digiscope | LISN | UPSaclay and Project Manager for Fablabs at Université Paris-Saclay (France). A former student of SPEAP - the Experimental Master in Arts and Politics created by philosopher Bruno Latour at SciencesPo Paris -, he originally trained in Arts, History of the Arts, and added Digital Fabrication to his field of expertise by graduating from Fab Academy in 2012 (AS220). Romain has dedicated 20 years of his life to Fine Arts before starting to explore new ways of bringing publics to empower themselves through Design and Digital Fabrication Technics. He holds a diploma in Bio Design (Bio Academy 2015) and in Fashion Design (Fabricademy 2019). Romain is an advocate for Distributed Design as a contribution from fablabs to mitigate the hazardous effects of a +1.5C global temperature increase on human and non-human populations, an engagement strengthened by numerous years working for Greenpeace France. Along the years, he has alternatively taken part to several community-oriented missions for the Fab Foundation like the coordination of FAB14 in France (2018) and Fab Academy Procurement Assistant."
   - name: "Sibu Saman"
     img: 'Sibu.jpg'
     position: "Installation and training Guru"
@@ -37,14 +45,6 @@ cards:
       - p: "Coming soon"
   - name: "Francisco Sanchez"
     img: 'Fran.jpg'
-    position: "Installation and training Guru"
-#    social: 
-#      - title: linkedin
-#        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
-    bio:
-      - p: "Coming soon"
-  - name: "Romain Di-vozzo"
-    img: 'Romain.jpg'
     position: "Installation and training Guru"
 #    social: 
 #      - title: linkedin
