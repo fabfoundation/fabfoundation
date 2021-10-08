@@ -28,7 +28,7 @@ cards:
     bio:
       - p: "Luís Carvão has a master's degree in Architecture and Urbanism. Just before graduating, in 2012, he was invited to join EDP’s Fab Lab, the first in Portugal, as a technical expert (guru). Two years later, he graduated from Fab Academy and with a growing interest in the course, in 2014, he started lecturing in Portugal with the support of FabLab EDP. From 2016 on, Luís has been collaborating with the Fab Foundation as a senior consultant to assist on instruction and deployment of FabLabs all around the world."
   - name: "Romain Di-vozzo"
-    img: 'romain.jpg'
+    img: '/deployment/romain.jpg'
     position: "Installation and training Guru"
 #    social: 
 #      - title: linkedin
