@@ -13,7 +13,7 @@ resources:
       - p: "· Fab Academy sites will receive 1 – 10 seat network license of SolidWorks Education Edition software for teaching/training. Please apply for sponsorship. Once you have applied for sponsorship, instructions for downloading software will be sent by email. Please allow two weeks for delivery."
     buttons:
       - title: "APPLY"
-        url: 'https://www.surveymonkey.com/s/LW7Z7VL'
+        url: 'https://app.smartsheet.com/b/form/11f713f8a8444eb292008e2b726de116'
         type: clear
   - title: "Discount on new eco-friendly 3D Printing PLA and ABS filament"
     id: 'dprintlife'
