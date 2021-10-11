@@ -36,7 +36,7 @@ cards:
     bio:
       - p: "Romain Di Vozzo is Head of Fablab Digiscope | LISN | UPSaclay and Project Manager for Fablabs at Université Paris-Saclay (France). A former student of SPEAP - the Experimental Master in Arts and Politics created by philosopher Bruno Latour at SciencesPo Paris -, he originally trained in Arts, History of the Arts, and added Digital Fabrication to his field of expertise by graduating from Fab Academy in 2012 (AS220). Romain has dedicated 20 years of his life to Fine Arts before starting to explore new ways of bringing publics to empower themselves through Design and Digital Fabrication Technics. He holds a diploma in Bio Design (Bio Academy 2015) and in Fashion Design (Fabricademy 2019). Romain is an advocate for Distributed Design as a contribution from fablabs to mitigate the hazardous effects of a +1.5C global temperature increase on human and non-human populations, an engagement strengthened by numerous years working for Greenpeace France. Along the years, he has alternatively taken part to several community-oriented missions for the Fab Foundation like the coordination of FAB14 in France (2018) and Fab Academy Procurement Assistant."
   - name: "Francisco Sanchez"
-    img: '/deployment/fran.jpg'
+    img: '/deployment/fran.jpeg'
     position: "Installation and training Guru"
 #    social: 
 #      - title: linkedin
