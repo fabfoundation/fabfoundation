@@ -1,16 +1,8 @@
 <!--Standard section template -->
 <section id="{{ include.texts.id }}" data-aos="fade-up">
   <div class="container standard">
-    {% if include.texts.hastopbanner == true %}
-    <div class="row text-center banner">
-      <div
-        class="img-large banner-img"
-        style="background-image: url('{{ site.baseurl }}/uploads/{{
-          include.texts.topbanner
-        }}');"
-      ></div>
     </div>
-    {% endif %} {% if include.texts.hascarousel ==true %}
+    {% if include.texts.hascarousel ==true %}
 
     <div class="bs-example">
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -48,6 +40,5 @@
       </div>
     </div>
     {% endif %}
-  </div>
   <!-- close container -->
 </section>
