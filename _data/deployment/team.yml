@@ -44,7 +44,7 @@ cards:
     bio:
       - p: "Francisco Sanchez (Barcelona, Spain) has an MSc in Civil Engineering with specialty in structural engineering and LEED AP in Building Design and Construction. Graduated in Fab Academy and Bio Academy programs, advocate of Free and Open Source Software and passionate about nature conservation and cultural diversity. Sailor, diver and pilot, as a proper nerd, he loves spending his free time exploring the edge of technology and Digital Fabrication with a mobile Fab Lab known as The Beach Lab."
   - name: "Abubakari Adam"
-    img: 'Abu.jpg'
+    img: '/deployment/Abu.jpg'
     position: "Installation and training Guru"
 #    social: 
 #      - title: linkedin
