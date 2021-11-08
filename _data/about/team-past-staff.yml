@@ -57,14 +57,14 @@ cards:
     social: 
       - title: linkedin
         url: "https://www.linkedin.com/in/danielsmithwick"
-  - name: "Sonya Pryor-Jones"
-    img: 'Sonya_Pryor_Jones.png'
-    position: "Chief Implementation Officer"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/sonya-pryor-jones"
-    bio:
-      - p: ""
+#  - name: "Sonya Pryor-Jones"
+#    img: 'Sonya_Pryor_Jones.png'
+#    position: "Chief Implementation Officer"
+#    social: 
+#      - title: linkedin
+#        url: "https://www.linkedin.com/in/sonya-pryor-jones"
+#    bio:
+#      - p: ""
   - name: "Liz Whitewolf"
     img: 'Liz_Whitewolf.png'
     position: "Fab Foundation (K-12) Education Director"
