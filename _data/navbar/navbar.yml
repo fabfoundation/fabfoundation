@@ -28,6 +28,8 @@ sections:
         link: 'projects-initiatives#fabresearch'
       - title: Fab City
         link: 'projects-initiatives#fabcity'
+      - title: The Resilience Collective
+        link: 'projects-initiatives#resiliencecollective'
       - title: Fab Economy
         link: 'projects-initiatives#fabeconomy'
       - title: Fab House
