@@ -29,6 +29,16 @@ cards:
       - p: "Fab City is a global initiative to develop locally productive and globally connected self-sufficient cities. It comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste."
     bgcolor: "darkblue"
   - orientation: normal
+    title: The Resilience Collective
+    id: resiliencecollective
+    img: rc_header.png
+    url: "https://theresiliencecollective.org/"
+    has_external_link: true
+    description:
+      - p: |
+          The Resilience Collective is a group of several humanitarian, development and research organizations working together on a collective journey to design, test, document and scale the use of digital technology for the most vulnerable populations. They develop RIFs (Resilience Innovation Facilities) in different contexts, focussing on education, protection and development of businesses and entrepreneurship. There are sites in Burkina Faso, Hungary, Djibouti, Morocco, and many more countries. Currently active members include Terre des hommes, Geneva University, Kenya Red Cross, Digital Gravity and others. 
+    bgcolor: "lightblue"
+  - orientation: normal
     title: Future Workforce Now
     id: fabworkforce
     img: STEMChattanooga.jpg
