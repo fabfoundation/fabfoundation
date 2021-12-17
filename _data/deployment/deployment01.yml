@@ -1,0 +1,27 @@
+id: design
+hastitle: true
+title: >-
+  Design and consultancy
+hassubtitle: false
+subtitle: Check out our gallery of projects creating impact all over the globe.
+haslongtext:
+longtext:
+hasbuttons: false
+buttons:
+  - title:
+    url:
+    type: clear
+  - title:
+    url:
+    type: red
+hasprojectgallery: true
+projects:
+  - title: Design and layout
+    id: projects-initiatives
+    img: fabcity.jpg
+  - title: Equipment materials and tools
+    id: fabworkforce
+    img: STEMChattanooga.jpg
+  - title: Partners and connections
+    id: fabeconomy
+    img: woodstructure_lowres.jpg
