@@ -1,0 +1,44 @@
+id: covid
+hastitle: true
+title: >-
+  COVID-19 Response:  We champion the Resilience that Makers bring to their Communities Around the World.
+hassubtitle: true
+subtitle: >-
+  The global pandemic has affected Fab Lab communities in every way imaginable, but through it all,
+  there has been incredible support for one another and for local community
+  need. Millions of PPE products have been made and distributed through the Fab Lab
+  Network, thousands of designs have been modified and shared, and new
+  partnerships have formed as we all try and help each other to stay healthy. While 2020 was a year of  a year of uncertainty and extreme hardship, we are cautiously optimistic  that 2021 will find most of the community in a better place.
+haslongtext: true
+longtext: >-
+  Below you will find a few resources on the COVID-19 response from the Fab Lab
+  Network as well as the larger Maker community. An updated Fab Lab Manufacturing COVID-19 Survey Response Summary is coming soon!
+hasbuttons: true
+buttons:
+  - title: Fab Lab Manufacturing COVID-19 Response
+    url: >-
+      https://fabfoundation.org/uploads/FabLabCovidSurvey.pdf
+    type: red
+  - title: FabDoesNotWait Global COVID-19 Response Regional Talks
+    url: >-
+      https://www.youtube.com/watch?v=i7zcE_9qX2w&list=PLLgC0nB1k-MOxASPHod4S8W9IhhtPZlcL
+    type: clear
+  - title: 'OSMS and NOM, Design | Make | Protect COVID-19 Response'
+    url: >-
+      https://opensourcemedicalsupplies.org/wp-content/uploads/2021/01/Design-Make-Protect_21.01.27.pdf
+    type: red
+  - title: 'K-12 Virtual Learning Support'
+    url: >-
+      https://www.scopesdf.org/covid-19/
+    type: clear   
+hasprojectgallery: false
+projects:
+  - title: Fab Research
+    id: projects-initiatives
+    img: research.png
+  - title: Fab Economy
+    id: fabeconomy
+    img: woodstructure_lowres.jpg
+  - title: Fab City Global Initiative
+    id: fabcity
+    img: fabcity.jpg
