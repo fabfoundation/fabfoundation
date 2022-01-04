@@ -1,7 +1,7 @@
 id: covid
 hastitle: true
 title: >-
-  COVID-19 Response:  We champion the Resilience that Makers bring to their Communities Around the World.
+  Design and consultancy
 hassubtitle: true
 subtitle: >-
   The global pandemic has affected Fab Lab communities in every way imaginable, but through it all,
@@ -30,7 +30,7 @@ buttons:
   - title: 'K-12 Virtual Learning Support'
     url: >-
       https://www.scopesdf.org/covid-19/
-    type: clear   
+    type: clear
 hasprojectgallery: false
 projects:
   - title: Fab Research
