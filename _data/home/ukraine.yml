@@ -15,13 +15,15 @@ title: "Fab Ukraine"
 hassubtitle: false
 subtitle: ""
 haslongtext: true
-longtext: "<p>Dear Fab Lab Community,
-The humanitarian crisis in Ukraine is rapidly escalating. With more than 2,500,000 refugees on the move in the last few weeks, combined with the brutal tactics of war employed by Putin and the Russian government, this crisis worsens each day.   We stand by and support our brothers and sisters in Ukraine, and denounce the cruel and inhumane war waged on the Ukrainian people and the invasion of their sovereign nation.</p><p>We have heard from many of you, wanting to find ways to help. First and foremost at this time our concern is the humanitarian crisis, the safety and wellbeing of the Ukrainian people. Later we can support  the rebuilding of their community. For now we are exploring ways to help and will publish them here in the days and weeks to come.</p>
-<p>The first fab lab in Ukraine was destroyed in the lead up to Russia’s annexation of Crimea in 2014. Since that time,  a network of fab labs and makerspaces  has been established across Ukraine, at least one of which has been destroyed in this war, the others shuttered, and we have not heard from the people who run them.  We are deeply concerned about the loss of life, of home, of the ability to communicate, of the safety and security of our friends and colleagues in Ukraine.</p>
-<p>Please contact us at FabUkraine[AT]fabfoundation.org if you have resources and ideas to offer help, or  if you are in Ukraine or any of the neighboring countries that are receiving and hosting refugees and you need the support of the fab lab network.</p>
-<p>HOW TO HELP?  We have listed a few ways below, and this list will grow and change frequently.</p>
-<p>Fab Foundation and the global community uphold our values of social responsibility, collaboration, sustainability, and democratizing access to the tools and knowledge of technology innovation to improve lives and livelihoods across the world. We are global citizens, working together to build a peaceful, secure and prosperous future for all.  We use these values and this strong network to support Ukraine.
-With peace and love in partnership,
+longtext: "<p>Dear Fab Lab Community,</p>
+<p>The brutal invasion of the sovereign nation of Ukraine and inhumane tactics against its civil population have led to the worst humanitarian crisis Europe has seen since WW2 with nearly 3,000,000 refugees fleeing the country. The crisis is growing worse each day as the war continues.  FabFoundation strongly condemns this war that Putin and the Russian government is waging on Ukraine and its people.</p>
+<p>We stand by and support our Ukrainian brothers and sisters and are deeply moved by the outpouring of support from the community. At this moment - the safety and well-being of the Ukrainian people is our first and foremost priority. After the acute immediate humanitarian crisis is dealt with - we will provide support to rebuild the community. In the days and weeks to come we are gathering and exploring ways to help and will be publishing them here.</p>
+<p>We would also like to acknowledge the complexity of politics surrounding the state-funded fab labs in Russia. We cannot possibly understand the forces that come to bear upon these labs in their current situation, and feel we are not in a position to judge. This does not mean we support the Russian State, in fact, quite the opposite. We recognize and acknowledge the distinction between individuals and states.  And we welcome fab labs and makerspaces that share our values wherever they are, meaning spaces that provide inclusive and equitable access to education and  technology through collaborative social benefit, sustainability, and economic development programs that make positive impact in their communities.</p>
+<p>The first fab lab in Ukraine, IZOLAB, was destroyed in 2014 and its premises turned into a military prison in the lead up to Russia’s occupation of Crimea and establishment of the breakaway states in Donetsk and Luhansk regions. Since then, a network of fab labs and makerspaces has been established across Ukraine.   Most of the humanitarian focused fab labs have been destroyed in this war, as have other community fab labs and makerspaces. Some lab managers have managed to get out of the country safely,  and others have gone silent. We are deeply concerned about the tragic loss of life, of home, of the ability to communicate, of the safety and security of our friends and colleagues in Ukraine.</p>
+<p>Please contact us at FabUkraine@fabfoundation.org if you have resources and ideas to offer help, or  if you are in Ukraine or any of the neighboring countries that are receiving and hosting refugees and you need the support of the fab lab network.</p>
+<p>HOW TO HELP?
+We have listed a few ways below, and this list will grow and change frequently.</p>
+<p>With peace and love in partnership,
 The Fab Foundation</p>"
 hasbuttons: true
 buttons:
@@ -33,4 +35,7 @@ buttons:
     type: red
   - title: "Offer financial or other help"
     url: 'https://www.defendukraine.org/'
+    type: red
+  - title: "Read our full newsletter with additional links"
+    url: 'https://us19.campaign-archive.com/?u=703cd11616d78536ae5d303eb&id=8711671b37'
     type: red
