@@ -1,5 +1,4 @@
-baseurl: ""
-repository: academany/fabfoundation
+repository: https://github.com/fabfoundation/fabfoundation
 
 # Site settings
 title: The Fab Foundation
