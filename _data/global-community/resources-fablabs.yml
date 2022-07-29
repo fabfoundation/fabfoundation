@@ -1,20 +1,28 @@
 id: resources-fablabs
 hastitle: true
-title: "Fab Lab resources" 
+title: "Fab Lab resources"
 resources:
   - title: "SOLIDWORKS Software Licenses"
     id: 'solidworks-license'
     img: solidworks.png
     paragraphs:
-      - p: "Dear Fab Labs,"
-      - p: "Dassault Systemes SolidWorks Corporation is a partner of Fab Labs and Fab Academy, providing SolidWorks software through sponsorship of labs in MIT’s global Fab Lab network. Only fab labs registered and listed on the official fab lab list (https://www.fablabs.io/labs) will be able to take advantage of this offer."
-      - p: "By applying for sponsorship, you agree to support SolidWorks community efforts for Fab Labs around the world by working with us as we develop case studies, social media stories, images, press releases, and user group presentations."
-      - p: "· Fab Labs will receive 1 commercial license of SolidWorks Premium Software"
-      - p: "· Fab Academy sites will receive 1 – 10 seat network license of SolidWorks Education Edition software for teaching/training. Please apply for sponsorship. Once you have applied for sponsorship, instructions for downloading software will be sent by email. Please allow two weeks for delivery."
-    buttons:
-      - title: "APPLY"
-        url: 'https://app.smartsheet.com/b/form/11f713f8a8444eb292008e2b726de116'
-        type: clear
+      - p: "Dassault Systemes Solidworks Corporation is a partner of Fab Labs and Academany, providing
+            world-class 3D Design and Engineering software through a unique sponsorship program with MIT’s
+            global Fab Lab network."
+      - p:  "I am a Fab Lab. How can I access what SOLIDWORKS has to offer?
+            If you are fab lab located within the pool of countries listed below, we invite you and your
+            makerspace to join the 3DEXPERIENCE SOLIDWORKS for Makerspaces program by Dassault Systèmes:"
+      - p: "Countries: Algeria, Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Ireland,
+            Italy, Japan, Luxembourg, Morocco, the Netherlands, Norway, Portugal, Spain, Sweden, the United
+            Kingdom, and the United States. More countries will be added soon."
+      - p: "Through the program, your fab lab manager, staff and members can receive Special pricing for
+            3DEXPERIENCE SOLIDWORKS for Makers - a collection of professional, fun to use cloud based
+            3D design tools (including 3DEXPERIENCE SOLIDWORKS Professional, 3D Creator, 3D Sculptor,
+            NC Shop Floor Programmer, Rendering, and more) that can be used on any device from
+            wherever you want, in your fab lab or from the comfort of your homes."
+      - p: >-
+            <a href="/uploads/3DEXPERIENCE_SOLIDWORKS_for_Makers.pdf" target="_blank" class="btn
+            btn-clear">APPLY</a>
   - title: "Discount on new eco-friendly 3D Printing PLA and ABS filament"
     id: 'dprintlife'
     img: 3dprintlife.png
