@@ -1,0 +1,76 @@
+id: fab-union
+hascarousel: true
+carouselbackground: mobile_fablab1.png
+carousel:
+  - img: 'fab_union/FU_01.png'
+    url: ''
+  - img: 'fab_union/FU_02.png'
+    url: ''
+  - img: 'fab_union/FU_03.png'
+    url: ''
+hastitle: true
+title: "Why a flagship Fab Lab?"
+hassubtitle: true
+subtitle: "Currently there are many partners and individuals that use digital fabrication in the area; this Flagship Fab Lab amplifies the impact that these organizations and individuals can have in the community, by providing support, training and expertise, and unifying the digital fabrication community of practice."
+hasvignettes: true
+id: mobile-fablab
+vignettes:
+  - hastitle: true
+    title: "The Opportunity"
+    orientation: normal
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "Fab Foundation and US2 propose to establish Fab UNION, a community-focused arts and creative hub, for teaching, learning and providing sustainable economic opportunity through universal access to digital fabrication, at 90-92 Union Square in the heart of the neighborhood. The renovation of a historic City asset into a community focused arts and creative hub will advance the City’s goals to revitalize Union Square into a vibrant, innovative employment district. It will celebrate the inventive and creative spirit of the neighborhood and provide local residents and workers of all ages and backgrounds with access to new opportunities. Fab UNION will be a cornerstone for the local creative economy and serve as a catalyst for individual economic mobility."
+    img: 'fab_union/FU_04.png'
+  - hastitle: true
+    title: "The Team / Collaboration"
+    orientation: inverted
+    haslead: false
+    lead: "A history of a partnership"
+    hasbody: true
+    body: "The Fab Foundation is seeking to establish its headquarters in Somerville. Fab Foundation is steward for a global network of more than 2000 digital fabrication labs, or fab labs, in more than 150 countries, all of which bring free access to the tools and processes of technology innovation and personal expression to communities across the world. Fab UNION would anchor that stewardship in Union Square, Somerville and would co-create with the Union Square community pathways to success in STEAM education, in manufacturing, in the arts, in sustainable living and production, as well as provide new opportunities for participation in the 21st Century economy. The proposed site for Fab UNION is the Union Square Fire Station, a historic building in the center of a vibrant community of 14,000 people from diverse cultures and backgrounds."
+    img: 'fab_union/FU_05.png'
+  - hastitle: true
+    title: "The Place and Programs"
+    orientation: normal
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "In partnership with Union Square community stakeholders, Fab Foundation is proposing to establish Fab UNION, a center for teaching, learning, research and economic opportunity in the historic fire station, one that would recognize and honor the past history of Union Square and Somerville, and pilot the future with the community as co-creator. Fab UNION will serve as a global portal as well as a local resource, connecting Somerville communities to the fab lab network around the world."
+    img: 'fab_union/FU_06.png'
+  - hastitle: true
+    title: "Features"
+    orientation: inverted
+    haslead: true
+    lead: "Fab UNION will provide a wide variety of programming geared toward different experience levels, age groups and interests. While this is not an exhaustive list, below are the main categories of public offerings which would be available at the Fab UNION:"
+    hasbody: true
+    body: |
+      <ul>
+      <li>Academany Courses - Intensive technical literacy courses (6 months)</li>
+        <ul>
+          <li>FabAcademy - How to Make (almost) Anything</li>
+          <li>Fabricademy - Intersection of Making, Biology and Fashion</li>
+          <li>BioAcademy - How to Grow (almost) Anything</li>
+          <li>AgroAcademy - 21st Century Food Production</li>
+        </ul>
+      <li>Teaching and Learning Center</li>
+        <ul>
+          <li>Professional development for K-12 Educators</li>
+          <li>Classroom oriented activities and programming</li>
+          <li>Fab Lab Manager Training</li>
+        </ul>
+      <li>Café and Exhibition Spaces</li>
+        <ul>
+          <li>Talks, panels and fireside conversations</li>
+          <li>Exhibitions</li>
+          <li>Receptions and book / film / media launches</li>
+        </ul>
+      </ul>
+    img: 'fab_union/FU_07.png'
+hasbuttons: true
+buttons:
+  - title: "Download the full paper"
+    url: 'resource-folder/pdfs/fab-UNION.pdf'
+    type: clear
+    target: '_blank'
