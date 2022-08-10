@@ -1,0 +1,17 @@
+id: survey
+haslogo: true
+hascarousel: false
+haslogo: false
+logo:
+height: 200px
+hastitle: true
+title: "Fab UNION Survey"
+hassubtitle: false
+subtitle: "Scroll through the schedule to see the full week of events and click on an event to register!"
+haslongtext: true
+longtext: <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMgKPzBFBUK52xJAz2altwPaPgvp7QDHEcluS-AyDc2Q4DUw/viewform?embedded=true" width="640" height="1900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+hasbuttons: false
+buttons:
+  - title: "Donate with Paypal"
+    url: 'https://www.paypal.com/donate?hosted_button_id=QMJMYZLWNYSDS'
+    type: red
