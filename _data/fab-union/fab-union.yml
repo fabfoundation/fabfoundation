@@ -12,7 +12,7 @@ hastitle: true
 title: "Why a flagship Fab Lab?"
 hassubtitle: true
 subtitle: "The Fab Foundation seeks to establish a Fab Lab, a space where the public can access digital design and manufacturing tools to make almost anything they can imagine. These tools create opportunities for STEAM education, personal and artistic expression, as well as technology development. Currently there are many partners and individuals in Somerville that use digital fabrication; this flagship Fab Lab amplifies the impact that these organizations and individuals can have in the community by providing support, training and expertise, and unifying the digital fabrication community of practice."
-hasvignettes: true
+hasvignettes: false
 id: flagship
 vignettes:
   - hastitle: true
@@ -23,12 +23,13 @@ vignettes:
     hasbody: true
     body: "Fab Foundation proposes to establish Fab Union, a community-focused arts and creative hub for teaching, learning and providing sustainable economic opportunity through universal access to digital fabrication. Fab Union would be located at 90-92 Union Square in the heart of the neighborhood. The renovation of a historic City asset into a community focused arts and creative hub will advance the City’s goals to revitalize Union Square into a vibrant, innovative employment district. It will celebrate the inventive and creative spirit of the neighborhood and provide local residents and workers of all ages and backgrounds with access to new opportunities. Fab UNION will be a cornerstone for the local creative economy and serve as a catalyst for individual economic mobility."
     img: 'fab_union/FU_04.png'
-    id: opportunity
+    hasjump: true
+    jump: opportunity
   - hastitle: true
     title: "The Community Collaboration"
     orientation: inverted
     haslead: false
-    lead: "A history of a partnership"
+    lead: ""
     hasbody: true
     body: "The Fab Foundation is seeking to establish its headquarters in Somerville. Fab Foundation is steward for a global network of more than 2,000 digital fabrication labs, or fab labs, in more than 150 countries, all of which bring free access to the tools and processes of technology innovation and personal expression to communities across the world. Fab Union would anchor that stewardship in Union Square, Somerville and would co-create with the Union Square community pathways to success in STEAM education, in manufacturing, in the arts, in sustainable living and production, as well as provide new opportunities for participation in the 21st Century economy. The proposed site for Fab Union is the Union Square Fire Station, a historic building in the center of a vibrant community of 14,000 people from diverse cultures and backgrounds."
     img: 'fablabsmap.png'

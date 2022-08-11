@@ -1,0 +1,26 @@
+id: community
+hascarousel: false
+carouselbackground: fab_union/HeroShot.png
+carousel:
+  - img: 'fab_union/FU_01.png'
+    url: ''
+  - img: 'fab_union/FU_02.png'
+    url: ''
+  - img: 'fab_union/FU_03.png'
+    url: ''
+hastitle: false
+title: "Why a flagship Fab Lab?"
+hassubtitle: false
+subtitle: "The Fab Foundation seeks to establish a Fab Lab, a space where the public can access digital design and manufacturing tools to make almost anything they can imagine. These tools create opportunities for STEAM education, personal and artistic expression, as well as technology development. Currently there are many partners and individuals in Somerville that use digital fabrication; this flagship Fab Lab amplifies the impact that these organizations and individuals can have in the community by providing support, training and expertise, and unifying the digital fabrication community of practice."
+hasvignettes: true
+id: community
+vignettes:
+  - hastitle: true
+    title: "The Community Collaboration"
+    orientation: inverted
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "The Fab Foundation is seeking to establish its headquarters in Somerville. Fab Foundation is steward for a global network of more than 2,000 digital fabrication labs, or fab labs, in more than 150 countries, all of which bring free access to the tools and processes of technology innovation and personal expression to communities across the world. Fab Union would anchor that stewardship in Union Square, Somerville and would co-create with the Union Square community pathways to success in STEAM education, in manufacturing, in the arts, in sustainable living and production, as well as provide new opportunities for participation in the 21st Century economy. The proposed site for Fab Union is the Union Square Fire Station, a historic building in the center of a vibrant community of 14,000 people from diverse cultures and backgrounds."
+    img: 'fablabsmap.png'
+    id: partnership

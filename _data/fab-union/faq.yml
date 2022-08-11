@@ -1,0 +1,51 @@
+id: faq
+hascarousel: false
+carouselbackground: fab_union/HeroShot.png
+carousel:
+  - img: 'fab_union/FU_01.png'
+    url: ''
+  - img: 'fab_union/FU_02.png'
+    url: ''
+  - img: 'fab_union/FU_03.png'
+    url: ''
+hastitle: false
+title: "Why a flagship Fab Lab?"
+hassubtitle: false
+subtitle: "The Fab Foundation seeks to establish a Fab Lab, a space where the public can access digital design and manufacturing tools to make almost anything they can imagine. These tools create opportunities for STEAM education, personal and artistic expression, as well as technology development. Currently there are many partners and individuals in Somerville that use digital fabrication; this flagship Fab Lab amplifies the impact that these organizations and individuals can have in the community by providing support, training and expertise, and unifying the digital fabrication community of practice."
+hasvignettes: true
+id: faq
+vignettes:
+  - hastitle: true
+    title: "FAQs"
+    orientation: normal
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: |
+      <ul>
+      <li>What is Fab Union?</li>
+        <ul>
+          <li>Fab Union is a response to the Request for Proposal for City of Somerville Solicitation #22-04:
+            90-92 Union Square Property Lease and Renovation
+            Submitted to the City of Somerville in September,  2021</li>
+          </ul>
+        <li>What will Fab Foundation do for Union Square?</li>
+          <ul>
+          <li>Fab Foundation will bring STEAM education and arts services and expertise, as well as free public access to technology design and fabrication tools to Union Square.</li>
+          </ul>
+        <li>What does Fab Foundation get from the Fab Union project?</li>
+          <ul>
+          <li>Fab Foundation will establish its headquarters at Fab Union, with offices and space to provide arts and STEAM educational programming.</li>
+        </ul>
+        <li>What is US2’s role in this project?</li>
+          <ul>
+          <li>90-92 Union Square, the iconic  Fire Station in the center of Union Square,  is in need of substantial renovation. Estimates for its renovation start at $4,500,000.  Union Square development partner US2 has offered to underwrite the renovation in return for arts space credit for some of its other planned Union Square developments.</li>
+        </ul>
+        <li>What do Union Square and the City of Somerville get from the Fab Union project?</li>
+          <ul>
+          <li>The City of Somerville gets an iconic public space renovated and activated for the community.</li>
+          <li>Union Square establishes an arts and maker cornerstone for the district - which is part of SomerVision, the strategic city plan for the coming 20 years, as well as the Union Square Neighborhood plan to foster arts and innovation spaces.</li>
+          <li>Fab Union supports the economic growth and employment strategy for the district.</li>
+        </ul>
+      </ul>
+    img: 'fab_union/X-Ray.png'

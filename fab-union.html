@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_union
 id: fab-union
 hastitle: true
 title: Fab UNION
@@ -14,23 +14,26 @@ jumplinks:
   - link: Why a Flagship Fab Lab
     url: flagship
   - link: The Opportunity
-    url: flagship
+    url: opportunity
   - link: The Community Collaboration
-    url: flagship
+    url: community
   - link: The Place and Programs
-    url: flagship
+    url: place
   - link: Features
-    url: flagship
+    url: features
   - link: Participate and Show your Support
-    url: flagship
+    url: participate
   - link: FAQs
-    url: flagship
-  - link: Resources
-    url: flagship
+    url: faq
   - link: Survey
     url: survey
 background-img: making.jpg
 ---
 
 {% include fixed/section.html texts=site.data.fab-union.fab-union %}
+{% include fixed/section.html texts=site.data.fab-union.opportunity %}
+{% include fixed/section.html texts=site.data.fab-union.community %}
+{% include fixed/section.html texts=site.data.fab-union.place %}
+{% include fixed/section.html texts=site.data.fab-union.features %}
+{% include fixed/section.html texts=site.data.fab-union.faq %}
 {% include fixed/section.html texts=site.data.fab-union.form %}
