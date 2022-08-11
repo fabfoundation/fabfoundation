@@ -83,6 +83,8 @@ sections:
   - title: About
     link: about
     sublinks:
+      - title: Fab Union HQ
+        link: fab-union
       - title: About the Foundation
         link: 'about#about-intro'
       - title: Programs & Services
@@ -111,5 +113,5 @@ sections:
         link: 'k-12#services'
       - title: K-12 Educational Mobile Fab Lab
         link: 'k-12#other-projects'
-      - title: Digital Fabrication Lesson Plans 
-        link: 'k-12#scopes-full'       
+      - title: Digital Fabrication Lesson Plans
+        link: 'k-12#scopes-full'
