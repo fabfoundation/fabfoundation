@@ -9,14 +9,14 @@ note: We need this in order to Jekyll variables to render properly
 }
 html {
     -ms-touch-action: none;
-    background-color: #{{ site.data.template.color.blacks}}; 
+    background-color: #{{ site.data.template.color.blacks}};
 }
 body {
     overflow-x: hidden;
     font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.bodytext }};
     transition: all 0.4s ease;
-    background-color: #{{ site.data.template.color.blacks}}; 
+    background-color: #{{ site.data.template.color.blacks}};
 }
 
 section {
@@ -74,6 +74,11 @@ section .page {
     padding-bottom: 60px;
     background-color: #{{ site.data.template.color.dark }};
 }
+.container.narrow {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: #{{ site.data.template.color.dark }};
+}
 .container.blue-bg, .container-fluid.blue-bg {
     background-color: #{{ site.data.template.color.darkblues }};
 }
@@ -93,7 +98,7 @@ section .page {
 }
 .container.blog h1, .container.blog h2, .container.blog h3, .container.blog h4 {
     margin-bottom: 30px;
-}  
+}
 #academany .container {
      background-color: #f2f0fa;
 }
@@ -133,22 +138,22 @@ h5,
 h6 {
     text-transform: uppercase;
     font-weight: 800;
-    margin-bottom: 0px; 
-    letter-spacing: 0.7px; 
-    font-family: {{ site.data.template.font.primary }}; 
+    margin-bottom: 0px;
+    letter-spacing: 0.7px;
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.blacks }};
 }
 h2 {
     font-size: 1.1em;
 }
 h3 {
-    font-size: 0.96em; 
+    font-size: 0.96em;
 }
 h4 {
-    font-size: 0.85em; 
+    font-size: 0.85em;
 }
 h5 {
-    font-size: 0.76em;  
+    font-size: 0.76em;
 }
 h6 {
     font-size: 0.77em;
@@ -170,13 +175,13 @@ h6 {
     letter-spacing: 1.2px;
     font-weight: 700;
     line-height: 25px;
-    color: #{{ site.data.template.color.light }}; 
+    color: #{{ site.data.template.color.light }};
 }
 .h5-inverted {
     letter-spacing: 1.7px;
     font-weight: 500;
     line-height: 25px;
-    color: #{{ site.data.template.color.light }}; 
+    color: #{{ site.data.template.color.light }};
 }
 .h6-inverted {
     font-weight: 500;
@@ -195,7 +200,7 @@ p {
     font-size: 13px;
     font-weight: 300;
     letter-spacing: 1.2px;
-    color: #{{ site.data.template.color.light }}; 
+    color: #{{ site.data.template.color.light }};
 }
 .body-text {
     margin-bottom: 20px;
@@ -236,7 +241,7 @@ section h2.page-heading {
     line-height: 2.5em;
 }
 .page-jumplinks{
-    color: #{{ site.data.template.color.blacks }}; 
+    color: #{{ site.data.template.color.blacks }};
     text-decoration: none;
 }
 .jumplinks li {
@@ -356,11 +361,11 @@ body .sub-body {
 }
 .banner {
     margin-left: 0px;
-    margin-right: 0px;   
-    margin-bottom: 40px; 
+    margin-right: 0px;
+    margin-bottom: 40px;
 }
 .banner.standalone {
-    margin-bottom: 0px; 
+    margin-bottom: 0px;
 }
 .banner-img {
     height: 250px;
@@ -570,12 +575,12 @@ h6.more-button {
 .btn-xs {
     margin-top: 20px;
     padding: 9px 20px;
-} 
+}
 .btn-navbar {
     margin-top: 20px;
     padding: 9px 30px;
     border: solid 1px #ffffff;
-} 
+}
 .btn:focus,
 .btn:active,
 .btn.active,
@@ -837,7 +842,7 @@ h6.more-button {
 header {
     height: 480px;
     text-align: left;
-    background-color: #{{ site.data.template.color.blacks}}; 
+    background-color: #{{ site.data.template.color.blacks}};
     z-index: -5000;
 }
 header .container {
@@ -1080,7 +1085,7 @@ header .container {
     display:  flex;
     flex-direction: column;
     padding: 12px;
-   
+
 }
 #header-news-container .redborder{
     border: 1px solid #{{site.data.template.color.reds}};
@@ -1102,7 +1107,7 @@ header .container {
     margin-top: 0px;
     padding-top: 320px;
     color: #{{ site.data.template.color.whites }};
-} 
+}
 #twitter .twitter-space {
     margin-top: 0px;
     z-index: 0;
@@ -1181,7 +1186,7 @@ header .container {
 }
 .intro-icons {
     display: none;
-    padding-top: 180px; 
+    padding-top: 180px;
 }
 @media (min-width: 768px){
     .intro-icons {
@@ -1190,39 +1195,39 @@ header .container {
 }
 @media (min-height: 500px){
     .intro-icons {
-        padding-top: 160px; 
+        padding-top: 160px;
     }
 }
 @media (min-height: 560px){
     .intro-icons {
-        padding-top: 190px; 
+        padding-top: 190px;
     }
 }
 @media (min-height: 600px){
     .intro-icons {
-        padding-top: 210px; 
+        padding-top: 210px;
     }
 }
 @media (min-height: 700px){
     .intro-icons {
-        padding-top: 210px; 
+        padding-top: 210px;
     }
 }
 @media (min-height: 750px){
     .intro-icons {
-        padding-top: 220px; 
+        padding-top: 220px;
     }
 }
 @media (min-height: 860px){
     .intro-icons {
-        padding-top: 230px; 
+        padding-top: 230px;
     }
 }
 
 @media (min-width: 992px){
     .intro-icons {
         display: none;
-        padding-top: 120px; 
+        padding-top: 120px;
     }
     @media (min-width: 768px){
         .intro-icons {
@@ -1231,32 +1236,32 @@ header .container {
     }
     @media (min-height: 500px){
         .intro-icons {
-            padding-top: 100px; 
+            padding-top: 100px;
         }
     }
     @media (min-height: 560px){
         .intro-icons {
-            padding-top: 110px; 
+            padding-top: 110px;
         }
     }
     @media (min-height: 600px){
         .intro-icons {
-            padding-top: 130px; 
+            padding-top: 130px;
         }
     }
     @media (min-height: 700px){
         .intro-icons {
-            padding-top: 160px; 
+            padding-top: 160px;
         }
     }
     @media (min-height: 750px){
         .intro-icons {
-            padding-top: 140px; 
+            padding-top: 140px;
         }
     }
     @media (min-height: 860px){
         .intro-icons {
-            padding-top: 140px; 
+            padding-top: 140px;
         }
     }
 
@@ -1276,7 +1281,7 @@ header .container {
     height: 2em;
     line-height: 2em;
     vertical-align: middle;
-    font-size: 4em;    
+    font-size: 4em;
     margin-bottom: 8px;
 }
 .intro-icons .icons-box .icons-img .icon {
@@ -1314,7 +1319,7 @@ header .container {
     width: 100%;
     overflow-y: hidden;
     overflow-x: scroll;
-    margin-bottom: 40px; 
+    margin-bottom: 40px;
 }
 .slidewrapper .slideshow .list {
     position: relative;
@@ -1414,7 +1419,7 @@ header .container {
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
     border: solid 1px #dcd9e2;
     background-color: #dcd9e2;
-    padding: 30px;        
+    padding: 30px;
 }
 #panel-text span {
     display: block;
@@ -1459,7 +1464,7 @@ header .container {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(235, 231, 242,.9); 
+    background: rgba(235, 231, 242,.9);
 }
 
 .portfolio-hover:hover {
@@ -1546,11 +1551,11 @@ header .container {
 }
 /*
 .carousel .item img{
-    margin: 0 auto; 
+    margin: 0 auto;
     height: 370px;
 }
 */
-.carousel-control.right, .carousel-control.left { 
+.carousel-control.right, .carousel-control.left {
     background-image: none;
     background-image: none;
     background-image: none;
@@ -1615,7 +1620,7 @@ header .container {
 @media (min-width: 450px){
     .paypal-btn {
         margin-bottom: 0px;
-    }   
+    }
 }
 
 /*// INDICATOR MODULE //*/
@@ -1625,7 +1630,7 @@ header .container {
 }
 .indicator-box {
     background-color: crimson;
-    background-color: transparent; 
+    background-color: transparent;
     text-align: center;
     padding-bottom: 60px;
 }
@@ -1641,7 +1646,7 @@ header .container {
     height: 2em;
     line-height: 2em;
     vertical-align: middle;
-    font-size: 4em;    
+    font-size: 4em;
     margin-bottom: 8px;
 }
 .indicator-box .indicator-img .icon {
@@ -1679,7 +1684,7 @@ header .container {
     height: 60px;
     margin-bottom: 10px;
 }
-.bluemodule .container .sub-container .col-md-6 .description { 
+.bluemodule .container .sub-container .col-md-6 .description {
     margin-bottom: 30px;
 }
 .bluebox {
@@ -1692,10 +1697,10 @@ header .container {
 .bluebox:hover {
     background-color: #{{ site.data.template.color.darkblues }};
 }
-.bluebox .title { 
+.bluebox .title {
     padding-bottom: 30px;
 }
-.bluebox p { 
+.bluebox p {
     padding-bottom: 15px;
 }
 .bluemodule .blue-action {
@@ -1743,7 +1748,7 @@ header .container {
     width: 1.3em;
     height: 1em;
     vertical-align: middle;
-    font-size: 7em;    
+    font-size: 7em;
 }
 @media (min-width: 768px){
     .sponsor {
@@ -1953,7 +1958,7 @@ header .container {
     padding: 0px;
     height: 200px;
     width: 100%;
-    margin: 0;  
+    margin: 0;
 }
 @media (min-width: 768px){
     .vignette {
@@ -1996,7 +2001,7 @@ header .container {
 /*// PAGES //*/
 
 .page-intro {
-    margin-bottom: 0px; 
+    margin-bottom: 0px;
 }
 #about{
     background-color: transparent;
@@ -2012,7 +2017,7 @@ header .container {
     position: relative;
     background-color: #{{ site.data.template.color.lightblues }};
     color: #{{ site.data.template.color.whites }};
-} 
+}
 #twitter-page .container {
     padding-top: 70px;
 }
@@ -2077,7 +2082,7 @@ header .container {
     }
 }
 .service-text {
-    background-color: white; 
+    background-color: white;
     padding: 30px;
 }
 .service-text h4 {
@@ -2189,7 +2194,7 @@ header .container {
     }
 }
 .team-text {
-    background-color: white; 
+    background-color: white;
     padding: 20px 50px;
 }
 .team-text h4 {
@@ -2455,8 +2460,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #ffffff;
 }
-
-
-
-
-
