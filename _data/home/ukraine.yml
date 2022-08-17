@@ -28,7 +28,7 @@ The Fab Foundation</p>"
 hasbuttons: true
 buttons:
   - title: "Help from Europe"
-    url: 'https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/eu-stands-ukraine_en'
+    url: 'https://fabfoundation.eu/'
     type: red
   - title: "Offer to host refugees"
     url: 'https://www.eu4ua.org/'
