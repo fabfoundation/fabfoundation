@@ -11,15 +11,15 @@ carousel:
 hastitle: false
 title: "Why a flagship Fab Lab?"
 hassubtitle: false
-subtitle: "The Fab Foundation seeks to establish a Fab Lab, a space where the public can access digital design and manufacturing tools to make almost anything they can imagine. These tools create opportunities for STEAM education, personal and artistic expression, as well as technology development. Currently there are many partners and individuals in Somerville that use digital fabrication; this flagship Fab Lab amplifies the impact that these organizations and individuals can have in the community by providing support, training and expertise, and unifying the digital fabrication community of practice."
+subtitle: ""
 hasvignettes: true
 id: place
 vignettes:
   - hastitle: true
-    title: "The Place and Programs"
+    title: "The Place"
     orientation: normal
     haslead: false
     lead: ""
     hasbody: true
-    body: "In partnership with Union Square community stakeholders, Fab Foundation is proposing to establish Fab Union, a center for teaching, learning, research and economic opportunity in the historic fire station, one that would recognize and honor the past history of Union Square and Somerville, and pilot the future with the community as co-creator. Fab Union will serve as a global portal as well as a local resource, connecting Somerville communities to the fab lab network around the world."
+    body: "In partnership with Union Square community stakeholders, Fab Foundation is proposing to establish Fab Union, a center for teaching, learning, research and economic opportunity in the historic fire station, one that would recognize and honor the past history of Union Square and Somerville, and pilot the future with the community as co-creator. Fab Union will serve as a local resource as well as a global portal , connecting Somerville residents and workers  to the fab lab network around the world.</br></br>As part of the Fab Union project, the two-story former fire station building would be renovated to repair and restore the historic building’s exterior envelope and to provide universal access.  Concept plans envision opening up the old fire station doors on the ground floor of the west facade to connect the exterior public plaza spaces with an interior space that will serve as a public exhibition space and cafe or as a periodic event space.  The exhibition space could showcase local fab work.  Nearby, a new digital fabrication shop space will be visible to the public from both inside and outside the space.   On the second floor, a classroom and more lab space are complemented by an office area that will serve as Fab Foundation’s global headquarters."
     img: 'fab_union/Happylady.png'

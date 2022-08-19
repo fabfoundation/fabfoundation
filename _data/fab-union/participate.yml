@@ -1,0 +1,25 @@
+id: participate
+hascarousel: false
+carouselbackground: fab_union/HeroShot.png
+carousel:
+  - img: 'fab_union/FU_01.png'
+    url: ''
+  - img: 'fab_union/FU_02.png'
+    url: ''
+  - img: 'fab_union/FU_03.png'
+    url: ''
+hastitle: false
+title: "Why a flagship Fab Lab?"
+hassubtitle: false
+subtitle: ""
+hasvignettes: true
+id: participate
+vignettes:
+  - hastitle: true
+    title: "Participate and show your support!"
+    orientation: normal
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "Please fill in the community Google form below, to show  support for the Fab Union concept, as well as to contribute ideas for Fab Union’s community programming priorities.</br></br>As noted above, Fab Foundation is also seeking community partners to form an advisory committee that will help provide input on community programming priorities; identify local STEAM education partners; curate the public exhibition and event space and help organize community meeting spaces.</br></br>If you have any questions or want to volunteer for an advisory role, please email us at: fabunion[AT]fabfoundation.org</br></br>Thank you!</br></br>Fab Foundation Staff and Partners"
+    img: 'fab_union/Happylady.png'

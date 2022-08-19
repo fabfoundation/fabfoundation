@@ -16,7 +16,7 @@ hasvignettes: true
 id: features
 vignettes:
   - hastitle: true
-    title: "Features"
+    title: "Public programs"
     orientation: inverted
     haslead: true
     lead: "Fab UNION will provide a wide variety of programming geared toward different experience levels, age groups and interests. While this is not an exhaustive list, below are the main categories of public offerings which would be available at the Fab UNION:"
