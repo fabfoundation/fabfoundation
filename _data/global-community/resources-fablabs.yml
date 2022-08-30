@@ -9,7 +9,7 @@ resources:
       - p: "Dassault Systemes Solidworks Corporation is a partner of Fab Labs and Academany, providing
             world-class 3D Design and Engineering software through a unique sponsorship program with MIT’s
             global Fab Lab network."
-      - p:  "I am a Fab Lab. How can I access what SOLIDWORKS has to offer?
+      - p:  "<b>I am a Fab Lab. How can I access what SOLIDWORKS has to offer?</b>
             If you are fab lab located within the pool of countries listed below, we invite you and your
             makerspace to join the 3DEXPERIENCE SOLIDWORKS for Makerspaces program by Dassault Systèmes:"
       - p: "Countries: Algeria, Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Ireland,
@@ -22,7 +22,7 @@ resources:
             wherever you want, in your fab lab or from the comfort of your homes."
       - p: >-
             <a href="/uploads/3DEXPERIENCE_SOLIDWORKS_for_Makers.pdf" target="_blank" class="btn
-            btn-clear">APPLY</a>
+            btn-clear">Read More</a>
   - title: "Discount on new eco-friendly 3D Printing PLA and ABS filament"
     id: 'dprintlife'
     img: 3dprintlife.png
