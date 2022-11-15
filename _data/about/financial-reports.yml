@@ -34,6 +34,8 @@ categories:
         url: "financial-statements/FabFoundationFinancials2019.pdf"
       - name: "2020"
         url: "financial-statements/FabFoundation12-31-2020FinancialStatements.pdf"
+      - name: "2021"
+        url: "financial-statements/FabFoundation12-31-2021FinancialStatements.pdf"
   - title: "Tax Returns"
     bullets:
       - name: "2009"
@@ -60,6 +62,8 @@ categories:
         url: "tax-returns/2019TaxReturn.pdf"
       - name: "2020"
         url: "tax-returns/2020FabFoundationTaxReturnsPublic.pdf"
+      - name: "2021"
+        url: "tax-returns/FabFoundation2021-Form990Public.pdf"
   - title: "Organizational Documents"
     bullets:
       - name: "ByLaws"
