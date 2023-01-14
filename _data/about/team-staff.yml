@@ -1,10 +1,10 @@
 id: staff-team
 title: "Fab Foundation Staff"
-cards: 
+cards:
   - name: "Luciano Betoldi"
     img: 'Luciano_Betoldi.png'
     position: "Vice President and COO"
-    social: 
+    social:
       - title: linkedin
         url: "https://www.linkedin.com/in/betoldi"
     bio:
@@ -14,7 +14,7 @@ cards:
   - name: "Alethea Campbell"
     img: 'Alethea_Campbell.png'
     position: "Senior Manager of Relationships, Outreach, and Education Operations"
-    social: 
+    social:
       - title: linkedin
         url: "https://www.linkedin.com/in/aletheacampbell"
     bio:
@@ -23,7 +23,7 @@ cards:
   - name: "Norella Coronell"
     img: 'Norella_Coronell.png'
     position: "Fab Foundation Forum Project Manager, Special Projects Consultant"
-    social: 
+    social:
       - title: linkedin
         url: "https://es.linkedin.com/in/norella-coronell-1831973a"
     bio:
@@ -31,10 +31,10 @@ cards:
       - p: "Norella joined the Fab Foundation team in 2017 as Special Projects Consultant where she aims to develop new tools and programs on how to work in a collaborative way among the network an facilitate communications between regional networks through the Fab Foundation Forums which she will coordinate based on her skills on Networking Strategies."
       - p: "She currently lives in Barranquilla, Colombia and teaches the undergraduate course Technological Design on her former University."
   - name: "Melvin LaPrade"
-    img: 'Melvin_LaPrade.png' 
+    img: 'Melvin_LaPrade.png'
     position: "Consultant, SCOPES-DF"
-    social: 
-      - title: 
+    social:
+      - title:
         url:
     bio:
       - p: "Melvin LaPrade is a consultant with the Fab Foundation for the SCOPES-DF project. Melvin’s areas of expertise and research address both traditional issues, such as narrowing racial and gender achievement gaps as well as new challenges, such as the implementation of Common Core State Learning Standards with fidelity. Melvin was the Founding Director of Development for the Benjamin Banneker Academy for Community Development in Central Brooklyn, NY, a college-preparatory community development-themed middle/high school created by the Gates Foundation small school initiative. As Managing Partner of the New York based National Urban Research group, his thought leadership consultant practice works to shape the broader P-16 educational policy landscape by conducting analysis, research and idea generation on approaches objectively demonstrated to reach traditionally underserved neighborhoods, first-generation college students, low-income students and their families. In the fall of 2015, Melvin implemented the Clement School Analytics Leadership Team (C-SALT) model at CMSD Investment School Kenneth W. Clement Boys Leadership Academy (KCBLA). This model resulted in over 94 percent of KCBLA students meeting the 3rd grade Ohio Reading Guarantee promotion benchmark, and 80 percent of 7th grade student’s recorded MAP RIT scores above the 50th percentile."
@@ -42,13 +42,16 @@ cards:
   - name: "Jean-Michel Molenaar"
     img: 'Jean_Michel_Molenaar.jpg'
     position: "Sr. Consultant, International Projects"
-    social: 
+    social:
       - title: linkedin
         url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
     bio:
-      - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe." 
-
-        
-        
-  
-        
+      - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe."
+  - name: "Chelsea Lynn"
+    img: '/team/chelsea.jpg'
+    position: "Operations Manager"
+    social:
+      - title:
+        url:
+    bio:
+      - p:
