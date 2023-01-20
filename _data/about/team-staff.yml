@@ -2,7 +2,7 @@ id: staff-team
 title: "Fab Foundation Staff"
 cards:
   - name: "Luciano Betoldi"
-    img: 'Luciano_Betoldi.png'
+    img: '/team/luciano.jpg'
     position: "Vice President and COO"
     social:
       - title: linkedin
@@ -49,12 +49,13 @@ cards:
       - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe."
   - name: "Chelsea Lynn"
     img: '/team/chelsea.jpg'
-    position: "Operations Manager"
+    position: "General Manager"
     social:
       - title:
         url:
     bio:
-      - p: ""
+      - p: "Chelsea has multi-sector experience in operations, project management, and stakeholder engagement. As General Manager, Chelsea oversees the daily operations and administration of the organization, coordinates with program teams, and communicates with labs around the world. She ensures the steady functioning of the foundation across all portfolios and helps design better, more efficient workflows and strategies for the organization."
+      - p: "Prior to joining Fab Foundation, Chelsea was a team manager for the Massachusetts Covid-19 contact tracing program and directed strategic engagement with health departments across the Commonwealth. Earlier in her career, Chelsea was a Procurement Specialist supporting the development of projects at the US Agency for International Development and the U.S. Department of State. She earned her Master's in Women, Peace and Security from the Department of Gender Studies at the London School of Economics."
   - name: "Rodney Williams"
     img: '/team/rodney.jpg'
     position: "Program Manager, Education and Outreach"
