@@ -59,7 +59,7 @@ cards:
         url: "https://www.linkedin.com/in/danielsmithwick"
   - name: "Sonya Pryor-Jones"
     img: 'Sonya_Pryor_Jones.png'
-    position: "Chief Implementation Officer"
+    position: "Vice President, Chief Strategy Officer"
     social: 
       - title: linkedin
         url: "https://www.linkedin.com/in/sonya-pryor-jones"
@@ -79,6 +79,6 @@ cards:
     social:
       - title: linkedin
         url: "https://www.linkedin.com/in/aletheacampbell"
-    bio:
-      - p: "The Program Manager of the GE Brilliant Career Lab, Alethea Campbell discovered the power and joy of making for herself, and others, has become a driving force in her life to make a transformation in the world of education."
-      - p: "Her passion for art, design, science, and technology led her to the maker world. She saw the power of sharing how to use an Arduino or create a 3D Model using CAD software, can change a young person’s world. An alumni of Smith College, she graduated from Harvard Graduate School of Education and earned a Master’s of Education degree in Technology, Innovation, and Education. Alethea is a maker, creator, innovator, an educator, and a learner."
+#   bio:
+#     - p: "The Program Manager of the GE Brilliant Career Lab, Alethea Campbell discovered the power and joy of making for herself, and others, has become a driving force in her life to make a transformation in the world of education."
+#     - p: "Her passion for art, design, science, and technology led her to the maker world. She saw the power of sharing how to use an Arduino or create a 3D Model using CAD software, can change a young person’s world. An alumni of Smith College, she graduated from Harvard Graduate School of Education and earned a Master’s of Education degree in Technology, Innovation, and Education. Alethea is a maker, creator, innovator, an educator, and a learner."
