@@ -30,14 +30,6 @@ cards:
     bio:
       - p: "Melvin LaPrade is a consultant with the Fab Foundation for the SCOPES-DF project. Melvin’s areas of expertise and research address both traditional issues, such as narrowing racial and gender achievement gaps as well as new challenges, such as the implementation of Common Core State Learning Standards with fidelity. Melvin was the Founding Director of Development for the Benjamin Banneker Academy for Community Development in Central Brooklyn, NY, a college-preparatory community development-themed middle/high school created by the Gates Foundation small school initiative. As Managing Partner of the New York based National Urban Research group, his thought leadership consultant practice works to shape the broader P-16 educational policy landscape by conducting analysis, research and idea generation on approaches objectively demonstrated to reach traditionally underserved neighborhoods, first-generation college students, low-income students and their families. In the fall of 2015, Melvin implemented the Clement School Analytics Leadership Team (C-SALT) model at CMSD Investment School Kenneth W. Clement Boys Leadership Academy (KCBLA). This model resulted in over 94 percent of KCBLA students meeting the 3rd grade Ohio Reading Guarantee promotion benchmark, and 80 percent of 7th grade student’s recorded MAP RIT scores above the 50th percentile."
       - p: "Melvin is a graduate of CMSD schools, East High. He did his undergraduate work at Howard University, Master’s at Cleveland State University, and Post-graduate studies, Department of Urban Studies and Planning, Ph.D. Program at M.I.T."
-  - name: "Jean-Michel Molenaar"
-    img: '/team/Jean_Michel_Molenaar.jpg'
-    position: "Sr. Consultant, International Projects"
-    social:
-      - title: linkedin
-        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
-    bio:
-      - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe."
   - name: "Chelsea Lynn"
     img: '/team/chelsea.jpg'
     position: "General Manager"
@@ -47,6 +39,14 @@ cards:
     bio:
       - p: "Chelsea has multi-sector experience in operations, project management, and stakeholder engagement. As General Manager, Chelsea oversees the daily operations and administration of the organization, coordinates with program teams, and communicates with labs around the world. She ensures the steady functioning of the foundation across all portfolios and helps design better, more efficient workflows and strategies for the organization."
       - p: "Prior to joining Fab Foundation, Chelsea was a team manager for the Massachusetts Covid-19 contact tracing program and directed strategic engagement with health departments across the Commonwealth. Earlier in her career, Chelsea was a Procurement Specialist supporting the development of projects at the US Agency for International Development and the U.S. Department of State. She earned her Master's in Women, Peace and Security from the Department of Gender Studies at the London School of Economics."
+  - name: "Jean-Michel Molenaar"
+    img: '/team/Jean_Michel_Molenaar.jpg'
+    position: "Sr. Consultant, International Projects"
+    social:
+      - title: linkedin
+        url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
+    bio:
+      - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe."
   - name: "Rodney Williams"
     img: '/team/rodney.jpg'
     position: "Program Manager, Education and Outreach"
