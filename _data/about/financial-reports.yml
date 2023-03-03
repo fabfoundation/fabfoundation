@@ -96,6 +96,10 @@ categories:
         url: "annual-reports/FF-MA-AnnualReport2020.pdf"
       - name: "2021"
         url: "annual-reports/FF-MA-AnnualReport2021.pdf"
+      - name: "2022"
+        url: "annual-reports/FF-MA-AnnualReport2022.pdf"
+      - name: "2023"
+        url: "annual-reports/FF-MA-AnnualReport2023.pdf"
 hasbuttons: false
 buttons:
   - title: ""
