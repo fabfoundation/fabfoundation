@@ -46,15 +46,3 @@ resources:
       - title: "E-mail address"
         url: 'mailto:support@kanbanchi.desk-mail.com'
         type: clear
-  - title: "Access to Autodesk Product Design Collection"
-    id: 'fab-autodesk'
-    img: fab+autodesk.jpg
-    paragraphs:
-      - p: "At Fab12 in Shenzhen, Sherry Lassiter announced that Autodesk is now granting access to its full Autodesk Product Design Collection to 1000+ registered Fab Labs globally. Intuitive, simple familiar interface and no learning curve can get people engaged easily."
-      - p: "Last summer, Autodesk granted access to Autodesk Tinkercad, Autodesk 123D Circuits, and Autodesk Fusion 360 to Fab Labs, and earlier this year Autodesk made its full portfolio of product design software available to Fab Academy attendees. Now Fab Labs registered with the Fab Foundation can receive free access to software by applying for a grant here: www.autodesk.com/fablabs"
-      - p: "Participating Fab Labs will receive a grant that includes 10 subscriptions to the Autodesk Product Design Collection for the Fab Lab which can be used on or off-site by its members. The subscription includes the professional-grade 3D design tools needed to succeed in the changing landscape for product makers, hobbyists and manufacturers including Fusion 360, Inventor Professional, AutoCAD, ReCap 360 Pro, 3ds Max, 25 gigabytes of cloud storage and more."
-      - p: "A FAQ with grant details is available upon request on the following application page:"
-    buttons:
-      - title: "Go to application page"
-        url: 'https://www.autodesk.com/campaigns/tech-impact-fablabs'
-        type: clear
