@@ -9,76 +9,76 @@ cards:
         url: "https://donate.fabevent.org/"
     bio:
       - p: "Our colleague, good and dear friend, adventuring spirit, innovator and Bit Ninja Fiore Basile passed away November 2019. Fiore has been and will always be a part of the fab family, a part of all of us.  We will miss him, and we carry his spirit and memory with us, always.  Should you wish, you can make a contribution toward the Fiore Basile Scholarship Fund at donate.fabevent.org."
-  - name: "David Cavallo"
-    img: 'David_cavallo.png' 
-    position: "Learning Architect, SCOPES-DF"
-    social: 
-      - title: 
-        url:
-  - name: "Lydia Ford"
-    img: 'Lydia_Ford.png' 
-    position: "Assistant to Chief Implementation Officer"
-    social: 
-      - title: 
-        url:      
-  - name: "Dr. Nettrice Gaskins"
-    img: 'Nettrice_Gaskins.png'
-    position: "Consultant, SCOPES-DF"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/nettrice"
-  - name: "Pamela King"
-    img: 'Pamela_King.png' 
-    position: "General Manager"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/pamelajking"
-  - name: "Aidan Mullaney"
-    img: 'Aidan_Mullaney.png' 
-    position: "Fab Foundation Senior Manager of Educational Programs"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/aidan-mullaney/"   
-  - name: "Rebecca Ottinger"
-    img: 'rebecca-ottinger.png' 
-    position: "General Manager, Programs and Administration"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/rebecca-ottinger-2765b840/"         
-  - name: "Jean-Luc Pierite"
-    img: 'Jean_Luc_Pierite.png'
-    position: "International Procurement and Logistics Manager"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/jeanlucpierite"
-  - name: "Dr. Dan Smithwick"
-    img: 'Dan_Smithwick.png'
-    position: "Master Fabricator, SCOPES-DF"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/danielsmithwick"
-  - name: "Sonya Pryor-Jones"
-    img: 'Sonya_Pryor_Jones.png'
-    position: "Vice President, Chief Strategy Officer"
-    social: 
-      - title: linkedin
-        url: "https://www.linkedin.com/in/sonya-pryor-jones"
-    bio:
-      - p: ""
-  - name: "Liz Whitewolf"
-    img: 'Liz_Whitewolf.png'
-    position: "Fab Foundation (K-12) Education Director"
-    social: 
-      - title: linkedin
-        url: ""
-    bio:
-      - p: ""
-  - name: "Alethea Campbell"
-    img: 'Alethea_Campbell.png'
-    position: "Senior Manager of Relationships, Outreach, and Education Operations"
-    social:
-      - title: linkedin
-        url: "https://www.linkedin.com/in/aletheacampbell"
+  # - name: "David Cavallo"
+  #   img: 'David_cavallo.png' 
+  #   position: "Learning Architect, SCOPES-DF"
+  #   social: 
+  #     - title: 
+  #       url:
+  # - name: "Lydia Ford"
+  #   img: 'Lydia_Ford.png' 
+  #   position: "Assistant to Chief Implementation Officer"
+  #   social: 
+  #     - title: 
+  #       url:      
+  # - name: "Dr. Nettrice Gaskins"
+  #   img: 'Nettrice_Gaskins.png'
+  #   position: "Consultant, SCOPES-DF"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/nettrice"
+  # - name: "Pamela King"
+  #   img: 'Pamela_King.png' 
+  #   position: "General Manager"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/pamelajking"
+  # - name: "Aidan Mullaney"
+  #   img: 'Aidan_Mullaney.png' 
+  #   position: "Fab Foundation Senior Manager of Educational Programs"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/aidan-mullaney/"   
+  # - name: "Rebecca Ottinger"
+  #   img: 'rebecca-ottinger.png' 
+  #   position: "General Manager, Programs and Administration"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/rebecca-ottinger-2765b840/"         
+  # - name: "Jean-Luc Pierite"
+  #   img: 'Jean_Luc_Pierite.png'
+  #   position: "International Procurement and Logistics Manager"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/jeanlucpierite"
+  # - name: "Dr. Dan Smithwick"
+  #   img: 'Dan_Smithwick.png'
+  #   position: "Master Fabricator, SCOPES-DF"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/danielsmithwick"
+  # - name: "Sonya Pryor-Jones"
+  #   img: 'Sonya_Pryor_Jones.png'
+  #   position: "Vice President, Chief Strategy Officer"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/sonya-pryor-jones"
+  #   bio:
+  #     - p: ""
+  # - name: "Liz Whitewolf"
+  #   img: 'Liz_Whitewolf.png'
+  #   position: "Fab Foundation (K-12) Education Director"
+  #   social: 
+  #     - title: linkedin
+  #       url: ""
+  #   bio:
+  #     - p: ""
+  # - name: "Alethea Campbell"
+  #   img: 'Alethea_Campbell.png'
+  #   position: "Senior Manager of Relationships, Outreach, and Education Operations"
+  #   social:
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/aletheacampbell"
 #   bio:
 #     - p: "The Program Manager of the GE Brilliant Career Lab, Alethea Campbell discovered the power and joy of making for herself, and others, has become a driving force in her life to make a transformation in the world of education."
 #     - p: "Her passion for art, design, science, and technology led her to the maker world. She saw the power of sharing how to use an Arduino or create a 3D Model using CAD software, can change a young person’s world. An alumni of Smith College, she graduated from Harvard Graduate School of Education and earned a Master’s of Education degree in Technology, Innovation, and Education. Alethea is a maker, creator, innovator, an educator, and a learner."
