@@ -21,6 +21,17 @@ cards:
       - p: "As a Product Designer from Universidad del Norte, Barranquilla (Colombia) and with a Master’s Degree in Project Management from IEP Madrid, Norella’s early approach in the Fab Lab World came when she discovered through a tweet what a fab lab was, she became an intern at Fab Lab Barcelona (Spain) in 2012. Later in 2015, she became part of the Fab Lat Network (Latinoamerica), becoming the Regional Coordinator and finally, in 2017 she held the Fab Academy Diploma at Fab Lab Santiago (Chile), where she also co-organize the International Fab Lab Conference FAB13."
       - p: "Norella joined the Fab Foundation team in 2017 as Special Projects Consultant where she aims to develop new tools and programs on how to work in a collaborative way among the network an facilitate communications between regional networks through the Fab Foundation Forums which she will coordinate based on her skills on Networking Strategies."
       - p: "She currently lives in Barranquilla, Colombia and teaches the undergraduate course Technological Design on her former University."
+  - name: "Claire Dorsett"
+    img: '/team/claire.jpg'
+    position: ""
+    social:
+      - title:
+        url: 
+    bio:
+      - p: "Claire serves as Director of STEM Programming for Fab-in-a-Box, working with a dynamic, interdisciplinary team to increase the accessibility of digital fabrication worldwide. In 2022, she took “How to Make (Almost) Anything” at MIT and never looked back. Today, she remains involved as a Teaching Fellow for the Harvard section of the course."
+      - p: "Prior to joining Fab Foundation, Claire worked as an exhibit developer, creative strategist, and project manager at Great Lakes Science Center in Cleveland, Ohio. As Associate Director of Strategic Content, she crafted large-scale exhibitions on topics ranging from adhesives to automobiles, designing interactives to facilitate “a ha!” moments for guests of all ages. Her favorite project harnessed the tensile strength of packing tape and plastic wrap to build a two-story, crawl-through tunnel system—complete with a slide! On the programming side, she piloted engineering design challenges, tabletop tech dissections, and full-scale vehicle take-aparts where guests as young as four used real tools to strip cars down to their frames. Most recently, she led the design for a STEM-themed playground in downtown Cleveland."
+      - p: "Claire also spent three years in New York City acquiring and editing children’s books—many of them STEM-related—for Roaring Brook Press, an imprint of Macmillan Publishers. There, she supported projects like Steve Sheinkin’s National Book Award Finalist Most Dangerous and Lane Smith’s There Was a Tribe of Kids. Her own notable acquisitions include Robert F. Sibert Honoree picture book Not So Different by Shane Burcaw; a young reader’s trilogy with the Scripps National Spelling Bee; and The Woman in the Moon, a middle-grade biography of NASA engineer Margaret Hamilton."
+      - p: "Claire was born and raised in Ohio. She holds an M.Ed in Learning Design, Innovation, and Technology from Harvard University, a B.A. in English from Cornell University, and a Publishing Certificate from Columbia University."
   - name: "Melvin LaPrade"
     img: 'Melvin_LaPrade.png'
     position: "Consultant, SCOPES-DF"
@@ -46,7 +57,8 @@ cards:
       - title: linkedin
         url: "https://www.linkedin.com/in/jeanmichel-molenaar-352479209/"
     bio:
-      - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, deploying labs and offering consulting services for entities outside of the US. He managed the Bio Academy, wrote a book in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vurnerable populations around the globe."
+      - p: "Jean-michel Molenaar works for the Foundation as a Senior Consultant on international projects, from contract negotiation to procurement and from installation and training management to project development. He also handles most of the internal IT infrastructure, and works on several of the websites the Fab Foundation runs. He has been setting up Fab Labs since 2007, starting out in the Netherlands, but eventually moving to various other countries to set up spaces and programs."
+      - p: "He speaks 4 languages, has a book published in French on digitally controlled machines and co-created The Resilience Collective, a group working on using digital technology for the most vulnerable populations around the globe. He lives in the French alps with his wife and 3 young sons."
   - name: "Rodney Williams"
     img: '/team/rodney.jpg'
     position: "Program Manager, Education and Outreach"
