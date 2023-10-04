@@ -5,74 +5,14 @@
 
 
     <body id="page-top" class="index" onload="loaded()" style="background-color: transparent;">
-    <img src="{{ site.baseurl }}/uploads/{{ page.background-img }}" class="page-bg" alt="background">
 
     {% include fixed/navbar.html %}
 
-    <div class="page-content">
-    	<div id="{{ page.id }}-intro page-intro" data-aos="fade-up">
-{% if page.hastitle == true %}
-    		<div class="container narrow">
-        		<div class="sub-container">
-                    <!--Section-Intro Template -->
-                    <div>
-                        <div class="row">
-                            <div class="col-md-8">
-                                <h2 class="page-heading">{{ page.title }}</h2>
-                            </div>
-                        </div>
-                    </div> <!--close section-intro-->
-                </div><!-- close sub-container -->
-            </div> <!-- close container -->
-{% endif %}
+    <div class="page-content" style="margin-top: 80px;">
 
-            {% if page.hasdescription == true %}
-            <div class="container standard" style="background-color: #e5e3ea;">
-                <div class="sub-container">
-                        <div class="row">
-                            <div class="col-md-12 body-text">
-                                {% for p in page.description %}
-                                <p class="page-text"> {{ p.paragraph }} </p>
-                                {% endfor %}
-                            </div>
-                        </div>
-                        <div class="row text-center">
-                            <div class="col-md-12 down-arrow-space">
-                                <a href="#page-body" class="page-scroll">
-                                    <img class="arrow" src="{{ site.baseurl }}/uploads/down_icon.svg"/>
-                                </a>
-                            </div>
-                        </div>
-                </div><!-- close sub-container -->
-            </div> <!-- close container -->
-            {% endif %}
-
-            {% if page.hasjumplinks == true %}
-            <div class="container standard">
-                <div class="sub-container">
-                    <div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <ul class="jumplinks">
-                                {% for jumplink in page.jumplinks %}
-                                    {% if jumplink.url contains 'https' %}
-                                    <a class="page-scroll page-jumplinks" target="_blank" href="{{ jumplink.url }}"><li >{{ jumplink.link }}</li></a> <span class="separator"> &#47; </span>
-                                    {% else %}
-                                    <a class="page-scroll page-jumplinks" href="#{{ jumplink.url }}"><li >{{ jumplink.link }}</li></a> <span class="separator"> &#47; </span>
-                                    {% endif %}
-                                {% endfor %}
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div><!-- close sub-container -->
-            </div> <!-- close container -->
-            {% endif %}
-
-		</div>
         <div id="page-body">
-        {{ content }}
-        <div>
+        <center>{{ content }}</center>
+        </div>
     </div><!--close page-content-->
 
     <!--
