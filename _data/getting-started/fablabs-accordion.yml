@@ -109,7 +109,7 @@ tabs:
           - p: -A suite of electronic components and programming tools for low-cost, high-speed microcontrollers and on-site rapid circuit prototyping.
           - p: >-
                 The critical machines and materials are identified in this list:
-                http://fab.cba.mit.edu/about/fab/inv.html and there’s a list of open
+                http://inventory.fabcloud.io/ and there’s a list of open
                 source software and freeware that we use online as well (embedded in
                 Fab Academy modules here: http://academy.cba.mit.edu/classes/ ).
           - p: >-
@@ -173,8 +173,7 @@ tabs:
           - p: >-
                 The inventory of hardware and materials that we deploy in a full Fab
                 Lab can be found <a
-                href="https://docs.google.com/a/fabfoundation.org/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html"
-                target=“_blank">here</a>. This is the entire list of equipment, tools
+                href="http://inventory.fabcloud.io/"target=“_blank">here</a>. This is the entire list of equipment, tools
                 and consumables for a research grade fab lab.  A fab lab currently
                 comprises from $25-$65k in capital equipment and about $15-40k in
                 consumables. The open source software or freeware we typically use can
