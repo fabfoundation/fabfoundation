@@ -73,8 +73,11 @@ sections:
       - title: Facebook
         link: 'https://www.facebook.com/fabfndn'
         target: _blank
-      - title: Twitter
-        link: 'https://twitter.com/fabfndn'
+      - title: Instagram 
+        link: 'https://www.instagram.com/fabfndn/'
+        target: _blank
+      - title: Linkedin
+        link: 'https://www.linkedin.com/company/thefabfoundation' 
         target: _blank
       - title: Youtube
         link: 'https://www.youtube.com/user/fabfndn'
