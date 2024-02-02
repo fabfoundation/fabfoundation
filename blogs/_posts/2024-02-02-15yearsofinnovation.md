@@ -3,7 +3,7 @@ title: 15 years of innovation
 caption: 'The Fab Foundation Remarkable Journey'
 highlight: true
 category: blog
-thumbnail: /uploads/Fab16profilpicture.jpg
+thumbnail: /uploads/10year.png
 layout: posts
 date: 2024-02-02 00:00:00
 img: fflogo.svg
