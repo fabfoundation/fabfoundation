@@ -5,7 +5,7 @@ highlight: true
 category: blog
 thumbnail: /uploads/Fab16profilpicture.jpg
 layout: posts
-date: 2024-03-01 00:00:00
+date: 2024-02-02 00:00:00
 img: fflogo.svg
 permalink: /blog/15_years_of_innovation
 ---
