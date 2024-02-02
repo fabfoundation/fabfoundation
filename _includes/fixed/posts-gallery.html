@@ -4,7 +4,7 @@
         <div class="sub-container">
             <div class="row">
                 <div class="col-md-8">
-                    <h3 class="section-heading">Latest News</h3>
+                    <h3 class="section-heading">Latest Newsletters</h3>
                 </div>
             </div>
 
@@ -19,7 +19,7 @@
 
 
             <div class="row">
-                {% for post in site.posts limit:3 %}
+                {% for post in site.categories.posts limit:3 %}
                 <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
                     <a class="portfolio-link" href="{{ post.url | relative_url }}">
                         <div class="portfolio-hover">
@@ -40,7 +40,7 @@
             <div class="row more-news-alert">
                 <div class="col-md-12 text-right">
                     <a href="/news">
-                        <h6 class="more-button"> More news >
+                        <h6 class="more-button"> Older newsletters >
                     </a>
                 </div>
             </div>

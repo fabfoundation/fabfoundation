@@ -1,0 +1,24 @@
+---
+title: The Fab Foundation Launches New Fab Labs in the US with Generous Grant from Chevron
+caption: >-
+  The Fab Foundation Launches New Fab Labs in the US with Generous Grant from Chevron
+highlight: false
+category: press
+thumbnail: /uploads/white-house-maker-faire.jpg
+layout: posts
+date: 2014-06-19 00:00:00
+img: white-house-maker-faire.jpg
+permalink: /fab-foundation-launches-new-fab-labs-with-chevron-grant
+---
+
+WASHINGTON, D.C. June 18, 2014 – The Fab Foundation today announced that it will open up to 10 fabrication laboratories (Fab Labs) across the country in the next three years based upon a $10 million grant from Chevron Corporation.
+The new Fab Labs will be located throughout the U.S. in areas where Chevron operates, including the first two facilities in Bakersfield and Richmond, California. When complete, these facilities will provide approximately 20,000 students and adults a hands-on science and technology experience.
+This new grant is part of Chevron’s recently announced $30 million commitment and call-to-action to support STEM education and project-based learning methods.
+
+The announcement was made today during the first-ever White House Maker Faire. There, the Fab Foundation and Chevron partnered with the MIT Mobile Fab Lab to demonstrate how students, faculty, tech enthusiasts, and engineers use digital fabrication tools. Innovations shown include: 3D printed guitars, a cargo bike with a mobile solar charging business onboard, Machines that Make Machines, a prosthetic foot,, and a desktop stereolithography 3D Printer. The Mobile Fab Lab is a computer-controlled design and machining fab lab housed in a trailer. This first mobile lab was built in August 2007 by the Center for Bits and Atoms at the Massachusetts Institute of Technology. The mobile lab includes the same computer controlled fabrication machines found in fab labs world-wide such as laser cutters, 3D Printers, and CNC milling machines. 
+
+“Along with launching new fab labs, Chevron’s grant will help build the Fab Foundation’s capacity to provide access to digital fabrication across the country and around the world,” said Neil Gershenfeld, chairman of the Fab Foundation’s board. “At the White House Maker Faire we’ll be celebrating how makers are using these tools to innovate for the future.”
+
+Fab Labs are a critical component of many STEM programs such as the successful initiatives at MC2STEM High School in Ohio and Mahtomedi High School in Minnesota. Curriculum around Fab Lab tools give students hands-on, applied STEM learning opportunities that cross disciplines. A Fab Lab gives students the tools to develop the practical and critical thinking skills they will need to be the inventors and innovators.
+
+“Few things are more important to our nation’s future than student interest and proficiency in STEM. Through our partnership with The Fab Foundation, we are proud to increase the numbers of students across the country that have access to develop project-based, critical thinking skills,” said Blair Blackwell, manager of education and corporate programs at Chevron. “This partnership underscores our commitment to ensuring that students have the foundation they need to succeed.”

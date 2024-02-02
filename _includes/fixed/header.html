@@ -19,8 +19,8 @@
                 </div>
 
                 <div class="row no-side-margin highlights">
-                    <div id="header-news-container">
-                        {% for post in site.posts limit:2 %}
+                   <div id="header-news-container">
+                        {% for post in site.categories.posts limit:1 %}
                         {% if post.highlight == true %}
                         <!-- Turn this back on after Teacher Innovator campaign -->
                         <a class="" href="{{ post.url | relative_url }}">
@@ -39,7 +39,7 @@
                         {% endif %}
                         {% endfor %}
                         <a href="{{ site.baseurl }}/news">
-                            <h6 class="more-button"> More news >
+                            <h6 class="more-button"> Older newsletters >
                         </a>
                     </div>
                 </div><!-- close highlights-->
