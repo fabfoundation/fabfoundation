@@ -919,7 +919,7 @@ header .container {
     }
 }
 .intro-box .statements {
-    padding: 50px 60px 80px 60px;
+    padding: 50px 60px 0px 60px;
     position: relative;
 }
 .intro-box .statements .intro-heading {
