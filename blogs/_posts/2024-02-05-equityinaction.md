@@ -1,18 +1,18 @@
 ---
-title: equity_in_action
+title: Black History Month
 caption: 'Black History Month'
 highlight: true
 category: blog
 thumbnail: /uploads/10year.png
 layout: posts
-date: 2024-02-02 00:00:00
+date: 2024-02-05 00:00:00
 img: fflogo.svg
 permalink: /blog/equity_in_action
 ---
 
 # Equity in Action
 
-**xx*
+**Highlights of the Fab Foundation work around Black History Month*
 
 *Read 5 min*
 
