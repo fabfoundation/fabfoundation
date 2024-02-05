@@ -12,7 +12,7 @@ permalink: /blog/equity_in_action
 
 # Equity in Action
 
-**Highlights of the Fab Foundation work around Black History Month*
+**Highlights of the Fab Foundation work around Black History Month**
 
 *Read 5 min*
 
