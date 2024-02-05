@@ -1,6 +1,6 @@
 ---
 title: Black History Month
-caption: 'Black History Month'
+caption: 'Equity in Action'
 highlight: true
 category: blog
 thumbnail: /uploads/BHM-photo.jpeg
