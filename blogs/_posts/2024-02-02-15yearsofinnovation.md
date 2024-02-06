@@ -1,5 +1,5 @@
 ---
-title: 15 years of innovation
+title: Celebrating 15 Years of Innovation
 caption: 'The Fab Foundation Remarkable Journey'
 highlight: true
 category: blog
