@@ -5,7 +5,7 @@ highlight: true
 category: newsletter
 thumbnail: /uploads/newsletters/february_2024.png
 layout: posts
-date: 2024-01-02 00:00:00
+date: 2024-06-02 00:00:00
 img: fflogo.svg
 permalink: /February-2024-Newsletter
 ---
