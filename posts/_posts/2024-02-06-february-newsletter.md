@@ -3,7 +3,7 @@ title: February Newsletter
 caption: 'Kickstarting 2024'
 highlight: true
 category: newsletter
-thumbnail: /uploads/newsletters/january_2024.jpeg
+thumbnail: /uploads/newsletters/february_2024.png
 layout: posts
 date: 2024-01-02 00:00:00
 img: fflogo.svg
