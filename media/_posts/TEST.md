@@ -5,7 +5,7 @@ highlight: true
 category: press-release
 thumbnail: /uploads/newsletters/fiab.jpg
 layout: posts
-date: 2024-03-15 00:00:00
+date: 2024-03-5 00:00:00
 img: fflogo.svg
 permalink: /media/text
 ---
