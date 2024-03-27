@@ -1,4 +1,4 @@
-<!--All News about section module -->
+<!--Press Release section module -->
 <section id="posts-full" data-aos="fade-up">
   <div class="container standard">
     <div class="sub-container">
@@ -16,13 +16,14 @@
       </div>
       {% endif %}
 
+      <!--Press Release gallery -->
       <div class="row">
         <div class="col-md-8">
-          <h3 class="section-heading" id="news-fabnews">Fab News</h3>
+          <h3 class="section-heading" id="news-press">Press Releases</h3>
         </div>
       </div>
       <div class="row">
-        {% for post in site.posts %} {% if post.category == 'press' %}
+        {% for post in site.categories.press %} 
         <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
           <a class="portfolio-link" href="{{ post.url | relative_url }}">
             <div class="portfolio-hover">
@@ -30,38 +31,14 @@
                 <i class="fa fa-plus fa-2x"></i>
               </div>
             </div>
-            <div class="portfolio-img" style="background-image: url('{{
-                post.thumbnail | relative_url
-              }}');"></div>
+            <div class="portfolio-img" style="background-image: url('{{ post.thumbnail | relative_url}}');"></div>
           </a>
           <div class="portfolio-caption">
             <h4>{{ post.title }}</h4>
             <p class="text-muted"></p>
           </div>
         </div>
-        {% endif %} {% endfor %}
-      </div>
-
-      <!-- 
-            <div class="row more-news-alert">
-                <div class="col-md-12 text-right">
-                <a href="{{ site.baseurl }}/about#latest-news" target="_blank"><h6 class="more-button" > More news ></a>
-                </div>
-            </div>
-        -->
-
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <ul class="list-inline social-buttons-large">
-            {% for network in site.social %}
-            <li>
-              <a href="{{ network.url }}">
-                <i class="fab fa-{{ network.title }}"></i>
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
+         {% endfor %}
       </div>
     </div>
     <!-- close sub-container -->

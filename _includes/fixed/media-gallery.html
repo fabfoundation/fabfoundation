@@ -1,0 +1,209 @@
+<!--Latest Newsletter Sub-pages Module -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">
+    <div class="container standard">
+        <div class="sub-container" id="newsletters">
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">Latest Newsletters</h3>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="section-subheading">Keep up to date with all the latest news and activities of the global
+                        Fab Lab Network and the Fab Foundation. Subscribe to our newsletter below.</p>
+                </div>
+            </div>
+
+            <!--Newsletter gallery -->
+
+            <div class="row">
+                {% assign newsletter_posts = site.posts | where:"category","newsletter" %}
+                {% for post in newsletter_posts limit:3 %}
+                <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
+                    <a class="portfolio-link" href="{{ post.url | relative_url }}">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-2x"></i>
+                            </div>
+                        </div>
+                        <div class="portfolio-img"
+                            style="background-image: url('{{ post.thumbnail | relative_url }}');"> </div>
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted"></p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row more-news-alert">
+                <div class="col-md-12 text-right">
+                    <a href="/newsletters">
+                        <h6 class="more-button"> Older newsletters >
+                    </a>
+                </div>
+            </div>
+
+        </div><!-- close sub-container -->
+    </div> <!-- close container -->
+</section>
+
+
+<!--Latest News Sub-pages Module -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">
+    <div class="container standard" id="news">
+        <div class="sub-container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">Latest News</h3>
+                </div>
+            </div>
+
+            <!--News gallery -->
+
+            <div class="row">
+                {% assign news_posts = site.posts | where:"category","press" %}
+                {% for post in news_posts limit:3 %}
+                <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
+                    <a class="portfolio-link" href="{{ post.url | relative_url }}">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-2x"></i>
+                            </div>
+                        </div>
+                        <div class="portfolio-img"
+                            style="background-image: url('{{ post.thumbnail | relative_url }}');"> </div>
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted"></p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row more-news-alert">
+                <div class="col-md-12 text-right">
+                    <a href="/news">
+                        <h6 class="more-button"> Older news >
+                    </a>
+                </div>
+            </div>
+
+        </div><!-- close sub-container -->
+    </div> <!-- close container -->
+</section>
+
+<!--Latest Press Releases Sub-pages Module -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">
+    <div class="container standard" id="press">
+        <div class="sub-container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">Latest Press Releases</h3>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="section-subheading"></p>
+                </div>
+            </div>
+
+            <!--Post gallery -->
+
+
+            <div class="row">
+                {% for post in site.categories.press limit:3 %}
+                <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
+                    <a class="portfolio-link" href="{{ post.url | relative_url }}">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-2x"></i>
+                            </div>
+                        </div>
+                        <div class="portfolio-img"
+                            style="background-image: url('{{ post.thumbnail | relative_url }}');"> </div>
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted"></p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row more-news-alert">
+                <div class="col-md-12 text-right">
+                    <a href="/press">
+                        <h6 class="more-button"> Older Press Releases >
+                    </a>
+                </div>
+            </div>
+
+        </div><!-- close sub-container -->
+    </div> <!-- close container -->
+</section>
+
+
+<!--Latest BLog Sub-pages Module -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">
+    <div class="container standard" id="blog">
+        <div class="sub-container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 class="section-heading">Latest Blog posts</h3>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="section-subheading"></p>
+                </div>
+            </div>
+
+            <!--Post gallery -->
+
+
+            <div class="row">
+                {% for post in site.categories.blog limit:3 %}
+                <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
+                    <a class="portfolio-link" href="{{ post.url | relative_url }}">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-2x"></i>
+                            </div>
+                        </div>
+                        <div class="portfolio-img"
+                            style="background-image: url('{{ post.thumbnail | relative_url }}');"> </div>
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted"></p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row more-news-alert">
+                <div class="col-md-12 text-right">
+                    <a href="/blog">
+                        <h6 class="more-button"> Older Blog posts >
+                    </a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <ul class="list-inline social-buttons-large">
+                        {% for network in site.social %}
+                        <li>
+                            <a href="{{ network.url }}" target="_blank">
+                                <i class="fab fa-{{ network.title }}"></i>
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div><!-- close sub-container -->
+    </div> <!-- close container -->
+</section>

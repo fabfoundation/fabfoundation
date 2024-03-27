@@ -1,9 +1,9 @@
 ---
 layout: page
-id: news
+id: press
 hastitle: true
-title: Fab Foundation News
-hasdescription: true
+title: Fab Foundation Press Releases
+hasdescription: false
 description:
   - paragraph: >-
       Keep up with the activities, events and news around the Fab Foundation, our partners and the international Fab Lab community!<br><br/><br>Have news to share with the network? Submit your news <a href="https://forms.fabfoundation.org/press/add" target="_blank">here!</a><br/>
@@ -11,10 +11,8 @@ hasjumplinks: false
 jumplinks:
   - link: Newsletters
     url: news-newsletters
-  - link: Fab News
-    url: news-fabnews
 
 background-img: news-bg-edited.jpg
 ---
 
-{% include fixed/news-all.html texts=site.data.news.news-full-module %}
+{% include fixed/press-all.html texts=site.data.news.news-full-module %}

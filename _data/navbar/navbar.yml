@@ -47,13 +47,17 @@ sections:
       - title: Subscribe
         url:
         color: '#000000'
-  - title: News
-    link: news
+  - title: Media
+    link: media
     sublinks:
+      - title: Blog
+        link: 'blog'
       - title: Newsletters
-        link: 'news#news-newsletters'
-      - title: Fab News
-        link: 'news#news-fabnews'
+        link: 'newsletters'
+      - title: Press Release
+        link: 'press'
+      - title: News
+        link: 'news'
     hasbuttons: false
   - title: Academany
     link: education

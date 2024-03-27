@@ -2,17 +2,23 @@
 layout: page
 id: media
 hastitle: true
-title: Fab Foundation Press Releases
+title: Fab Foundation Media
 hasdescription: false
 description:
   - paragraph: >-
 
-hasjumplinks: false
+hasjumplinks: true
 jumplinks:
   - link: Newsletters
-    url: news-newsletters
+    url: newsletters
+  - link: News
+    url: news
+  - link: Press releases
+    url: press
+  - link: Blog
+    url: blog
 
 background-img: news-bg-edited.jpg
 ---
 
-{% include fixed/media-all.html texts=site.data.news.news-full-module %}
+{% include fixed/media-gallery.html texts=site.data.news.news-full-module %}
