@@ -23,6 +23,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+# Google Analytics
+google_analytics: G-CQZYVZGDG6
+
 # applies pretty for all
 permalink: pretty
 # Exclude from processing.
