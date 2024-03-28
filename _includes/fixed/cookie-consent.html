@@ -6,10 +6,14 @@
         #cookie-notice a {position: relative; bottom: 4px;}
     }
 </style>
-<div id="cookie-notice"><span>We would like to use third party cookies and scripts to improve the functionality of this website.</span>
-    <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a>
-    <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Deny</a>
-    <a href="/privacy" class="btn btn-primary btn-sm">More info</a></div>
+
+<div id="cookie-notice">
+    <span>We would like to use third party cookies to monitor your use of this website.</span>
+    <a id="cookie-notice-accept" class="btn btn-blue btn-sm">Approve</a>
+    <a id="cookie-notice-deny" class="btn btn-red btn-sm">Deny</a>
+    <a href="/termsandconditions" target="_blank" class="btn btn-gray btn-sm">More info</a>
+</div>
+
 <script>
     function createCookie(name,value,days) {
         var expires = "";
@@ -18,7 +22,7 @@
             date.setTime(date.getTime() + (days*24*60*60*1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
+        document.cookie = name + "=" + value + expires + "; path=/;SameSite=Strict";
     }
     function readCookie(name) {
         var nameEQ = name + "=";
@@ -34,25 +38,31 @@
         createCookie(name,"",-1);
     }
 
+    function consentGranted() {
+    {% if jekyll.environment == "production" and site.google_analytics %}
+        // Google Analytics
+        gtag('consent', 'update', {
+          'analytics_storage': 'granted'
+        });
+    {% endif %}
+        // Other scripts?
+    }
+
     if(readCookie('cookie-notice-option')=='true') {
-        {% if jekyll.environment == "production" and site.google_analytics %}
-            {% include ga.js %}
-        {% endif %}
+        consentGranted();
     } else if (readCookie('cookie-notice-option')!='false'){
         document.getElementById('cookie-notice').style.display = 'block';
     }
 
     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('cookie-notice-option','true',31);
+        createCookie('cookie-notice-option','true',90);
         document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
+        consentGranted();
     });
 
     document.getElementById('cookie-notice-deny').addEventListener("click",function() {
-        createCookie('cookie-notice-option','false',31);
+        createCookie('cookie-notice-option','false',90);
         document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
     });
 
 </script>
-
