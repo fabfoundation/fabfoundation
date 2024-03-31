@@ -3,7 +3,7 @@ title: Announcing-the-Winners
 caption: '2024 Chevron FAB STEM Fellowship'
 highlight: true
 category: press-release
-thumbnail: /uploads/newsletters/fiab.jpg
+thumbnail: /uploads/newsletters/stem_2024.jpeg
 layout: posts
 date: 2024-03-31 00:00:00
 img: fflogo.svg
