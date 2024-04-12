@@ -5,7 +5,7 @@ highlight: true
 category: blog
 thumbnail: /uploads/FVSU launch banner.png
 layout: posts
-date: 2024-04-12 00:00:00
+date: 2024-04-11 00:00:00
 img: fflogo.svg
 permalink: /blog/history-in-the-making
 ---
