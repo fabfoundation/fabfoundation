@@ -5,7 +5,7 @@ highlight: true
 category: blog
 thumbnail: /uploads/educate-create.jpg
 layout: posts
-date: 2024-04-18 00:00:00
+date: 2024-04-19 00:00:00
 img: fflogo.svg
 permalink: /blog/making-history-again
 ---
@@ -16,11 +16,11 @@ permalink: /blog/making-history-again
 
 *Read 3 min*
 
-![The Marching 100](/uploads/Marching 100.PNG "The Marching 100")
+![FAMU ribbon cutting ceremony](/uploads/FAMU ribbon cutting.jpg "FAMU ribbon cutting ceremony")
 
 The sun was shining, spirits were high, and the vibe was festive as Florida Agricultural and Mechanical University kicked off the inauguration of its new Fab Lab in Tallahassee on March 29, 2024. Not to be outdone by their neighbors to the north at Fort Valley State University—who made history just two days prior by launching the very [first HBCU Chevron Fab Lab in the country](https://fabfoundation.org/blog/history-in-the-making)—FAMU opened their ribbon cutting ceremony with a blast of energy, courtesy of a select group from the Marching 100, otherwise known as "the baddest band in the land."
 
-![FAMU ribbon cutting ceremony](/uploads/FAMU ribbon cutting.jpg "FAMU ribbon cutting ceremony")
+ ![The Marching 100](/uploads/Marching 100.PNG "The Marching 100")
 
 The [Chevron STR<sup>2</sup>EAM Innovation Fab Lab](https://coe.famu.edu/departments-and-centers/fablab/index.php) is the second in a growing network of Chevron Fab Labs placed on HBCU campuses. As the acronym indicates, its scope goes well beyond the exploration of STEM concepts, incorporating science, technology, reading and research, engineering, arts, and mathematics. And, to clearly illustrate that such a broad curricular mix should be part of every learner’s journey, the Lab is located within the College of Education, a departure from most other university-based Fab Labs.
 
