@@ -10,7 +10,7 @@ img: fflogo.svg
 permalink: /news/April-2024-Newsletter
 ---
 
-🪩Discover what's new
+Discover what's new
 
 [Open Fullscreen](https://us19.campaign-archive.com/?u=703cd11616d78536ae5d303eb&id=02e233e65e){: target="_blank"}
 
