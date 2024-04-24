@@ -1,6 +1,6 @@
 ---
 title: April Newsletter
-caption: 'Discover what's new'
+caption: 'Discover What's new'
 highlight: true
 category: newsletter
 thumbnail: /uploads/newsletters/april_2024.jpg
