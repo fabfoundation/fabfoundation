@@ -51,9 +51,9 @@ Another thing we're thinking about is how we can support distributed manufacturi
 3. **Leadership:** Strong guidance and leadership is critical to invest in. There's a tension between vision and democratization. While you want to be as democratic as possible, leadership and vision is absolutely critical. So, you need to keep infecting the network with new vision, with leadership, with new ideas.
 4. **Funding:** Social impact is hard to fund. Corporations want to fund a certain kind of impact that reflects on them. Government has very specific and narrow interests. Philanthropy is not doing as well right now as it used to be. Figuring out funding is really, really important. How do you fund yourself in ways that really allow you to grow? It's something that I would recommend that you think about earlier rather than later.
 
-We’re very grateful to Paul Zelizer and Awarepreneurs for sharing the Fab Foundation’s work with the wider world!
-
 **Note that the preceding text from Sherry’s interview was edited for length and clarity. You can listen to the full conversation [here](https://www.awarepreneurs.com/podcast/332-social-impact-leaders) or on your preferred podcast platform:**
 - [Apple](https://podcasts.apple.com/us/podcast/awarepreneurs/id1232306106)
 - [Spotify](https://open.spotify.com/show/4MZcSXtqDGENW1RNUJntWD)
 - [Amazon](https://music.amazon.com/podcasts/8066e6c3-7b1a-443f-bcba-e41cb010ef4e/awarepreneurs)
+
+We’re very grateful to Paul Zelizer and Awarepreneurs for sharing the Fab Foundation’s work with the wider world!
