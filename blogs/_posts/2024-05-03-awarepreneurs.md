@@ -20,7 +20,7 @@ Paul Zelizer is a business coach focused on the needs of social entrepreneurs wh
 
 We were fortunate to meet Paul last summer, when he invited one of our key partners for FAB23 Bhutan—Ujjwal Deep Dahal, CEO of Druk Holding & Investments—to join him on the podcast for a discussion about [Leapfrogging to a Thriving Sustainable Economy in Bhutan](https://www.awarepreneurs.com/podcast/302-sustainable-economy). Recently, our President and CEO, Sherry Lassiter, sat down with Paul to share her perspective on [A Global, Distributed Network of Social Impact Leaders](https://www.awarepreneurs.com/podcast/332-social-impact-leaders) with the Awarepreneurs audience. We’d like to highlight some of our favorite segments of that conversation here.
 
-![Awarepreneurs podcast player](/uploads/sherry podcast header.png "Awarepreneurs podcast player")
+[![Awarepreneurs podcast player](/uploads/sherry podcast header.png "Awarepreneurs podcast player")](https://www.awarepreneurs.com/podcast/332-social-impact-leaders)
 
 # In the Beginning
 
@@ -50,8 +50,6 @@ Another thing we're thinking about is how we can support distributed manufacturi
 2. **Network Effect:** Distributed and decentralized is the way we've approached it. The network is really a democracy. They make the decision as to where to go and where to invest, and we kind of follow them. The glue that binds us is the technical community. It's the technology, but it really is creating the space for the social part of that community. It's not just the machines; it's the people. And so it's really about how you support that social interaction and that social network. It's so important: the social part, the network effect.
 3. **Leadership:** Strong guidance and leadership is critical to invest in. There's a tension between vision and democratization. While you want to be as democratic as possible, leadership and vision is absolutely critical. So, you need to keep infecting the network with new vision, with leadership, with new ideas.
 4. **Funding:** Social impact is hard to fund. Corporations want to fund a certain kind of impact that reflects on them. Government has very specific and narrow interests. Philanthropy is not doing as well right now as it used to be. Figuring out funding is really, really important. How do you fund yourself in ways that really allow you to grow? It's something that I would recommend that you think about earlier rather than later.
-
-![Sherry Awarepreneurs podcast](/uploads/332 Sherry Lassiter.jpg "Sherry Awarepreneurs podcast")
 
 We’re very grateful to Paul Zelizer and Awarepreneurs for sharing the Fab Foundation’s work with the wider world!
 
