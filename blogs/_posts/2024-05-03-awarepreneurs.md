@@ -19,8 +19,6 @@ permalink: /blog/awarepreneurs
 Paul Zelizer is a business coach focused on the needs of social entrepreneurs who work to increase positive impact and improve quality of life for the world’s citizens. He maintains a [busy practice](https://paulzelizer.com/), consulting with impact-focused founders, leaders, and companies. He’s also the host of [Awarepreneurs](https://www.awarepreneurs.com/), a prominent social entrepreneur podcast and podcast accelerator, which just published its 332nd episode! Covering essential topics that range from the support of Black business to toxic positivity in social impact work to innovative climate action, Awarepreneurs is a platform for voices that the world most urgently needs to hear today.
 
 We were fortunate to meet Paul last summer, when he invited one of our key partners for FAB23 Bhutan—Ujjwal Deep Dahal, CEO of Druk Holding & Investments—to join him on the podcast for a discussion about [Leapfrogging to a Thriving Sustainable Economy in Bhutan](https://www.awarepreneurs.com/podcast/302-sustainable-economy). Recently, our President and CEO, Sherry Lassiter, sat down with Paul to share her perspective on [A Global, Distributed Network of Social Impact Leaders](https://www.awarepreneurs.com/podcast/332-social-impact-leaders) with the Awarepreneurs audience. We’d like to highlight some of our favorite segments of that conversation here.
-
-<div style="width:20%; margin: auto;">
   
 [![Awarepreneurs podcast player](/uploads/sherry podcast header.png "Awarepreneurs podcast player")](https://www.awarepreneurs.com/podcast/332-social-impact-leaders)
 
