@@ -1,5 +1,5 @@
 ---
-title: Announcing-the-Winners
+title: Announcing the Winners
 caption: '2024 Chevron FAB STEM Fellowship'
 highlight: true
 category: press-release
