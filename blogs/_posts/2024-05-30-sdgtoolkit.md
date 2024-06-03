@@ -30,7 +30,7 @@ Explore [this interactive mindmap](https://share.mindmanager.com/#publish/HqlzlZ
 
 The SDGs are a powerful organizing structure that can both strengthen the Fab Lab Network and increase its social impact. Yet, of the 2,466 Fab Labs currently registered in [fablabs.io](http://fablabs.io), only about 500 have an active SDG profile. As stewards of the international Fab Lab Network, we’d like to see that number increase dramatically. In the preamble to their 2030 Agenda, the United Nations pledge that “no one will be left behind” in the collective journey to global sustainability and resilience. As such, we would ultimately like to see 100% participation in SDG action across the broad Fab Lab Network.
 
-![Map - Global Fab Lab Density](uploads/world-geo-woROYG.png "Map - Global Fab Lab Density")
+![Map - Global Fab Lab Density](/uploads/world-geo-woROYG.png "Map - Global Fab Lab Density")
 
 # Getting Involved - Put Your Fab Lab on the Map
 
