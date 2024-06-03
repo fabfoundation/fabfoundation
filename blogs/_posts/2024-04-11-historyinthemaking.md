@@ -16,7 +16,7 @@ permalink: /blog/history-in-the-making
 
 *Read 3 min*
 
-Recently, we had the privilege of witnessing history in the making. On March 27, 2024, a small group from the Fab Foundation traveled to Warner Robins, Georgia to celebrate the grand opening of Fort Valley State University’s [brand new Fab Lab](https://www.fvsu.edu/fablab)—the first HBCU Chevron Fab Lab in the country!
+Recently, we had the privilege of witnessing history in the making. On March 27, 2024, a small group from the Fab Foundation traveled to Warner Robins, Georgia to celebrate the grand opening of Fort Valley State University’s [brand new Fab Lab](https://www.fvsu.edu/fablab){:target="_blank"}—the first HBCU Chevron Fab Lab in the country!
 
 It was a day of firsts, and it would be difficult to overstate its significance. Yet, when LaRhonda Patrick—the first Black person, the first woman, and the youngest person ever to be elected mayor of Warner Robins—took the podium to welcome the public to the ribbon cutting ceremony, it was clear that this historic moment was just the first step of a journey toward something much greater. “This Fab Lab is here to reach generations, not just individuals who graduate from Fort Valley State University but children like my six-year-old, who loves science. You never know where the future will take them just because of the visionaries behind this Lab. My heart is smiling to know that this is here.”
 
