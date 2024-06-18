@@ -1,0 +1,121 @@
+id: fab-union
+hascarousel: true
+carouselbackground: fab_union/HeroShot.png
+carousel:
+  - img: 'fab_union/FU_01.png'
+    url: ''
+  - img: 'fab_union/FU_02.png'
+    url: ''
+  - img: 'fab_union/FU_03.png'
+    url: ''
+hastitle: true
+title: "Why a flagship Fab Lab?"
+hassubtitle: true
+subtitle: "The Fab Foundation seeks to establish a Fab Lab, a space where the public can access digital design and manufacturing tools to make almost anything they can imagine. These tools create opportunities for STEAM education, personal and artistic expression, as well as technology development. Currently there are many partners and individuals in Somerville that use digital fabrication; this flagship Fab Lab amplifies the impact that these organizations and individuals can have in the community by providing support, training and expertise, and unifying the digital fabrication community of practice."
+hasvignettes: false
+id: flagship
+vignettes:
+  - hastitle: true
+    title: "The Opportunity"
+    orientation: normal
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "Fab Foundation proposes to establish Fab Union, a community-focused arts and creative hub for teaching, learning and providing sustainable economic opportunity through universal access to digital fabrication. Fab Union would be located at 90-92 Union Square in the heart of the neighborhood. The renovation of a historic City asset into a community focused arts and creative hub will advance the City’s goals to revitalize Union Square into a vibrant, innovative employment district. It will celebrate the inventive and creative spirit of the neighborhood and provide local residents and workers of all ages and backgrounds with access to new opportunities. Fab UNION will be a cornerstone for the local creative economy and serve as a catalyst for individual economic mobility."
+    img: 'fab_union/FU_04.png'
+    hasjump: true
+    jump: opportunity
+  - hastitle: true
+    title: "The Community Collaboration"
+    orientation: inverted
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "The Fab Foundation is seeking to establish its headquarters in Somerville. Fab Foundation is steward for a global network of more than 2,000 digital fabrication labs, or fab labs, in more than 150 countries, all of which bring free access to the tools and processes of technology innovation and personal expression to communities across the world. Fab Union would anchor that stewardship in Union Square, Somerville and would co-create with the Union Square community pathways to success in STEAM education, in manufacturing, in the arts, in sustainable living and production, as well as provide new opportunities for participation in the 21st Century economy. The proposed site for Fab Union is the Union Square Fire Station, a historic building in the center of a vibrant community of 14,000 people from diverse cultures and backgrounds."
+    img: 'fablabsmap.png'
+    id: partnership
+  - hastitle: true
+    title: "The Place and Programs"
+    orientation: normal
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "In partnership with Union Square community stakeholders, Fab Foundation is proposing to establish Fab Union, a center for teaching, learning, research and economic opportunity in the historic fire station, one that would recognize and honor the past history of Union Square and Somerville, and pilot the future with the community as co-creator. Fab Union will serve as a global portal as well as a local resource, connecting Somerville communities to the fab lab network around the world."
+    img: 'fab_union/Happylady.png'
+    id: place
+  - hastitle: true
+    title: "Features"
+    orientation: inverted
+    haslead: true
+    lead: "Fab UNION will provide a wide variety of programming geared toward different experience levels, age groups and interests. While this is not an exhaustive list, below are the main categories of public offerings which would be available at the Fab UNION:"
+    hasbody: true
+    body: |
+      <ul>
+      <li>Academany Courses - Intensive technical literacy courses (6 months)</li>
+        <ul>
+          <li>FabAcademy - How to Make (almost) Anything</li>
+          <li>Fabricademy - Intersection of Making, Biology and Fashion</li>
+          <li>BioAcademy - How to Grow (almost) Anything</li>
+          <li>AgroAcademy - 21st Century Food Production</li>
+        </ul>
+      <li>Teaching and Learning Center</li>
+        <ul>
+          <li>Professional development for K-12 Educators</li>
+          <li>Classroom oriented activities and programming</li>
+          <li>Fab Lab Manager Training</li>
+        </ul>
+      <li>Café and Exhibition Spaces</li>
+        <ul>
+          <li>Talks, panels and fireside conversations</li>
+          <li>Exhibitions</li>
+          <li>Receptions and book / film / media launches</li>
+        </ul>
+      </ul>
+    img: 'fab_union/FU_07.png'
+  - hastitle: true
+    title: "Participate and show your support!"
+    orientation: normal
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "Please fill in the community Google form below, to show the City of Somerville your support, as well as to contribute ideas for Fab Union community participation. Fab Foundation is seeking community partners to form an advisory committee that will help curate the public exhibition and event space , as well as STEAM education programming priorities, and to help organize community meeting spaces.
+          <p>If you have any questions or want to volunteer for an advisory role, please email us at: fabunion[AT]fabfoundation.org</p>
+          <p>Thank you!</p>
+          <p>Fab Foundation Staff and Partners</p>"
+    img: 'fab_union/Kids.png'
+    id: opportunity
+  - hastitle: true
+    title: "FAQs"
+    orientation: inverted
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: |
+      <ul>
+      <li>What is Fab Union?</li>
+        <ul>
+          <li>Fab Union is a response to the Request for Proposal for City of Somerville Solicitation #22-04:
+            90-92 Union Square Property Lease and Renovation
+            Submitted to the City of Somerville in September,  2021</li>
+          </ul>
+        <li>What will Fab Foundation do for Union Square?</li>
+          <ul>
+          <li>Fab Foundation will bring STEAM education and arts services and expertise, as well as free public access to technology design and fabrication tools to Union Square.</li>
+          </ul>
+        <li>What does Fab Foundation get from the Fab Union project?</li>
+          <ul>
+          <li>Fab Foundation will establish its headquarters at Fab Union, with offices and space to provide arts and STEAM educational programming.</li>
+        </ul>
+        <li>What is US2’s role in this project?</li>
+          <ul>
+          <li>90-92 Union Square, the iconic  Fire Station in the center of Union Square,  is in need of substantial renovation. Estimates for its renovation start at $4,500,000.  Union Square development partner US2 has offered to underwrite the renovation in return for arts space credit for some of its other planned Union Square developments.</li>
+        </ul>
+        <li>What do Union Square and the City of Somerville get from the Fab Union project?</li>
+          <ul>
+          <li>The City of Somerville gets an iconic public space renovated and activated for the community.</li>
+          <li>Union Square establishes an arts and maker cornerstone for the district - which is part of SomerVision, the strategic city plan for the coming 20 years, as well as the Union Square Neighborhood plan to foster arts and innovation spaces.</li>
+          <li>Fab Union supports the economic growth and employment strategy for the district.</li>
+        </ul>
+      </ul>
+    img: 'fab_union/X-Ray.png'
+    id: place

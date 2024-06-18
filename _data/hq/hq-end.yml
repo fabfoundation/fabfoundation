@@ -1,0 +1,20 @@
+id: hq-end
+haslogo: false
+logo: academany-short.svg
+height: 45px
+hastitle: false
+title: ""
+hassubtitle: true
+subtitle: "We extend our sincere gratitude to Boston Properties (BXP) for their generous commitment to this work and this community, Cambridge Redevelopment Authority for their vision and their trust in our work, and Kendall Square Association for bringing all the partners together to make this possible."
+haslongtext: false
+longtext:
+haslargeimg: false
+largeimg: 
+hasbuttons: false
+buttons:
+  - title: ""
+    url: ''
+    type: red
+  - title: ""
+    url: ''
+    type: clear

@@ -1,0 +1,26 @@
+id: community
+hascarousel: false
+carouselbackground: fab_union/HeroShot.png
+carousel:
+  - img: 'fab_union/FU_01.png'
+    url: ''
+  - img: 'fab_union/FU_02.png'
+    url: ''
+  - img: 'fab_union/FU_03.png'
+    url: ''
+hastitle: false
+title: "Why a flagship Fab Lab?"
+hassubtitle: false
+subtitle: "The Fab Foundation seeks to establish a Fab Lab, a space where the public can access digital design and manufacturing tools to make almost anything they can imagine. These tools create opportunities for STEAM education, personal and artistic expression, as well as technology development. Currently there are many partners and individuals in Somerville that use digital fabrication; this flagship Fab Lab amplifies the impact that these organizations and individuals can have in the community by providing support, training and expertise, and unifying the digital fabrication community of practice."
+hasvignettes: true
+id: community
+vignettes:
+  - hastitle: true
+    title: "The Community Collaboration"
+    orientation: inverted
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "Fab Union would establish its headquarters in Union Square, Somerville and would co-create with the Union Square community pathways to success in STEAM education, in manufacturing, in the arts, in sustainable living and production, as well as provide new opportunities for participation in the 21st Century economy. A community advisory committee of volunteers would curate, or co-curate exhibits and events related to making, the arts, innovation and digital fabrication.  Additionally this committee would help identify and engage community based organizations that could offer related programming in the building. Plans for the renovation and management of the building include spaces for scheduled community meetings on related education, arts, research and economic development concerns."
+    img: 'fab_union/community_collaboration.png'
+    id: partnership

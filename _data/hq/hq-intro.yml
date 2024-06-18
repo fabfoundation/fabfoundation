@@ -1,0 +1,20 @@
+id: hq-full
+haslogo: false
+logo: academany-short.svg
+height: 45px
+hastitle: true
+title: "We are an anchor organization for the international maker movement. For 15 years, we have served as steward of the global Fab Lab Network—a community of more than 2,700 public digital fabrication laboratories in 135 countries—supporting initiatives in education, social impact, and economic development, especially for those who have been historically excluded from such essential elements of a healthy society."
+hassubtitle: true
+subtitle: "Our new headquarters and flagship Fab Lab will serve as a connection point between the Cambridge community and the international Fab Lab Network. The facility is intended to empower individuals to leverage technology development and expertise in the service of artistic expression, entrepreneurship, social justice, and climate action. We hope to engage a wide range of partners with a variety of programs and offerings:"
+haslongtext: false
+longtext:
+haslargeimg: true
+largeimg: hq/hq_full.jpg
+hasbuttons: false
+buttons:
+  - title: ""
+    url: ''
+    type: red
+  - title: ""
+    url: ''
+    type: clear

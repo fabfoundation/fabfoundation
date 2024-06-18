@@ -1,0 +1,46 @@
+id: features
+hascarousel: false
+carouselbackground: fab_union/HeroShot.png
+carousel:
+  - img: 'fab_union/FU_01.png'
+    url: ''
+  - img: 'fab_union/FU_02.png'
+    url: ''
+  - img: 'fab_union/FU_03.png'
+    url: ''
+hastitle: false
+title: "Why a flagship Fab Lab?"
+hassubtitle: false
+subtitle: "The Fab Foundation seeks to establish a Fab Lab, a space where the public can access digital design and manufacturing tools to make almost anything they can imagine. These tools create opportunities for STEAM education, personal and artistic expression, as well as technology development. Currently there are many partners and individuals in Somerville that use digital fabrication; this flagship Fab Lab amplifies the impact that these organizations and individuals can have in the community by providing support, training and expertise, and unifying the digital fabrication community of practice."
+hasvignettes: true
+id: features
+vignettes:
+  - hastitle: true
+    title: "Public programs"
+    orientation: inverted
+    haslead: true
+    lead: "Fab UNION will provide a wide variety of programming geared toward different experience levels, age groups and interests. While this is not an exhaustive list, below are the main categories of public offerings which would be available at the Fab UNION:"
+    hasbody: true
+    body: |
+      <ul>
+      <li>Academany Courses - Intensive technical literacy courses (6 months)</li>
+        <ul>
+          <li>FabAcademy - How to Make (almost) Anything</li>
+          <li>Fabricademy - Intersection of Making, Biology and Fashion</li>
+          <li>BioAcademy - How to Grow (almost) Anything</li>
+          <li>AgroAcademy - 21st Century Food Production</li>
+        </ul>
+      <li>Teaching and Learning Center</li>
+        <ul>
+          <li>Professional development for K-12 Educators</li>
+          <li>Classroom oriented activities and programming</li>
+          <li>Fab Lab Manager Training</li>
+        </ul>
+      <li>Café and Exhibition Spaces</li>
+        <ul>
+          <li>Talks, panels and fireside conversations</li>
+          <li>Exhibitions</li>
+          <li>Receptions and book / film / media launches</li>
+        </ul>
+      </ul>
+    img: 'fab_union/public_programs.png'

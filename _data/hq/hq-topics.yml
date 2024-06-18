@@ -1,0 +1,32 @@
+id: hq-topics
+hastitle: false
+title: "" 
+services:
+  - title: "State-of-the-Art Digital Fabrication Facility"
+    id: 'state_of_the_art'
+    orientation: normal
+    img: hq/fablab_hq.jpg
+    paragraphs:
+      - p: " including lasers, large CNC machines, precision CNC milling machines, 3D printers, NC cutting machines, plasma cutting, molding and casting, digital sewing machines, electronics design, production tools, and more"
+  - title: "Global Education & Innovation Training Center"
+    id: 'global_center'
+    orientation: inverted
+    img: hq/fablab_people_hq.jpg
+    paragraphs:
+      - p: "supporting STEAM learning through professional development, Fab Learning Academy, and the SCOPES-DF program; training for Fab Lab managers; workforce training technology and digital skills; technical education through the Academany portfolio (Fab Academy, Fabricademy, Bio Academy); prototyping support and training for local entrepreneurs, subject matter experts, and artists"
+  - title: "Research Center for Sustainable Living and Manufacturing "
+    id: 'research_center'
+    orientation: normal
+    img: hq/research_hq.jpg
+    paragraphs:
+      - p: "supporting an international community of makers engaged in circulary economy research and practices through the Fab City Global Initiative: a global public-private partnership of 50 cities across the world,  including Somerville, Cambridge, and Boston"
+  - title: "Community-Access Facility"
+    id: 'community_access'
+    orientation: inverted
+    img: hq/community_hq.jpg
+    paragraphs:
+      - p: "offering free public-access hours for after-school programming, community-benefit projects, and initiatives and collaborations with local organizations"
+hasmorebutton: false
+morebuttontitle: "Academany's website"
+morebuttonurl: 'http://academany.org/'
+morebuttontarget: '_blank'

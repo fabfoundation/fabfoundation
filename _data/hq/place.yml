@@ -1,0 +1,25 @@
+id: place
+hascarousel: false
+carouselbackground: fab_union/HeroShot.png
+carousel:
+  - img: 'fab_union/FU_01.png'
+    url: ''
+  - img: 'fab_union/FU_02.png'
+    url: ''
+  - img: 'fab_union/FU_03.png'
+    url: ''
+hastitle: false
+title: "Why a flagship Fab Lab?"
+hassubtitle: false
+subtitle: ""
+hasvignettes: true
+id: place
+vignettes:
+  - hastitle: true
+    title: "The Place"
+    orientation: normal
+    haslead: false
+    lead: ""
+    hasbody: true
+    body: "In partnership with Union Square community stakeholders, Fab Foundation is proposing to establish Fab Union, a center for teaching, learning, research and economic opportunity in the historic fire station, one that would recognize and honor the past history of Union Square and Somerville, and pilot the future with the community as co-creator. Fab Union will serve as a local resource as well as a global portal , connecting Somerville residents and workers  to the fab lab network around the world.</br></br>As part of the Fab Union project, the two-story former fire station building would be renovated to repair and restore the historic building’s exterior envelope and to provide universal access.  Concept plans envision opening up the old fire station doors on the ground floor of the west facade to connect the exterior public plaza spaces with an interior space that will serve as a public exhibition space and cafe or as a periodic event space.  The exhibition space could showcase local fab work.  Nearby, a new digital fabrication shop space will be visible to the public from both inside and outside the space.   On the second floor, a classroom and more lab space are complemented by an office area that will serve as Fab Foundation’s global headquarters."
+    img: 'fab_union/the_place.png'

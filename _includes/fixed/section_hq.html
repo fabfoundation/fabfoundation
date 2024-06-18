@@ -1,0 +1,259 @@
+<!--Standard section template -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">
+  <div class="container standard">
+    {% if include.texts.hastopbanner == true %}
+    <div class="row text-center banner">
+      <div
+        class="img-large banner-img"
+        style="background-image: url('{{ site.baseurl }}/uploads/{{
+          include.texts.topbanner
+        }}');"
+      ></div>
+    </div>
+    {% endif %} {% if include.texts.hascarousel ==true %}
+
+    <div class="bs-example">
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <!-- Wrapper for carousel items -->
+        <div class="carousel-inner">
+          <div
+            class="item active"
+            style="background-image: url('{{ site.baseurl }}/uploads/{{
+              include.texts.carouselbackground
+            }}');"
+          ></div>
+
+          {% for image in include.texts.carousel %}
+          <div
+            class="item"
+            style="background-image: url('{{ site.baseurl }}/uploads/{{
+              image.img
+            }}');"
+          ></div>
+          {% endfor %}
+        </div>
+        <!-- Carousel controls -->
+        <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="carousel-control right" href="#myCarousel" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+      </div>
+    </div>
+    {% endif %}
+
+    <div class="sub-container">
+      {% if include.texts.haslogo == true %}
+      <div class="row">
+        <div
+          class="col-md-12 section-logo"
+          style="height: {{ include.texts.height }}; background-image: url('{{
+            site.baseurl
+          }}/uploads/{{ include.texts.logo }}');"
+        ></div>
+      </div>
+      {% endif %} {% if include.texts.hastitle == true %}
+      <div class="row">
+          <h3 class="section-heading">{{ include.texts.title }}</h3>
+      </div>
+      {% endif %} {% if include.texts.hassubtitle == true %}
+      <div class="row">
+          <p class="section-subheading">{{ include.texts.subtitle }}</p>
+      </div>
+      {% endif %} {% if include.texts.haslongtext == true %}
+      <div class="row text-center" data-aos="fade-right">
+        <div class="col-md-12 body-text">
+          <p>{{ include.texts.longtext }}</p>
+        </div>
+      </div>
+      {% endif %} {% if include.texts.haslargeimg == true %}
+      <div class="row text-center">
+        <div class="col-md-12">
+          <div
+            class="img-large"
+            style="background-image: url('{{ site.baseurl }}/uploads/{{
+              include.texts.largeimg
+            }}');"
+          ></div>
+        </div>
+      </div>
+      {% endif %}
+
+      <!-- Vignettes -->
+      {% if include.texts.hasvignettes == true %} {% for vignette in
+      include.texts.vignettes %} {% if vignette.orientation == 'normal' %}
+      <div class="row vignette" data-aos="fade-right">
+        <div class="col-xs-12 col-sm-6 col-md-6 texts">
+          {% if vignette.hastitle == true %}
+          <div class="row">
+            <div class="col-md-12">
+              <h3 class="section-heading">{{ vignette.title }}</h3>
+            </div>
+          </div>
+          {% endif %} {% if vignette.haslead == true %}
+          <div class="row">
+            <div class="col-md-12">
+              <p class="vignette-lead">{{ vignette.lead }}</p>
+            </div>
+          </div>
+          {% endif %} {% if vignette.hasbody == true %}
+          <div class="row">
+            <div class="col-md-12">
+              <p class="vignette-body">{{ vignette.body }}</p>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+        <div
+          class="col-xs-12 col-sm-6 col-md-6 vignette-img"
+          style="background-image: url('{{ site.baseurl }}/uploads/{{
+            vignette.img
+          }}');"
+        ></div>
+      </div>
+      {% else %}
+      <div class="row vignette" data-aos="fade-left">
+        <div
+          class="col-xs-12 col-sm-6 col-md-6 vignette-img"
+          style="background-image: url('{{ site.baseurl }}/uploads/{{
+            vignette.img
+          }}');"
+        ></div>
+
+        <div class="col-xs-12 col-sm-6 col-md-6 no-padding texts">
+          {% if vignette.hastitle == true %}
+          <div class="row">
+            <div class="col-md-12">
+              <h3 class="section-heading">{{ vignette.title }}</h3>
+            </div>
+          </div>
+          {% endif %} {% if vignette.haslead == true %}
+          <div class="row">
+            <div class="col-md-12">
+              <p class="vignette-lead">{{ vignette.lead }}</p>
+            </div>
+          </div>
+          {% endif %} {% if vignette.hasbody == true %}
+          <div class="row">
+            <div class="col-md-12">
+              <p class="vignette-body">{{ vignette.body }}</p>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      {% endif %} {% endfor %} {% endif %} {% if include.texts.hasslidermenu ==
+      true %}
+      <div class="row slidewrapper">
+        <div id="slideshow1" class="slideshow">
+          <div class="list">
+            {% for slide in include.texts.slides %}
+            <a href="{{ slide.url }}" target="_blank">
+              <div class="element" data-aos="fade-right">
+                <div
+                  class="row academany-logo"
+                  style="background-image: url('{{
+                    site.baseurl
+                  }}/uploads/academany-full.svg');"
+                ></div>
+                <div
+                  class="element-img"
+                  style="background-image: url('{{ site.baseurl }}/uploads/{{
+                    slide.img
+                  }}');"
+                ></div>
+                <div
+                  class="element-logo"
+                  style="background-color: #{{ slide.color }} ;"
+                >
+                  <div
+                    class="logo"
+                    style="background-image: url('{{ site.baseurl }}/uploads/{{
+                      slide.logo
+                    }}');"
+                  ></div>
+                </div>
+              </div>
+            </a>
+            {% endfor %}
+          </div>
+          <!-- close list -->
+        </div>
+        <!-- close slideshow1 -->
+      </div>
+      <!-- close slidewrapper -->
+      {% endif %} {% if include.texts.hasbuttons == true %}
+      <div class="row">
+        <div class="col-md-12">
+          {% for button in include.texts.buttons %} {% if button.type == 'clear'
+          %}
+          <a
+            data-aos="fade-right"
+            class="page-scroll btn btn-clear"
+             {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank" 
+             {% else %}
+             href="{{site.baseurl}}/{{button.url}}"
+             {% endif %}
+
+            >{{ button.title }}</a
+          >
+          {% else button.type == 'red' %}
+          <a
+            data-aos="fade-right"
+            class="page-scroll btn btn-red"
+            {% if button.url contains 'http' %} href="{{ button.url }}"  target="_blank"   
+            {% elsif button.url contains '@' %} href="{{ button.url }}"
+             {% else %}
+             href="{{site.baseurl}}/{{button.url}}"
+             {% endif %}
+             
+            >{{ button.title }}</a
+          >
+          {% endif %} {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      <!--Project gallery option -->
+      {% if include.texts.hasprojectgallery == true %}
+      <div class="row">
+        {% for project in include.texts.projects %}
+        <div class="col-md-4 col-sm-6 portfolio-item" data-aos="fade-right">
+          <a
+            href="{{ site.baseurl }}/projects-initiatives#{{ project.id }}"
+            class="portfolio-link"
+            target="_blank"
+            style="text-decoration: none;"
+          >
+            <img
+              src="{{ site.baseurl }}/uploads/{{ project.img }} "
+              class="img-responsive img-centered project-gallery-img"
+              alt=""
+            />
+            <div class="portfolio-caption">
+              <h4>{{ project.title }}</h4>
+              <p class="text-muted"></p>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+        <!-- <a href="{{ site.baseurl }}/projects-initiatives" target="_blank"
+          ><h6 class="more-button" style="margin-top:30px;">
+            See all projects and initiatives >
+          </h6></a
+        > -->
+      </div>
+      <!-- close row -->
+      {% endif %}
+    </div>
+    <!-- close sub-container -->
+  </div>
+  <!-- close container -->
+</section>
