@@ -2,9 +2,9 @@
 
 ----
 
-Repo for the new Fab Foundation website. 
+Repo for the Fab Foundation website. 
 
-Currently in beta. 
+
 
 ----
 
@@ -15,6 +15,4 @@ https://jekyllrb.com/tutorials/using-jekyll-with-bundler/
 
 ---
 
-@mqvlm
-mariana.nodo@gmail.com
-
+info[AT]fabfoundation.org
