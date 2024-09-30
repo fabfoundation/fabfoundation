@@ -16,6 +16,8 @@ permalink: /blog/global-kids
 
 *Read 5 min*
 
+![Plaza Puebla](/uploads/plaza puebla.jpg "Plaza Puebla")
+
 ![Global Kids FAB24](/uploads/global kids.JPG.jpg "Global Kids FAB24")
 
 The [Global Kids initiative](https://linktr.ee/GlobalKidsLab){:target="_blank"} is a celebration of the pure joy of learning. Rather than the whirring of machines often associated with Fab Labs, the most prominent sounds heard at one of their immersive workshops are children’s laughter, clapping, and singing. Inevitably, these are accompanied by smiling faces, dancing bodies, brilliant colors strewn about, and a vibe that evokes the optimism and energetic spirit of summer camp.
