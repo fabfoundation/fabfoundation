@@ -2,6 +2,8 @@ sections:
   - title: Getting Started
     link: getting-started
     sublinks:
+      - title: Fab Lab Deployments
+        link: 'fablabsolutions'
       - title: What is a Fab Lab?
         link: 'getting-started#fablabs-full'
       - title: How to Start a Fab Lab
@@ -28,12 +30,12 @@ sections:
         link: 'projects-initiatives#fabresearch'
       - title: Fab City
         link: 'projects-initiatives#fabcity'
-      - title: The Resilience Collective
-        link: 'projects-initiatives#resiliencecollective'
-      - title: Fab Economy
-        link: 'projects-initiatives#fabeconomy'
-      - title: Fab House
-        link: 'projects-initiatives#fabhouse'
+          #      - title: The Resilience Collective
+          #        link: 'projects-initiatives#resiliencecollective'
+          #      - title: Fab Economy
+          #        link: 'projects-initiatives#fabeconomy'
+          #      - title: Fab House
+          #        link: 'projects-initiatives#fabhouse'
     hasbuttons: false
   - title: Research and Data
     link: resources

@@ -28,40 +28,40 @@ cards:
     description:
       - p: "Fab City is a global initiative to develop locally productive and globally connected self-sufficient cities. It comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste."
     bgcolor: "darkblue"
-  - orientation: normal
-    title: The Resilience Collective
-    id: resiliencecollective
-    img: rc_header.png
-    url: "https://theresiliencecollective.org/"
-    has_external_link: true
-    description:
-      - p: |
-          The Resilience Collective is a group of several humanitarian, development and research organizations working together on a collective journey to design, test, document and scale the use of digital technology for the most vulnerable populations. They develop RIFs (Resilience Innovation Facilities) in different contexts, focussing on education, protection and development of businesses and entrepreneurship. There are sites in Burkina Faso, Hungary, Djibouti, Morocco, and many more countries. Currently active members include Terre des hommes, Geneva University, Kenya Red Cross, Digital Gravity and others. 
-    bgcolor: "lightblue"
-  - orientation: normal
-    title: Future Workforce Now
-    id: fabworkforce
-    img: STEMChattanooga.jpg
-    url: "https://www.nga.org/futureworkforce/"
-    has_external_link: true
-    description:
-      - p: "Future Workforce Now: Reimagining Workforce Policy in the Age of Disruption was launched in 2018 to help states advance policy to prepare for the workforce needs of the future. Through a series of topical roundtables, Future Workforce Now brought leading economic, education, industry and workforce experts together with state policy leaders to share knowledge and expertise on the technological disruptions affecting current and future workers and workplaces. These leaders identified the major disruptions and global forces shaping the future of work and are pleased to present this publication as a transformative agenda for preparing the future workforce now."
-    bgcolor: "lightblue"  
-  - orientation: normal
-    title: Fab Economy
-    id: fabeconomy
-    img: woodstructure_lowres.jpg
-    url: "http://www.fabeconomy.com/"
-    has_external_link: true
-    description:
-      - p: "Fab Economy is the start of a community business platform. Fab Economy is about creating a new economy for everybody, where local fulfillment and customization take the place of mass production and global distribution. Fab Labs, along with companies and organizations can all work together toward reaching this goal. This is an exchange space where companies, fab labs and individuals can potentially find resources, funding, collaborations and expertise."
-    bgcolor: "lightblue"
-  - orientation: normal
-    title: Fab House
-    id: fabhouse
-    img: fabhouse1.png
-    url: "https://www.youtube.com/watch?v=vFI5ds6y2NA&t=2s"
-    has_external_link: true
-    description:
-      - p: "Fab House is bridging the opportunity divide through digital fabrication and human capital.  This neighborhood stabilization and community development project will bring digital fabrication to Cleveland, Ohio's Glenville neighborhood.  With a residency program, Fab House will host Fab Gurus and makers from all around the world and provide community residents with direct access to digital fabrication technology and human expertise in the heart of the neighborhood."
-    bgcolor: "darkblue"
+      #  - orientation: normal
+      #    title: The Resilience Collective
+      #    id: resiliencecollective
+      #    img: rc_header.png
+      #    url: "https://theresiliencecollective.org/"
+      #    has_external_link: true
+      #    description:
+      #      - p: |
+      #          The Resilience Collective is a group of several humanitarian, development and research organizations working together on a collective journey to design, test, document and scale the use of digital technology for the most vulnerable populations. They develop RIFs (Resilience Innovation Facilities) in different contexts, focussing on education, protection and development of businesses and entrepreneurship. There are sites in Burkina Faso, Hungary, Djibouti, Morocco, and many more countries. Currently active members include Terre des hommes, Geneva University, Kenya Red Cross, Digital Gravity and others. 
+      #    bgcolor: "lightblue"
+      #  - orientation: normal
+      #    title: Future Workforce Now
+      #    id: fabworkforce
+      #    img: STEMChattanooga.jpg
+      #    url: "https://www.nga.org/futureworkforce/"
+      #    has_external_link: true
+      #    description:
+      #      - p: "Future Workforce Now: Reimagining Workforce Policy in the Age of Disruption was launched in 2018 to help states advance policy to prepare for the workforce needs of the future. Through a series of topical roundtables, Future Workforce Now brought leading economic, education, industry and workforce experts together with state policy leaders to share knowledge and expertise on the technological disruptions affecting current and future workers and workplaces. These leaders identified the major disruptions and global forces shaping the future of work and are pleased to present this publication as a transformative agenda for preparing the future workforce now."
+      #    bgcolor: "lightblue"  
+      #  - orientation: normal
+      #    title: Fab Economy
+      #    id: fabeconomy
+      #    img: woodstructure_lowres.jpg
+      #    url: "http://www.fabeconomy.com/"
+      #    has_external_link: true
+      #    description:
+      #      - p: "Fab Economy is the start of a community business platform. Fab Economy is about creating a new economy for everybody, where local fulfillment and customization take the place of mass production and global distribution. Fab Labs, along with companies and organizations can all work together toward reaching this goal. This is an exchange space where companies, fab labs and individuals can potentially find resources, funding, collaborations and expertise."
+      #    bgcolor: "lightblue"
+      #  - orientation: normal
+      #    title: Fab House
+      #    id: fabhouse
+      #    img: fabhouse1.png
+      #    url: "https://www.youtube.com/watch?v=vFI5ds6y2NA&t=2s"
+      #    has_external_link: true
+      #    description:
+      #      - p: "Fab House is bridging the opportunity divide through digital fabrication and human capital.  This neighborhood stabilization and community development project will bring digital fabrication to Cleveland, Ohio's Glenville neighborhood.  With a residency program, Fab House will host Fab Gurus and makers from all around the world and provide community residents with direct access to digital fabrication technology and human expertise in the heart of the neighborhood."
+      #    bgcolor: "darkblue"
