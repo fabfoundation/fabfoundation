@@ -12,6 +12,9 @@ buttons:
   - title: "What is a  Lab?"
     url: "getting-started"
     type: red
+  - title: "Our solutions to create labs"
+    url: https://fabfoundation.org/fablabsolutions
+    type: red
   - title: "How to start a Fab Lab?"
     url: "getting-started"
     type: clear

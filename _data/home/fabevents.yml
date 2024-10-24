@@ -9,7 +9,7 @@ carousel:
 hastitle: true
 title: "We organize the largest event on digital fabrication where you can learn, share and connect. Join the international conference for makers, educators, and innovators whose goal is to provide vital transformation for the future."
 hassubtitle: true
-subtitle: "Each year we offer members of the more than 2500 worldwide Fab Labs a space to gather, share, collaborate, explore and, of course, fabricate. Join us in 2024 from August 4 to 11 in <b>Puebla, Mexico</b>. We will have daily symposiums, workshops and surprise challenges!"
+subtitle: "Each year we offer members of the more than 2500 worldwide Fab Labs a space to gather, share, collaborate, explore and, of course, fabricate. Join us in 2025 from July 4 to 11 in <b>Brno and Prague, Czech Republic </b>. We will have daily symposiums, workshops and surprise challenges!"
 haslongtext: false
 longtext:
 hasbuttons: true
@@ -17,6 +17,6 @@ buttons:
   - title: "Check out all Fabx Events"
     url: "http://fabevent.org/"
     type: clear
-  - title: "Fab 24 Mexico"
-    url: "https://fab24.fabevent.org/"
+  - title: "Fab 25 Czech Republic"
+    url: "https://fab25.fabevent.org/"
     type: red
