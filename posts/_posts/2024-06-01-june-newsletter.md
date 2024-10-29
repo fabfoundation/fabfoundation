@@ -3,7 +3,7 @@ title: June Newsletter
 caption: 'Summer Surge'
 highlight: true
 category: newsletter
-thumbnail: /uploads/newsletters/june-newsletter.jpeg
+thumbnail: /uploads/newsletters/june-2024.png
 layout: posts
 date: 2024-06-01 00:00:00
 img: fflogo.svg
