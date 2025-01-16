@@ -1,0 +1,118 @@
+id: past-staff-team
+title: "Fab Foundation Consultants"
+cards:
+  - name: "Sam Peterson"
+    img: '/team/sam_peterson.jpg'
+    position: "Editorial Manager"
+    social:
+      - title: "LinkedIn"
+        url: "https://www.linkedin.com/in/samuel-c-peterson/"
+    bio:
+      - p: "Before joining the Fab Foundation as Editorial Manager in 2023, Sam was the Managing Editor of EdSurge Solutions Studio, where he developed multimedia editorial content for edtech organizations, universities, and education nonprofits to highlight innovation trends in teaching and learning around the world. Previously, he spent 11 years in the classroom as a high school Spanish teacher in New York City and Henrico, Virginia."
+      - p: "In addition to his Marketing role, Sam is a member of our Fundraising & Development team, assisting with funding research and grant writing."
+      - p: "He now lives in the Chesapeake Bay region of Virginia, where he dedicates his free time to oyster gardening, woodworking in the timber-frame shop that he and his father built, and making friends with the many wild plants and animals that also reside on his property."
+  - name: "Melvin LaPrade"
+    img: 'Melvin_LaPrade.png'
+    position: "Consultant, SCOPES-DF"
+    social:
+      - title:
+        url:
+    bio:
+      - p: "Melvin LaPrade is a consultant with the Fab Foundation for the SCOPES-DF project. Melvin’s areas of expertise and research address both traditional issues, such as narrowing racial and gender achievement gaps as well as new challenges, such as the implementation of Common Core State Learning Standards with fidelity. Melvin was the Founding Director of Development for the Benjamin Banneker Academy for Community Development in Central Brooklyn, NY, a college-preparatory community development-themed middle/high school created by the Gates Foundation small school initiative. As Managing Partner of the New York based National Urban Research group, his thought leadership consultant practice works to shape the broader P-16 educational policy landscape by conducting analysis, research and idea generation on approaches objectively demonstrated to reach traditionally underserved neighborhoods, first-generation college students, low-income students and their families. In the fall of 2015, Melvin implemented the Clement School Analytics Leadership Team (C-SALT) model at CMSD Investment School Kenneth W. Clement Boys Leadership Academy (KCBLA). This model resulted in over 94 percent of KCBLA students meeting the 3rd grade Ohio Reading Guarantee promotion benchmark, and 80 percent of 7th grade student’s recorded MAP RIT scores above the 50th percentile."
+      - p: "Melvin is a graduate of CMSD schools, East High. He did his undergraduate work at Howard University, Master’s at Cleveland State University, and Post-graduate studies, Department of Urban Studies and Planning, Ph.D. Program at M.I.T."
+  - name: "Brian Purvis"
+    img: '/team/brian_purvis.jpg'
+  # position: "Chief Information Officer"
+  #  social: 
+  #   - title: Donate Here
+  #      url: "https://donate.fabevent.org/"
+    bio:
+      - p: "Brian is the former Manager of Instruction for the GE Brilliant Career Lab, a
+          curriculum centered mobile FAB Lab that served Boston area public high
+          schools. Previously he led the Gilbert Innovation Hub, where he leveraged his
+          27 years as a public school STEM educator to open an integrated maker
+          space at the heart of a Title 1 STEM elementary school. During his career he
+          has also started an equity centered youth leadership organization, worked to
+          train new teachers at the collegiate level and provided professional
+          development on inquiry based instructional techniques."
+      - p: "Brian is passionate
+          about leveraging digital fabrication technology to enhance and transform
+          traditional K-12 education. Currently he mixes his position as a STEM careers
+          and computer science teacher with consulting for organizations interested in
+          immersive learning experiences centered on technology. Brian holds degrees
+          in History (UNC-Pembroke) and Science Education (UNC-Chapel Hill) as well
+          as certification in K-12 Computer Science. He lives with his family in
+          Chattanooga, Tennessee."
+  # - name: "David Cavallo"
+  #   img: 'David_cavallo.png' 
+  #   position: "Learning Architect, SCOPES-DF"
+  #   social: 
+  #     - title: 
+  #       url:
+  # - name: "Lydia Ford"
+  #   img: 'Lydia_Ford.png' 
+  #   position: "Assistant to Chief Implementation Officer"
+  #   social: 
+  #     - title: 
+  #       url:      
+  # - name: "Dr. Nettrice Gaskins"
+  #   img: 'Nettrice_Gaskins.png'
+  #   position: "Consultant, SCOPES-DF"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/nettrice"
+  # - name: "Pamela King"
+  #   img: 'Pamela_King.png' 
+  #   position: "General Manager"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/pamelajking"
+  # - name: "Aidan Mullaney"
+  #   img: 'Aidan_Mullaney.png' 
+  #   position: "Fab Foundation Senior Manager of Educational Programs"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/aidan-mullaney/"   
+  # - name: "Rebecca Ottinger"
+  #   img: 'rebecca-ottinger.png' 
+  #   position: "General Manager, Programs and Administration"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/rebecca-ottinger-2765b840/"         
+  # - name: "Jean-Luc Pierite"
+  #   img: 'Jean_Luc_Pierite.png'
+  #   position: "International Procurement and Logistics Manager"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/jeanlucpierite"
+  # - name: "Dr. Dan Smithwick"
+  #   img: 'Dan_Smithwick.png'
+  #   position: "Master Fabricator, SCOPES-DF"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/danielsmithwick"
+  # - name: "Sonya Pryor-Jones"
+  #   img: 'Sonya_Pryor_Jones.png'
+  #   position: "Vice President, Chief Strategy Officer"
+  #   social: 
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/sonya-pryor-jones"
+  #   bio:
+  #     - p: ""
+  # - name: "Liz Whitewolf"
+  #   img: 'Liz_Whitewolf.png'
+  #   position: "Fab Foundation (K-12) Education Director"
+  #   social: 
+  #     - title: linkedin
+  #       url: ""
+  #   bio:
+  #     - p: ""
+  # - name: "Alethea Campbell"
+  #   img: 'Alethea_Campbell.png'
+  #   position: "Senior Manager of Relationships, Outreach, and Education Operations"
+  #   social:
+  #     - title: linkedin
+  #       url: "https://www.linkedin.com/in/aletheacampbell"
+#   bio:
+#     - p: "The Program Manager of the GE Brilliant Career Lab, Alethea Campbell discovered the power and joy of making for herself, and others, has become a driving force in her life to make a transformation in the world of education."
+#     - p: "Her passion for art, design, science, and technology led her to the maker world. She saw the power of sharing how to use an Arduino or create a 3D Model using CAD software, can change a young person’s world. An alumni of Smith College, she graduated from Harvard Graduate School of Education and earned a Master’s of Education degree in Technology, Innovation, and Education. Alethea is a maker, creator, innovator, an educator, and a learner."
