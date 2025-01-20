@@ -1,6 +1,15 @@
 id: past-staff-team
 title: "Fab Foundation Consultants"
 cards:
+  - name: "Abigail McCune"
+    img: '/team/abigail_mccune.jpg'
+    position: "Educational Outreach Consultant"
+#     social:
+#      - title: "LinkedIn"
+#        url: ""
+    bio:
+      - p: "Abigail McCune is an Educational Outreach Consultant at the Fab Foundation, where she plays a pivotal role in the integration of digital fabrication into education. Abigail leads the SCOPES-DF project, overseeing its comprehensive website, curating and developing engaging content, and driving community engagement. Abigail also leads professional development initiatives for the Fab Foundation, equipping educators with the skills and knowledge to effectively integrate digital fabrication into their educational practices."
+      - p: " In addition to her work with the Fab Foundation, Abigail is a dedicated STEM Instructor at the Carnegie Science Center's Fab Lab in Pittsburgh, PA. Here, she leverages her expertise to inspire and educate students of all ages, fostering a hands-on learning environment that encourages creativity, problem-solving, and innovation. Through her diverse roles, Abigail effectively connects cutting-edge educational technology with practical classroom applications. Her personal mission is to bridge the socioeconomic gap in education access, ensuring equitable and quality STEM learning opportunities for all."
   - name: "Sam Peterson"
     img: '/team/sam_peterson.jpg'
     position: "Editorial Manager"
