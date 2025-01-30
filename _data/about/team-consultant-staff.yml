@@ -1,4 +1,4 @@
-id: past-staff-team
+id: consultant-staff-team
 title: "Fab Foundation Consultants"
 cards:
   - name: "Abigail McCune"
@@ -10,6 +10,15 @@ cards:
     bio:
       - p: "Abigail McCune is an Educational Outreach Consultant at the Fab Foundation, where she plays a pivotal role in the integration of digital fabrication into education. Abigail leads the SCOPES-DF project, overseeing its comprehensive website, curating and developing engaging content, and driving community engagement. Abigail also leads professional development initiatives for the Fab Foundation, equipping educators with the skills and knowledge to effectively integrate digital fabrication into their educational practices."
       - p: " In addition to her work with the Fab Foundation, Abigail is a dedicated STEM Instructor at the Carnegie Science Center's Fab Lab in Pittsburgh, PA. Here, she leverages her expertise to inspire and educate students of all ages, fostering a hands-on learning environment that encourages creativity, problem-solving, and innovation. Through her diverse roles, Abigail effectively connects cutting-edge educational technology with practical classroom applications. Her personal mission is to bridge the socioeconomic gap in education access, ensuring equitable and quality STEM learning opportunities for all."
+  - name: "Abubakari Abdulai Adam"
+    img: '/team/abu.jpg'
+    position: "Installation and training guru"
+#     social:
+#      - title: "LinkedIn"
+#        url: ""
+    bio:
+      - p: "2004 was when Abu first got involved with the Fab Lab Network through the Ghana Fab Lab. As a student of the Technical Institute where the Fab Lab was installed, he had full access to learning the tools of the Lab and later volunteered to be the assistant Lab manager in 2007 after his third year at the institute. He then had an opportunity to go for his Mechanical Engineering degree in the US (Minnesota) with the help of Sherry J. Lassiter in 2012. And in 2013, Abu too the Fab Academy program. In 2014, after the Fab Academy, he started working with the Fab Foundation in the Fab Lab installation and training program."
+      - p: "Currently, Abu is one of the Fab Lab installation and Training Gurus for the Fab Foundation and also renders technical support to Fab Labs on a needs to basis."
   - name: "Sam Peterson"
     img: '/team/sam_peterson.jpg'
     position: "Editorial Manager"
