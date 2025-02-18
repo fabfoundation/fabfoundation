@@ -17,7 +17,7 @@ permalink: /media/FAB25_open-call
 
 **February 17, 2025 - Boston, MA —** 
 
-FAB25, the 21st edition of the annual international Fab Lab Conference & Symposium, will take place in Czechia July 4-11, 2025. **With an [open call for content submissions](https://fab25.fabevent.org/participate){:target="_blank"}**, the event organizers invite makers, innovators, and enthusiasts from around the world to actively participate in shaping this year’s program.
+FAB25, the 21st edition of the annual international Fab Lab Conference & Symposium, will take place in Czechia July 4-11, 2025. **With an [open call for content submissions](https://fab25.fabevent.org/programs/participate){:target="_blank"}**, the event organizers invite makers, innovators, and enthusiasts from around the world to actively participate in shaping this year’s program.
 
 FAB25 is built on collaboration, creativity, and knowledge sharing. Participants may contribute to the event through a variety of content formats:
 - Present academic **research*** that inspires new perspectives.
