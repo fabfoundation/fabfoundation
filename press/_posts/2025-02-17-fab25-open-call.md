@@ -28,7 +28,9 @@ FAB25 is built on collaboration, creativity, and knowledge sharing. Participants
 - Celebrate creativity with the public at the **Fab Festival**.
 
 *The timeline and process for submitting research papers differs from other forms of content discussed here. Please see separate instructions below.
+
 ___
+
 ## Open Call Details
 
 **Theme:** This year’s theme, ***Bridge the Gap***, focuses on expanding the Fab Lab Network and fostering collaboration in underserved regions.
@@ -41,7 +43,9 @@ ___
 3. **Submit application** - Click [Apply Now](https://fab25.fabevent.org/programs/applications){:target="_blank"} to fill out the application form.
 
 **Additional details about FAB25 may be found here: [https://fab25.fabevent.org/](https://fab25.fabevent.org/){:target="_blank"}**
+
 ___
+
 ## Research Papers
 
 The FAB25 research committee [invites original scholarly writing](https://easychair.org/cfp/fab25){:target="_blank"} from researchers studying the Fab Lab movement, its ambitions, and its impact from a wide range of disciplines—computer science, engineering, science and technology studies, business and management, education, urban studies, media and design, and many more.
