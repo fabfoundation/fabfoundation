@@ -5,7 +5,7 @@ highlight: true
 category: blog
 thumbnail: /uploads/Black history month main page.png
 layout: posts
-date: 2025-02-19 00:00:00
+date: 2025-02-18 00:00:00
 img: fflogo.svg
 permalink: /blog/people-power
 ---
