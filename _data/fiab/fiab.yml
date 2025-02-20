@@ -1,0 +1,10 @@
+id: "fiab"
+cards:
+  - orientation: normal
+    title:
+    id: fiab
+    img: fiab/fiab_logos.png
+    description:
+      - p: "Fab-in-a-Box is made possible through the collaboration off" 
+      - p: "The Fab Foundation, MIT’s Center for Bits and Atoms (CBA), Dassault Systèmes, and La Fondation Dassault Systèmes."
+    bgcolor: "darkblue"
