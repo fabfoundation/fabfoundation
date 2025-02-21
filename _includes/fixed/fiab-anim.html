@@ -1,0 +1,37 @@
+<!--Fiab section template -->
+<section id="{{ include.texts.id }}" data-aos="fade-up">
+  <div class="container standard">
+    <div class="sub-container">
+    
+    {% if include.texts.hastitle == true %}
+      <div class="row">
+        <div class="col-md-8">
+          <h3 class="section-heading">{{ include.texts.title }}</h3>
+        </div>
+      </div>
+      {% endif %}
+      
+      {% if include.texts.hassubtitle == true %}
+      <div class="row">
+        <div class="col-md-8">
+          <p class="section-subheading">{{ include.texts.subtitle }}</p>
+        </div>
+      </div>
+      {% endif %}
+
+      {% if include.texts.haslongtext == true %}
+      <div class="row text-center" data-aos="fade-right">
+        <div class="col-md-12 body-text">
+          <p>{{ include.texts.longtext }}</p>
+        </div>
+      </div>
+      {% endif %}
+
+      <div class="row text-center">
+        <iframe src="https://drive.google.com/file/d/1Iyz3w6Ei-5pdjp_2PU6UiCW79yXkJ64J/preview" width="800" height="600" allow="autoplay"></iframe>
+      </div>
+    </div>
+    <!-- close sub-container -->
+  </div>
+  <!-- close container -->
+</section>
