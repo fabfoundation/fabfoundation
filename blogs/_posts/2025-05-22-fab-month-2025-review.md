@@ -1,6 +1,6 @@
 ---
-title: Fab Month 2025
-caption: Open Forum. Bold Ideas. Real Impact.
+title: Fab Month 2025 in Review
+caption:
 highlight: true
 category: blog
 thumbnail: /uploads/FAB Month 2025  (Blog Banner - map).png
