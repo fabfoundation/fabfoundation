@@ -5,7 +5,7 @@ highlight: true
 category: blog
 thumbnail: /uploads/FAB Month 2025  (Blog Banner - map).png
 layout: posts
-date: 2025-05-22 00:00:00
+date: 2025-05-21 00:00:00
 img: fflogo.svg
 permalink: /blog/fab-month-2025-review
 ---
