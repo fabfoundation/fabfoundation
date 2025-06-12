@@ -38,7 +38,9 @@ categories:
         url: "financial-statements/FabFoundation12-31-2021FinancialStatements.pdf"
       - name: "2022"
         url: "financial-statements/FabFoundation12-31-2022FinancialStatements.pdf"
-  - title: "Tax Returns"
+      - name: "2023"
+        url: "financial-statements/FabFoundationFinancialStatements12-31-2023.pdf"
+  - title: "Tax Returns (Fab Foundation's 990s are filed in the 4th quarter of the following calendar year)"
     bullets:
       - name: "2009"
         url: "tax-returns/2009TaxReturn.pdf"
@@ -68,6 +70,8 @@ categories:
         url: "tax-returns/FabFoundation2021-Form990Public.pdf"
       - name: "2022"
         url: "tax-returns/FF1099-2022Public.pdf"
+      - name: "2023"
+        url: "tax-returns/2023TaxReturn.pdf"
   - title: "Organizational Documents"
     bullets:
       - name: "ByLaws"
