@@ -106,8 +106,10 @@ categories:
         url: "annual-reports/FF-MA-AnnualReport2021.pdf"
       - name: "2022"
         url: "annual-reports/FF-MA-AnnualReport2022.pdf"
-     # - name: "2023"
-     #  url: "annual-reports/FF-MA-AnnualReport2023.pdf"
+      - name: "2023"
+        url: "annual-reports/2023FabFoundationAnnualReport.pdf"
+      - name: "2024"
+        url: "annual-reports/2024FabFoundationAnnualReport.pdf"
 hasbuttons: false
 buttons:
   - title: ""
