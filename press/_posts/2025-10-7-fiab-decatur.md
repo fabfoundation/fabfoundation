@@ -3,12 +3,14 @@ title: Caterpillar Foundation Collaborates with Fab Foundation to Bring Advanced
 caption: 
 highlight: true
 category: press-release
-thumbnail: /uploads/fiab/fiab_banner.jpeg
+thumbnail: /uploads/FiaB Decatur - activity.jpg
 layout: posts
 date: 2025-10-7 00:00:00
 img: fflogo.svg
 permalink: /media/fiab_decatur
 ---
+
+![Fab-in-a-Box glider activity](/uploads/FiaB Decatur - glider assembly.jpg "Fab-in-a-Box glider activity")
 
 #  Caterpillar Foundation Collaborates with Fab Foundation to Bring Advanced Digital Fabrication Technology and Training to Decatur Public Schools
 
@@ -21,7 +23,7 @@ United by a shared vision of collaborative innovation and education, the Caterpi
 
 From September 29 to October 1, educators from MacArthur and Eisenhower High Schools gathered at Thinkwell Makerspace for an intensive training session focused on teaching with **Fab-in-a-Box**. An all-in-one, mobile solution for digital fabrication education, the Fab Foundation’s latest creation brings a hands-on, project-based approach to STEM learning in the classroom. Featuring a laser cutter, 3D printer, vinyl cutter, electronics kits, materials, and an integrated computer with design software, each Fab-in-a-Box unit has the core capabilities of a professional-grade digital fabrication workshop. And with the inclusion of custom curricular activities authored by the Fab Foundation, educators have at their fingertips everything needed to set their students on the path to proficiency in advanced manufacturing.
 
-![Fab-in-a-Box](/uploads/fiab/fiab_banner.jpeg "Fab-in-a-Box")
+![Fab-in-a-Box](/uploads/FiaB Decatur - kit in-situ.jpg "Fab-in-a-Box")
 
 “With the introduction of Fab-in-a-Box, students will learn critical skills to help prepare them for STEM careers, and educators can feel more empowered and confident in teaching STEM curricula,” explained Sherry Lassiter, president and chief executive officer of the Fab Foundation. “The goal for this initiative is to open new doors to opportunity, both personal and professional. By joining the Fab Lab community, these educators and students become part of a powerful, worldwide network of makers sharing ideas, collaborating across disciplines, and learning together.”
 
@@ -34,6 +36,8 @@ Three Fab-in-a-Box units have been provided to the two high schools and will be 
 “At the Caterpillar Foundation, we believe that investing in innovative solutions like the Fab-in-a-Box is investing in the future of our communities," said Asha Varghese, president of the Caterpillar Foundation. “Over the past three years, the Foundation’s collaboration with the Fab Foundation has empowered hundreds of students across the country with hands-on STEM experiences. We’re proud to continue this momentum in Decatur—building on the Foundation’s historical collaboration with the Decatur Public Schools Foundation.” 
 
 As a combined force, the Caterpillar Foundation, Fab Foundation, and DPSF are working to build a stronger, more resilient, and sustainable community in Decatur. By expanding access to advanced technology and hands-on STEM learning, such programs offer students a real opportunity to get an early start on acquiring the skills needed to participate fully in the modern workforce and, thereby, thrive well into the future.
+
+![Foundation representatives](/uploads/FiaB Decatur - group.jpg "Foundation representatives")
 
 ---
 
