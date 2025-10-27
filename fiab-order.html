@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fab in a Box — Manufacturing Cycle Signup</title>
+  <meta name="description" content="Register interest, pre‑reserve, or pre‑pay to secure a unit in the next Fab in a Box manufacturing cycle." />
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    :root {
+      --brand-bg: #0b1220;
+      --brand-accent: #109a6b;
+    }
+    body { background: #0b0f17; color: #e9edf3; }
+    .navbar { background: var(--brand-bg); }
+
+    .hero {
+      position: relative;
+      background: #0b0f17 url('https://media.licdn.com/dms/image/v2/D5610AQHXfA7_Mdbr4Q/image-shrink_800/B56ZnPLFWdJ4Ag-/0/1760117415827?e=2147483647&v=beta&t=nx_ZCrgqFxNWO7G-fjMq1Wi-a3ov7fbvIhbaLc72jGM') center/cover no-repeat;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      z-index: 1;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(255, 255, 255, 0.65);
+      backdrop-filter: blur(2px);
+      z-index: 0;
+    }
+
+    .hero > .container {
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero h1, .hero p, .hero ul {
+      color: #111;
+    }
+
+    .hero h1 span { color: var(--brand-accent); }
+    .card { background: #ffffff; color: #000; border: none; }
+    .form-check-input:checked { background-color: var(--brand-accent); border-color: var(--brand-accent); }
+    .badge-open { background: #1e976f; }
+    .badge-waitlist { background: #b28900; }
+    .badge-soldout { background: #7a2222; }
+    .table thead th { color:#b7c2cf; }
+    .small-muted { color:#444; }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg sticky-top border-bottom border-dark">
+    <div class="container">
+      <a class="navbar-brand text-white fw-semibold" href="#">Fab in a Box</a>
+      <span class="navbar-text small text-secondary">Manufacturing cycle signup</span>
+    </div>
+  </nav>
+
+  <header class="hero py-5 py-lg-6">
+    <div class="container py-4">
+      <div class="row align-items-start g-4">
+        <div class="col-lg-7 order-lg-1 order-2">
+          <h1 class="display-5 fw-bold mb-3">Reserve your <span>Fab in a Box</span></h1>
+          <p class="lead mb-4">Three paths: <strong>Stay in the loop</strong>, <strong>Pre‑reserve</strong> (no payment, not time‑bound), or <strong>Pre‑pay</strong> to lock a unit in the next open cycle. Stock is produced in batches; availability is cycle‑limited.</p>
+          <ul class="small-muted mb-5">
+            <li>Pre‑reserve = soft hold. No promise on timing. We’ll contact you when a cycle opens.</li>
+            <li>Pre‑pay = hard allocation in the selected cycle. Refundable if we can’t ship that cycle.</li>
+            <li>Cycles and remaining units are listed below and update as orders land.</li>
+          </ul>
+        </div>
+        <div class="col-lg-5 order-lg-2 order-1">
+          <div class="card shadow-sm">
+            <div class="card-body">
+              <h2 class="h4 mb-3">Sign up</h2>
+              <form id="fiab-form" action="https://YOUR_DC.list-manage.com/subscribe/post" method="post" novalidate>
+                <input type="hidden" name="u" value="YOUR_U_KEY">
+                <input type="hidden" name="id" value="YOUR_LIST_ID">
+
+                <div class="row g-3">
+                  <div class="col-sm-6">
+                    <label for="firstName" class="form-label">First name</label>
+                    <input type="text" class="form-control" id="firstName" name="FNAME" required>
+                  </div>
+                  <div class="col-sm-6">
+                    <label for="lastName" class="form-label">Last name</label>
+                    <input type="text" class="form-control" id="lastName" name="LNAME" required>
+                  </div>
+                  <div class="col-12">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" name="EMAIL" required>
+                  </div>
+                  <div class="col-12">
+                    <label for="org" class="form-label">Organization (optional)</label>
+                    <input type="text" class="form-control" id="org" name="ORG">
+                  </div>
+                  <div class="col-md-8">
+                    <label for="country" class="form-label">Country</label>
+                    <input type="text" class="form-control" id="country" name="COUNTRY" required>
+                  </div>
+                  <div class="col-md-4">
+                    <label for="qty" class="form-label">Qty</label>
+                    <input type="number" min="1" step="1" class="form-control" id="qty" name="QTY" value="1" required>
+                  </div>
+
+                  <div class="col-12">
+                    <label class="form-label">Signup type</label>
+                    <div class="list-group">
+                      <label class="list-group-item">
+                        <input class="form-check-input me-2" type="radio" name="TYPE" value="keep-updated" checked>
+                        Keep me in the loop
+                      </label>
+                      <label class="list-group-item">
+                        <input class="form-check-input me-2" type="radio" name="TYPE" value="pre-reserve">
+                        Pre‑reserve (no payment)
+                      </label>
+                      <label class="list-group-item">
+                        <input class="form-check-input me-2" type="radio" name="TYPE" value="pre-pay">
+                        Pre‑pay for next cycle
+                      </label>
+                    </div>
+                  </div>
+
+                  <div id="cycle-select-wrap" class="col-12 d-none">
+                    <label for="cycle" class="form-label">Select cycle (for pre‑pay)</label>
+                    <select id="cycle" name="CYCLE" class="form-select"></select>
+                    <div class="form-text" id="cycle-help"></div>
+                  </div>
+
+                  <div class="col-12">
+                    <label for="notes" class="form-label">Notes (optional)</label>
+                    <textarea id="notes" name="NOTES" rows="3" class="form-control"></textarea>
+                  </div>
+
+                  <div class="col-12">
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" value="1" id="consent" required>
+                      <label class="form-check-label" for="consent">I agree to be contacted and accept the privacy policy.</label>
+                    </div>
+                  </div>
+
+                  <div class="col-12 d-grid">
+                    <button class="btn btn-success btn-lg" type="submit">Submit</button>
+                  </div>
+
+                  <p class="small text-muted mb-0 mt-2">Payment processed via secure link after submission.</p>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="py-5">
+    <div class="container">
+      <div class="row g-4">
+        <div class="col-12">
+          <h3 class="h4 mb-3">Manufacturing cycles</h3>
+          <div class="table-responsive">
+            <table class="table table-dark table-hover align-middle">
+              <thead>
+                <tr>
+                  <th>Cycle</th><th>Build window</th><th>Ship start</th><th>Status</th><th class="text-end">Units</th>
+                </tr>
+              </thead>
+              <tbody id="cycles-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <section class="py-5 bg-dark text-white">
+    <div class="container">
+      <h3 class="h4 mb-4">FAQ</h3>
+      <div class="accordion accordion-flush" id="faq">
+        <div class="accordion-item bg-dark border-secondary">
+          <h2 class="accordion-header" id="q1">
+            <button class="accordion-button collapsed bg-dark text-white border-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#a1">Can I change my cycle after pre‑pay?</button>
+          </h2>
+          <div id="a1" class="accordion-collapse collapse" data-bs-parent="#faq">
+            <div class="accordion-body small text-white-50">Yes, if the target cycle has capacity. If not, we can roll you to the next open one or refund.</div>
+          </div>
+        </div>
+        <div class="accordion-item bg-dark border-secondary">
+          <h2 class="accordion-header" id="q2">
+            <button class="accordion-button collapsed bg-dark text-white border-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#a2">Do you ship worldwide?</button>
+          </h2>
+          <div id="a2" class="accordion-collapse collapse" data-bs-parent="#faq">
+            <div class="accordion-body small text-white-50">We ship globally; dangerous‑goods or import restrictions may apply by country. Duties/taxes billed by carrier or broker.</div>
+          </div>
+        </div>
+        <div class="accordion-item bg-dark border-secondary">
+          <h2 class="accordion-header" id="q3">
+            <button class="accordion-button collapsed bg-dark text-white border-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#a3">What’s included in pre‑pay?</button>
+          </h2>
+          <div id="a3" class="accordion-collapse collapse" data-bs-parent="#faq">
+            <div class="accordion-body small text-white-50">Pre‑pay secures your unit(s). We’ll invoice freight separately once routing is confirmed.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    const CYCLES = [
+      { code: '2025-Q4', name: 'Q4 • 2025', build: 'Nov–Dec 2025', ship: 'Jan 15, 2026', status: 'waitlist', remaining: 0 },
+      { code: '2026-Q1', name: 'Q1 • 2026', build: 'Jan–Feb 2026', ship: 'Mar 20, 2026', status: 'open', remaining: 7 },
+      { code: '2026-Q2', name: 'Q2 • 2026', build: 'Apr–May 2026', ship: 'Jun 25, 2026', status: 'open', remaining: 18 }
+    ];
+
+    function statusBadge(status){
+      if(status==='open') return '<span class="badge badge-open">Open</span>';
+      if(status==='waitlist') return '<span class="badge badge-waitlist">Waitlist</span>';
+      return '<span class="badge badge-soldout">Sold out</span>';
+    }
+    const tbody=document.getElementById('cycles-body');
+    tbody.innerHTML=CYCLES.map(c=>`<tr><th>${c.name}</th><td>${c.build}</td><td>${c.ship}</td><td>${statusBadge(c.status)}</td><td class='text-end'>${c.remaining}</td></tr>`).join('');
+
+    const cycleSelect=document.getElementById('cycle');
+    function refreshCycleOptions(){
+      const open=CYCLES.filter(c=>c.status==='open'&&c.remaining>0);
+      cycleSelect.innerHTML=open.length?open.map(c=>`<option value='${c.code}'>${c.name} — ${c.remaining} left</option>`).join(''):'<option disabled>No open cycles</option>';
+    }
+    refreshCycleOptions();
+
+    const radios=document.querySelectorAll('input[name="TYPE"]');
+    const wrap=document.getElementById('cycle-select-wrap');
+    function toggle(){
+      const val=[...radios].find(r=>r.checked)?.value;
+      if(val==='pre-pay')wrap.classList.remove('d-none');else wrap.classList.add('d-none');
+    }
+    radios.forEach(r=>r.addEventListener('change',toggle));toggle();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
