@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fab in a Box — Portable Digital Fabrication Kit</title>
+  <meta name="description" content="Discover Fab in a Box: a compact, classroom‑ready digital fabrication kit. Learn what's inside, who it's for, timelines, and how to reserve a unit." />
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    :root {
+      --brand-bg: #0b1220;
+      --brand-surface: #0f1726;
+      --ink: #e9edf3;
+      --muted: #9fb0c3;
+      --accent: #109a6b;
+    }
+    body { background: var(--brand-surface); color: var(--ink); }
+    .navbar { background: var(--brand-bg); }
+    .btn-accent { background: var(--accent); border-color: var(--accent); }
+    .btn-accent:hover { filter: brightness(1.05); }
+    .lead-muted { color: var(--muted); }
+
+    /* Hero with soft overlay */
+    .hero {
+      position: relative;
+      background: #0b0f17 url('https://media.licdn.com/dms/image/v2/D5610AQHXfA7_Mdbr4Q/image-shrink_800/B56ZnPLFWdJ4Ag-/0/1760117415827?e=2147483647&v=beta&t=nx_ZCrgqFxNWO7G-fjMq1Wi-a3ov7fbvIhbaLc72jGM') center/cover no-repeat;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      isolation: isolate;
+    }
+    .hero::before {
+      content: ""; position: absolute; inset: 0; background: rgba(0,0,0,.45); z-index: 0;
+    }
+    .hero > .container { position: relative; z-index: 1; }
+
+    .section-title { letter-spacing: .02em; }
+    .card-glass { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); }
+    .chip { display:inline-block; padding:.25rem .5rem; border-radius:999px; background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.12); color:#cfe5da; font-size:.85rem; }
+    .ratio > img { object-fit: cover; }
+    a { color:#93d7be; }
+    a:hover { color:#c7f2e5; }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg sticky-top border-bottom border-dark">
+    <div class="container">
+      <a class="navbar-brand text-white fw-semibold" href="#">Fab in a Box</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav" aria-controls="nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div id="nav" class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item"><a class="nav-link text-white-50" href="#inside">What's inside</a></li>
+          <li class="nav-item"><a class="nav-link text-white-50" href="#who">Who it's for</a></li>
+          <li class="nav-item"><a class="nav-link text-white-50" href="#how">How it works</a></li>
+          <li class="nav-item"><a class="nav-link text-white-50" href="#cycles">Cycles</a></li>
+          <li class="nav-item"><a class="btn btn-sm btn-accent ms-lg-3" href="fiab-order.html">Sign up</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <header class="hero py-5 py-lg-6">
+    <div class="container py-4">
+      <div class="row align-items-center g-4">
+        <div class="col-lg-7">
+          <span class="chip mb-2">Portable Digital Fabrication</span>
+          <h1 class="display-5 fw-bold mb-3">Bring a fully‑equipped Fab Lab anywhere</h1>
+          <p class="lead lead-muted mb-4">Fab in a Box packs a laser cutter, 3D printer, vinyl cutter, and starter materials into a compact, classroom‑ready kit with training and documentation.</p>
+          <div class="d-flex gap-3 flex-wrap">
+            <a class="btn btn-accent btn-lg" href="fiab-order.html">Reserve / Join waitlist</a>
+            <a class="btn btn-outline-light btn-lg" href="#inside">See what's inside</a>
+          </div>
+        </div>
+        <div class="col-lg-5">
+          <div class="ratio ratio-4x3 rounded-4 overflow-hidden shadow-sm">
+            <img src="/uploads/fiab/render_01.jpeg" alt="Fab in a Box hero image" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- TRUST / HIGHLIGHTS -->
+  <section class="py-5 border-bottom border-dark">
+    <div class="container">
+      <div class="row text-center g-4">
+        <div class="col-6 col-md-3"><div class="chip w-100">Rapid setup</div></div>
+        <div class="col-6 col-md-3"><div class="chip w-100">Classroom‑ready</div></div>
+        <div class="col-6 col-md-3"><div class="chip w-100">Global shipping</div></div>
+        <div class="col-6 col-md-3"><div class="chip w-100">Docs & training</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHAT'S INSIDE -->
+  <section id="inside" class="py-5">
+    <div class="container">
+      <h2 class="section-title h3 mb-4">What's inside the kit</h2>
+      <div class="row g-4">
+        <div class="col-md-6 col-lg-3">
+          <div class="card card-glass h-100">
+            <div class="ratio ratio-4x3"><img src="uploads/fiab/xtools3.png" alt="Laser cutter"/></div>
+            <div class="card-body"><h3 class="h6 text-light">Laser cutter</h3><p class="small text-white-50 mb-0">Benchtop CO₂ laser with exhaust and starter materials.</p></div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="card card-glass h-100">
+            <div class="ratio ratio-4x3"><img src="https://cdn1.bambulab.com/p1/p1s-footer-8b1ba6b450474.png" alt="3D printer"/></div>
+            <div class="card-body"><h3 class="h6 text-light">3D printer</h3><p class="small text-white-50 mb-0">Reliable fillament printer, perfect for classrooms.</p></div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="card card-glass h-100">
+            <div class="ratio ratio-4x3"><img src="https://www.brother.ca/cms/files/aspot-sdx125-cuttingmachine-scanncut-brother.png" alt="Vinyl cutter"/></div>
+            <div class="card-body"><h3 class="h6 text-light">Vinyl cutter</h3><p class="small text-white-50 mb-0">Decals, stencils, and soft‑materials tooling.</p></div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="card card-glass h-100">
+            <div class="ratio ratio-4x3"><img src="uploads/fiab/materials.png" alt="Materials & docs"/></div>
+            <div class="card-body"><h3 class="h6 text-light">Materials and documentation</h3><p class="small text-white-50 mb-0">Starter stock, safety checklist, and curriculum basics.</p></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHO IT'S FOR -->
+  <section id="who" class="py-5 border-top border-bottom border-dark">
+    <div class="container">
+      <h2 class="section-title h3 mb-4">Built for education, outreach, and rapid deployment</h2>
+      <div class="row g-4">
+        <div class="col-md-4">
+          <div class="card card-glass h-100 p-3">
+            <div class="ratio ratio-16x9 rounded"><img src="uploads/fiab/rodney_fiab.png" alt="Schools"/></div>
+            <h3 class="h6 mt-3">Schools & universities</h3>
+            <p class="small text-white-50 mb-0">STEM labs, makerspaces, and project‑based classes needing turnkey fabrication.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-glass h-100 p-3">
+            <div class="ratio ratio-16x9 rounded"><img src="uploads/fiab/abigail_fiab.png" alt="NGOs"/></div>
+            <h3 class="h6 mt-3">NGOs & outreach</h3>
+            <p class="small text-white-50 mb-0">Mobile labs for community training, rapid response, or workforce upskilling.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-glass h-100 p-3">
+            <div class="ratio ratio-16x9 rounded"><img src="uploads/fiab/render_03.jpeg" alt="Industry"/></div>
+            <h3 class="h6 mt-3">Industry & R&D</h3>
+            <p class="small text-white-50 mb-0">Field prototyping and training where a full Fab Lab isn’t feasible.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section id="how" class="py-5">
+    <div class="container">
+      <h2 class="section-title h3 mb-4">How it works</h2>
+      <div class="row g-4">
+        <div class="col-md-4">
+          <div class="h-100 p-4 card-glass rounded-4">
+            <span class="chip">1</span>
+            <h3 class="h6 mt-2">Choose your path</h3>
+            <p class="small text-white-50 mb-0">Join the waitlist, pre‑reserve without payment, or pre‑pay to secure a unit in the next open cycle.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="h-100 p-4 card-glass rounded-4">
+            <span class="chip">2</span>
+            <h3 class="h6 mt-2">Batch manufacturing</h3>
+            <p class="small text-white-50 mb-0">We build and QA in cycles, then arrange global shipping with documentation.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="h-100 p-4 card-glass rounded-4">
+            <span class="chip">3</span>
+            <h3 class="h6 mt-2">Unpack & run</h3>
+            <p class="small text-white-50 mb-0">Follow the quick‑start guides to power up, calibrate, and start making the same day.</p>
+          </div>
+        </div>
+      </div>
+      <div class="mt-4">
+        <a class="btn btn-accent btn-lg" href="signup.html">Go to signup</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- CYCLES SNAPSHOT -->
+  <section id="cycles" class="py-5 border-top border-bottom border-dark">
+    <div class="container">
+      <h2 class="section-title h3 mb-4">Manufacturing cycles (to be confirmed)</h2>
+      <div class="row g-3">
+        <div class="col-md-4">
+          <div class="card card-glass p-3">
+            <div class="d-flex justify-content-between align-items-center">
+              <strong>Q1 • 2026</strong>
+              <span class="badge bg-success">Open</span>
+            </div>
+            <div class="small text-white-50">Build: Jan–Feb · Ship start: Mar 20</div>
+            <div class="small mt-1">Remaining: <strong>7</strong></div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-glass p-3">
+            <div class="d-flex justify-content-between align-items-center">
+              <strong>Q2 • 2026</strong>
+              <span class="badge bg-success">Open</span>
+            </div>
+            <div class="small text-white-50">Build: Apr–May · Ship start: Jun 25</div>
+            <div class="small mt-1">Remaining: <strong>18</strong></div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-glass p-3">
+            <div class="d-flex justify-content-between align-items-center">
+              <strong>Q3 • 2026</strong>
+              <span class="badge bg-warning">Waitlist</span>
+            </div>
+            <div class="small text-white-50">Build: Jul–Aug · Ship start: Sep 15</div>
+            <div class="small mt-1">Remaining: <strong>0</strong></div>
+          </div>
+        </div>
+      </div>
+      <p class="small text-white-50 mt-3 mb-0">For live availability and allocation, use the signup page.</p>
+    </div>
+  </section>
+
+  <!-- TESTIMONIAL / USE CASES -->
+  <section class="py-5">
+    <div class="container">
+      <div class="row g-4 align-items-center">
+        <div class="col-lg-6">
+          <div class="ratio ratio-16x9 rounded-4 overflow-hidden shadow-sm">
+            <img src="uploads/fiab/assembly_03.jpeg" alt="Use cases" />
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <h2 class="section-title h3 mb-3">What teams are doing with Fiab</h2>
+          <ul class="text-white-50 small mb-4">
+            <li>Integration into exsiting classroom activities and curriculum</li>
+            <li>Pop‑up makerspaces for festivals and science weeks.</li>
+            <li>Short courses on digital fabrication with ready‑to‑use lesson plans.</li>
+            <li>Rapid prototyping on field deployments and hackathons.</li>
+          </ul>
+          <figure class="mb-0">
+            <blockquote class="blockquote">
+              <p class="mb-2">“Setup in under an hour, and students were laser‑cutting by lunchtime.”</p>
+            </blockquote>
+            <figcaption class="blockquote-footer text-white-50">Program lead, pilot school
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ (short) -->
+  <section class="py-5 border-top border-dark">
+    <div class="container">
+      <h2 class="section-title h4 mb-4">FAQ</h2>
+      <div class="accordion accordion-flush" id="faq">
+        <div class="accordion-item bg-transparent border-secondary">
+          <h2 class="accordion-header" id="q1">
+            <button class="accordion-button collapsed bg-transparent text-white" type="button" data-bs-toggle="collapse" data-bs-target="#a1">What’s the lead time?</button>
+          </h2>
+          <div id="a1" class="accordion-collapse collapse" data-bs-parent="#faq">
+            <div class="accordion-body text-white-50">We manufacture in cycles. Pre‑payment allocates inventory in an open cycle; ship dates are listed on the signup page.</div>
+          </div>
+        </div>
+        <div class="accordion-item bg-transparent border-secondary">
+          <h2 class="accordion-header" id="q2">
+            <button class="accordion-button collapsed bg-transparent text-white" type="button" data-bs-toggle="collapse" data-bs-target="#a2">Do you ship internationally?</button>
+          </h2>
+          <div id="a2" class="accordion-collapse collapse" data-bs-parent="#faq">
+            <div class="accordion-body text-white-50">We ship to most countries globally. We will publish a list with shipping rates soon. Duties/taxes and any DG restrictions depend on country; freight is invoiced separately.</div>
+          </div>
+        </div>
+        <div class="accordion-item bg-transparent border-secondary">
+          <h2 class="accordion-header" id="q3">
+            <button class="accordion-button collapsed bg-transparent text-white" type="button" data-bs-toggle="collapse" data-bs-target="#a3">Can I pre‑reserve without paying?</button>
+          </h2>
+          <div id="a3" class="accordion-collapse collapse" data-bs-parent="#faq">
+            <div class="accordion-body text-white-50">Yes. Pre‑reserve to signal interest; we’ll reach out when a cycle opens. Pre‑paying locks your allocation.</div>
+          </div>
+        </div>
+      </div>
+      <div class="mt-4">
+        <a class="btn btn-accent btn-lg" href="fiab-order.html">Go to signup</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="py-5 border-top border-dark mt-4">
+    <div class="container small d-flex flex-wrap gap-3 justify-content-between align-items-center">
+      <span class="text-white-50">© <span id="year"></span> Fab in a Box</span>
+      <div class="d-flex gap-3">
+        <a class="text-white-50" href="#">Privacy</a>
+        <a class="text-white-50" href="#">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
