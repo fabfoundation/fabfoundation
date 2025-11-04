@@ -1,9 +1,14 @@
 source "https://rubygems.org"
 
-# Not need with Github gem
-#gem "jekyll", "~> 3.8.3"
+ruby "3.2.4"
 
-# Using Github Pages deploy, which includes Jekyll
+gem "jekyll", "~> 4.3"
+gem "nokogiri", ">= 1.18.10"
+
+# local `jekyll serve` on Ruby 3
+gem "webrick", "~> 1.8", group: :development
+
 group :jekyll_plugins do
-  gem "github-pages"
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-sitemap", "~> 1.4"
 end
