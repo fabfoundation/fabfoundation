@@ -41,6 +41,11 @@
     .ratio > img { object-fit: cover; }
     a { color:#93d7be; }
     a:hover { color:#c7f2e5; }
+    .fiab-carousel .carousel-indicators [data-bs-target] { width: 10px; height: 10px; border-radius: 50%; background-color: rgba(255,255,255,.5); }
+    .fiab-carousel .carousel-indicators .active { background-color: var(--accent); }
+    .fiab-carousel .carousel-control-next-icon,
+    .fiab-carousel .carousel-control-prev-icon { filter: invert(1) drop-shadow(0 0 4px rgba(0,0,0,.4)); }
+    .fiab-carousel .carousel-item img { object-fit: cover; }
   </style>
 </head>
 <body>
@@ -71,13 +76,39 @@
           <h1 class="display-5 fw-bold mb-3">Bring a fully‑equipped Fab Lab anywhere</h1>
           <p class="lead lead-muted mb-4">Fab in a Box packs a laser cutter, 3D printer, vinyl cutter, and starter materials into a compact, classroom‑ready kit with training and documentation.</p>
           <div class="d-flex gap-3 flex-wrap">
-            <a class="btn btn-accent btn-lg" href="fiab-order.html">Reserve / Join waitlist</a>
+            <a class="btn btn-accent btn-lg" href="fiab-order.html">Pre-Reserve / Join waitlist</a>
             <a class="btn btn-outline-light btn-lg" href="#inside">See what's inside</a>
           </div>
         </div>
         <div class="col-lg-5">
-          <div class="ratio ratio-4x3 rounded-4 overflow-hidden shadow-sm">
-            <img src="/uploads/fiab/render_01.jpeg" alt="Fab in a Box hero image" />
+          <div id="fiabCarousel" class="carousel slide fiab-carousel rounded-4 overflow-hidden shadow-sm" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#fiabCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#fiabCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#fiabCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner ratio ratio-4x3">
+              <div class="carousel-item active">
+                <img src="uploads/fiab/fiab_face.jpg" class="d-block w-100" alt="Face view of the setup">
+              </div>
+              <div class="carousel-item">
+                <img src="uploads/fiab/rodney_fiab.png" class="d-block w-100" alt="Using the fab in a box">
+              </div>
+              <div class="carousel-item">
+                <img src="uploads/fiab/render_03.jpeg" class="d-block w-100" alt="Fab in a Box rear view">
+              </div>
+              <div class="carousel-item">
+                <img src="uploads/fiab/abigail_fiab.png" class="d-block w-100" alt="Live use of the fab in a box">
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#fiabCarousel" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#fiabCarousel" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
         </div>
       </div>
@@ -159,7 +190,7 @@
     </div>
   </section>
 
-  <!-- HOW IT WORKS -->
+  <!-- HOW IT WORKS
   <section id="how" class="py-5">
     <div class="container">
       <h2 class="section-title h3 mb-4">How it works</h2>
@@ -191,8 +222,8 @@
       </div>
     </div>
   </section>
-
-  <!-- CYCLES SNAPSHOT -->
+-->
+  <!-- CYCLES SNAPSHOT
   <section id="cycles" class="py-5 border-top border-bottom border-dark">
     <div class="container">
       <h2 class="section-title h3 mb-4">Manufacturing cycles (to be confirmed)</h2>
@@ -231,7 +262,7 @@
       <p class="small text-white-50 mt-3 mb-0">For live availability and allocation, use the signup page.</p>
     </div>
   </section>
-
+-->
   <!-- TESTIMONIAL / USE CASES -->
   <section class="py-5">
     <div class="container">
@@ -261,6 +292,27 @@
     </div>
   </section>
 
+  <!-- OPEN SOURCE NOTE -->
+  <section class="py-5 border-top border-bottom border-dark">
+    <div class="container">
+      <div class="row g-4 align-items-center">
+        <div class="col-lg-7">
+          <div class="card card-glass p-4">
+            <h3 class="h6 text-uppercase text-white-50 mb-2" style="letter-spacing:.08em;">Open Design</h3>
+            <p class="mb-0 small text-white-50">We’re preparing to open source the Fab in a Box design—hardware files, build notes, and example curricula—so schools and community labs can adapt and improve the kit. Stay tuned for repo links and contribution guidelines as we finalize documentation.</p>
+            </br>
+            <p class="mb-0 small text-white-50">If you want to contribute to the design now, don't hesitate to reach out, and if you would like to add your machine(s) to the setup (with a dedicated bracket), let us know!</p>
+          </div>
+        </div>
+        <div class="col-lg-5">
+          <div class="ratio ratio-4x3 rounded-4 overflow-hidden card-glass">
+            <img src="uploads/fiab/fiab_technical.png" alt="Fab in a Box open design preview" class="w-100 h-100">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- FAQ (short) -->
   <section class="py-5 border-top border-dark">
     <div class="container">
@@ -271,7 +323,7 @@
             <button class="accordion-button collapsed bg-transparent text-white" type="button" data-bs-toggle="collapse" data-bs-target="#a1">What’s the lead time?</button>
           </h2>
           <div id="a1" class="accordion-collapse collapse" data-bs-parent="#faq">
-            <div class="accordion-body text-white-50">We manufacture in cycles. Pre‑payment allocates inventory in an open cycle; ship dates are listed on the signup page.</div>
+            <div class="accordion-body text-white-50">We will manufacture in cycles, and accept pre-payments when we open them. Keep an eye on this page for the first availalbe slots</div>
           </div>
         </div>
         <div class="accordion-item bg-transparent border-secondary">
@@ -287,7 +339,7 @@
             <button class="accordion-button collapsed bg-transparent text-white" type="button" data-bs-toggle="collapse" data-bs-target="#a3">Can I pre‑reserve without paying?</button>
           </h2>
           <div id="a3" class="accordion-collapse collapse" data-bs-parent="#faq">
-            <div class="accordion-body text-white-50">Yes. Pre‑reserve to signal interest; we’ll reach out when a cycle opens. Pre‑paying locks your allocation.</div>
+            <div class="accordion-body text-white-50">Yes. Pre‑reserve to signal interest; we’ll reach out when a cycle opens. Soon we will also allow pre-payment, which locks in your allocation</div>
           </div>
         </div>
       </div>
