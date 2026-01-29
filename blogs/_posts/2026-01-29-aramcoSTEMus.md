@@ -7,7 +7,7 @@ thumbnail: /uploads/15yearsbanner.png
 layout: posts
 date: 2026-01-29 00:00:00
 img: fflogo.svg
-permalink: /blog/15_years_of_innovation
+permalink: /blog/aramco_STEM_us
 ---
 
 # Advancing National STEM Education
