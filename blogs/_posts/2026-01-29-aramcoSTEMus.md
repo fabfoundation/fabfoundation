@@ -3,7 +3,7 @@ title: Investing in the Future of STEM Education Across the United States
 caption: 'Advancing National STEM Education'
 highlight: true
 category: blog
-thumbnail: /uploads/15yearsbanner.png
+thumbnail: /uploads/aramco.png.png
 layout: posts
 date: 2026-01-29 00:00:00
 img: fflogo.svg
@@ -19,7 +19,7 @@ permalink: /blog/aramco_STEM_us
 In a continued commitment to strengthening K–12 STEM education in the United States, *Aramco* has partnered with us to expand access to hands-on digital fabrication learning across the Washington, D.C. region. Through this collaboration Aramco has supported the deployment of five Fab-in-a-Box units to a diverse set of learning environments, including high schools, a youth center, a museum, and the public library system, extending STEM opportunities well beyond traditional classroom walls.
 The Fab-in-a-Box kits were deployed at Columbia Heights Education Campus, McKinley Technology High School, the Latin American Youth Center, the National Building Museum, and across the District of Columbia Public Library network. Together, these sites represent a broad ecosystem of formal and informal learning spaces, ensuring that students and educators throughout the city can engage with advanced manufacturing tools in accessible, community-centered settings.
 
-![2025](/uploads/aramco.JPG")
+![2025](/uploads/aramco.png")
 *Fab Lab training gets educators ready to use the new technologies to engage students with STEM topics.*
 
 In addition to the equipment deployment, Aramco supported a personalized professional development program delivered by our education outreach team. This immersive training equipped educators with the skills, confidence, and curricular strategies needed to integrate digital fabrication technologies directly into their teaching practice, empowering them to bring project-based, student-centered learning into their classrooms and programs.
