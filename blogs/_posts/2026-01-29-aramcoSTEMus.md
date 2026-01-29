@@ -3,7 +3,7 @@ title: Investing in the Future of STEM Education Across the United States
 caption: 'Advancing National STEM Education'
 highlight: true
 category: blog
-thumbnail: /uploads/aramco.png.png
+thumbnail: /uploads/aramco.png
 layout: posts
 date: 2026-01-29 00:00:00
 img: fflogo.svg
