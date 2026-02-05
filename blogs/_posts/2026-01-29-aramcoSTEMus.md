@@ -26,7 +26,7 @@ In addition to the equipment deployment, Aramco supported a personalized profess
 
 Fab-in-a-Box is our all-in-one, mobile solution for hands-on digital fabrication education. Each unit includes a laser cutter, 3D printer, vinyl cutter, electronics kits, materials, and an integrated computer preloaded with design software, providing the core capabilities of a professional-grade fabrication workshop in a single, portable package. Supported by custom curricular activities, participating educators and students gain a clear pathway toward proficiency in advanced manufacturing and creative problem-solving.
 
-> John Pearson, director and head of the Aramco Americas Washington, D.C. office., says the appeal to get involved with Fab Foundation and this specific program was the accessibility these mobile carts bring by making digital fabrication tools readily available to young learners not only in schools but places like libraries and after school programs.
+> John Pearson, director and head of the Aramco Americas Washington, D.C. office, says the appeal to get involved with Fab Foundation and this specific program was the accessibility these mobile carts bring by making digital fabrication tools readily available to young learners not only in schools but places like libraries and after school programs.
 
 Adding Fab-in-a-Box to these learning environments gives students a rare opportunity to develop critical, technical and creative skills at an early age. Just as importantly, participation connects educators and learners to the global Fab Lab Network: a worldwide community of makers, innovators, and technologists who collaborate openly, share knowledge, and grow together.
 
