@@ -20,9 +20,9 @@ sponsors:
   - organization: Solidworks
     url: 'http://www.solidworks.com/'
     img: solidworks.png
-  - organization: Cisco
-    url: 'https://www.cisco.com/'
-    img: cisco.png
+  - organization: BasisTech
+    url: 'https://www.basistech.com/'
+    img: logos/basistech.png
   - organization: Autodesk
     url: 'https://www.autodesk.eu/'
     img: autodesk.png
