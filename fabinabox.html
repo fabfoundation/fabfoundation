@@ -46,6 +46,8 @@
     .fiab-carousel .carousel-control-next-icon,
     .fiab-carousel .carousel-control-prev-icon { filter: invert(1) drop-shadow(0 0 4px rgba(0,0,0,.4)); }
     .fiab-carousel .carousel-item img { object-fit: cover; }
+    .partner-logos { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem; padding-inline: 6rem; }
+    .partner-logo { height: 120px; width: auto; max-width: 340px; object-fit: contain; }
   </style>
 </head>
 <body>
@@ -60,8 +62,6 @@
           <li class="nav-item"><a class="nav-link text-white-50" href="#inside">What's inside</a></li>
           <li class="nav-item"><a class="nav-link text-white-50" href="#who">Who it's for</a></li>
           <li class="nav-item"><a class="nav-link text-white-50" href="#how">How it works</a></li>
-          <li class="nav-item"><a class="nav-link text-white-50" href="#cycles">Cycles</a></li>
-          <li class="nav-item"><a class="btn btn-sm btn-accent ms-lg-3" href="fiab-order.html">Sign up</a></li>
         </ul>
       </div>
     </div>
@@ -357,12 +357,23 @@
     </div>
   </section>
 
+
+  <section id="inside" class="py-5 bg-white text-dark">
+    <div class="container">
+      <h2 class="section-title h4 mb-4 text-dark">Fab In A Box is a partnership between - </h2>
+      <div class="partner-logos flex-column flex-md-row">
+        <img class="partner-logo" src="uploads/ff_logo_horizontal_color.png" alt="The Fab Foundation"/>
+        <img class="partner-logo" src="uploads/Solidworks-Logo.png" alt="Solidworks"/>
+        <img class="partner-logo" src="uploads/logos/cba-logo.png" alt="MIT/ The Center for Bits and Atoms"/>
+      </div>
+    </div>
+  </section>
+
   <footer class="py-5 border-top border-dark mt-4">
     <div class="container small d-flex flex-wrap gap-3 justify-content-between align-items-center">
       <span class="text-white-50">© <span id="year"></span> Fab in a Box</span>
       <div class="d-flex gap-3">
-        <a class="text-white-50" href="#">Privacy</a>
-        <a class="text-white-50" href="#">Contact</a>
+        <a class="text-white-50" href="mailto:info@fabfoundation.org">Contact</a>
       </div>
     </div>
   </footer>
