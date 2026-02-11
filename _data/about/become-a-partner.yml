@@ -29,9 +29,6 @@ sponsors:
   - organization: MIT Center for Bits and Atoms
     url: 'http://cba.mit.edu/'
     img: cba.jpg
-  - organization: BXP 
-    url: 'https://www.bxp.com/'
-    img: /logos/BXP.png
 hasbuttons: true
 buttons:
   - title: Contact the team
