@@ -3,7 +3,7 @@ title: Fab Foundation expands investment in STEM education across the U.S
 caption: 
 highlight: true
 category: press-release
-thumbnail: /uploads/FiaB Decatur - activity.jpg
+thumbnail: /uploads/aramco.png
 layout: posts
 date: 2026-03-16 00:00:00
 img: fflogo.svg
@@ -11,16 +11,16 @@ permalink: /media/stem_education_across_the_us_aramco
 
 ---
 
-![Fab-in-a-Box glider activity](/uploads/FiaB Decatur - glider assembly.jpg "Fab-in-a-Box glider activity")
+![Educators from the Washington D.C. area participate in a Fab Lab training session to learn how to use digital technologies in support of STEM education](/uploads/aramco.png "Educators from the Washington D.C. area participate in a Fab Lab training session to learn how to use digital technologies in support of STEM education")
 
 #  Support from Aramco broadens the Fab Foundation reach in Washington D.C. area 
 
 **FOR IMMEDIATE RELEASE**
 
 
-**March 16, 20256- Washington D.C. —** 
+**March 16, 2026- Washington D.C. —** 
 
-The Fab Foundation is supporting K-12 STEM education by providing its Fab-in-a-Box kits for sites across the Washington D.C area. These mobile low-cost, high impact, digital fabrication kits, generously funded by energy company Aramco, provide access to rapidly evolving technology and applications including digital design, 3D printing, and computer programming essential to the future workforce.  
+The Fab Foundation is supporting K-12 STEM education by providing its [Fab-in-a-Box](https://fabfoundation.org/fiab/) kits for sites across the Washington D.C area. These mobile low-cost, high impact, digital fabrication kits, generously funded by energy company Aramco, provide access to rapidly evolving technology and applications including digital design, 3D printing, and computer programming essential to the future workforce.  
 
 - The mobile units are currently available in the following DC-area locations:  
 - Columbia Heights Education Campus (CHEC)
@@ -36,7 +36,7 @@ With the custom-curricular activities provided by the Fab Foundation, the group 
 
 Adding Fab-in-a-Box to the learning environment gives students a chance to acquire valuable skills at a young age that will help spark their interest in STEM careers. This new initiative also opens doors to collaboration and networking for students and educators. In joining the Fab Lab Network, they become part of a dynamic, worldwide community of makers and innovators who share ideas, collaborate across disciplines, and grow together.
 
-The Fab in a Box units are now operational at all participating locations, bringing hands-on digital fabrication tools directly into classrooms and community spaces. The public is invited to see the units in action on April 18 from 1 to 3 p.m., during a STEAM Saturday at the National Building Museum, where the Fab Foundation will showcase live demonstrations and hands-on activities. The event is free to the public. Pre-registration is available but not required to attend.
+The Fab in a Box units are now operational at all participating locations, bringing hands-on digital fabrication tools directly into classrooms and community spaces. The public is invited to see the units in action on **April 18 from 1 to 3 p.m.**, during a **STEAM Saturday** at the **National Building Museum**, where the Fab Foundation will showcase live demonstrations and hands-on activities. The event is free to the public. Pre-registration is available but not required to attend.
 
 With its U.S. headquarters located in Houston, and offices in Detroit and Washington, D.C., Aramco is proud to support STEM education initiatives in its operating regions. 
 
