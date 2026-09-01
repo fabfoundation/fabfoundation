@@ -3,7 +3,7 @@ title: GERLAB Builds Mongolia’s First Fab Lab
 caption: 'Transforming an Idea into a Movement'
 highlight: true
 category: blog
-thumbnail: /uploads/mongoliateam.png
+thumbnail: /uploads/teammongolia.png
 layout: posts
 date: 2026-09-1 00:00:00
 img: fflogo.svg
