@@ -32,7 +32,7 @@ Support came from across the international Fab Lab community, particularly throu
 
 Local participation was equally important. Community members came together to donate furniture and help renovate the facility, including graffiti art painting and supporting equipment installation.The result is a space that reflects one of the principles at the heart of the Fab Lab Network: _knowledge can travel globally, but it becomes powerful when communities adapt it locally_.
 
-![2026](/uploads/teammongolia.png "GERLAB Builds Mongolia’s First Fab Lab")
+![2026](/uploads/teamgerlab.png "GERLAB Builds Mongolia’s First Fab Lab")
 *GERLAB Team*
 
 **Mongolia meets the global Fab Lab Network**
