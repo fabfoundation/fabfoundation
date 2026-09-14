@@ -1,9 +1,64 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Fab Lab Solutions</title>
-  </head>
-  <body>
- <iframe allowfullscreen="allowfullscreen" allow="clipboard-write" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/90e6e388c5.html" style="border: 1px solid lightgray; width: 100%; height: 680px;"></iframe> 
-  </body>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
+  <title>Fab Lab Solutions</title>
+
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    body {
+      overflow: hidden;
+    }
+
+    #book {
+      width: 100%;
+      height: 100vh;
+
+      --fb-bg: #fff;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="book"></div>
+
+  <script src="/js/pdflipbook.js"></script>
+
+  <script>
+    PDFlipbook.create(
+      document.querySelector('#book'),
+      {
+        url: '/resource-folder/pdfs/fablabsolutions2026.pdf',
+
+        pdfjsSrc: '/vendor/pdfjs/pdf.min.mjs',
+        pdfWorkerSrc: '/vendor/pdfjs/pdf.worker.min.mjs',
+
+        displayMode: 'auto',
+
+        controls: true,
+        arrows: true,
+        pageNumbers: true,
+
+        shadow: 'always',
+
+        padding: 24
+      }
+    );
+  </script>
+
+</body>
 </html>
